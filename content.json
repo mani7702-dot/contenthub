@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:34:08Z",
+  "updated": "2026-10-27T23:14:08Z",
   "boards": {
     "news": [
       {
@@ -385,6 +385,18 @@
         "image": "assets/images/who-were-the-first-people-to-leave-africa-a-1-9-million-year-old-clue.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/who-were-the-first-people-to-leave-africa-a-1-9-million-year-old-clue.html"
+      },
+      {
+        "id": "where-do-supervolcanoes-get-their-fuel-japan-s-sleeping-giant-is-slowly-refilling",
+        "title": "Where Do Supervolcanoes Get Their Fuel? Japan's Sleeping Giant Is Slowly Refilling",
+        "excerpt": "Thousands of years after one of Earth's biggest volcanic explosions, Japan's Kikai caldera is quietly filling back up with fresh magma from deep underground. Scientists have mapped a massive underground reservoir and found that the molten rock is new material \u2014 not leftovers from the ancient blast. The same refilling process may be at work beneath Yellowstone and Toba.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-27",
+        "read": "4 min",
+        "image": "assets/images/2026-10-27-kikai-supervolcano-refilling.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/where-do-supervolcanoes-get-their-fuel-japan-s-sleeping-giant-is-slowly-refilling.html"
       },
       {
         "id": "what-if-the-moon-has-a-secret-underground-cave-and-nasa-is-going-to-explore-it",
@@ -7738,6 +7750,18 @@
       "image": "assets/images/who-were-the-first-people-to-leave-africa-a-1-9-million-year-old-clue.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/who-were-the-first-people-to-leave-africa-a-1-9-million-year-old-clue.html"
+    },
+    {
+      "id": "where-do-supervolcanoes-get-their-fuel-japan-s-sleeping-giant-is-slowly-refilling",
+      "title": "Where Do Supervolcanoes Get Their Fuel? Japan's Sleeping Giant Is Slowly Refilling",
+      "excerpt": "Thousands of years after one of Earth's biggest volcanic explosions, Japan's Kikai caldera is quietly filling back up with fresh magma from deep underground. Scientists have mapped a massive underground reservoir and found that the molten rock is new material \u2014 not leftovers from the ancient blast. The same refilling process may be at work beneath Yellowstone and Toba.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-27",
+      "read": "4 min",
+      "image": "assets/images/2026-10-27-kikai-supervolcano-refilling.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/where-do-supervolcanoes-get-their-fuel-japan-s-sleeping-giant-is-slowly-refilling.html"
     },
     {
       "id": "what-if-the-moon-has-a-secret-underground-cave-and-nasa-is-going-to-explore-it",
