@@ -10,40 +10,52 @@
     <description>After spending 237 days living and working aboard the International Space Station, four international astronauts safely splashed down in their Crew Dragon capsule — closing a mission that traveled more than 100 million miles around Earth.</description>
   </item>
   <item>
+    <title>The Site Is Live — How This Page Was Published</title>
+    <link>/articles/the-site-is-live-how-this-page-was-published.html</link>
+    <guid>/articles/the-site-is-live-how-this-page-was-published.html</guid>
+    <description>This article is a pipeline test: written on a VPS, built by a script, and pushed to GitHub Pages — no human touched it.</description>
+  </item>
+  <item>
     <title>How Did the World's Oldest Shipwreck Stay Hidden for 4,500 Years?</title>
     <link>/articles/how-did-the-world-s-oldest-shipwreck-stay-hidden-for-4-500-years.html</link>
     <guid>/articles/how-did-the-world-s-oldest-shipwreck-stay-hidden-for-4-500-years.html</guid>
     <description></description>
   </item>
   <item>
-    <title>10 Questions: Why Is This Alien World Shaped Like an Egg?</title>
-    <link>/articles/10-questions-why-is-this-alien-world-shaped-like-an-egg.html</link>
-    <guid>/articles/10-questions-why-is-this-alien-world-shaped-like-an-egg.html</guid>
+    <title>5 Amazing Egyptian Temples in the Path of the 2027 'Eclipse of the Century'</title>
+    <link>/articles/eclipse-egyptian-temples-2027.html</link>
+    <guid>/articles/eclipse-egyptian-temples-2027.html</guid>
     <description></description>
   </item>
   <item>
-    <title>Why does Madagascar have a giant patch of Moon rock on Earth?</title>
-    <link>/articles/why-does-madagascar-have-a-giant-patch-of-moon-rock-on-earth.html</link>
-    <guid>/articles/why-does-madagascar-have-a-giant-patch-of-moon-rock-on-earth.html</guid>
+    <title>How Many Tiny Moons Does Earth Have Right Now? The Rubin Telescope Is About to Find Out</title>
+    <link>/articles/rubin-telescope-mini-moons.html</link>
+    <guid>/articles/rubin-telescope-mini-moons.html</guid>
     <description></description>
   </item>
   <item>
-    <title>2026-10-27-zebra-striped-bee-somerset-saltmarsh-restoration</title>
-    <link>/articles/2026-10-27-zebra-striped-bee-somerset-saltmarsh-restoration.html</link>
-    <guid>/articles/2026-10-27-zebra-striped-bee-somerset-saltmarsh-restoration.html</guid>
-    <description></description>
+    <title>Do Spiders Dream? Scientists Find Surprising Clues in a Tiny Hunter's Sleep</title>
+    <link>/articles/do-spiders-dream-scientists-find-surprising-clues-in-a-tiny-hunter-s-sleep.html</link>
+    <guid>/articles/do-spiders-dream-scientists-find-surprising-clues-in-a-tiny-hunter-s-sleep.html</guid>
+    <description>Meet Portia, a jumping spider no bigger than a coin. Scientists at the University of Bonn discovered that these tiny hunters go through two distinct sleep stages — including a REM-like phase with eye movements and muscle twitches that looks strikingly like what happens when we dream.</description>
   </item>
   <item>
-    <title>How Space Waves Reveal Where Earth's Magnetic Shield Works Hardest</title>
-    <link>/articles/how-space-waves-reveal-where-earth-s-magnetic-shield-works-hardest.html</link>
-    <guid>/articles/how-space-waves-reveal-where-earth-s-magnetic-shield-works-hardest.html</guid>
-    <description>Earth's magnetic field is our invisible force field against the Sun's solar wind, but new research shows some patches of that shield take far more punishment than others — waves crash harder on one side than the other.</description>
+    <title>Scientists Built the Universe's Biggest Cosmic Time Machine on a Supercomputer</title>
+    <link>/articles/lumina-universe-reionization-supercomputer-simulation.html</link>
+    <guid>/articles/lumina-universe-reionization-supercomputer-simulation.html</guid>
+    <description>Astronomers have created Lumina, one of the largest and most detailed cosmological simulations ever made. Running on 15,000 GPUs of the Frontier supercomputer, it traces how the first stars and black holes lit up the early universe — solving mysteries about the cosmic Dark Ages and the epoch when hydrogen and helium were reionized.</description>
   </item>
   <item>
-    <title>Could a planet be born from the ashes of a dead star?</title>
-    <link>/articles/could-a-planet-be-born-from-the-ashes-of-a-dead-star.html</link>
-    <guid>/articles/could-a-planet-be-born-from-the-ashes-of-a-dead-star.html</guid>
-    <description>Astronomers studying a dead star called a white dwarf think they may have found the first known planet born from the debris of a star's death. If confirmed, this gas-giant world would be a true second-generation planet, formed not from a stellar nursery but from the ashes of a stellar graveyard.</description>
+    <title>How does a star slowly eat a brown dwarf for billions of years?</title>
+    <link>/articles/how-does-a-star-slowly-eat-a-brown-dwarf-for-billions-of-years.html</link>
+    <guid>/articles/how-does-a-star-slowly-eat-a-brown-dwarf-for-billions-of-years.html</guid>
+    <description>Astronomers have found a star system where a small star is gradually pulling material from a brown dwarf companion — like a slow cosmic meal that could last billions of years instead of ending in a dramatic swallowed whole.</description>
+  </item>
+  <item>
+    <title>Will a moon rover soon carry the first supercomputer beyond Earth?</title>
+    <link>/articles/will-a-moon-rover-soon-carry-the-first-supercomputer-beyond-earth.html</link>
+    <guid>/articles/will-a-moon-rover-soon-carry-the-first-supercomputer-beyond-earth.html</guid>
+    <description>A California space company is preparing to send a moon rover named FLIP carrying the first high-performance computer and AI system to operate on another world — testing whether advanced computing can survive the harsh days and long, cold nights of the lunar surface.</description>
   </item>
   <item>
     <title>Europe's Sentinel-3C Satellite Shows Earth in Stunning True Color</title>
@@ -52,16 +64,10 @@
     <description>Europe's newest Earth-observation satellite, Sentinel-3C, has beamed back its first breathtaking photos of our planet — from the snowy Alps to turquoise Caribbean waters — and is already measuring sea levels and melting ice.</description>
   </item>
   <item>
-    <title>How did the first stars change the universe — and where did all the elements come from?</title>
-    <link>/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</link>
-    <guid>/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</guid>
-    <description>Using the world's most powerful supercomputers, the MEGATRON project is simulating how the very first stars lit up the universe and forged the chemical elements — carbon, oxygen, iron — that make planets, pets, and people possible.</description>
-  </item>
-  <item>
-    <title>Why Does the Universe's Expansion Speed Not Add Up?</title>
-    <link>/articles/why-does-the-universe-s-expansion-speed-not-add-up.html</link>
-    <guid>/articles/why-does-the-universe-s-expansion-speed-not-add-up.html</guid>
-    <description>Scientists measure the universe's expansion speed two ways, but the numbers disagree — a clue from ancient cosmic magnetism might explain why.</description>
+    <title>Why are the asteroid Chariklo's rings changing shape before our eyes?</title>
+    <link>/articles/why-are-the-asteroid-chariklo-s-rings-changing-shape-before-our-eyes.html</link>
+    <guid>/articles/why-are-the-asteroid-chariklo-s-rings-changing-shape-before-our-eyes.html</guid>
+    <description>Chariklo is a small asteroid with not one but two rings — and the James Webb Space Telescope has caught those rings changing right before our eyes. The inner ring is getting thicker while the outer one fades, proving that even tiny objects can host surprisingly dynamic ring systems.</description>
   </item>
   <item>
     <title>Can a World of Melted Rock Really Keep an Atmosphere?</title>
@@ -70,16 +76,10 @@
     <description>James Webb Space Telescope studies a super-Earth exoplanet where the ground is forever molten, yet it holds onto an atmosphere — revealing secrets about how rocky worlds, including baby Earth, keep or lose their air.</description>
   </item>
   <item>
-    <title>What does the universe's very first green star look like?</title>
-    <link>/articles/what-does-the-universe-s-very-first-green-star-look-like.html</link>
-    <guid>/articles/what-does-the-universe-s-very-first-green-star-look-like.html</guid>
-    <description></description>
-  </item>
-  <item>
-    <title>Why are the asteroid Chariklo's rings changing shape before our eyes?</title>
-    <link>/articles/why-are-the-asteroid-chariklo-s-rings-changing-shape-before-our-eyes.html</link>
-    <guid>/articles/why-are-the-asteroid-chariklo-s-rings-changing-shape-before-our-eyes.html</guid>
-    <description>Chariklo is a small asteroid with not one but two rings — and the James Webb Space Telescope has caught those rings changing right before our eyes. The inner ring is getting thicker while the outer one fades, proving that even tiny objects can host surprisingly dynamic ring systems.</description>
+    <title>How Space Waves Reveal Where Earth's Magnetic Shield Works Hardest</title>
+    <link>/articles/how-space-waves-reveal-where-earth-s-magnetic-shield-works-hardest.html</link>
+    <guid>/articles/how-space-waves-reveal-where-earth-s-magnetic-shield-works-hardest.html</guid>
+    <description>Earth's magnetic field is our invisible force field against the Sun's solar wind, but new research shows some patches of that shield take far more punishment than others — waves crash harder on one side than the other.</description>
   </item>
   <item>
     <title>why-universe-laws-tuned-for-life-water-flow</title>
@@ -88,39 +88,39 @@
     <description></description>
   </item>
   <item>
-    <title>10 surprising places where nuclear bomb tests left hidden clues</title>
-    <link>/articles/10-surprising-places-where-nuclear-bomb-tests-left-hidden-clues.html</link>
-    <guid>/articles/10-surprising-places-where-nuclear-bomb-tests-left-hidden-clues.html</guid>
-    <description>Nuclear bombs exploded in the 1950s and 60s — but their chemical fingerprints survive in honey, baby teeth, ice, and even the lens of a shark's eye. Here are 10 unexpected places where science finds those hidden clues today.</description>
-  </item>
-  <item>
-    <title>1st-Ever Closeup Photos of Titan? Cassini's Historic Flyby</title>
-    <link>/articles/1st-ever-closeup-photos-of-titan-cassini-s-historic-flyby.html</link>
-    <guid>/articles/1st-ever-closeup-photos-of-titan-cassini-s-historic-flyby.html</guid>
+    <title>What does the universe's very first green star look like?</title>
+    <link>/articles/what-does-the-universe-s-very-first-green-star-look-like.html</link>
+    <guid>/articles/what-does-the-universe-s-very-first-green-star-look-like.html</guid>
     <description></description>
   </item>
   <item>
-    <title>2026-10-24-ukraine-starlink-stable-connection-after-network-limits</title>
-    <link>/articles/2026-10-24-ukraine-starlink-stable-connection-after-network-limits.html</link>
-    <guid>/articles/2026-10-24-ukraine-starlink-stable-connection-after-network-limits.html</guid>
+    <title>Could a planet be born from the ashes of a dead star?</title>
+    <link>/articles/could-a-planet-be-born-from-the-ashes-of-a-dead-star.html</link>
+    <guid>/articles/could-a-planet-be-born-from-the-ashes-of-a-dead-star.html</guid>
+    <description>Astronomers studying a dead star called a white dwarf think they may have found the first known planet born from the debris of a star's death. If confirmed, this gas-giant world would be a true second-generation planet, formed not from a stellar nursery but from the ashes of a stellar graveyard.</description>
+  </item>
+  <item>
+    <title>2026-10-27-zebra-striped-bee-somerset-saltmarsh-restoration</title>
+    <link>/articles/2026-10-27-zebra-striped-bee-somerset-saltmarsh-restoration.html</link>
+    <guid>/articles/2026-10-27-zebra-striped-bee-somerset-saltmarsh-restoration.html</guid>
     <description></description>
   </item>
   <item>
-    <title>2026-10-25-dinosaur-teeth-jurassic-bird-yuezhuornis</title>
-    <link>/articles/2026-10-25-dinosaur-teeth-jurassic-bird-yuezhuornis.html</link>
-    <guid>/articles/2026-10-25-dinosaur-teeth-jurassic-bird-yuezhuornis.html</guid>
-    <description>A 150-million-year-old bird fossil from China called Yuezhuornis had dinosaur teeth, a sickle-shaped claw, and legs built for walking — not flying. Its mix of bird and dinosaur traits shows that early bird evolution took many surprising paths.</description>
+    <title>Why Does the Universe's Expansion Speed Not Add Up?</title>
+    <link>/articles/why-does-the-universe-s-expansion-speed-not-add-up.html</link>
+    <guid>/articles/why-does-the-universe-s-expansion-speed-not-add-up.html</guid>
+    <description>Scientists measure the universe's expansion speed two ways, but the numbers disagree — a clue from ancient cosmic magnetism might explain why.</description>
   </item>
   <item>
-    <title>10 Real Places Whose Histories Sound Like Fantasy Novels</title>
-    <link>/articles/10-real-places-whose-histories-sound-like-fantasy-novels.html</link>
-    <guid>/articles/10-real-places-whose-histories-sound-like-fantasy-novels.html</guid>
-    <description></description>
+    <title>How did the first stars change the universe — and where did all the elements come from?</title>
+    <link>/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</link>
+    <guid>/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</guid>
+    <description>Using the world's most powerful supercomputers, the MEGATRON project is simulating how the very first stars lit up the universe and forged the chemical elements — carbon, oxygen, iron — that make planets, pets, and people possible.</description>
   </item>
   <item>
-    <title>How Did 53 Orangutans Get Rescued From Borneo's Fires?</title>
-    <link>/articles/how-did-53-orangutans-get-rescued-from-borneo-s-fires.html</link>
-    <guid>/articles/how-did-53-orangutans-get-rescued-from-borneo-s-fires.html</guid>
+    <title>Why does Madagascar have a giant patch of Moon rock on Earth?</title>
+    <link>/articles/why-does-madagascar-have-a-giant-patch-of-moon-rock-on-earth.html</link>
+    <guid>/articles/why-does-madagascar-have-a-giant-patch-of-moon-rock-on-earth.html</guid>
     <description></description>
   </item>
 </channel>

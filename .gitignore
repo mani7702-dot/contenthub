@@ -10,4 +10,4 @@ verify_images.py
 HERMES-PRODUCER-BRIEF.md
 
 # NOTE: articles/, content.json, feed.xml, sitemap.xml, robots.txt ARE committed.
-# GitHub Pages serves the pre-built site as-is; build.py runs on the VPS before each push.
+# GitHub Pages serves the pre-built site as-is; build.py runs on the VPS before each push.logs/
