@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How did a Trip to the Laundromat Save a Stranger's Life? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">General</span>
+      <h1>How did a Trip to the Laundromat Save a Stranger's Life?</h1>
+      <div class="meta"><span></span><span>2026-10-27</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/chance-meeting-chinese-restaurant-saved-a-life.jpg" alt="How did a Trip to the Laundromat Save a Stranger's Life?">
+    <div class="article-body">
+      <p>&gt;</p>
+      <h2>1 — What happened that day in Dover?</h2>
+<p>David Couture moved into a townhouse in <strong>Dover, New Hampshire</strong>, and his building had a tiny washing machine. It was so small that he often found himself heading to the local <strong>Laundromat</strong> — a place he called "the most unpleasant of places." One afternoon, feeling irritated by the cramped, noisy room, David decided to walk next door to a Chinese restaurant for a tiki cocktail to "drown those poor-boy sorrows."</p>
+<h2>2 — How did a simple chat save someone?</h2>
+<p>Sitting at the bar, David noticed a man who was "well on his way to getting quite intoxicated." Being a conversationalist, David struck up a conversation and found the stranger "really sad and down about himself." David gently reminded him that "life is not about waiting for the storm to pass — it's about learning to dance in the rain," and that he had everything to live for. Before leaving, David handed over his business card and said, "Call me anytime if you need someone to talk to."</p>
+<p>That evening, David's phone rang. A woman asked for him by name — her voice carried both sadness and gratitude. "Not sure what you said to my husband," she said, "but thank you. When I got home from work today, there was a note on the kitchen table and he said he was going to kill himself." Thanks to David's kindness, the man came home that evening and told his wife that a stranger at the Chinese restaurant had made him feel like life was worth living.</p>
+<h2>3 — Why do small acts matter?</h2>
+<p>David never expected that a trip to the laundromat — and a drink at a neighborhood restaurant — would provide such a huge blessing. But reminding a stranger about the importance of gratitude not only saved a family, it left David himself with a deep feeling of gratefulness for his own blessings. He closed his story to GNN with a quote from the book of Proverbs: "The soothing tongue is a tree of life; but a perverse one crushes the spirit."</p>
+<h3>Try this at home</h3>
+<p>Next time you're in a coffee shop, laundromat, or waiting in line at a restaurant, make eye contact and say hello to someone nearby. You never know what invisible storm they might be carrying — or how your small act of warmth could become the reason someone chooses to keep going.</p>
+<h3>Fun Fact</h3>
+<p>Dover, New Hampshire, is the most populous city in the state's Seacoast region. It sits along the Bellamy River and was founded in 1712 — making it one of the oldest settlements in New Hampshire. The city's name comes from Dover, England, and it has been a center of industry and community life for more than 300 years.</p>
+<h2>Sources</h2>
+<ul><li>Good News Network — "A Chance Meeting in a Chinese Restaurant Saved a Man's Life: Everything Happens for a Reason" (Oct 25, 2026) — https://www.goodnewsnetwork.org/chance-meeting-in-chinese-restaurant-saved-a-life/</li><li>Wikipedia — "Dover, New Hampshire" — https://en.wikipedia.org/wiki/Dover,_New_Hampshire</li></ul>
+<p>&lt;!-- for-grown-ups: David Couture's story illustrates how everyday human connection — a kind word to a stranger at a bar — can interrupt a crisis and save a life. New Hampshire is part of the U.S. National Suicide Prevention Lifeline network (988). Mental health professionals emphasize that small acts of genuine human engagement, especially conversations that connect someone with hope rather than judgment, can be a protective factor. The CDC reports that suicide is a leading cause of death for adults, and community-level interventions — like training ordinary people to recognize warning signs — have measurable prevention impact. --&gt;</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

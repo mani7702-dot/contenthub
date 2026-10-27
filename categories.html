@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Explore Topics — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a class="active" href="categories.html">Explore</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:40px 0 10px">
+  <div class="container">
+    <h1>Explore by <span class="grad">Category</span></h1>
+    <p>Browse all blog posts and news stories grouped automatically by topic tag.</p>
+  </div>
+</section>
+
+<main class="container" style="padding:20px 0 60px">
+  <div class="cat-row" id="catFilterChips"></div>
+  <div id="catSections"></div>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Content categorized automatically.</p>
+  </div>
+</footer>
+
+<script src="assets/script.js"></script>
+<script>
+window.CH.loadFeed(function (data) {
+  var all = [].concat(data.blog || [], data.news || []);
+  var groups = {};
+  all.forEach(function (item) {
+    var t = item.tag || 'General';
+    if (!groups[t]) groups[t] = [];
+    groups[t].push(item);
+  });
+
+  var chips = document.getElementById('catFilterChips');
+  var sec = document.getElementById('catSections');
+  var keys = Object.keys(groups);
+
+  chips.innerHTML = '<a href="#" onclick="filterCat(\'all\');return false;" class="on">All Topics (' + all.length + ')</a>' +
+    keys.map(function (k) {
+      return '<a href="#' + k + '" onclick="filterCat(\'' + k + '\');return false;">' + k + ' (' + groups[k].length + ')</a>';
+    }).join('');
+
+  sec.innerHTML = keys.map(function (k) {
+    var list = groups[k];
+    return '<div class="cat-block" data-cat="' + k + '" style="margin-bottom:40px">' +
+      '<h2 style="font-size:1.4rem;margin-bottom:16px;display:flex;align-items:center;gap:10px"><span class="tag tag-blog">' + k + '</span> (' + list.length + ' stories)</h2>' +
+      '<div class="card-grid">' +
+      list.map(function (item) {
+        var isNews = !!item.fact ? false : !item.author || item.author === 'News Desk';
+        var link = item.url || ('articles/' + item.id + '.html');
+        var media = item.video ? '<video class="thumb-video" src="' + item.video + '" muted loop autoplay playsinline></video>'
+                  : item.image ? '<img class="thumb" src="' + item.image + '" alt="" loading="lazy">' : '';
+        return '<article class="card">' +
+          media +
+          '<span class="tag ' + (isNews ? 'tag-news' : 'tag-blog') + '">' + (item.tag || (isNews ? 'News' : 'Blog')) + '</span>' +
+          '<h3><a href="' + link + '">' + item.title + '</a></h3>' +
+          '<p>' + (item.excerpt || '') + '</p>' +
+          '<div class="meta"><span>✍️ ' + (item.author || 'Desk') + '</span><span>' + (item.read || '3 min') + '</span></div>' +
+          '</article>';
+      }).join('') +
+      '</div></div>';
+  }).join('');
+});
+
+function filterCat(cat) {
+  document.querySelectorAll('#catFilterChips a').forEach(function (a) { a.classList.remove('on'); });
+  event.target.classList.add('on');
+  document.querySelectorAll('.cat-block').forEach(function (b) {
+    if (cat === 'all' || b.dataset.cat === cat) b.style.display = 'block';
+    else b.style.display = 'none';
+  });
+}
+</script>
+</body>
+</html>

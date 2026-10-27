@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did a Baby Walrus Named Annautaq Get a Second Chance? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">General</span>
+      <h1>How Did a Baby Walrus Named Annautaq Get a Second Chance?</h1>
+      <div class="meta"><span></span><span>2026-10-27</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-did-a-baby-walrus-named-annautaq-get-a-second-chance.jpg" alt="How Did a Baby Walrus Named Annautaq Get a Second Chance?">
+    <div class="article-body">
+      
+      <p>time: 14:32</p>
+<p>A baby walrus found alone on a remote Alaska beach has a new home — and a name to remember: Annautaq.</p>
+<h2>The Big Find</h2>
+<p>Wildlife researcher Violet Anniskett and U.S. Geological Survey scientist Tony Fischbach were walking a northern Alaska beach when they spotted something unexpected: a tiny, 220-pound walrus calf, all alone. The little calf had been left behind after a walrus herd moved on during heavy surf. With scavenging birds circling, the calf needed help fast. The two rescuers knew the 5-month-old would not survive without care — so they sprang into action.</p>
+<h2>A Long Trip South</h2>
+<p>Because walrus calves cannot survive on their own without mothers, wildlife experts determined the best place for Annautaq was SeaWorld Orlando — one of only four U.S. facilities that can house walruses. Getting there was no easy trip: the calf needed to travel 4,000 miles from Alaska to Florida. Along the way, he was given around-the-clock care, including up to six bottle feedings per day, all while passing a planned 30-day quarantine to keep the resident animals healthy.</p>
+<h2>What This Means for Walruses</h2>
+<p>The rescue shows why scientists say protecting walrus habitats matters. Pacific walruses (_Odobenus rosmarus divergens_) are the only species in the family Odobenidae, and they depend completely on their mothers for milk and protection during their first year of life. By helping orphaned calves like Annautaq, researchers and caretakers learn more about how to protect the whole species.</p>
+<p>Now at SeaWorld, Annautaq will meet Waldo, Kaboodle, and Uki — other rescued walruses who help him grow and learn. As he gets stronger, he will also become an ambassador, helping visitors understand how special walruses are and what we can do to keep them safe.</p>
+<h2>Try this at home</h2>
+<p>You can help marine animals by visiting aquariums and zoos that focus on rescue and education. You can also reduce plastic use — less plastic in the ocean means healthier waters for every sea creature.</p>
+<h2>Fun Fact</h2>
+<p>A baby walrus is called a <strong>calf</strong> — just like a baby whale or dolphin! And the name "Annautaq" means "axe" in the Iñupiaq language, honoring the rescuer's father's heritage.</p>
+<h2>Sources</h2>
+<p>1. Rescuers Ensure Orphaned Baby Walrus Gets a Second Chance — Good News Network, October 2026. [goodnewsnetwork.org](https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/)</p>
+<p>2. Pacific Walrus — Wikipedia. [en.wikipedia.org/wiki/Pacific_walrus](https://en.wikipedia.org/wiki/Pacific_walrus)</p>
+<p>for-grownups: This article was written especially for curious kids who want to learn how wildlife experts help ocean animals.</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

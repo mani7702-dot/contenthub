@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Five cheetah cubs, one very busy camera — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Animals</span>
+      <h1>Five cheetah cubs, one very busy camera</h1>
+      <div class="meta"><span></span><span>2026-10-11</span><span>2 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/five-cheetah-cubs-one-very-busy-camera.jpg" alt="Five cheetah cubs, one very busy camera">
+    <div class="article-body">
+      <p>Five cheetah cubs were born at the Smithsonian's conservation park — and you can watch all of them, around the clock, on a livestream.</p>
+      <p>Five cheetah cubs were born on October 5th at the Smithsonian National Zoo and Conservation Biology Institute in Virginia. Their mother is a cheetah named Zura.</p>
+<p>The cubs are the fourth generation in a bloodline that started at the institute with their great-grandmother, a cheetah called Sanurra. Cheetahs are the fastest land animals on Earth — they can reach around 110 kilometres per hour in short bursts — but raising cubs is slow, careful work.</p>
+<h2>The camera that never sleeps</h2>
+<p>You cannot visit the cubs in person yet, but you do not have to wait. The Smithsonian runs the Cheetah Cub Cam, a 24-hour livestream of the den where the cubs sleep, wobble, and slowly work out how to be cheetahs.</p>
+<p>Expect a lot of sleeping, a lot of tumbling, and one very patient mother.</p>
+<h2>Why breeding programmes matter</h2>
+<p>Cheetahs are listed as vulnerable — there are far fewer of them in the wild than there used to be. Every healthy cub in a breeding programme is a small insurance policy for the species.</p>
+<p>The cubs should be on the camera for about six to seven months, until they decide they would rather sleep somewhere else.</p>
+<p><strong>Source:</strong> [NPR — A 24-hour livestream lets you watch adorable newborn cheetah cubs at the National Zoo](https://www.npr.org/2026/10/11/nx-s1-5997459/a-24-hour-livestream-lets-you-watch-adorable-newborn-cheetah-cubs-at-the-national-zoo)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

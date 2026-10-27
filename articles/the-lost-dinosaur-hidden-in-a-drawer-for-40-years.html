@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The lost dinosaur hidden in a drawer for 40 years — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Weird History</span>
+      <h1>The lost dinosaur hidden in a drawer for 40 years</h1>
+      <div class="meta"><span></span><span>2026-10-22</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/the-lost-dinosaur-hidden-in-a-drawer-for-40-years.jpg" alt="The lost dinosaur hidden in a drawer for 40 years">
+    <div class="article-body">
+      <p>A fossil dug up in Antarctica in 1985 spent four decades tucked away in a drawer, mistaken for a marine reptile, before a curator realized it was the very first dinosaur bone ever found on the frozen continent.</p>
+      <p>In 1985, a geologist working on James Ross Island near the Antarctic Peninsula picked up a small, unremarkable fossil. He sketched it in his field notebook and wrote simply: "vertebra of large reptile."</p>
+<p>Then the fossil went into a drawer — and stayed there for 40 years.</p>
+<p>Now, after decades forgotten on a shelf at the British Antarctic Survey in Cambridge, that same bone has been carefully studied again. And it turns out the geologist had accidentally found something extraordinary: the <strong>first dinosaur bone ever discovered on the frozen continent</strong>.</p>
+<h2>What sort of dinosaur was it?</h2>
+<p>The fossil is a single tail vertebra, about 10 centimetres wide. Paleontologists have confirmed it belongs to a group of long-necked giants called <strong>Titanosaurs</strong> — the sauropods that include the largest animals to ever walk the Earth, like Argentinosaurus and Dreadnoughtus.</p>
+<p>At the time, the 1985 team probably mistook it for the spine of a marine reptile, which are common finds in Antarctic rock. But the bone's shape was unmistakably terrestrial — land-dwelling, not sea-dwelling.</p>
+<h2>Why did it stay hidden for so long?</h2>
+<p>Antarctica is the driest, windiest, and coldest continent, and its land is almost entirely buried beneath two kilometres of ice. The few patches of rock that stick out — like James Ross Island — were only properly mapped by geologists starting in the 1980s. Any fossils there are rare, precious, and scattered across many drawers.</p>
+<p>Dr Mark Evans, the collections manager at the British Antarctic Survey, recently noticed the old specimen among thousands of specimens brought back from Antarctic expeditions over the decades.</p>
+<p>"It's only when you start thinking 'what's in this drawer,'" he said, "that sometimes you come across something and you think, 'Ah — this looks interesting.'"</p>
+<h2>What does a Titanosaur tail tell us?</h2>
+<p>Titanosaurs were the last of the great sauropods. They lived during the Late Cretaceous period — roughly 100 to 66 million years ago — when Antarctica was still connected to what is now South America and the climate was far warmer than today. Finding a piece of a Titanosaur in Antarctica helps scientists fill in gaps about how these giants lived on the ancient southern continents.</p>
+<h2>Try this at home</h2>
+<p>You don't need a frozen continent to hunt fossils — your own backyard can hold buried history! On a walk, look for small, oddly shaped rocks that are darker than the others. Are they smooth and layered, or do they have strange hollows? Paleontologists started by carefully noticing things that looked <em>different</em>. Always ask an adult before you pocket anything that might belong to nature or a protected site, but keep your eyes open — the next great discovery might be hiding in plain sight.</p>
+<h2>Fun fact</h2>
+<p>The very first dinosaur fossils were not found in the American West or Patagonia — they were found by people who simply looked carefully and kept good notes. Mike Thomson's 1985 field notebook, with its tiny sketch and careful handwriting, is exactly the kind of record that lets a fossil found decades later still tell its story. Good notes are time machines for science.</p>
+<p><strong>Sources:</strong> [BBC News — First dinosaur bone from Antarctica found in a drawer](https://www.bbc.co.uk/news/articles/cdep67jnn9zo) · [Wikipedia — Dinosaur](https://en.wikipedia.org/wiki/Dinosaur)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

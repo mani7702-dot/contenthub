@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How do seeds know which way is up? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>How do seeds know which way is up?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-do-seeds-know-which-way-is-up.jpg" alt="How do seeds know which way is up?">
+    <div class="article-body">
+      <p>Plant a seed upside down and it still grows the right way. So how does it know which end is which?</p>
+      <p>A seed has no eyes, no compass, and nobody to ask. Yet the root always grows down and the shoot always grows up. Put a seed in the ground any way you like, it does not matter.</p>
+<p>The plant reads something you cannot see.</p>
+<h2>Plants can feel gravity</h2>
+<p>Roots grow down because they can feel which way gravity pulls. This is called gravitropism, and it is like an inner compass that always points at the ground.</p>
+<p>Scientists found tiny grains inside the growing tip of a root. They are so small that they can settle, like sand sinking to the bottom of a jar, whenever the root changes direction. The plant senses which side the grains piled up on, and grows that way.</p>
+<p>You can test this at home. Lay a wet paper towel on a plate, set a bean seed on top, and stand the plate on its side. The seed will still send its root downward and its shoot upward, sideways to the towel. Turn the plate around the next day and the root will bend again to follow the ground.</p>
+<h2>Shoots have a second compass</h2>
+<p>Shoots grow up, but light pulls at them too. Turn a plant on a windowsill and leave it. In a day or two, the leaves lean toward the glass.</p>
+<p>That is because a growing shoot stretches faster on the side away from the light, so it bends toward the light like a slow green elbow. Outside, where sunlight comes mostly from above, both compasses agree, and the shoot heads straight up.</p>
+<h2>Why up and down matter</h2>
+<p>Up means air and sunlight, which is where leaves do their work. Down means soil, water, and anchor points. A plant that mixed them up would not last long.</p>
+<p>So the seed looks for the ground with its root, and the sky with its shoot. No eyes needed.</p>
+<blockquote>Try this at home: sprout a bean between a wet paper towel and the side of a clear glass. Turn the glass once a day and watch the root and shoot bend to keep their opposite directions.</blockquote>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

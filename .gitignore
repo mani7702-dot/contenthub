@@ -1,0 +1,13 @@
+# Scratch / one-shot tooling — not part of the published site
+__pycache__/
+audit.py
+fill_images.py
+finalize.py
+finalize2.py
+fix_broken.py
+slim_images.py
+verify_images.py
+HERMES-PRODUCER-BRIEF.md
+
+# NOTE: articles/, content.json, feed.xml, sitemap.xml, robots.txt ARE committed.
+# GitHub Pages serves the pre-built site as-is; build.py runs on the VPS before each push.

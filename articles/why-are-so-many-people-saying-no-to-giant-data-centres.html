@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why are so many people saying no to giant data centres? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">World</span>
+      <h1>Why are so many people saying no to giant data centres?</h1>
+      <div class="meta"><span></span><span>2026-10-26</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-are-so-many-people-saying-no-to-giant-data-centres.jpg" alt="Why are so many people saying no to giant data centres?">
+    <div class="article-body">
+      <p>Giant data centres power all our favourite apps, but their hunger for electricity and water is sparking a backlash — 16 U.S. states have proposed laws to block new ones.</p>
+      <p>Every time you ask a voice assistant a question, stream a song, or watch a video, your request travels to a giant building packed with thousands of humming computers. These buildings are called <strong>data centres</strong>, and they are the hidden engines of the digital world.</p>
+<p>But something surprising is happening: more and more people are saying "no" to new data centres — especially the biggest ones built for artificial intelligence. Why?</p>
+<h2>How big are data centres, really?</h2>
+<p>Data centres come in all sizes. Some fit inside a garden shed, while the largest ones sprawl across so much land they are almost impossible to picture. The world's biggest operating data centre — run by China Telecom in Hohhot, Inner Mongolia — covers about <strong>one million square metres</strong>. That is roughly <strong>140 football pitches</strong> put together!</p>
+<p>Even bigger ones are under construction now. One planned complex in Texas will cover <strong>3.5 square kilometres</strong> (that is 350 football pitches). To put that in perspective: it would be about half the size of New York's Central Park.</p>
+<h2>Why are they controversial?</h2>
+<p>Data centres need a <em>lot</em> of electricity — more than many countries use. Worldwide, they guzzle about <strong>415 terawatt hours</strong> of electricity per year. To put that in everyday terms: that is roughly the same amount of electricity the whole country of <strong>France</strong> uses in a year.</p>
+<p>The International Energy Agency warns that data-centre electricity use is growing by <strong>12% each year</strong>. By 2030, it could double to 945 terawatt hours. In the United States — which has more data centres than anywhere else — data centres may soon account for almost <strong>half of all new growth in electricity demand</strong>.</p>
+<p>That extra electricity often comes from burning fossil fuels, which adds carbon to the atmosphere. Data centres also use huge amounts of water to keep their computers cool, and many make a loud humming or whooshing noise from their giant cooling fans.</p>
+<h2>What can be done?</h2>
+<p>In the United States, <strong>16 states</strong> have proposed laws to ban or temporarily block new data centres. Voters are discussing it as a key issue ahead of elections, because local communities worry about rising energy bills and water shortages.</p>
+<p>But supporters argue that data centres are important for jobs, tax revenue, and keeping a country competitive in the race to build cutting-edge AI. Some of the newest data centres are experimenting with using solar or wind power, and with recycling the heat they produce to warm nearby buildings or swim pools.</p>
+<p>The challenge is finding a balance between our love of digital life and protecting the planet that powers it.</p>
+<h2>For grown-ups</h2>
+<p>Data centre electricity consumption is projected to account for nearly half of all U.S. electricity demand growth between now and 2030, according to the U.S. Department of Energy. Local opposition has emerged in the U.S., UK, Mexico, France, and Indonesia.</p>
+<h2>Try this at home</h2>
+<p>Ask a grown-up to show you your home Wi-Fi router. That little box is connected to massive data centres somewhere in the world. Next time you watch a video, think about all the computers working behind the scenes — and try turning off the screen when you are not using it!</p>
+<h2>Fun Fact</h2>
+<p>The word "data" comes from the Latin word for "things given." A single data centre can house <strong>hundreds of thousands of servers</strong> — and each server can process millions of requests every second!</p>
+<h2>Sources</h2>
+<ul><li>BBC News: "Data centre backlash grows ahead of US midterms" (25 Oct 2026)</li><li>Wikipedia: "Data center" — energy consumption statistics via International Energy Agency</li><li>Pew Research Center: U.S. data center energy usage</li><li>Brookings Institution: data centre employment effects</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

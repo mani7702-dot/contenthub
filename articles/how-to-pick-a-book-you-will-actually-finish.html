@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How to pick a book you will actually finish — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Reading</span>
+      <h1>How to pick a book you will actually finish</h1>
+      <div class="meta"><span></span><span>2026-10-16</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-to-pick-a-book-you-will-actually-finish.jpg" alt="How to pick a book you will actually finish">
+    <div class="article-body">
+      <p>Three honest rules for choosing your next read — and why it is completely fine to stop a book you do not enjoy.</p>
+      <p>Picking a book is harder than it looks. A cover can lie. A back page can lie. Even the first chapter can lie. Here are three rules that work.</p>
+<h2>Rule 1: Read the first two pages out loud</h2>
+<p>If your tongue trips over the words, the rest of the book will trip too. The first two pages tell you how the whole book will sound. If it sounds like a friend you would listen to, keep going. If it sounds like homework, close it.</p>
+<h2>Rule 2: Give it fifty pages, no more</h2>
+<p>Fifty pages is a fair trial. Some books start slow on purpose and then take off — but the ones that are truly wrong for you feel wrong from early on. Fifty pages is enough time to tell the difference between "slow" and "not for me".</p>
+<h2>Rule 3: Stopping is allowed</h2>
+<p>A book you did not finish is not a failure. It is information: you now know more about what you like. Readers who stop books read more books. Put it back on the shelf with a clear conscience and pick the next one.</p>
+<blockquote>Try this next time you are at the library: read the first two pages of three books you have never opened. One of them will sound like a friend.</blockquote>
+<p>image: assets/images/how-to-pick-a-book-you-will-actually-finish.jpg</p>
+<p>image_caption: Photo: Wikimedia Commons</p>
+<p>image2: assets/images/how-to-pick-a-book2.jpg</p>
+<p>image_caption2: Photo: Wikimedia Commons</p>
+<p>image1: assets/images/how-to-pick-a-book1.jpg</p>
+<p>image_caption1: Photo: Wikimedia Commons</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

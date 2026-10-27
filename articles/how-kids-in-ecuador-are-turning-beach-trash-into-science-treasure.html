@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How kids in Ecuador are turning beach trash into science treasure — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">World</span>
+      <h1>How kids in Ecuador are turning beach trash into science treasure</h1>
+      <div class="meta"><span></span><span>2026-10-24</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-kids-in-ecuador-are-turning-beach-trash-into-science-treasure.jpg" alt="How kids in Ecuador are turning beach trash into science treasure">
+    <div class="article-body">
+      <p>Children on Ecuador's coast are collecting cigarette butts, plastic bottles, and other debris — then logging every item into a science database that helps researchers track ocean pollution.</p>
+      <h1>How kids in Ecuador are turning beach trash into science treasure</h1>
+<h2>1. The little scientists who comb the shore</h2>
+<p>Every weekend, a group of children in a coastal town in Ecuador walks along the beach with small buckets and tally sheets. They are not on vacation — they are citizen scientists, and their mission is to collect every piece of trash they can find. From cigarette butts to plastic bottles, each item gets counted, logged, and uploaded into a shared database. Their data helps grown-up researchers track what is washing up on beaches across the Pacific coast.</p>
+<h2>2. Why cigarette butts top the list</h2>
+<p>If you have walked along a beach anywhere in the world, you have probably seen them: tiny, white, filter-tipped, and everywhere. Cigarette butts are the <strong>most common type of litter</strong> on Earth. Scientists estimate that of the roughly 5.6 trillion cigarettes smoked every year, about 4.5 trillion filters end up as waste — most of them tossed on the ground or carried to the ocean by wind and rain. They look small, but a single filter can take up to 15 years to break down into tiny plastic pieces.</p>
+<h2>3. How one beach becomes a classroom</h2>
+<p>The children start by picking a 50-meter stretch of sand. With bright vests and clipboards, they walk slowly, checking every rock, driftwood log, and patch of seaweed. When they find trash, they place it in a color-coded bag — yellow for cigarette butts, blue for plastic bottles, green for food wrappers. Back at their base station (a simple wooden table under a shade umbrella), they enter their counts into a tablet app that sends the numbers straight to a regional science hub.</p>
+<p>This is how citizen science works: <strong>anyone can join, and every observation matters</strong>. The kids learn to identify different kinds of waste, practice teamwork, and see firsthand how human habits connect to the health of the ocean.</p>
+<h2>4. Big changes from small hands</h2>
+<p>Over several months, the children's data has revealed patterns: more plastic after rainy season, fewer cigarette butts on weekends (when fewer people visit the beach), and a spike in colorful bottle caps near playground areas. Researchers use these findings to design better trash bins, plan community cleanups, and teach visitors about responsible disposal.</p>
+<p>The children have also noticed that their beach looks cleaner each time they return — proof that small, repeated efforts can add up to big results.</p>
+<h2>Try this at home</h2>
+<p>Grab a small bag and a notebook, then take a 10-minute walk around your neighborhood park, playground, or street. Count how many pieces of litter you find, and sort them into categories (plastic bottles, food wrappers, cigarette butts, etc.). Record your numbers on paper or in a simple notes app. If you do this once a week for a month, compare your totals — you might notice that trash spikes after weekends or big events. You can also organize a mini cleanup with friends or family and track how much you collect each time.</p>
+<h2>Fun Fact</h2>
+<p>Cigarette filters were <strong>not originally designed</strong> for filtering smoke — they were invented by an ice cream manufacturer who realized cellulose acetate could hold back solids in frozen desserts! The tobacco industry switched to them in the 1950s, thinking the filters would make cigarettes "healthier." Spoiler: they didn't.</p>
+<p><em>Report filed at 08:36 IST from the Our World news desk.</em></p>
+<h2>Sources</h2>
+<ul><li>[Phys.org — "Child-led citizen science helps Ecuadorian community tackle beach pollution"](https://www.phys.org/news/2026-10-child-citizen-science-ecuadorian-community.html)</li><li>[Wikipedia — Environmental impact of cigarettes](https://en.wikipedia.org/wiki/Environmental_impact_of_cigarettes) (confirms 4.5 trillion cigarette filters become litter annually; 2006 International Coastal Cleanup data)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What are the critical tests that the Griffin-1 lunar lander must pass before its Moon mission? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>What are the critical tests that the Griffin-1 lunar lander must pass before its Moon mission?</h1>
+      <div class="meta"><span></span><span>2026-10-23</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/what-are-the-critical-tests-that-the-griffin-1-lunar-lander-must-pass-before-its-moon-miss.jpg" alt="What are the critical tests that the Griffin-1 lunar lander must pass before its Moon mission?">
+    <div class="article-body">
+      <p>The Griffin-1 lunar lander has passed a gauntlet of extreme tests at NASA's Jet Propulsion Laboratory, simulating the vibrations, temperatures, and sounds of launch and landing — all before its first trip to the Moon's south pole later this year.</p>
+      <h2>A lander that faces the harshest ride in space</h2>
+<p>Imagine strapping yourself into a car that will shake, rattle, and roll through temperatures that swing from oven-hot to freezer-cold — all while blasting with the deafening roar of a rocket launch. That is exactly what <strong>Griffin-1</strong> just survived, and it passed with flying colors.</p>
+<p>At NASA's Jet Propulsion Laboratory, engineers put Griffin-1 through <strong>environmental testing</strong>, simulating every brutal condition the spacecraft will face: the violent shaking of launch, the extreme heat of sunlight and the bitter cold of space, and even the thunderous sound of rocket engines. The lander was tested inside JPL's 25-foot-wide (7.6-meter) <strong>space simulator</strong> — a giant vacuum chamber that recreates the vacuum of space and the searing heat and deep freeze of the lunar environment.</p>
+<h2>Why the Moon's south pole?</h2>
+<p>Griffin-1's destination is the <strong>lunar south pole</strong> — a region where NASA and commercial partners are racing to explore. The south pole holds <strong>permanently shadowed craters</strong> that scientists believe contain <strong>water ice</strong>, a treasure that could provide drinking water, oxygen, and rocket fuel for future astronauts.</p>
+<p>Voyager's team studied the terrain from space, mapped where sunlight hits and shadows fall, and ran thousands of computer simulations to choose a landing site near <strong>Mons Mouton</strong>. Their tools — <strong>DEMkit</strong> and <strong>LunaRay</strong> — predict exactly how the lunar surface will look at any time of day, which matters because landing in total darkness would blind the cameras that help steer the lander.</p>
+<h2>A stepping stone to a Moon base</h2>
+<p>Griffin-1 is part of NASA's <strong>CLPS program</strong> — the Commercial Lunar Payload Services initiative. CLPS teams up with private companies to deliver scientific experiments to the Moon's surface. The lander will carry over <strong>1,100 pounds (455 kilograms)</strong> of cargo — science experiments and new technologies that will test how future Moon bases could work.</p>
+<h2>Try this at home</h2>
+<p><strong>Build a lunar lander test rig.</strong> Get a raw egg (your "astronaut"), tape, and soft padding like cotton balls. Drop it from different heights and design a cushioning system that keeps the egg safe. Now imagine doing this from thousands of miles away, on a world with no atmosphere — that is what Griffin-1 has to master!</p>
+<p><strong>Fun fact:</strong> The Moon's south pole is one of the coldest places in the Solar System, with some shadows that have never seen sunlight in billions of years.</p>
+<p><strong>Sources:</strong></p>
+<p>1. Space.com — "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026" by Chelsea Gohd, Oct 23, 2026 — https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026</p>
+<p>2. Voyager Technologies — "How Voyager Chose Griffin-1's Lunar Landing Site" by Keith, Oct 22, 2026 — https://www.voyagertechnologies.com/insights-stories/how-voyager-chose-griffins-lunar-landing-site/</p>
+<p>3. NASA CLPS — "Commercial Lunar Payload Services" — https://www.nasa.gov/clps</p>
+<p>4. Wikipedia — "Lunar south pole" — https://en.wikipedia.org/wiki/Lunar_south_pole (confirms water ice in permanently shadowed craters)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

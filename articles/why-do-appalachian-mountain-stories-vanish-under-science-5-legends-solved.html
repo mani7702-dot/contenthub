@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why do Appalachian mountain stories vanish under science? 5 legends solved — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">World</span>
+      <h1>Why do Appalachian mountain stories vanish under science? 5 legends solved</h1>
+      <div class="meta"><span></span><span>2026-10-22</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-appalachian-mountain-stories-vanish-under-science-5-legends-solved.jpg" alt="Why do Appalachian mountain stories vanish under science? 5 legends solved">
+    <div class="article-body">
+      <p>People have told stories in the Appalachian Mountains for centuries. But some of these 'ghost' tales have down-to-Earth explanations — from sick deer to headlight trickery.</p>
+      <h1>Why do Appalachian mountain stories vanish under science?</h1>
+<p>The misty Appalachian Mountains are full of stories. For hundreds of years, people told tales to explain things they could not understand — strange lights, deer that looked wrong, shadows that seemed alive. Here is what science has discovered behind five of those legends.</p>
+<h2>1. The "Not Deer" — sick animals look strange</h2>
+<p>Visitors sometimes report seeing deer with forward-facing eyes. Scientists explain that deer suffering from chronic wasting disease (a brain illness like mad cow disease) become thin, confused, and uncoordinated — making them look "wrong" to watchers.</p>
+<h2>2. Old Green Eyes — Civil War headlights</h2>
+<p>Near the 1863 Battle of Chickamauga (one of the Civil War's bloodiest battles), hikers sometimes report glowing green eyes. Park rangers say those "glowing eyes" are almost certainly car headlights on a tall figure walking near the road at night.</p>
+<h2>3. Jenny's light — a train ghost story</h2>
+<p>Along old railroad tracks in West Virginia, people tell of a woman running toward trains. The story likely began with a real accident — but headlights and fog can make distant figures seem supernatural.</p>
+<h2>4. Brown Mountain lights — solved by science</h2>
+<p>The famous "ghost lights" above Brown Mountain in North Carolina puzzled visitors for decades. In 1922, a U.S. Geological Survey scientist named George R. Mansfield used a map and telescope to prove they were car headlights, train lights, and brush fires — seen through atmospheric mist.</p>
+<h2>5. Soap Sally — a lye safety warning</h2>
+<p>Before store-bought soap, mountain families made soap using lye from wood ashes — a dangerous process. The "Soap Sally" legend warned children away from these areas. The story served a real safety purpose, even if it was not literally true.</p>
+<h2>Why stories matter</h2>
+<p>Mountain people did not have science books. They had each other and their imaginations. Their stories helped explain a world that felt big and dark. Today we know headlights look strange through fog and sick animals move oddly. But the stories are still worth keeping.</p>
+<h2>Try this at home</h2>
+<p>Next time you walk in the woods after dark, look for real explanations behind "spooky" sights: headlights through fog, owl calls that sound like voices, or dew on spiderwebs that glows like ghosts.</p>
+<h2>Fun Fact</h2>
+<p>The 1922 Brown Mountain Lights investigation was one of the first times a government scientist used careful measurement to solve a "supernatural" mystery. Mansfield mapped the exact angles of the lights and matched them to roads below.</p>
+<h2>Sources</h2>
+<p>1. Listverse: "10 Appalachian Legends to Haunt Your Halloween" (October 22, 2026)</p>
+<p>2. Wikipedia: Brown Mountain lights — USGS investigation by George R. Mansfield (1922)</p>
+<p>3. Wikipedia: Chronic Wasting Disease — brain illness in deer</p>
+<p>4. Wikipedia: Battle of Chickamauga — Sept 18-20, 1863, Civil War</p>
+<p>5. Wikipedia: Mothman — Point Pleasant, WV sightings (Nov 1966–Dec 1967)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

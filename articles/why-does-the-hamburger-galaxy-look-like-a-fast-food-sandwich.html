@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why does the Hamburger Galaxy look like a fast-food sandwich? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>Why does the Hamburger Galaxy look like a fast-food sandwich?</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>3</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-does-the-hamburger-galaxy-look-like-a-fast-food-sandwich.png" alt="Why does the Hamburger Galaxy look like a fast-food sandwich?">
+    <div class="article-body">
+      <p>The Hamburger Galaxy gets its name from a dark dust lane that slices across its middle — like lettuce and tomato inside a cosmic bun.</p>
+      <h2>A galaxy that looks like dinner</h2>
+<p>If galaxies had a menu, the Hamburger Galaxy would be the star of the "things that look like other things" section. To telescopes on Earth, it shows up as a skinny streak of light with a dark line running right through the middle — and suddenly everyone can see lunch.</p>
+<p>But why does it look smooshed flat instead of like a nice round blob?</p>
+<h2>Edge-on spiral</h2>
+<p>The Hamburger Galaxy (its catalog name is NGC 3628) is a <strong>spiral galaxy</strong>. Most galaxies — including our own Milky Way — are spirals. But we usually see them face-on, like looking down at a pizza from above.</p>
+<p>NGC 3628 is different. It's tilted so we're looking straight at its side — <strong>edge-on</strong>. Imagine holding a dinner plate upright and peering at it from the side. All you'd see is a thin line, right? That's exactly what's happening here.</p>
+<p>The galaxy's billion stars stretch out across 300,000 light-years, but from our angle they're all lined up one behind the other, making a long, faint streak.</p>
+<h2>The cosmic dust line</h2>
+<p>The dark line splitting the galaxy in two is a <strong>river of cosmic dust</strong>. This dust floats between the galaxy's spiral arms, blocking the light from millions of stars behind it.</p>
+<p>It works just like the lettuce and tomato inside your sandwich — the dark stuff sits between the two bright halves (the cosmic "buns"). No telescope has to Photoshop it; the galaxy is genuinely built this way.</p>
+<h2>A tail worth 300,000 light-years</h2>
+<p>Because the Hamburger Galaxy isn't alone. It belongs to the <strong>Leo Triplet</strong> — a small family of three galaxies (NGC 3628, M65, and M66) that orbit each other like kids clutching hands on a merry-go-round.</p>
+<p>Their gravity tugs and pulls, and that tug pulled a faint <strong>tidal tail</strong> stretching 300,000 light-years away from the galaxy — longer than our whole Milky Way is wide. It's a stellar traffic jam, frozen in time.</p>
+<p>The galaxy was discovered way back in 1784 by astronomer William Herschel, but it still keeps surprising us with new detail every time someone points a camera at it.</p>
+<h2>Try this at home</h2>
+<p>Make your own "galaxy sandwich" with a flashlight and a dark room. Point the light through a narrow slit (a cardboard cutout works) onto a wall — the bright band is your galaxy's stars, the dark gap is the dust lane. Tilt your head and imagine you're an astronaut hundreds of millions of years ago, watching the same scene from 35 million light-years away.</p>
+<h2>Fun Fact</h2>
+<p>The galaxy's official catalog name is NGC 3628, but astronomers also call it <strong>"Sarah's Galaxy"</strong> — some say it looks more like a cosmic seahorse or a sideways comma than a hamburger. Food names are in the eye of the beholder.</p>
+<h2>Sources</h2>
+<ul><li>Astronomy.com — "A hamburger with a tail" (amateur astrophotography, 40-hour LRGB exposure, 14-inch astrograph)</li><li>Wikipedia — NGC 3628, Hamburger Galaxy entry (William Herschel discovery, 1784; Leo Triplet membership; 300,000-light-year tidal tail; edge-on dust lane)</li><li>Image source: Wikimedia Commons (CC BY-SA 3.0) — amateur astrophotography</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

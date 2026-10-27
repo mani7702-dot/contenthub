@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can Sticky Tape Beat Sandbags at Keeping Floodwater Out? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">news</span>
+      <h1>Can Sticky Tape Beat Sandbags at Keeping Floodwater Out?</h1>
+      <div class="meta"><span></span><span>2026-10-27</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-sticky-tape-beat-sandbags-at-keeping-floodwater-out.jpg" alt="Can Sticky Tape Beat Sandbags at Keeping Floodwater Out?">
+    <div class="article-body">
+      <p>Engineers in the UK tested six kinds of tape against piles of sandbags in a giant water tank — and the humble tape won, keeping out up to 99% of the water.</p>
+      <h1>Can Sticky Tape Beat Sandbags at Keeping Floodwater Out?</h1>
+<h2>The Surprise Champion</h2>
+<p>When floods threaten a house, the classic move is to stack sandbags in front of the door. They are heavy, awkward, and a pain to pile up quickly when water is rising.</p>
+<p>But engineers at the University of Hull in the UK just tested tape against sandbags — and the tape won, easily.</p>
+<h2>The Water-Tank Experiment</h2>
+<p>The scientists built a special lab with a big water tank. They put six different kinds of real front doors inside, then flooded the tank bit by bit, up to about two feet (60 cm) deep. They tried sandbags, and they tried several kinds of tape stuck to the doors.</p>
+<p>The results were dramatic. A flexible synthetic rubber tape sealed out <strong>99% of the water</strong>. Strong duct tape stopped <strong>97–98%</strong>. Even the weakest tape tested blocked about <strong>80%</strong> — while the traditional sandbags only stopped around <strong>70%</strong>.</p>
+<h2>A Clever Little Trick</h2>
+<p>The tests also revealed a neat detail: taping the <strong>outside</strong> of the door worked much better than taping the inside. And doors that opened <strong>outward</strong> leaked far less than doors that opened inward, even without any tape at all.</p>
+<p>The tapes were also cheaper, lighter, easier to store, and ready to use in seconds — no breaking your back hauling wet bags.</p>
+<h2>Try This at Home</h2>
+<p>You can do a mini-version of the experiment in your bathtub or sink. Lay a paper towel or a sponge across the gap under a closed door (or a cardboard barrier), and pour a little water against it. Then press a piece of wide tape along the same gap and pour again — feel how much less water sneaks through. You will see for yourself why a flat, sticky seal beats a pile of loose bags.</p>
+<p>One important note from the scientists: tape is a great quick fix for a doorway, but it is <strong>not</strong> a substitute for proper flood protection, and water can still sneak in through walls, floors, drains and vents. Tape is a fast emergency helper, not a magic shield.</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

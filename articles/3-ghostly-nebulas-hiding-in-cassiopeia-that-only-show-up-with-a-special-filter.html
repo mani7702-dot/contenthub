@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>3 ghostly nebulas hiding in Cassiopeia that only show up with a special filter — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>3 ghostly nebulas hiding in Cassiopeia that only show up with a special filter</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/3-ghostly-nebulas-hiding-in-cassiopeia-that-only-show-up-with-a-special-filter.jpg" alt="3 ghostly nebulas hiding in Cassiopeia that only show up with a special filter">
+    <div class="article-body">
+      <p>A new image from NASA's APOD shows the faint dust clouds of IC 59 and IC 63 — the 'Ghosts of Cassiopeia' — glowing red from a nearby bright star, plus three brand-new blue 'phantoms' lit up by a rare oxygen filter.</p>
+      <p>High up in the northern sky, the constellation Cassiopeia looks like a familiar "W" made of bright stars. But if you point a telescope at the space <em>between</em> those stars — and stare for a very long time — the dark patches of dust start to glow. Three of those patches are nicknamed the <strong>Ghosts of Cassiopeia</strong>, and a brand-new photo has caught them doing something eerie.</p>
+<h2>The original two ghosts</h2>
+<p>IC 59 and IC 63 sit a few finger-widths to the side of gamma Cassiopeia — the star that marks the middle of the "W." Gamma Cassiopeia is a fierce white star hundreds of times brighter than our Sun, and its harsh ultraviolet light does two things to the ghostly dust clouds:</p>
+<p>1. It makes the <strong>hydrogen</strong> in the clouds glow a faint, dusty <strong>red</strong> — the same color as a neon sign.</p>
+<p>2. It makes the dust itself <strong>reflect and scatter</strong> some of the star's blue-white light, so the clouds also shimmer blue-green where the dust is thickest.</p>
+<p>Stare long enough and the ghosts look almost alive — two translucent smears floating in the black.</p>
+<h2>The three new blue phantoms</h2>
+<p>What makes the new image special is a second filter. Astronomers added a special <strong>oxygen-III filter</strong> that picks out light from ionized oxygen — the element that makes Earth's aurora glow green. With that filter on, three extra "phantoms" appear: small, starlike blue smudges that no ordinary photograph can see. These are regions where oxygen atoms are being stripped of an electron and then re-lit by gamma Cassiopeia's radiation — a cosmic version of a fluorescent light.</p>
+<p>The whole picture came together after <strong>about 100 hours</strong> of exposure — that is roughly four straight days of the telescope staring at the same patch of sky, night after night, adding one more photo to the stack. That is why the faintest ghosts only show up now, a century after the first telescopes learned to hunt them.</p>
+<h2>How to see them yourself</h2>
+<p>You do not need a telescope. On a crisp, dark night, find the "W" of Cassiopeia — it moves across the sky all winter. The ghosts themselves are far too faint for human eyes, but they live in one of the most famous "light-bucket" spots in the northern sky, where city lights are scarce.</p>
+<p><strong>Fun fact:</strong> gamma Cassiopeiae is not just bright — it is <em>unstable</em>. It is a variable star whose strength flickers over decades, so the ghosts' glow has been dimming and brightening for thousands of years, long before any human drew the constellation.</p>
+<p><strong>Try it yourself:</strong> download the NASA App or visit the astronomy photo of the day (APOD) website. Each night a different deep-sky photo is published, often with a full explanation you can read aloud under the stars.</p>
+<h2>Sources</h2>
+<p>[APOD: 2026 October 21 — New Ghosts Revealed in Cassiopeia](https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/) · [Wikipedia — Cassiopeia (constellation)](https://en.wikipedia.org/wiki/Cassiopeia_(constellation)) · [Wikipedia — IC 59](https://en.wikipedia.org/wiki/IC_59)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

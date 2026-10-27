@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why do we sneeze? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Health</span>
+      <h1>Why do we sneeze?</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>2 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-we-sneeze.jpg" alt="Why do we sneeze?">
+    <div class="article-body">
+      <p>That sudden 'ah-choo' is your body's best defense against stuff getting into your nose. Here is what is really happening.</p>
+      <p>Every few weeks, something tickles your nose and — <strong>ah-choo!</strong> — out it comes. A sneeze can be loud, fast, and sometimes a little embarrassing. But it is actually one of your body's best protective tricks.</p>
+<h2>Something is in your nose</h2>
+<p>Your nose is a filter. Every breath pulls in air, and that air can carry dust, pollen, or tiny germs. When something irritating lands on the inside of your nose, special cells sound the alarm.</p>
+<h2>The alarm goes to your brain</h2>
+<p>That alarm travels to your brain, which does not waste time. It tells your eyes to close, your lungs to fill with air, and your body to get ready.</p>
+<p>Then, suddenly, everything lets go. A burst of air rockets up through your nose and mouth, blowing the troublemaker right back out. All of that in about two seconds, before you can even decide to do it.</p>
+<h2>A blast of air</h2>
+<p>A sneeze is powerful — air can shoot out faster than a car on the highway. That is why it clears your nose so quickly, and why your whole body jerks. It is like a tiny sneeze-sized explosion designed to clean house.</p>
+<h2>Why it sometimes happens in pairs</h2>
+<p>One sneeze usually does the job. But sometimes a second or third sneeze follows, because your nose is making sure it got everything. Sunlight can also trigger sneezes in some people (that is called the "sun sneeze" reflex). Some scientists think the blast of air catches germs by surprise in the cold, but mostly, a sneeze is just your nose saying: <em>not today, buddy.</em></p>
+<p>So the next time someone sneezes near you, remember: you just watched your friend's body run a very fast, automatic cleanup.</p>
+<blockquote>Try this at home: notice the very first tickle that starts a sneeze — it happens before you can stop it, which shows how automatic the reflex really is.</blockquote>
+<p><strong>Sources:</strong> [Scientific American — Why do we sneeze?](https://www.scientificamerican.com/article/why-do-we-sneeze/) · [KidsHealth — What makes us sneeze (Nemours)](https://kidshealth.org/en/kids/sneeze.html)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

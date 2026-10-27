@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can 4 minutes of daily exercise keep you strong as you grow? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Can 4 minutes of daily exercise keep you strong as you grow?</h1>
+      <div class="meta"><span></span><span>2026-10-22</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-4-minutes-of-daily-exercise-keep-you-strong-as-you-grow.jpg" alt="Can 4 minutes of daily exercise keep you strong as you grow?">
+    <div class="article-body">
+      <p>A Penn State study found that older adults who did just four minutes of daily strength exercises — four simple moves, 30 seconds each — gained real muscle power, better balance, and stronger legs in only 12 weeks, with no special gym or expensive gear needed.</p>
+      <h2>Strong is the new easy</h2>
+<p>Grown-ups often hear that staying fit means hours at the gym or long, complicated workout plans. But what if four minutes were enough?</p>
+<p>That is what a team at Penn State College of Medicine decided to test. They asked a simple question: can a very short daily strength routine help older adults move better and feel steadier on their feet?</p>
+<h2>The four-minute secret</h2>
+<p>The researchers created a tiny routine with <strong>four body-weight exercises</strong>. Each move lasts just <strong>30 seconds</strong>, and you rest 30 seconds between moves. Altogether? <strong>Four minutes a day.</strong></p>
+<p>The moves hit the big muscles in the legs — the same muscles that help you stand up from a chair, climb stairs, and keep your balance. No barbells, no machines, no gym membership. Just your own body.</p>
+<p>They put 97 volunteers — all aged 65 and older, all a bit unsteady on their feet — into two groups. One group did the four-minute workout every day. The other group waited and started later.</p>
+<p>After <strong>12 weeks</strong>, the numbers told a clear story:</p>
+<ul><li>The workout group stood up from a chair <strong>four extra times</strong> in half a minute.</li><li>They held a one-legged stand <strong>3.6 seconds longer</strong> — a big deal when balance is slipping.</li><li>They finished a five-times-sit-to-stand test <strong>2.3 seconds faster</strong>, which matters for everyday independence.</li></ul>
+<p>Best of all: nobody got hurt, and people actually <em>kept doing it</em> — 81 percent of days.</p>
+<h2>Why it works</h2>
+<p>Muscle is like a muscle — if you do not use it, it fades. The same goes for balance. But the body responds fast to even small, regular demands. By asking the legs to lift and hold a little each day, the muscles wake up again.</p>
+<p>It is also proof that <strong>consistency beats size</strong>. Four minutes is short enough that nearly everyone can find the time — even on the busiest morning.</p>
+<h2>Try this at home</h2>
+<p>Here is a kid-friendly version you can try with a grown-up:</p>
+<p>1. <strong>Chair stand</strong> — sit in a sturdy chair, then stand up and sit down, 30 seconds. Count your reps!</p>
+<p>2. <strong>One-leg balance</strong> — stand on one foot for 30 seconds, then switch. Pretend you are a flamingo on one leg.</p>
+<p>3. <strong>Heel raises</strong> — stand tall, then rise up onto your toes and lower down, 30 seconds.</p>
+<p>4. <strong>March in place</strong> — lift knees high like you are marching, 30 seconds.</p>
+<p>Rest 30 seconds between each. Total: about four minutes. Grown-ups can do it daily. Kids can do the moves too (just shorter) to build strong bones and steady feet.</p>
+<h2>Fun fact</h2>
+<p>Some of the strongest animals on Earth rely on short, frequent bursts — hummingbirds hover by beating their wings 50 times per second, and they do thousands of hover-stops every day. Small efforts, repeated often, pack real power.</p>
+<p><strong>Sources:</strong> [ScienceDaily — Just 4 minutes a day can dramatically improve strength after 65](https://www.sciencedaily.com/releases/2026/10/261020085025.htm) · [PLOS ONE — Brief daily functional strength training to improve functional performance in older adults with mobility disability: A randomized trial](https://doi.org/10.1371/journal.pone.0336748)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why are forests quietly swallowing a potent greenhouse gas? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why are forests quietly swallowing a potent greenhouse gas?</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-are-forests-quietly-swallowing-a-potent-greenhouse-gas.jpg" alt="Why are forests quietly swallowing a potent greenhouse gas?">
+    <div class="article-body">
+      <p>Scientists tracking 13 German forest plots for up to 24 years found something surprising: as the climate warms and rain falls less often, forest soils are pulling more methane out of the air each year.</p>
+      <h2>A greenhouse gas you can smell (sort of)</h2>
+<p><strong>Methane</strong> is the greenhouse gas that builds up in landfills and belches out of cows. Left floating in the sky, it traps far more heat than carbon dioxide — about 28 times more, pound for pound, over a hundred years. That is why cutting methane emissions is one of the fastest ways to slow global warming.</p>
+<h2>Forests are breathing it in</h2>
+<p>Here is the surprise: forests do not just drink in carbon dioxide through their leaves. Their <strong>soils</strong> can swallow methane too.</p>
+<p>Tiny microbes living in the dirt treat methane like food. They pull it down through the ground, then break it into carbon dioxide and water, using the energy to grow. Scientists used to think that as the climate warmed and rains changed, this underground methane-cleaning service would mostly break down. The German study says: not so fast.</p>
+<h2>24 years, 13 forests, one clear pattern</h2>
+<p>Researchers from the <strong>University of Göttingen</strong> and the <strong>Baden-Württemberg Forest Research Institute</strong> looked at the world's biggest collection of long-term soil-gas records. They studied <strong>13 forest sites</strong> in south-western Germany, taking measurements every two weeks for up to <strong>24 years</strong>.</p>
+<p>Every two weeks, the team pushed thin tubes into the soil and pulled out air samples. They also placed airtight chambers directly on the forest floor, then measured how methane levels rose or fell inside them over time.</p>
+<p>The result: on average, the soils absorbed about <strong>3% more methane each year</strong>. Warmer temperatures and drier conditions were linked to higher uptake.</p>
+<h2>Why dry earth drinks methane better</h2>
+<p>It helps to picture two kinds of soil:</p>
+<ul><li><strong>Soggy soil</strong> = pores filled with water. Gas can't move through it easily, so methane from the air struggles to reach the microbes below.</li><li><strong>Drier soil</strong> = more air-filled pores. Methane diffuses down into the ground, where microbes are waiting.</li></ul>
+<p>Warmer air also gives those microbes a mild speed boost, so they consume methane faster.</p>
+<p>"The soil itself becomes a better vacuum cleaner for methane when it is warm and dry," say the researchers.</p>
+<h2>So is climate change a good thing for forests?</h2>
+<p>Not at all. The study only looked at <strong>one</strong> piece of the puzzle — methane removal. Climate change still stresses trees through drought, fire, pests, and shifting seasons. The findings simply show that soil methane uptake is <strong>sensitive to local conditions</strong>, and that 24-year datasets can spot slow changes that shorter studies miss.</p>
+<p>"Our results make it clear that taking measurements over many years is indispensable," says Prof. Martin Maier. "A single season can look like everything, when the real story only shows itself over decades."</p>
+<h2>Try this at home</h2>
+<p>You can explore the idea with a jar and a bit of soil. Place a small candle on a plate, put a jar over it, and watch the flame flicker out as the plant/oxygen cycle runs down. The soil microbes need oxygen to "eat" methane — so airtight conditions would stop them. Keep soil loose and aired, and gases can move through it the way they do in a real forest. (Don't eat any of it — it's a demo!)</p>
+<p><strong>Sources:</strong></p>
+<ul><li>University of Göttingen (press release): https://www.uni-goettingen.de/en/17686.html?id=8075</li><li>ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261014015525.htm</li><li>ScienceOfficial: https://scienceofficial.org/nature/long-term-study-finds-forest-soils-absorbing-more-methane-as-climate-shifts/</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

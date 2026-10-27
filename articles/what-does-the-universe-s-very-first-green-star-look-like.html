@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What does the universe's very first green star look like? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>What does the universe's very first green star look like?</h1>
+      <div class="meta"><span></span><span>2026-10-27</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/what-does-the-universe-s-very-first-green-star-look-like.jpg" alt="What does the universe's very first green star look like?">
+    <div class="article-body">
+      
+      <h1>What does the universe's very first green star look like?</h1>
+<h2>A star that should exist — but glows green instead</h2>
+<p>When you imagine a star burning in space, you probably picture it as white, orange, red, or blue. After all, a star's color is usually set by how hot it is: cooler stars look orange-red, Sun-like stars appear white, and the hottest stars shine pale blue.</p>
+<p>But astronomers have now found a star that breaks the rule. Meet <strong>WD J1330+6435</strong> — a dead star called a <em>white dwarf</em> that would look genuinely <strong>green</strong> if you could see it up close. It is the first star known to shine green, and it opens a hidden rainbow of colors that scientists never knew dead stars could show.</p>
+<h2>Why this dead star looks like liquid jade</h2>
+<p>White dwarfs are the leftover hearts of stars like our Sun. Once a star runs out of fuel, it collapses in on itself until it is compressed into an Earth-sized sphere so dense that a single spoonful would weigh tons. There is no more nuclear fusion — they simply glow from leftover heat, fading slowly over billions of years.</p>
+<p>The green color comes from what the star has "eaten." Over time, WD J1330+6435 has pulled in rocky debris from planets that once orbited it. That debris carried elements like sodium, calcium, and lithium into the star's atmosphere. Under the star's crushing density — about a million times denser than Earth's air — those elements behave strangely. Sodium absorbs light strongly across yellow, orange, and red wavelengths, stripping those colors out of the mix. What remains leaks out as ghostly green.</p>
+<p>Think of it like dropping food coloring into a glass of water: the red and yellow dyes vanish, and only the blue-green tint stays visible.</p>
+<h2>Dead stars hiding surprising rainbow shades</h2>
+<p>This is not a one-off. By studying the spectra of white dwarfs across the sky — splitting their light into a rainbow of wavelengths like a cosmic prism — the team found that dead stars come in pink, purple, yellow, and even cyan, depending on what chemicals sit in their atmospheres.</p>
+<ul><li><strong>Carbon-rich</strong> white dwarfs often glow <strong>pink or purple</strong>.</li><li>White dwarfs that swallowed <strong>asteroid or comet</strong> debris tend to look <strong>yellow</strong>.</li><li>The coolest ones, where hydrogen and helium atoms bump into each other under extreme pressure, can shift to <strong>cyan or pale blue</strong>.</li></ul>
+<p>Because no white dwarf is close enough for human eyes to see its true color, the researchers used precise starlight measurements instead, running the data through a model of how the human eye perceives color. This shows that a star's appearance can tell us what it has been eating long after its life ended.</p>
+<h2>Try this at home</h2>
+<p>Pour a thick glass of water and add one drop of milk so it turns milky. Shine a flashlight through it — the light that comes out looks slightly greenish because the milk scatters away the reds and blues. That's a tiny echo of how dense starlight can lose whole colors and let just one shade shine through.</p>
+<h2>Fun Fact</h2>
+<p>The nearest known white dwarf is Sirius B — the bright "dog star" Sirius has a faint, invisible companion that is the remnant of a star that once was the brightest in our sky, billions of years before our Sun was born.</p>
+<p><strong>for-grownups:</strong> WD J1330+6435 was studied by Dr. Mark Hollands' team at the University of Warwick and reported in <em>RAS Techniques and Instruments</em> (RASTI). The green appearance is a calculated human-eye color derived from spectroscopic analysis of atmospheric sodium absorption in a ~4,000 °C white dwarf that has accreted planetary debris; no direct visual observation is possible. Wikipedia's "White dwarf" confirms that these stellar remnants are Earth-sized, supported by electron degeneracy pressure, and radiate from residual heat without fusion — the dense atmospheric chemistry that produces anomalous colors is consistent with this established physics. Sources: ScienceDaily release 261017230018 (University of Warwick); Wikipedia, "White dwarf."</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

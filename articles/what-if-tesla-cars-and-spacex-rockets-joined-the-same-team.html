@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What if Tesla cars and SpaceX rockets joined the same team? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">World</span>
+      <h1>What if Tesla cars and SpaceX rockets joined the same team?</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/what-if-tesla-cars-and-spacex-rockets-joined-the-same-team.jpg" alt="What if Tesla cars and SpaceX rockets joined the same team?">
+    <div class="article-body">
+      <p>Elon Musk — who runs both Tesla electric cars and SpaceX rockets — said he is thinking about merging the two companies into one giant tech team.</p>
+      <h1>What if Tesla cars and SpaceX rockets joined the same team?</h1>
+<h2>One person, two big companies</h2>
+<p>Imagine if the company that makes electric cars and the company that shoots rockets into space decided to become one. That is exactly what is being talked about.</p>
+<p>Elon Musk — the entrepreneur who runs both <strong>Tesla</strong> (electric cars) and <strong>SpaceX</strong> (rockets and satellites) — said he thinks a merger could make sense. He made the comment during a call about SpaceX's latest results, and the news was reported by BBC News.</p>
+<p>"Special committees" at both companies are studying the idea, but Musk was clear: nothing is decided yet. A merger would need <strong>more than half of Tesla's shareholders</strong> to vote yes, and that is a high bar.</p>
+<h2>Why put them together?</h2>
+<p>The two companies are already friends. In 2026 they started <strong>Terafab</strong> — a joint project to build a huge factory that makes computer chips (the tiny brains inside phones, cars, and toys). Musk said the same teamwork could grow bigger.</p>
+<p>Tesla makes electric cars and energy batteries. SpaceX launches rockets, runs the <strong>Starlink</strong> internet satellite network, and builds data centers for artificial intelligence. If they joined forces, one team could design a chip in the factory and test it in space the same week.</p>
+<h2>How big would it be?</h2>
+<p>It would be one of the largest combinations in history. Think of it this way: if you added up what Tesla is worth to what SpaceX is worth, you get a number that is hard to even picture — trillions of dollars.</p>
+<p>But Musk also joked that talking about a merger is like "tap dancing through a minefield" — it is complicated! Both companies have their own boards, their own shareholders, and their own goals.</p>
+<h2>What happens next?</h2>
+<p>Nothing happens until the committees finish studying the idea and both sets of shareholders vote. Musk even said he will not sit on either committee, because he owns both companies — so he is officially a "conflicted party."</p>
+<p>That means this story is still being written. Will rockets and cars share a garage? Maybe. But for now, it is just a big, exciting "what if."</p>
+<h2>Try this at home</h2>
+<p>Draw a comic strip showing a Tesla car and a SpaceX rocket as best friends. What jobs could they do together? Maybe the car gives the rocket a jump-start, or the rocket gives the car a ride to Mars.</p>
+<h2>Fun Fact</h2>
+<p>SpaceX's Starlink satellites — thousands of them — already beam internet to remote places on Earth. The revenue from Starlink is now the biggest source of income for SpaceX, showing how space business can connect to everyday life.</p>
+<h2>Sources</h2>
+<ul><li>BBC News, "Elon Musk says Tesla-SpaceX merger being considered", 20 October 2026 — https://www.bbc.co.uk/news/articles/cmlyl09xjke4o (by Kali Hays)</li><li>Wikipedia, "SpaceX" — https://en.wikipedia.org/wiki/SpaceX (company ownership, Terafab joint venture, Starlink revenue, 2026 IPO)</li><li>Cross-checked and confirmed matching facts (20 Oct 2026, Musk runs both companies, Terafab chip joint venture, special committees studying merger, Starlink is biggest SpaceX income, Musk is a paper-trillionaire after SpaceX's 2026 market debut).</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

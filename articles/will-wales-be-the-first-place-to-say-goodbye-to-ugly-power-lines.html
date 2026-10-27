@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Will Wales be the first place to say goodbye to ugly power lines? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">World</span>
+      <h1>Will Wales be the first place to say goodbye to ugly power lines?</h1>
+      <div class="meta"><span></span><span>2026-10-24</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/will-wales-be-the-first-place-to-say-goodbye-to-ugly-power-lines.jpg" alt="Will Wales be the first place to say goodbye to ugly power lines?">
+    <div class="article-body">
+      <p>Wales is planning to ban new steel pylons and bury power cables underground instead — a move that could change how we get electricity across the countryside.</p>
+      <h1>Will Wales be the first place to say goodbye to ugly power lines?</h1>
+<h2>1. The towers that tower over the countryside</h2>
+<p>Walk through the British countryside and you will probably see them — tall, skinny, metal towers with a web of crisscrossing bars reaching across fields and hills. These are <strong>electricity pylons</strong>, and they carry the power lines that bring electricity from power stations to your home.</p>
+<p>Most pylons are made of <strong>steel</strong>, built high so the power lines can stretch across long distances without getting in the way of farms, roads, and trees. They are a familiar sight — but not everyone thinks they look nice.</p>
+<h2>2. Wales says: let's bury them instead</h2>
+<p>The government of <strong>Wales</strong> — a country that is part of the United Kingdom — has a bold new idea. On October 23, 2026, they launched a <strong>public consultation</strong> (fancy talk for “let's ask everyone what they think”) to ban new steel pylons and <strong>bury the power cables underground</strong> instead.</p>
+<p>Why? Well, the Welsh government says underground cables:</p>
+<ul><li><strong>Look nicer</strong> — no metal towers spoiling the view</li><li><strong>Are safer in storms</strong> — heavy wind and snow can't knock them down as easily</li><li><strong>Protect wildlife</strong> — birds and animals won't bump into the power lines</li></ul>
+<p>But there is a catch: burying cables costs <strong>more money</strong> and takes more work to install. So the plan allows wooden poles as a backup where undergrounding just isn't possible.</p>
+<h2>3. A real project that inspired the plan</h2>
+<p>This isn't just a theory. A company called <strong>Green Gen Cymru</strong> wants to build three big power cable routes to connect new <strong>wind farms</strong> to the electricity grid. Wind farms use the wind to make clean energy — no smoke, no pollution! But they need power lines to carry that energy to homes.</p>
+<p>The company planned to spend nearly <strong>£1 billion</strong> ($1.2 billion) by 2030 on projects across Wales and the border with England. Some local people were worried about the pylons spoiling the view, so this new undergrounding plan might be just what they needed.</p>
+<h2>Try this at home</h2>
+<p>Look around your neighborhood — can you spot any power lines on tall poles? Draw or photograph one, then imagine: how would that same power line look if it were buried underground? Try sketching an underground version. Ask a grown-up to help you look up what wind turbines look like — you can find lots of photos online!</p>
+<h2>Fun Fact</h2>
+<p>The world's first power lines went up in the 1880s — but back then, they only carried low-voltage light bulbs! It took decades before engineers figured out how to move electricity hundreds of miles using the tall steel pylons we see today. Now, Wales might be the first country to try going back underground.</p>
+<h2>Sources</h2>
+<ul><li>BBC News — "Wales plans to ban steel pylons as government launches consultation" (https://www.bbc.co.uk/news/articles/c9x28dgj2r0go)</li><li>Wikipedia — "Transmission tower" (https://en.wikipedia.org/wiki/Transmission_tower)</li><li>Wikipedia — "National Grid (Great Britain)" (https://en.wikipedia.org/wiki/National_Grid_(Great_Britain))</li><li>Wikipedia — "Wales" (https://en.wikipedia.org/wiki/Wales)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

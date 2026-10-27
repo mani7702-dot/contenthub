@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How a British astronaut surprised a classroom with a video from space — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">World</span>
+      <h1>How a British astronaut surprised a classroom with a video from space</h1>
+      <div class="meta"><span></span><span>2026-10-22</span><span>2</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-a-british-astronaut-surprised-a-classroom-with-a-video-from-space.jpg" alt="How a British astronaut surprised a classroom with a video from space">
+    <div class="article-body">
+      <p>A real astronaut sent a surprise video message to primary school kids in Plymouth — and they couldn't believe their eyes.</p>
+      <h2>A video message from orbit</h2>
+<p>Imagine getting a video call from space — but the person on screen is a real astronaut floating in a spaceship!</p>
+<p>That is exactly what happened to a group of primary school children in Plymouth, England. Their teacher, Emily Trevarthen, got a special surprise video message from British astronaut Tim Peake.</p>
+<p>Peake told the pupils: "I hear you have been studying all about space, a subject very close to my heart, something I love, so I am very pleased that you enjoy it too. Keep looking up at the stars."</p>
+<h2>How did it happen?</h2>
+<p>It all started over the summer. Emily's father was on a cruise ship and happened to strike up a conversation with Tim Peake. During their chat, her father mentioned that Emily teaches young children.</p>
+<p>A few months later, the surprise arrived. The video was kept top secret until World Space Week — a celebration of all things space — when the school showed it during a special assembly.</p>
+<p>Emily said: "We did not expect to get what we got really."</p>
+<h2>A British hero in space</h2>
+<p>Some of the children had thought all astronauts were American. But meeting Tim Peake — a proud British astronaut — helped them realise that anyone can reach for the stars, no matter where they are from.</p>
+<p>Peake first flew to space in 2015 as part of his Principia mission. He spent six months on the International Space Station, where he even ran the London Marathon on a treadmill floating in orbit!</p>
+<p>The children were so excited that some of them first wondered if the video was made using artificial intelligence. When they realised it was really him, they were starstruck.</p>
+<p>Teacher Joanna Stelmaszczyk said: "I remember it like it was yesterday. I was teaching Year 1 at the time, and the buzz and excitement in the classroom was something I will never forget."</p>
+<h2>Try this at home</h2>
+<p>Ask an adult to help you watch a real astronaut video message online. You can search for "Tim Peake ISS" or "Space Station live" on a kid-safe video site. See if you can spot Earth spinning below — that is the real planet we live on, seen from 400 kilometres above us.</p>
+<h2>Fun fact</h2>
+<p>Tim Peake ran the entire London Marathon — 26.2 miles — while floating inside the International Space Station, strapped to a treadmill. He is the second person in history to run a marathon from space!</p>
+<h2>Sources</h2>
+<ul><li>BBC News: "Astronaut surprise video leaves pupils starstruck," 21 October 2026 — https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o</li><li>Wikipedia: Tim Peake — https://en.wikipedia.org/wiki/Tim_Peake</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why do sunbeams look like they meet at a rainbow? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>Why do sunbeams look like they meet at a rainbow?</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>2</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-sunbeams-look-like-they-meet-at-a-rainbow.jpg" alt="Why do sunbeams look like they meet at a rainbow?">
+    <div class="article-body">
+      <p>A photographer in Italy caught a strange sight — sunbeams that seem to converge right in front of some hills, with a tiny rainbow fanned across them. What looks like a trick of light is real science.</p>
+      <h2>A rainbow that meets at a fake Sun</h2>
+<p>Someone was hanging up laundry in a small town in Italy when they noticed something strange in the sky. Sunbeams were streaming through gaps in the clouds, but they did not spread out from the Sun like they should. Instead, they seemed to come <strong>together</strong> in front of a line of hills — right where the Sun looked like it was sitting.</p>
+<p>Even stranger? There was a tiny <strong>rainbow</strong> fanned across those sunbeams.</p>
+<p>What is going on?</p>
+<h2>Sunbeams that bend backward</h2>
+<p>When sunlight passes through gaps in clouds, the beams usually spread outward from the Sun — that is how rainbows and crepuscular rays work. Light bends backward through falling raindrops, so the Sun has to be <strong>behind you</strong> for you to see a rainbow.</p>
+<p>But what if the beams appear to come from a Sun that is <strong>in front of you</strong> — below the hills, not behind? That is the trick of <strong>anticrepuscular rays</strong>. These are real, parallel sunbeams that reach your eyes from the opposite side of the sky. Because they are all heading toward your eye along the same direction, your brain sees them <strong>converging</strong> at a single point directly opposite the Sun — the <strong>antisolar point</strong>, which sits right where the "fake Sun" appears in this photo.</p>
+<p>It is the same reason railroad tracks look like they meet at the horizon, even though they never do. Parallel lines appear to come together because of how our eyes and brains process distance.</p>
+<h2>Try this at home</h2>
+<p>Wait for a sunny day with scattered clouds. Stand with your back to the Sun and look at the shadow that your body casts on the ground. That shadow point is your antisolar point. On a clear evening, watch the sky directly opposite the sunset — if the clouds are right, you may see faint beams fanning out from that same spot. That is your own antisolar point!</p>
+<h2>Fun Fact</h2>
+<p>Anticrepuscular rays are so dim that they are almost always seen at dawn or dusk, when the Sun is just below (or just above) the horizon. At midday, the effect is too faint because the rest of the sky is too bright. Some photographers catch them enclosed inside a rainbow — and when that happens, meteorologists call the pattern "wagon-wheel spokes," because the rays look like the spokes of a wheel around which a rainbow rim has been placed.</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

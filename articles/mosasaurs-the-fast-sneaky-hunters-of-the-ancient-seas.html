@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mosasaurs: the fast, sneaky hunters of the ancient seas — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Animals</span>
+      <h1>Mosasaurs: the fast, sneaky hunters of the ancient seas</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/mosasaurs-the-fast-sneaky-hunters-of-the-ancient-seas.jpg" alt="Mosasaurs: the fast, sneaky hunters of the ancient seas">
+    <div class="article-body">
+      <p>While dinosaurs ruled the land, bus-sized mosasaurs hunted the ocean. New physics models show they did it with sudden, sneaky bursts of speed.</p>
+      <p>While dinosaurs walked on land, truly giant monsters ruled the sea. They were called <strong>mosasaurs</strong>, and some grew as long as a city bus. Yet a new study shows they were not slow sea monsters at all — they were fast, sneaky ambush hunters.</p>
+<h2>Sea monsters that were not dinosaurs</h2>
+<p>Mosasaurs were huge marine reptiles, close cousins of today's snakes and lizards. They lived in the oceans of the Late Cretaceous, at the same time as T. rex, and they hunted smaller animals in the water.</p>
+<h2>The surprise: a powerful burst</h2>
+<p>Scientists used computer models of their bodies to work out how fast they could move. Their big clue was the tail. Some mosasaurs had long, flexible tails that could curl — and that shape is built for a sudden burst.</p>
+<p>The study calls this a <strong>"slam-start"</strong>: the animal curls its tail, then sweeps it sideways against the water to launch itself forward in a flash. Some could reach around 15 miles per hour in that single surge — far faster than a human can swim.</p>
+<h2>Built for a sneak attack</h2>
+<p>A snake-like, flexible-tailed mosasaur is perfect for lying hidden and then striking out of nowhere. The scientists describe them as skilled <strong>ambush predators</strong> — hiding, waiting, then exploding forward to catch prey by surprise.</p>
+<p>Other mosasaurs with different tails were better at steady cruising, chasing prey across open water. Different hunters, different tricks — but none of them slow.</p>
+<h2>Why fossil physics matters</h2>
+<p>These animals lived 65 million years ago, so we can never watch them swim. Instead, scientists build computer models from the bones and from living relatives like the Komodo dragon, then let physics guess how the bodies worked. It is a new way to bring extinct animals back to life — one simulation at a time.</p>
+<p>So next time you picture an ancient sea monster: not a slow giant, but a patient, lightning-fast ambusher, coiling its tail in the dark water, ready to strike.</p>
+<p><strong>Sources:</strong> [NPR — The terrifying physics of prehistoric sea monsters](https://www.npr.org/2026/10/16/nx-s1-5994381/dinosaur-predator-mosasaur-physics-ocean) · [FossilGuy — Mosasaur facts and the October 2026 Current Biology study](https://www.fossilguy.com/gallery/vert/reptile/mosasaur/index.htm)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

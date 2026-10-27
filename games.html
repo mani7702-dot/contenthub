@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Games — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  .game-panel{max-width:640px;margin:0 auto;padding:20px 0 40px}
+  .game-box{background:var(--surface);border:1px solid var(--line);border-radius:24px;padding:30px;box-shadow:var(--card-shadow);min-height:360px;text-align:center}
+  .game-box h2{margin-bottom:8px}
+  .game-box .sub{color:var(--ink-soft);margin-bottom:22px}
+
+  /* ---- Tic-Tac-Toe ---- */
+  .ttt{display:grid;grid-template-columns:repeat(3,90px);gap:10px;justify-content:center;margin:0 auto 20px}
+  .cell{width:90px;height:90px;border-radius:16px;background:var(--bg-soft);border:1px solid var(--line);font-size:2.4rem;font-weight:900;display:grid;place-items:center;transition:.2s;color:var(--ink)}
+  .cell:hover{transform:scale(1.05)}
+  .cell.x{color:var(--coral)} .cell.o{color:var(--aqua)}
+
+  /* ---- Memory ---- */
+  .mem{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;max-width:420px;margin:0 auto 20px}
+  .mcard{aspect-ratio:1;border-radius:14px;background:linear-gradient(135deg,var(--violet),var(--coral));display:grid;place-items:center;font-size:1.8rem;cursor:pointer;transition:.35s;color:#fff}
+  .mcard.flip{background:var(--bg-soft);color:var(--ink)}
+  .mcard.matched{background:var(--aqua);cursor:default;animation:pop .4s}
+  @keyframes pop{0%{transform:scale(1)}50%{transform:scale(1.15)}100%{transform:scale(1)}}
+
+  /* ---- Reaction ---- */
+  .reaction{width:100%;max-width:420px;height:260px;border-radius:18px;display:grid;place-items:center;margin:0 auto 20px;cursor:pointer;transition:background .15s;color:#fff;font-weight:800;font-size:1.2rem}
+  .reaction.wait{background:var(--coral)} .reaction.ready{background:var(--aqua)} .reaction.go{background:var(--violet)}
+
+  /* ---- Guess ---- */
+  .guess{display:flex;flex-direction:column;align-items:center;gap:16px;max-width:340px;margin:0 auto}
+  .guess input{width:100%;padding:14px;text-align:center;font-size:1.4rem;font-weight:800;border-radius:14px;border:1px solid var(--line);background:var(--bg-soft);color:var(--ink);outline:none;font-family:inherit}
+  .guess input:focus{border-color:var(--violet)}
+  .hint{font-weight:700;min-height:26px}
+  .hint.low{color:var(--amber)} .hint.high{color:var(--coral)} .hint.win{color:var(--aqua)}
+
+  .game-nav{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-bottom:26px}
+  .game-nav button{padding:11px 18px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-weight:700;color:var(--ink-soft);transition:.3s}
+  .game-nav button:hover{color:var(--violet)}
+  .game-nav button.on{background:var(--violet);color:#fff;border-color:var(--violet)}
+  .status{font-weight:800;margin-bottom:14px;min-height:26px}
+  .score{margin-bottom:14px;color:var(--ink-soft)}
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a class="active" href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:40px 0 10px">
+  <div class="container">
+    <h1>Play <span class="grad">Area</span></h1>
+    <p>Quick, lightweight games that run right in your browser. Pick one and go — no downloads, no lag.</p>
+  </div>
+</section>
+
+<div class="container" style="max-width:640px;margin:0 auto">
+  <div id="statsBar" class="game-box" style="min-height:0;padding:16px 22px;margin-bottom:18px;text-align:left;display:none"></div>
+</div>
+
+<div class="game-panel container">
+  <nav class="game-nav" id="gameNav">
+    <button class="on" data-g="ttt">⭕ Tic-Tac-Toe</button>
+    <button data-g="mem">🧠 Memory</button>
+    <button data-g="rx">⚡ Reaction</button>
+    <button data-g="guess">🎯 Number Guess</button>
+  </nav>
+
+  <!-- Tic-Tac-Toe -->
+  <section class="game-box" id="g-ttt">
+    <h2>Tic-Tac-Toe</h2>
+    <p class="sub">Two players. Take turns — three in a row wins.</p>
+    <div class="status" id="ttt-status">Your turn — X</div>
+    <div class="ttt" id="ttt"></div>
+    <button class="btn btn-ghost" onclick="tttReset()">Restart</button>
+  </section>
+
+  <!-- Memory -->
+  <section class="game-box" id="g-mem" style="display:none">
+    <h2>Memory Match</h2>
+    <p class="sub">Flip two cards at a time and match every pair.</p>
+    <div class="score" id="mem-moves">Moves: 0 · Pairs: 0/6</div>
+    <div class="mem" id="mem"></div>
+    <button class="btn btn-ghost" onclick="memReset()">Shuffle &amp; restart</button>
+  </section>
+
+  <!-- Reaction -->
+  <section class="game-box" id="g-rx" style="display:none">
+    <h2>Reaction Click</h2>
+    <p class="sub">Click the moment the box turns violet.</p>
+    <div class="reaction" id="rx">Wait for green…</div>
+    <div class="status" id="rx-status">Best: —</div>
+    <button class="btn btn-ghost" onclick="rxReset()">Try again</button>
+  </section>
+
+  <!-- Number Guess -->
+  <section class="game-box" id="g-guess" style="display:none">
+    <h2>Number Guess</h2>
+    <p class="sub">Guess the secret number between 1 and 100.</p>
+    <div class="hint" id="guess-hint">Pick a number to start.</div>
+    <div class="guess">
+      <input id="guess-input" type="number" min="1" max="100" placeholder="1 – 100">
+      <button class="btn btn-solid" onclick="guessTry()">Guess</button>
+    </div>
+  </section>
+</div>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · New games can be added anytime from the same hub.</p>
+  </div>
+</footer>
+
+<script src="assets/script.js"></script>
+<script>
+/* ---- Welcome-back progress bar (repeat visits) ---- */
+(function () {
+  var s = window.CH && window.CH.stats && window.CH.stats.summary();
+  var bar = document.getElementById('statsBar');
+  if (!s || !bar || !s.plays) return;
+  var parts = [];
+  var gnames = { ttt: 'Tic-Tac-Toe', mem: 'Memory', rx: 'Reaction', guess: 'Number Guess' };
+  for (var k in s.best) {
+    if (gnames[k] && s.best[k] != null) parts.push('<strong>' + gnames[k] + '</strong> best ' + s.best[k]);
+  }
+  var total = 0;
+  for (var p in s.plays) total += s.plays[p];
+  if (parts.length) {
+    bar.style.display = 'block';
+    bar.innerHTML = '<span style="font-weight:800;color:var(--violet)">👋 Welcome back!</span> You have played <strong>' + total + ' game' + (total === 1 ? '' : 's') + '</strong>. ' + parts.join(' · ');
+  }
+})();
+
+/* ---- Game switcher ---- */
+var nav = document.getElementById('gameNav');
+nav.querySelectorAll('button').forEach(function (b) {
+  b.addEventListener('click', function () {
+    nav.querySelectorAll('button').forEach(function (x) { x.classList.remove('on'); });
+    b.classList.add('on');
+    document.querySelectorAll('.game-box').forEach(function (s) { s.style.display = 'none'; });
+    document.getElementById('g-' + b.dataset.g).style.display = 'block';
+  });
+});
+
+/* ============ TIC-TAC-TOE ============ */
+var tttBoard = ['', '', '', '', '', '', '', '', ''];
+var tttTurn = 'X';
+var tttOver = false;
+var tttMoves = 0;
+var tttEl = document.getElementById('ttt');
+function tttRender() {
+  tttEl.innerHTML = '';
+  tttBoard.forEach(function (v, i) {
+    var c = document.createElement('button');
+    c.className = 'cell ' + (v === 'X' ? 'x' : v === 'O' ? 'o' : '');
+    c.textContent = v;
+    c.onclick = function () { tttPlay(i); };
+    tttEl.appendChild(c);
+  });
+}
+function tttPlay(i) {
+  if (tttBoard[i] || tttOver) return;
+  tttBoard[i] = tttTurn;
+  tttMoves++;
+  var w = tttWin(tttBoard);
+  if (w) {
+    tttOver = true;
+    document.getElementById('ttt-status').textContent = (w === 'X' ? 'X' : 'O') + ' wins in ' + tttMoves + ' moves! 🎉';
+    if (window.CH && window.CH.stats) window.CH.stats.record('ttt', tttMoves);
+  } else if (tttBoard.every(function (x) { return x; })) {
+    tttOver = true;
+    document.getElementById('ttt-status').textContent = "It's a draw!";
+  } else {
+    tttTurn = tttTurn === 'X' ? 'O' : 'X';
+    document.getElementById('ttt-status').textContent = "Your turn — " + tttTurn;
+  }
+  tttRender();
+}
+function tttWin(b) {
+  var L = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
+  for (var i = 0; i < L.length; i++) {
+    var a = L[i][0], c = L[i][1], d = L[i][2];
+    if (b[a] && b[a] === b[c] && b[a] === b[d]) return b[a];
+  }
+  return null;
+}
+function tttReset() {
+  tttBoard = ['', '', '', '', '', '', '', '', '']; tttTurn = 'X'; tttOver = false;
+  document.getElementById('ttt-status').textContent = 'Your turn — X';
+  tttRender();
+}
+tttRender();
+
+/* ============ MEMORY ============ */
+var memEmoji = ['🍎', '🍌', '🍇', '🍉', '🍒', '🥝'];
+var memCards = [], memFlipped = [], memLocked = false, memMoves = 0, memPairs = 0;
+var memEl = document.getElementById('mem');
+function memReset() {
+  memCards = memEmoji.concat(memEmoji);
+  for (var i = memCards.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var t = memCards[i]; memCards[i] = memCards[j]; memCards[j] = t;
+  }
+  memFlipped = []; memLocked = false; memMoves = 0; memPairs = 0;
+  document.getElementById('mem-moves').textContent = 'Moves: 0 · Pairs: 0/6';
+  memRender();
+}
+function memRender() {
+  memEl.innerHTML = '';
+  memCards.forEach(function (v, i) {
+    var c = document.createElement('button');
+    c.className = 'mcard' + (memFlipped.includes(i) ? ' flip' : '') + (memFlipped.includes(i) && memFlipped.includes(i) ? '' : '');
+    c.textContent = memFlipped.includes(i) ? v : '';
+    c.onclick = function () { memFlip(i, c); };
+    memEl.appendChild(c);
+  });
+}
+function memFlip(i, el) {
+  if (memLocked || memFlipped.includes(i)) return;
+  memFlipped.push(i); el.classList.add('flip'); el.textContent = memCards[i];
+  if (memFlipped.length === 2) {
+    memMoves++;
+    var a = memFlipped[0], b = memFlipped[1];
+    if (memCards[a] === memCards[b]) {
+      memPairs++;
+      memEl.children[a].classList.add('matched');
+      memEl.children[b].classList.add('matched');
+      memFlipped = [];
+      document.getElementById('mem-moves').textContent = 'Moves: ' + memMoves + ' · Pairs: ' + memPairs + '/6';
+      if (memPairs === 6) {
+        document.getElementById('mem-moves').textContent = 'You matched everything in ' + memMoves + ' moves! 🎉';
+        if (window.CH && window.CH.stats) window.CH.stats.record('mem', memMoves);
+      }
+    } else {
+      memLocked = true;
+      document.getElementById('mem-moves').textContent = 'Moves: ' + memMoves + ' · Pairs: ' + memPairs + '/6';
+      setTimeout(function () {
+        memEl.children[a].classList.remove('flip'); memEl.children[a].textContent = '';
+        memEl.children[b].classList.remove('flip'); memEl.children[b].textContent = '';
+        memFlipped = []; memLocked = false;
+      }, 700);
+    }
+  }
+}
+memReset();
+
+/* ============ REACTION ============ */
+var rxEl = document.getElementById('rx');
+var rxBest = null; var rxTimer = null; var rxState = 'wait';
+function rxStart() {
+  rxState = 'wait';
+  rxEl.className = 'reaction wait';
+  rxEl.textContent = 'Wait for green…';
+  var delay = 1500 + Math.random() * 2500;
+  rxTimer = setTimeout(function () {
+    rxState = 'go';
+    rxEl.className = 'reaction go';
+    rxEl.textContent = 'CLICK!';
+    rxEl.dataset.t0 = Date.now();
+  }, delay);
+}
+rxEl.addEventListener('click', function () {
+  if (rxState === 'wait') { rxReset(); }
+  else if (rxState === 'go') {
+    var ms = Date.now() - (+rxEl.dataset.t0);
+    rxEl.className = 'reaction ready';
+    rxEl.textContent = ms + ' ms!';
+    if (!rxBest || ms < rxBest) rxBest = ms;
+    if (window.CH && window.CH.stats) window.CH.stats.record('rx', rxBest);
+    document.getElementById('rx-status').textContent = 'Best: ' + rxBest + ' ms';
+    rxState = 'ready';
+  }
+});
+function rxReset() {
+  clearTimeout(rxTimer);
+  rxEl.className = 'reaction ready';
+  rxEl.textContent = 'Click when ready…';
+  rxState = 'ready';
+  rxEl.onclickOnce = rxStart;
+}
+rxReset();
+
+/* ============ NUMBER GUESS ============ */
+var guessNum = null, guessCount = 0;
+function guessNew() { guessNum = Math.floor(Math.random() * 100) + 1; guessCount = 0; }
+function guessTry() {
+  var input = document.getElementById('guess-input');
+  var v = parseInt(input.value, 10);
+  var hint = document.getElementById('guess-hint');
+  if (isNaN(v) || v < 1 || v > 100) { hint.className = 'hint'; hint.textContent = 'Enter a number between 1 and 100.'; return; }
+  if (!guessNum) guessNew();
+  guessCount++;
+  if (v === guessNum) {
+    hint.className = 'hint win';
+    hint.textContent = '🎉 Correct! You guessed it in ' + guessCount + ' tries.';
+    if (window.CH && window.CH.stats) window.CH.stats.record('guess', guessCount);
+    guessNum = null;
+  } else if (v < guessNum) {
+    hint.className = 'hint low'; hint.textContent = 'Too low — guess higher!';
+  } else {
+    hint.className = 'hint high'; hint.textContent = 'Too high — guess lower!';
+  }
+  input.value = '';
+}
+guessNew();
+</script>
+</body>
+</html>

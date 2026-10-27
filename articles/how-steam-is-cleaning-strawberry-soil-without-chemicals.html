@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How steam is cleaning strawberry soil without chemicals — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">News</span>
+      <h1>How steam is cleaning strawberry soil without chemicals</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-steam-is-cleaning-strawberry-soil-without-chemicals.jpg" alt="How steam is cleaning strawberry soil without chemicals">
+    <div class="article-body">
+      <p>A farm machine that pushes steam into the dirt is helping organic strawberry growers in California grow healthier crops — without the chemical fumigants that worry scientists.</p>
+      <h2>Why strawberries are so delicate</h2>
+<p>A strawberry is one of the trickiest crops to grow. It grows low to the ground, its fruit is soft and juicy, and it sits right in the dirt where soil fungi and weeds love to attack. One disease called <strong>fusarium wilt</strong> can wipe out an entire harvest.</p>
+<p>For a long time, farmers had only two choices: spray strong chemicals into the soil to kill the pests before planting, or simply gamble their whole crop every season. Those chemicals — called fumigants — work, but many scientists worry they harm farmworkers, wildlife, and the land around the fields.</p>
+<h2>Big machines, puffs of steam</h2>
+<p>Now researchers from the University of California, Santa Cruz have a clever new idea: <strong>clean the soil with steam.</strong></p>
+<p>Before planting, a big machine trundles across the field and pushes hot water vapor deep into the dirt. The heat is just enough to kill the harmful fungi, bacteria, and weed seeds hiding in the soil — but it does it without any chemicals at all.</p>
+<p>Steam has been used in greenhouses for decades to keep plants healthy. The new trick is doing it outdoors, on huge open fields where strawberries grow.</p>
+<h2>Nearly double the berries</h2>
+<p>The scientists invited four organic strawberry farmers to try it. One of them, a longtime grower named <strong>Rod Koda</strong>, said the steam-treated plots were a revelation: bigger plants, healthier leaves, and roughly <strong>twice as many strawberries</strong> as his other fields.</p>
+<p>The steamed soil also suffered far less fusarium wilt, the disease that usually scares strawberry farmers the most.</p>
+<h2>Still work to do</h2>
+<p>There's one big catch the researchers are honest about: <strong>steam costs money and takes time.</strong> The machines still need to be made faster and cheaper so they can treat big fields without breaking the bank. Scientists are also checking that the steam doesn't accidentally remove the helpful bacteria that plants need.</p>
+<p><strong>Try it yourself:</strong> Strawberries are covered in tiny seeds on the outside — they're the only fruit in the world with seeds on their skin! Next time you eat one, count the little seeds. A single strawberry can have more than 200.</p>
+<p><strong>Fun fact:</strong> Chemicals aren't the only trick farmers are testing. Some researchers are also trying to grow strawberries that are naturally stronger against disease, so they need less help from any soil treatment at all.</p>
+<h2>Sources</h2>
+<p>[Good News Network — Simple 'Soil Steaming' Found as Effective Replacement for Chemicals in Organic Strawberry Farming](https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/) · [AP News — Strawberry farmer hopes steam holds the key to healthy soil and a better crop](https://apnews.com/article/california-strawberries-steam-soil-fumigant-0e7e7c52406bbfc5ba56676bc57f966a) · [UCSC Agroecology — Steam soil disinfestation project](https://agroecology.ucsc.edu/optimization-of-steam-soil-disinfestation-for-healthy-soils-and-communities-around-the-ag-urban-interface-of-coastal-california/)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Do Scientists Spot Hidden Sunspots on the Sun's Far Side? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">General</span>
+      <h1>How Do Scientists Spot Hidden Sunspots on the Sun's Far Side?</h1>
+      <div class="meta"><span></span><span>2026-10-26T22:47:00+05:30</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/2026-10-26-hidden-sunspots-solar-far-side.jpg" alt="How Do Scientists Spot Hidden Sunspots on the Sun's Far Side?">
+    <div class="article-body">
+      
+      <h1>How Do Scientists See Sunspots Hiding on the Sun's Far Side?</h1>
+<p>Unlike the Moon, our Sun spins like a giant ball of swirling gas. We always see the same half of it from Earth, but the other half stays hidden — like the far side of the Moon that Apollo astronauts revealed. Because the Sun takes about 27 days to turn once from our view, the far side can change a lot before it swings back around. And some of those changes — like <strong>hidden sunspot groups</strong> — could send storms of energy toward Earth before we ever see them coming.</p>
+<h2>1. The Sun's Secret Backyard</h2>
+<p>A sunspot is a cooler, darker patch where the Sun's magnetic field pokes out of the surface. When sunspots grow big and twisty, they can burst and fling a <strong>coronal mass ejection</strong> — a bubble of charged particles — into space. If that bubble hits Earth, it can paint the sky with auroras... but it can also <strong>fry satellites</strong> or knock power off in the wrong place. The trouble is, the sunniest spots often brew up on the side facing <em>away</em> from us, invisible until they're already on their way.</p>
+<h2>2. Listening to the Sun's Song</h2>
+<p>Scientists can't wait for the far side to rotate into view, so they use a trick borrowed from Earth science: <strong>helioseismology</strong>. Just like geologists shake the ground with earthquakes to "see" inside Earth, solar physicists listen to the Sun's acoustic waves. These sound waves bounce inside the Sun and skim its surface. When a wave passes through a magnetic sunspot, its travel time shifts by a tiny, telling fraction of a second. By measuring millions of these ripples with instruments like the <strong>Helioseismic and Magnetic Imager (HMI)</strong> aboard NASA's Solar Dynamics Observatory, researchers can map sunspots that are otherwise hidden in plain sight.</p>
+<h2>3. A Head Start Against Space Weather</h2>
+<p>With this "sound vision," space-weather forecasters get a <strong>head start of several weeks</strong> before dangerous sunspot regions turn toward Earth. That extra time helps satellite operators and power-grid managers prepare for the storm. It's like having a weather radar that sees around the curve of the world.</p>
+<h2>Try this at home</h2>
+<p>Build a "far side viewer" with a flashlight and a paper cup. Poke a few holes in the cup (your hidden sunspots), shine the light on a wall, and rotate the cup slowly. The lit spots appear and disappear — just like sunspots coming into view. Can you guess when a hidden spot will next face the wall?</p>
+<h2>Fun Fact</h2>
+<p>The Sun isn't a perfect ball in photos — it's slightly <strong>lemon-shaped</strong>, bulging at the equator because of its spin. That wobble helps scientists read its sound waves even more clearly.</p>
+<h3>for-grownups</h3>
+<p>NASA's Solar Dynamics Observatory (launched 2010) carries the HMI instrument, which measures the Doppler shift of solar acoustic waves to detect far-side sunspot regions days before they rotate into Earth view. This "far-side surveillance" technique, refined over the last decade, extends helioseismology from global solar modeling to targeted, near-real-time space-weather forecasting. (Sources: Universe Today, 2026-10-26; Wikipedia, "Helioseismology"; Wikipedia, "Solar Dynamics Observatory.")</p>
+<h2>Sources</h2>
+<ul><li>Universe Today — "Scientists Can Now Spot Hidden Sunspots on the Solar Far Side" (2026-10-26), by Andy Tomaswick</li><li>Wikipedia — "Helioseismology"</li><li>Wikipedia — "Solar Dynamics Observatory"</li><li>Wikipedia — "Far side of the Sun"</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

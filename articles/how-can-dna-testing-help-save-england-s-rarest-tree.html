@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How can DNA testing help save England's rarest tree? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Nature</span>
+      <h1>How can DNA testing help save England's rarest tree?</h1>
+      <div class="meta"><span></span><span>2026-10-24</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-can-dna-testing-help-save-england-s-rarest-tree.jpg" alt="How can DNA testing help save England's rarest tree?">
+    <div class="article-body">
+      <p>Conservationists are using DNA testing to help bring back the black poplar — one of the UK's rarest native trees — along the Thames Valley.</p>
+      <h1>How can DNA testing help save England's rarest tree?</h1>
+<h2>1. The tree that is almost gone</h2>
+<p>Close your eyes and imagine a tree with a twisted, dramatic trunk — the kind that looks like it stepped right out of a fantasy movie. That is the <strong>black poplar</strong>, one of the UK's rarest native trees.</p>
+<p>For hundreds of years, black poplars lined the rivers and floodplains of England. Their roots held the soil steady, and their wide leaves whispered in the wind. But today, conservation groups say there are only about <strong>50</strong> left in Oxfordshire alone. Decades of tree-felling, draining of wetlands, and changes to the land have made these trees incredibly rare.</p>
+<h2>2. Reading the trees' family secrets</h2>
+<p>How do you save a tree that is almost gone? You start by reading its DNA!</p>
+<p>A project called the <strong>Swindon to Oxford: Regenerating the Thames and Tributaries</strong> is working with conservation groups to help the black poplar make a comeback. Scientists collect tiny samples from the remaining trees and run DNA tests. This tells them which trees are related to each other and which ones have the strongest, healthiest genes.</p>
+<p>From the strongest trees, they take <strong>cuttings</strong> — small pieces of branch that can grow into brand-new trees. It is like making a photocopy of the best, most resilient family members. Then they plant these baby trees in the right spots along the River Thames and its flood plains.</p>
+<h2>3. Trees that protect our towns</h2>
+<p>Black poplars are not just pretty — they are nature's bodyguards.</p>
+<p>When they grow in thick lines along rivers, their roots act like sponges. They soak up extra water after heavy rain and hold the soil in place. This helps prevent flooding in nearby towns and villages. Think of them as living flood barriers!</p>
+<p>They also home a whole neighborhood of wildlife. The <strong>poplar hornet moth</strong> — yes, a real moth that visits flowers — depends on black poplars to lay its eggs. Birds, beetles, and butterflies all share these trees too. Saving one tree saves many.</p>
+<h2>Try this at home</h2>
+<p>Next time you walk near a river or pond, look for poplar trees. Can you spot the jagged, diamond-shaped leaves that tremble in the breeze? Try sketching one and labeling its parts. If you live near a nature reserve, ask a grown-up if you can volunteer to help plant young trees — many wildlife groups welcome junior helpers!</p>
+<h2>Fun Fact</h2>
+<p>The black poplar is so good at surviving tough conditions that some trees can live for <strong>over 300 years</strong>. That means a single tree might have been a tiny seedling when your great-great-grandparents were born!</p>
+<h2>Sources</h2>
+<ul><li>BBC News — "Project to restore rare native trees with DNA testing" (https://www.bbc.co.uk/news/articles/cw240ln41mq2o)</li><li>Wikipedia — "Populus nigra" (https://en.wikipedia.org/wiki/Populus_nigra)</li><li>Long Mead Foundation (https://longmeadfoundation.org/)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

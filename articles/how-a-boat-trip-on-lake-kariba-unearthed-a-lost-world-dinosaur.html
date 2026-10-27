@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How a Boat Trip on Lake Kariba Unearthed a Lost-World Dinosaur — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">General</span>
+      <h1>How a Boat Trip on Lake Kariba Unearthed a Lost-World Dinosaur</h1>
+      <div class="meta"><span></span><span>2026-10-24</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-a-boat-trip-on-lake-kariba-unearthed-a-lost-world-dinosaur.png" alt="How a Boat Trip on Lake Kariba Unearthed a Lost-World Dinosaur">
+    <div class="article-body">
+      
+      <h1>How Did Scientists Find a 210-Million-Year-Old Dinosaur? From a Boat!</h1>
+<h2>1. The Hunt That Was Not Like Other Hunts</h2>
+<p>Most dinosaur hunters imagine dusty deserts and rocky cliffs. But the team that discovered <em>Musango matusadonaensis</em> traded their hiking boots for life jackets. They searched the rocky shores of Lake Kariba — one of the world's largest artificial lakes — on the border between Zimbabwe and Zambia, all while staying safe from the elephants, crocodiles, and hippos that call the area home.</p>
+<h2>2. A Dinosaur the Size of a Car</h2>
+<p><em>Musango matusadonaensis</em> was about 4.5 metres long — roughly the length of an average car — and weighed about 222 kilograms, about as heavy as two full-grown lions. Despite its long neck, this dinosaur walked on just two legs, like a super-sized emu with a tail. It was an early relative of the giant long-necked sauropods like <em>Diplodocus</em>, but <em>Musango</em> lived long before those giants ruled the Earth.</p>
+<h2>3. Why This Matters for Understanding Dinosaurs</h2>
+<p>For years, scientists thought the dinosaurs of southern Africa looked pretty much the same everywhere. But <em>Musango</em> and its cousin <em>Musankwa</em> are found only in Zimbabwe — nowhere else. That tells us the ancient supercontinent of Gondwana was not a single, unified dinosaur world, but a patchwork of smaller ecosystems, each with its own unique cast of characters, separated by rivers and woodlands.</p>
+<h2>4. Try This at Home</h2>
+<p><strong>Fun Fact:</strong> <em>Musango</em> comes from the ChiShona language, meaning "living in the bush" — a fitting name for a dinosaur found in such a wild, water-filled landscape.</p>
+<p><strong>For grown-ups:</strong> The research was published in the <em>Journal of Systematic Palaeontology</em> (2026) by Paul Barrett and colleagues. The partial skeleton includes vertebrae, shoulder and hip bones, and limb fragments. <em>Musango</em> represents the fifth dinosaur genus named from Zimbabwe, highlighting how little we still know about African dinosaur diversity.</p>
+<p><strong>Try it yourself:</strong> Build a simple "dinosaur dig" using a small toy dinosaur hidden in a tray of sand or kinetic clay. Give kids a brush and a small spoon to carefully "excavate" the bones. Talk about how scientists work from just a few bones to learn about an entire animal that lived 210 million years ago.</p>
+<h2>Sources</h2>
+<ul><li>ScienceDaily: "210-million-year-old dinosaur discovery reveals a lost world in Africa" (October 12, 2026) — https://www.sciencedaily.com/releases/2026/10/261012185013.htm</li><li>Wikipedia: Musango (dinosaur) — https://en.wikipedia.org/wiki/Musango</li><li>Natural History Museum: "Musango — the new Zimbabwean dinosaur discovered from a boat" (July 2026) — https://www.nhm.ac.uk/discover/news/2026/july/musango-the-new-zimbabwean-dinosaur-discovered-from-a-boat.html</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

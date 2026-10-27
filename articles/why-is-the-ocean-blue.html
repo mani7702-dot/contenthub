@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why is the ocean blue? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why is the ocean blue?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-is-the-ocean-blue.jpg" alt="Why is the ocean blue?">
+    <div class="article-body">
+      <p>Not because it reflects the sky. Water itself is a filter, and it quietly throws away the red half of sunlight. The blue is what's left over.</p>
+      <p>The usual answer is that the ocean is blue because it reflects the sky. That is only a small part of the story — and you can prove it easily.</p>
+<p>Dive just a few metres below the surface on a bright day, look down into deep water, and it is still blue. There is no sky down there to reflect. The blue is coming from the water itself.</p>
+<h2>Sunlight is a mixed pack of colours</h2>
+<p>White sunlight looks like one colour, but it is really a whole rainbow squeezed together. Each colour is a light wave of a different length. <strong>Red</strong> has the longest waves. Then come orange, yellow, green, and finally <strong>blue and violet</strong>, with the shortest waves of all.</p>
+<p>Water does not treat all those waves equally. It is like a filter — or, as one ocean agency puts it, a sunlight filter that eats the red end of the rainbow first.</p>
+<h2>Water swallows the reds and lets the blues through</h2>
+<p>When light enters water, the colours with long waves are absorbed quickly. Within just a few metres down, most of the red and orange light has already been swallowed by the water. Yellow and green go next.</p>
+<p>Blue light is different. Its short waves travel much deeper into seawater. Some of them bounce off water molecules and scatter back toward your eyes. Since blue is the colour left over after the reds have been eaten, deep, clear ocean water looks blue — and it is blue all the way down, not just at the surface.</p>
+<p>That is also why underwater photographs taken without lights look washed out in blue and green. A diver deep underwater is swimming in blue light, because that is nearly all the light left.</p>
+<h2>Why the ocean can be green, brown, turquoise or black</h2>
+<p>If the ocean were nothing but pure water, it would be one simple colour everywhere. Instead it changes constantly, because lots of other things are floating in it.</p>
+<ul><li><strong>Silt and sand</strong> washed in from land can turn coastal water brown or murky.</li><li><strong>Phytoplankton</strong> — microscopic ocean plants — use green pigments to catch light, so water packed with them turns green.</li><li>In <strong>shallow, clear water</strong> over pale sand, sunlight bounces off the bright bottom and mixes with the blue light above, giving the bright turquoise of tropical seas.</li><li>Far from shore and very deep, so little light returns that most of the ocean is simply <strong>dark</strong>. No light reaches the deepest parts at all.</li></ul>
+<p>Even salt in the water adds a touch of extra scattering, though there is far too little of it to matter much.</p>
+<h2>So is it the sky or the water?</h2>
+<p>Both play a small part. The ocean does reflect the colour of the sky when the water is smooth and you look at a low angle. But that only matters near the surface.</p>
+<p>The real reason the ocean is blue is simpler and stranger: water is very slightly blue, and there is a lot of it. Give water a few metres of depth and it quietly filters out the red half of sunlight, leaving blue behind. Look at a glass of water and you will see nothing. Look at a few thousand metres of it, and the colour has nowhere to hide.</p>
+<p><strong>Sources:</strong> [Woods Hole Oceanographic Institution — Why is the ocean blue?](https://www.whoi.edu/ocean-learning-hub/ocean-facts/why-is-the-ocean-blue/) · [NOAA National Ocean Service — Why is the ocean blue?](https://oceanservice.noaa.gov/facts/oceanblue.html) · [Woods Hole Oceanographic Institution — Shedding Light on Light in the Ocean](https://www.whoi.edu/oceanus/feature/shedding-light-on-light-in-the-ocean/) · [Hong Kong Observatory — What is the colour of water?](https://www.hko.gov.hk/en/education/earth-science/general/00357-what-is-the-colour-of-water.html)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

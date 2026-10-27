@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How will NASA's Moon Base rovers help build the first lunar outpost? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>How will NASA's Moon Base rovers help build the first lunar outpost?</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-will-nasa-s-moon-base-rovers-help-build-the-first-lunar-outpost.jpg" alt="How will NASA's Moon Base rovers help build the first lunar outpost?">
+    <div class="article-body">
+      <p>NASA is testing new lunar rovers that will carry astronauts, map the Moon's South Pole, and hunt for water ice — all part of building humanity's first permanent Moon base.</p>
+      <h2>Rovers that drive on the Moon</h2>
+<p>When humans return to the Moon, they won't walk everywhere. NASA is building a fleet of <strong>lunar rovers</strong> that will carry astronauts, map the surface, and search for the water ice that could power a permanent Moon base.</p>
+<p>NASA's Moon Base Program recently shared a video update showing the progress. Two companies — <strong>Astrolab</strong> and <strong>Lunar Outpost</strong> — are each building their own version of a lunar terrain vehicle. These rovers aren't toy cars: they are designed to carry <strong>three astronauts and their gear</strong>, travel up to <strong>six miles</strong> on a single charge, and haul back <strong>176 pounds</strong> of rock and soil samples.</p>
+<p>That's a lot more than the dune buggies the Apollo missions used fifty years ago, which could carry two astronauts for just a few miles at a time.</p>
+<h2>Hunting for water at the Moon's south pole</h2>
+<p>Before the crews arrive, a robotic rover named <strong>VIPER</strong> will scout ahead. Short for <em>Volatiles Investigating Polar Exploration Rover</em>, VIPER is heading to the Moon's <strong>South Pole</strong> — a region where craters stay in permanent shadow and may hold vast amounts of frozen water.</p>
+<p>VIPER will travel more than <strong>18 miles</strong> across the lunar surface, using special sensors to map how much sunlight reaches different spots, how cold it gets, and where water ice might be buried. That data will tell NASA exactly where to build its first Moon base.</p>
+<h2>Spring mesh tires and airless wonders</h2>
+<p>One of the biggest challenges on the Moon is the ground itself. Lunar soil is sharp and dusty, and temperatures swing from <strong>250 degrees above zero</strong> in sunlight to <strong>minus 334 degrees</strong> in shadow.</p>
+<p>Both Astrolab and Lunar Outpost are testing <strong>spring mesh tires</strong> — flexible, airless wheels that won't go flat. They will also test how well the rovers drive in and out of those <strong>permanently shadowed regions</strong> near the South Pole, where the ground never sees sunlight.</p>
+<h3>Try this at home</h3>
+<p>You can build a simple rover tire test! Take a balloon, stretch it over the mouth of a jar, and tape a couple of pennies to it as weights. Roll it across the floor — watch how the stretchy rubber acts like a spring, bouncing back instead of going flat like a real tire. Try it on different surfaces (carpet, tile, sand) and see how they compare to a regular balloon tire.</p>
+<p><strong>Fun fact:</strong> The Moon's South Pole has craters that have been in darkness for <strong>billions of years</strong>. If there is water ice there, it could be turned into drinking water and rocket fuel — meaning astronauts could refuel on the Moon instead of bringing everything from Earth.</p>
+<h2>Sources</h2>
+<p>[NASA — Moon Base Rovers progress update (Oct 20, 2026)](https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/) · [Wikipedia — Artemis program](https://en.wikipedia.org/wiki/Artemis_program) · [NASA — VIPER lunar rover mission](https://science.nasa.gov/mission/viper/)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

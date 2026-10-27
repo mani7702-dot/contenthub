@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How a Sloth Bear Named Odum Went From Street Performer to Sanctuary Star — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Animals</span>
+      <h1>How a Sloth Bear Named Odum Went From Street Performer to Sanctuary Star</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-a-sloth-bear-named-odum-went-from-street-performer-to-sanctuary-star.jpg" alt="How a Sloth Bear Named Odum Went From Street Performer to Sanctuary Star">
+    <div class="article-body">
+      <p>Odum was a dancing bear on Indian streets, named by Julia Roberts in 2009. 17 years later he's still the joy of his rescue center.</p>
+      <h1>How a Sloth Bear Named Odum Went From Street Performer to Sanctuary Star</h1>
+<p>On a hot street in Karnataka, India, a tiny bear cub once danced on his hind legs for coins. His name was Odum — though at the time, nobody knew he would one day live in a hammock, splash in a pool, and eat honey-drenched peanut butter like a king.</p>
+<h2>Three Things That Made Odum Special</h2>
+<p>1. <strong>He was a "dancing bear."</strong> Poachers had taken him from the wild as a cub and pierced his nose with a hot iron. A rope through the wound made every step painful — which adults mistook for dancing.</p>
+<p>2. <strong>Julia Roberts named him.</strong> In 2009, the Hollywood actress visited the Bannerghatta Bear Rescue Centre and chose the name "Odum" — an old family name passed down through her own relatives.</p>
+<p>3. <strong>He grew into a joyful grown-up.</strong> At age 26, Odum still loves mock-wrestling with his friends and taking naps in his custom-made hammock.</p>
+<h2>A New Beginning in 2009</h2>
+<p>When Wildlife SOS stepped in, Odum arrived at the rescue centre alone, scared, and sitting in a corner. He had spent nine full years performing on the streets. The year 2009 was historic — it marked the <strong>end of dancing bears in India</strong>. Wildlife SOS had spent years working with former performers and their communities until the last bear was rescued.</p>
+<h2>Healing Takes Time</h2>
+<p>At first, Odum would not play. He had stunted growth from years of poor food and constant pain. His walk was unsteady, and unlike other bears, he could not climb trees. But the caretakers at Bannerghatta Bear Rescue Centre were patient.</p>
+<blockquote>"Our responsibility does not cease when an animal reaches safety," says Alan Knight of International Animal Rescue. "As he gets older, he still needs the same patience and kindness."</blockquote>
+<p>Slowly, Odum began to trust. Honey and peanut butter — his favorite treats — became the bridge to friendship. A special jungle gym helped him feel strong again. Today, visitors often find him mock-wrestling with other bears or strolling through his free-ranging field.</p>
+<h2>Fun Fact</h2>
+<p>Sloth bears are excellent swimmers! Unlike black or brown bears, they actually enjoy water. At the rescue centre, Odum loves splashing in his pool — a far cry from the dusty streets where he once "danced."</p>
+<h2>For Grown-ups</h2>
+<p>Sloth bears (<em>Melursus ursinus</em>) are native to the Indian subcontinent and are the only bear species found in India. The "dancing bear" trade, which exploited hundreds of bears for tourist entertainment, was finally ended in 2009 through a joint effort by Wildlife SOS and local communities. Odum was among the last surviving dancing bears, rescued that same year. His recovery — from a stunted, fearful cub to a thriving adult at the Bannerghatta Bear Rescue Centre — demonstrates how sustained care and enrichment can transform even the most traumatized wild animals.</p>
+<p><strong>Sources:</strong> [Good News Network](https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/) · [Wildlife SOS](https://wildlifesos.org/our-work/bear/odum)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

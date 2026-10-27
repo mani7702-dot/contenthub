@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why did a bear walk into a bakery at a farmers market? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Animals</span>
+      <h1>Why did a bear walk into a bakery at a farmers market?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-did-a-bear-walk-into-a-bakery-at-a-farmers-market.jpg" alt="Why did a bear walk into a bakery at a farmers market?">
+    <div class="article-body">
+      <p>A hungry black bear strolled straight past the shoppers at an Aspen market and made a beeline for the bread booth — and stayed, they say, for a snack and a nap.</p>
+      <p>Most shoppers go to a farmers market for vegetables. One black bear in Colorado went for the bread — and made itself right at home.</p>
+<h2>The market crasher</h2>
+<p>On Saturday, September 26, a black bear wandered into the Aspen Saturday Market in downtown Aspen, Colorado, while vendors were still setting up. It walked calmly past stall after stall, ignored everything else on offer, and went straight to the Louis Swiss bakery stand.</p>
+<p>Then it stood up, helped itself to some fresh-baked bread, and settled in to snack.</p>
+<p>Shoppers and vendors kept a safe distance and did what people do now — they filmed. The videos of a bear quietly eating a pastry surrounded by market stalls spread fast and racked up hundreds of thousands of views.</p>
+<h2>The gentle giant exits</h2>
+<p>Colorado Parks and Wildlife got a call while the bear was still downtown. Aspen police "hazed" the bear, which means they made themselves big and loud to encourage it to leave on its own — nobody chased it, and nobody got hurt.</p>
+<p>The bear climbed a nearby tree. One report says it dozed off up there before eventually wandering off, and wildlife officials said it left the area on its own. Everyone — people and bear — walked away fine.</p>
+<p>Black bears are strong climbers, and this one showed it, scrambling up a trunk without any fuss. That escape plan is a good reminder that even a bear that looks slow and sleepy can still move quickly when it wants to.</p>
+<h2>Why is a bear doing this?</h2>
+<p>It is not rudeness. It is dinner. Colorado had an unusually dry year, which meant less of the wild fruit and nuts that bears normally fatten up on. When their usual food runs low, bears push closer to towns to look for an easy meal.</p>
+<p>Colorado Parks and Wildlife said the drought had led to a record number of bear encounters this year. On top of that, it is autumn, and bears across the state are packing on pounds before winter hibernation, which usually begins around late October. A bakery booth full of bread is, to a hungry, pre-hibernation bear, simply too good to walk past.</p>
+<p>This was not a one-off, either. Colorado Parks and Wildlife said the extreme drought had caused a record number of bear encounters across the state this year, all for the same reason: with so little natural food to find, more bears are wandering into the places where people live and eat.</p>
+<p>The good news is that this story ended gently. Nobody was hurt, and the bear was not captured or harmed — it was simply encouraged to move on, which is exactly what wildlife officers hope will happen.</p>
+<h2>The kind lesson</h2>
+<p>As funny as it is, there is a real safety message here: wild animals should stay wild. Feeding bears (even by accident, with an unattended loaf) is illegal in Colorado for good reason — it teaches bears to associate people with food, which is bad for the animals and dangerous for everyone.</p>
+<p>The safest way to love a bear is from a distance, and to keep food securely stored so the next hungry visitor moves along.</p>
+<p>So the next time you smell fresh bread at a market, count your blessings that you are not the one doing it on all fours.</p>
+<p><strong>Sources:</strong> [Denver Post — Bear caught feasting at bakery booth at Colorado mountain farmers market](https://www.denverpost.com/2026/09/28/colorado-bear-farmers-market-aspen/) · [UPI Odd News — Watch: Hungry bear raids bread booth at Colorado farmers market](https://www.upi.com/Odd_News/2026/09/30/bear-Aspen-colorado-farmers-market-bread/5211790782350/)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

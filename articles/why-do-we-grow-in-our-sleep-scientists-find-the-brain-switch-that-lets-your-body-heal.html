@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Do We Grow in Our Sleep? Scientists Find the Brain Switch That Lets Your Body Heal — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why Do We Grow in Our Sleep? Scientists Find the Brain Switch That Lets Your Body Heal</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>4</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-we-grow-in-our-sleep-scientists-find-the-brain-switch-that-lets-your-body-heal.png" alt="Why Do We Grow in Our Sleep? Scientists Find the Brain Switch That Lets Your Body Heal">
+    <div class="article-body">
+      <p>&gt;-</p>
+      <h2>The sleep-body teamwork you never knew about</h2>
+<p>When you doze off, your brain doesn't just shut off. During the deepest stage of sleep — called non-REM sleep — your brain actually starts a conversation with your whole body.</p>
+<p>Scientists have known for a long time that sleep and growth go hand in hand: that's why teenagers need so much sleep to grow tall, and why a good night's rest helps sore muscles feel better. But <em>how</em> the brain decides when to release growth hormone has been a mystery.</p>
+<h2>The brain's sleep switch</h2>
+<p>A team of researchers at the University of California, Berkeley wanted to find out exactly what happens in the brain during deep sleep. They watched individual brain cells in living mice for months, tracking which ones woke up when sleep began.</p>
+<p>They discovered a special group of neurons in the brainstem — a part of the brain that connects upward to the rest of the nervous system. When you sink into deep sleep, these neurons send out a signal that tells your body to release <strong>growth hormone</strong>. This hormone is like a construction foreman: it tells your muscles to get stronger, your bones to get denser, and your body to burn fat for energy.</p>
+<h2>A two-way chat</h2>
+<p>Here's the really cool part: the conversation goes both ways.</p>
+<p>Growth hormone doesn't just get released and forget about the brain. It also sends signals back, telling the brain, "Okay, we've done enough healing for now — time to wake up!" This feedback system keeps everything perfectly balanced so you don't stay asleep too long or wake up too early.</p>
+<h2>Why this matters for you</h2>
+<p>Getting enough deep sleep is especially important for:</p>
+<ul><li><strong>Growing taller</strong> — growth hormone helps your bones get longer during your teenage years</li><li><strong>Building strong muscles</strong> — whether you're an athlete or just climbing jungle gyms</li><li><strong>Staying healthy</strong> — good sleep helps your body repair itself after a long day of adventures</li></ul>
+<h2>Try this at home</h2>
+<p>Tonight, try to get to bed half an hour earlier than usual. The deeper your sleep, the more of that growth hormone your brain releases. You can also try this: before bed, do some gentle stretching or read a book instead of looking at a screen. Your brain and body will thank you!</p>
+<h2>Fun fact</h2>
+<p>The brain cells that control growth hormone release are called <strong>GHRH neurons</strong> (say: "G-H-R-H neurons"). They're so tiny you'd need a powerful microscope to see them — but their effect on your whole body is huge!</p>
+<h2>Sources</h2>
+<p>1. "Neuroendocrine circuit for sleep-dependent growth hormone release" — Xinlu Ding et al., <em>Cell</em>, March 20, 2025. DOI: [10.1016/j.cell.2025.05.039](https://doi.org/10.1016/j.cell.2025.05.039)</p>
+<p>2. University of California, Berkeley news release, March 23, 2026 — "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain" (ScienceDaily, release ID 261016081140).</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

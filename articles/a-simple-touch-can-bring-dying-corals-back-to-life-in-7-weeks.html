@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A simple touch can bring dying corals back to life in 7 weeks — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>A simple touch can bring dying corals back to life in 7 weeks</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/a-simple-touch-can-bring-dying-corals-back-to-life-in-7-weeks.jpg" alt="A simple touch can bring dying corals back to life in 7 weeks">
+    <div class="article-body">
+      <p>Scientists found that a bleached, whitening coral can fully recover if it simply touches a healthy coral from the same family. It is the fastest comeback from bleaching ever recorded.</p>
+      <p>Some of the saddest sights in the ocean right now are white, ghostly corals. But a new experiment shows something hopeful: a bleached coral can come all the way back to life just by touching a healthy coral from the same family.</p>
+<p>In the lab, corals that had turned white and were close to dying became fully healthy again within <strong>seven weeks</strong>. Scientists say it is the fastest recovery from bleaching ever recorded.</p>
+<h2>What bleaching is</h2>
+<p>Most corals look colorful, but their color does not come from the coral itself. Tiny algae live inside corals and give them food and color. When the water gets too warm, corals push those algae out and turn white. That is bleaching, and without the algae, a coral slowly starves.</p>
+<h2>The surprise in the tank</h2>
+<p>Researcher Danny Collins was studying coral fragments in a tank when two of them tipped over and landed touching each other. One was bleached; the other was healthy, and they came from the same coral animal, so they were genetic twins. Where they touched, color came back to the bleached coral.</p>
+<p>So Collins set up a careful test. He made pairs of fragments — one healthy, one bleached — and let half of the pairs touch, while keeping the other half a few millimeters apart.</p>
+<p>Here is the difference: every bleached coral that touched its healthy twin recovered completely within seven weeks. Every one kept apart died.</p>
+<h2>How a hug heals</h2>
+<p>When genetic twins touch, their tissues actually fuse together. Through that bridge, the healthy coral shares its helpful algae with the sick one. Color started returning within days.</p>
+<p>Some coral pairs were separated after just a week of contact — and even they made a full recovery. That tiny infection of algae was enough to save them.</p>
+<h2>One big catch</h2>
+<p>There is an honest limit here. It only works with corals that are the same genetic clone, touching in real contact. That is hard to do for a whole wild reef. So this is not a fix for ocean warming — the real fix is slowing warming itself.</p>
+<p>But it is a new clue: corals are tougher than we thought, and a little kindness between coral cousins can pull a family back from the edge.</p>
+<p><strong>Sources:</strong> [ScienceDaily — A simple touch can bring dying corals back to life in just 7 weeks](https://www.sciencedaily.com/releases/2026/10/261017230025.htm) · [Stanford + Good News Network — Coral bleaching reversed at record speed](https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

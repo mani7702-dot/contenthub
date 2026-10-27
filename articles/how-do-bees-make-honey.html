@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How do bees make honey? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Animals</span>
+      <h1>How do bees make honey?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-do-bees-make-honey.jpg" alt="How do bees make honey?">
+    <div class="article-body">
+      <p>Honey starts as plain flower nectar and ends as golden, sealed-up sweetness. Between the two there is a whole factory line of bees, stomachs, and wing-fanning. Here is the journey from flower to hive.</p>
+      <p>Honey is one of the oldest sweets humans have ever eaten, and the whole thing is made by tiny workers who never stop. But here is the surprising part: a spoonful of honey starts out as something that is mostly water. Here is the step-by-step trip from flower to hive.</p>
+<h2>1. A bee visits a flower and takes a sip</h2>
+<p>It all starts with <strong>nectar</strong> — a sweet, watery liquid that flowers make to attract pollinators. A forager bee lands on a flower, sticks in her long straw-like tongue (called a <strong>proboscis</strong>), and sucks the nectar straight into a special storage pouch called the <strong>honey stomach</strong>.</p>
+<p>This is not a regular stomach for digesting food. It is a little carrying tank, made just for nectar. That matters, because the bee will carry it all the way home.</p>
+<h2>2. The ride home does some of the work</h2>
+<p>A single bee can visit up to a hundred flowers on one trip, sipping a little from each. As she flies, her body is already busy: special enzymes mix into the nectar and begin breaking its big, complicated sugars into smaller, simpler ones. That is the first real step of making honey — and it happens while the bee is still in the air.</p>
+<h2>3. A check at the front door</h2>
+<p>Back at the hive, the forager bee is not done yet. Guard bees sniff her at the entrance. They recognize her by the hive's scent, and once she passes, she heads inside to find house bees.</p>
+<p>Then comes the famous bee handoff: the forager opens her mouth and offers up a drop of nectar to a house bee. If it tastes right, that house bee takes it in — and may pass it along to another bee, then another. Each time it changes mouth, fresh enzymes get added. It is a real factory line, and every bee is a worker on it.</p>
+<h2>4. The drying room (wing-fanning included)</h2>
+<p>Nectar straight from a flower is about 80 percent water — way too watery to store. So the hive bees turn the hive into a drying room. They pass the nectar back and forth, spread it into thin films on their mouthparts, and flap their wings furiously to blow air over it. All that fanning evaporates the water, drop by drop. This is the slow part, and it takes a lot of bees.</p>
+<h2>5. Honey, ready for the pantry</h2>
+<p>When the water has dropped to about 18 percent, it finally counts as honey — thick, golden, and almost impossible for germs to spoil. The bees tuck the finished honey into the little six-sided cells of the <strong>honeycomb</strong> and, once a cell is full, they cap it with a thin layer of <strong>beeswax</strong> to keep it sealed. Like a pantry jar with a lid on.</p>
+<h2>6. Why all that work?</h2>
+<p>Bees do this because they need winter food. When cold weather ends the flowers, nectar disappears — so the hive survives on the honey they made and sealed away during the sunny months. And humans just happen to love the taste of their pantry.</p>
+<p>To think: one single jar of honey might mean millions of flower visits and thousands of bees working shifts. Next time you taste honey on toast, you are eating teamwork that took the whole season to build.</p>
+<p><strong>Sources:</strong> [Chicago Botanic Garden — Drop by Drop: How Honey Happens](https://www.chicagobotanic.org/plantinfo/smartgardener/how_honey_happens) · [Discover Wildlife — How do bees make honey?](https://www.discoverwildlife.com/animal-facts/insects-invertebrates/how-bees-make-honey)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

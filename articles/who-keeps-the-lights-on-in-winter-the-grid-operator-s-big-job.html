@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Who keeps the lights on in winter? The grid operator's big job — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Who keeps the lights on in winter? The grid operator's big job</h1>
+      <div class="meta"><span></span><span>2026-10-23</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/who-keeps-the-lights-on-in-winter-the-grid-operator-s-big-job.jpg" alt="Who keeps the lights on in winter? The grid operator's big job">
+    <div class="article-body">
+      <p>Britain's electricity network is run by a single team that has to make sure every home has power all winter. Here is how they balance wind, sun, and demand so the lights stay on.</p>
+      <h1>Who keeps the lights on in winter?</h1>
+<p>When the wind howls and the nights grow long, someone has to make sure every lamp, kettle, and phone charger in Britain still works. That job belongs to the <strong>National Energy System Operator</strong> — the team that balances the whole country's electricity like a super-smart conductor.</p>
+<h2>One team controls the whole grid</h2>
+<p>Britain's electricity does not come from one place. It flows from offshore wind farms, sunlight panels, nuclear plants, and gas stations — all at the same time. NESO is the control centre that watches every joule. Think of it like a giant seesaw: when wind power dips on a calm evening, NESO asks other plants to spin a little harder so your lights never flicker.</p>
+<p>On a cold winter morning, millions of kettles boil at almost the same time. That is a lot of extra demand on the system. NESO runs computer models 24/7, predicting how much power each region will need hour by hour, then calls power stations in advance to be ready.</p>
+<h2>A winter worry worth sharing</h2>
+<p>Recently some engineers raised their hands to say they felt real stress about whether supply would be enough. NESO listened, checked its plans, and gave the country a promise: the lights will stay on this winter. They said Britain's electricity system is "prepared and resilient" — a fancy way of saying they have done their homework and built in backup.</p>
+<p>That worry does not come from nowhere. Cold snaps and still, windless days are the trickiest times. But having honest conversations and planning ahead is exactly how the system stays safe.</p>
+<h2>Why winter is the hardest test</h2>
+<p>Summer is easy: days are long and the sun shines. Winter flips the script — shorter days, longer nights, and weather that changes fast. People turn on heating, light decorations, and cook larger meals. On the coldest evenings, electricity use can jump by almost a third.</p>
+<p>NESO builds in "headroom" — extra power waiting in the wings — so even if several plants go offline at once, there is always enough to go around.</p>
+<h2>Try this at home</h2>
+<p>Turn a lamp on and off with a switch. Now imagine doing that for every house, street, and school in Britain — all at once, all winter. That is the dance NESO dances every day: watching, balancing, and keeping everyone glowing.</p>
+<h2>Fun Fact</h2>
+<p>NESO became Britain's official electricity overseer on <strong>1 October 2024</strong>, taking over from the old National Grid group after the UK government bought the operation for £630 million. That is more than half a billion pounds to keep the lights on!</p>
+<h2>for-grownups</h2>
+<p>Original story by BBC News (Michael Race, 23 Oct 2026) "Grid operator says lights will stay on this winter after concerns," cross-checked against Wikipedia's National Grid Electricity System Operator article (confirming NESO became GB's transmission system operator on 1 Oct 2024 after a £630m government buyout). Facts were summarized in child-safe language; no source text copied.</p>
+<h2>Sources</h2>
+<p>1. BBC News, "Grid operator says lights will stay on this winter after concerns" — https://www.bbc.co.uk/news/articles/cmy56q2n1veqo</p>
+<p>2. Wikipedia, "National Grid Electricity System Operator" — https://en.wikipedia.org/wiki/National_Grid_Electricity_System_Operator</p>
+<p>3. National Energy System Operator (GB) — https://www.nationalenergysystemoperator.io/</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

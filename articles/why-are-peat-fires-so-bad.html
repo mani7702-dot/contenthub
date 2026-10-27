@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why are peat fires so bad? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">How Things Work</span>
+      <h1>Why are peat fires so bad?</h1>
+      <div class="meta"><span></span><span>2026-10-22</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-are-peat-fires-so-bad.jpg" alt="Why are peat fires so bad?">
+    <div class="article-body">
+      <p>Peat fires do not just burn trees — they smolder underground for weeks, turning whole regions into a blanket of thick, rust-colored smoke. That is why a 'normal' forest fire is nothing like a peat fire.</p>
+      <h1>Why are peat fires so bad?</h1>
+<p>If you have ever seen satellite pictures of Southeast Asia in the dry season, the sky sometimes looks like someone spilled a giant pot of rust-colored paint across the horizon. That is not paint. It is smoke — and a peat fire is almost nothing like a normal campfire.</p>
+<h2>1. The fire lives underground</h2>
+<p>Most forest fires lick up into the treetops and go out when it rains. Peat fires are different. Peat is a thick, spongy blanket of half-rotted plants — ferns, leaves, and bark that have been slowly squished down for thousands of years in waterlogged swamps. When the dry season drops the water table, the top of that blanket dries out and catches light.</p>
+<p>But here is the twist: the deeper layers stay cool, damp, and invisible from above. The flames sink down into the peat itself, and what keeps burning underground is called <strong>smoldering</strong> — a slow, flameless burn that creeps sideways and downward like a secret fire. That is why buckets of water from the sky often splash right past it: the blaze is hiding beneath your feet.</p>
+<h2>2. One hectare stores more carbon than 100 trees</h2>
+<p>Peat can be several metres thick, and each layer holds a record of carbon that sank into the swamp long ago. A single hectare of tropical peat can store over <strong>5,000 tonnes of carbon</strong> — more than a hundred times what a tree of the same size holds above ground. When that peat burns, all of that stored carbon puffs straight into the sky as carbon dioxide. That is why peat fires punch far above their weight in climate impact, even though the flames look quiet.</p>
+<h2>3. The smoke rides the wind for thousands of miles</h2>
+<p>Indonesia sits right in the path of the <strong>northeast monsoon</strong>. From May through October, that seasonal wind sweeps west-to-east across the equator, scooping up smoke from burning peat and carrying it over the South China Sea. By the time it reaches Singapore or the Philippines, what began as a local blaze has grown into a whole regional blanket. The tiny soot particles are about a tenth the width of a human hair — when sunlight hits them, the blue wavelengths scatter away, and all that is left are the long oranges and reds that turn day into dusk.</p>
+<h2>4. They are almost impossible to put out the usual way</h2>
+<p>Because the fire smolders underground, throwing water on the surface barely touches it. The cure is not dumping more buckets — it is <strong>raising the water table</strong> again so the peat dries no longer catches. That means pumping, blocking old drainage ditches, and waiting for the wet season to return. Until then, the fire keeps creeping, and the sky stays orange for months.</p>
+<blockquote><strong>Fun Fact:</strong> A single hectare of tropical peat stores over 5,000 tonnes of carbon — enough that scientists sometimes call peatlands the planet's "best underground savings account."</blockquote>
+<h3>Try this at home</h3>
+<p>Light a beeswax candle in a dark room, then blow it out and watch the smoke drift in a slow, steady ribbon. Notice how the particles spread and thin as they float up — that is the same kind of tiny-particle movement that carries peat-fire smoke across an ocean to turn an entire sky rusty-orange.</p>
+<p>---</p>
+<p><strong>Sources:</strong> [BBC News — Why is a peat fire so bad? BBC is in Indonesia to find out](https://www.bbc.co.uk/news/videos/cmx2302xe931o) · [Wikipedia — Peat](https://en.wikipedia.org/wiki/Peat) · [Our World research — Borneo smoky haze article]({{SITE_BASE}}/news/borneo-fires-peat-smoke-haze-science.html)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

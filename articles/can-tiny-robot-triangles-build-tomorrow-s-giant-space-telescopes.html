@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can tiny robot triangles build tomorrow's giant space telescopes? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Can tiny robot triangles build tomorrow's giant space telescopes?</h1>
+      <div class="meta"><span></span><span>2026-10-24</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-tiny-robot-triangles-build-tomorrow-s-giant-space-telescopes.png" alt="Can tiny robot triangles build tomorrow's giant space telescopes?">
+    <div class="article-body">
+      <p>Space is full of big ideas, but rocket fairings are small. A new design lets self-folding triangular modules link themselves together in orbit — adjusting their own shape as they go.</p>
+      <h1>Can tiny robot triangles build tomorrow's giant space telescopes?</h1>
+<h2>The fairing problem</h2>
+<p>Getting big things into space is surprisingly tricky. Rockets carry their cargo inside a protective nose cone called a <strong>fairing</strong>, but fairings come in fixed sizes — so no matter how powerful the rocket, the biggest thing you can launch is roughly the width and length of that cone. That puts a hard ceiling on how large a single telescope, communications dish, or solar array can be when it rides to orbit.</p>
+<h2>Triangles that fold and fix themselves</h2>
+<p>A team of researchers in China has proposed a clever workaround: build the structure from many <strong>small, identical triangular modules</strong> that fly up folded flat, then assemble themselves once in orbit. Each module is shaped like a three-pointed star — three hexagonal corner pods linked by thin carbon-fiber arms. Every pod carries its own tiny motor, a cold-gas thruster, and built-in magnets, so the module can inchworm into place, fine-tune its size, and gently latch onto a neighbor.</p>
+<p>The key trick is that the module can <strong>adjust its own shape in real time</strong>. A small motor reels in or lets out the carbon-fiber arms, letting the module conform to slight mismatches — like adjusting the length of three sticks until they form a perfect triangle against a wall. This matters because even tiny manufacturing imperfections or flexing in space can add up to big alignment errors when you're trying to connect many parts together.</p>
+<h2>Proof on an (earthly) air-hockey table</h2>
+<p>You can't test space assembly in space on a budget, so the researchers brought the challenge down to Earth — literally. They set their modules on precision <strong>air bearings gliding across a granite slab</strong>, which floats almost friction-free like an air-hockey table. Cameras tracked each module's position and fed the data into a control computer, which commanded the thrusters and motors to guide the triangles into place.</p>
+<p>Without active control, the modules bumped and missed their magnetic latches more than 90% of the time. But when the researchers flipped on their <strong>real-time morphing control</strong>, the system corrected for positioning errors by over <strong>98%</strong> — and the modules clicked together every single time.</p>
+<h2>Why triangles?</h2>
+<p>Three points make a rigid shape — a triangle can't wobble or collapse the way a four-legged table can. That rigidity means each assembled section stays true as more modules snap on, giving engineers confidence that a large structure won't twist out of shape as it grows.</p>
+<p>Eventually, swarms of these self-building triangles could put together everything from giant radio telescopes to vast solar-power stations — structures far bigger than any single rocket fairing could carry. For now, every successful magnetic click on that granite table is a small step toward the day we build big things in the biggest workspace of all: space itself.</p>
+<h2>Fun Fact</h2>
+<p>The International Space Station's largest component — its main truss — had to fold up like a letter in an envelope to fit inside the shuttle's cargo bay. If it had been made of self-assembling triangular modules, it could have launched compact and then unfolded and expanded itself in orbit, piece by tiny piece.</p>
+<h2>Try this at home</h2>
+<p>Grab three drinking straws, a paper clip, and some tape. Push the paper clip through one end of each straw and twist the three together at one point — this is your "corner pod." Tape the other ends together to form a triangle. Now try bending it: the triangle holds firm, while a square made from four straws would wobble. That's why nature — and space engineers — keep coming back to the humble triangle as the strongest simple shape.</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

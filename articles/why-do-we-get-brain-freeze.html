@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why do we get brain freeze? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why do we get brain freeze?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-we-get-brain-freeze.jpg" alt="Why do we get brain freeze?">
+    <div class="article-body">
+      <p>One bite of ice cream, one sudden ache behind your forehead. Brain freeze is not your brain freezing at all — it is a nerve and a blood vessel getting confused.</p>
+      <p>You take one big, enthusiastic bite of ice cream — or one long, thirsty gulp of an icy slushie — and then it hits. A sharp, throbbing ache right in the middle of your forehead. It is over in seconds, but for those seconds it is all you can feel.</p>
+<p>People call it brain freeze. Your brain is not actually freezing. Something much stranger is going on, and it has a scientific name to match: <strong>sphenopalatine ganglioneuralgia</strong> (say: sfee-no-PAL-uh-teen gang-lee-oh-noo-RAL-juh). Most people just call it an ice-cream headache or a cold-stimulus headache.</p>
+<h2>What sets it off</h2>
+<p>The trigger is always the same: something very cold touching a warm spot on the roof of your mouth or the back of your throat. Ice cream, popsicles, crushed-ice drinks and cold smoothies are the usual suspects, especially when you eat or drink them fast and in big mouthfuls.</p>
+<p>Your body hates sudden cold that close to home, because it works hard to keep your core temperature steady. So it reacts.</p>
+<h2>The chain reaction inside your head</h2>
+<p>Several things happen at once, in this order.</p>
+<p>First, the cold makes the blood vessels in the roof of your mouth suddenly tighten up and get narrow — this is called <strong>constriction</strong>. It is a survival reflex that helps protect your body's core temperature.</p>
+<p>Then, just as quickly, those same blood vessels swing the other way and swell open again — doctors call this <strong>rebound dilation</strong>. The vessels are rushing extra warm blood up into the area to warm it back up.</p>
+<p>That fast squeeze-and-release sets off nearby nerves. In particular it wakes up the <strong>trigeminal nerve</strong> (say: try-JEM-uh-nul), one of the big nerves of the face. The trigeminal nerve senses pain in parts of your face and mouth, and the upper branch of it reaches all the way up into your forehead.</p>
+<h2>Why the pain lands on your forehead</h2>
+<p>Here is the clever, slightly glitchy part. The roof of your mouth and your forehead are both wired to that same trigeminal nerve. When the cold in your mouth makes the nerve fire off a pain signal, your brain gets the message but misreads <em>where</em> it is coming from.</p>
+<p>So while the real commotion is happening in your mouth, your brain interprets the pain as coming from your forehead instead. That mix-up has a name too — <strong>referred pain</strong>. It is the same reason a heart problem can sometimes make a person's arm ache: the brain wires crossed at the switchboard.</p>
+<p>The result is that sharp, cold ache right in the front of your head, even though nothing up there is cold. It usually fades within a few seconds to a couple of minutes, and it stops on its own as the tissues warm back up.</p>
+<h2>Who gets it, and what to do</h2>
+<p>Anyone can get brain freeze, but research suggests people who get migraines are more likely to feel it, probably because their trigeminal nerve and pain pathways are extra sensitive.</p>
+<p>The good news: it is harmless, and it is easy to stop. Press your warm tongue flat against the roof of your mouth, sip a warm drink, or just take a breath and wait for your mouth to warm up — the ache will melt away. And to avoid it next time, slow down and take smaller bites and sips of anything frozen.</p>
+<p>So no, your brain is safe. It is just a nerve getting its wires crossed by a cold slushie — and if you yawned while reading this, you now know where to read next.</p>
+<p><strong>Sources:</strong> [Cleveland Clinic — Brain Freeze (ice cream headache)](https://my.clevelandclinic.org/health/diseases/21478-brain-freeze) · [Johns Hopkins Medicine — How to Ease Brain Freeze](https://www.hopkinsmedicine.org/health/conditions-and-diseases/how-to-ease-brain-freeze)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

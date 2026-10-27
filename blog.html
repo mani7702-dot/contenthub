@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a class="active" href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:40px 0 20px">
+  <div class="container">
+    <h1>Blog <span class="grad">Posts</span></h1>
+    <p>Stories, guides, and ideas from across the web — written and published around the clock.</p>
+    <div class="search" style="max-width:760px;margin:26px auto 0">
+      <input id="searchInput" type="text" placeholder="Search posts…">
+      <div class="chips" id="chips" style="width:100%;justify-content:center"></div>
+    </div>
+  </div>
+</section>
+
+<main class="container">
+  <div class="card-grid" id="grid"></div>
+  <div class="pager" id="pager"></div>
+  <p id="empty" style="display:none;text-align:center;color:var(--ink-soft);padding:40px">No posts match your search. Try another keyword.</p>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="assets/script.js"></script>
+<script>
+var state = { q: '', tag: '' };
+window.CH.loadFeed(function (data) {
+  var grid = document.getElementById('grid');
+  var chipsEl = document.getElementById('chips');
+  var tags = ['All'].concat(unique(data.blog.map(function (a) { return a.tag; })));
+  function unique(a) { return a.filter(function (v, i) { return a.indexOf(v) === i; }); }
+
+  tags.forEach(function (t) {
+    var c = document.createElement('button');
+    c.className = 'chip' + (t === 'All' ? ' on' : '');
+    c.textContent = t;
+    c.onclick = function () {
+      state.tag = t === 'All' ? '' : t;
+      chipsEl.querySelectorAll('.chip').forEach(function (x) { x.classList.remove('on'); });
+      c.classList.add('on');
+      render();
+    };
+    chipsEl.appendChild(c);
+  });
+
+  var PER = 6; var page = 1;
+  function render() {
+    grid.innerHTML = '';
+    var list = data.blog.filter(function (a) {
+      var okTag = !state.tag || a.tag === state.tag;
+      var okQ = !state.q || (a.title + a.excerpt).toLowerCase().indexOf(state.q) > -1;
+      return okTag && okQ;
+    });
+    document.getElementById('empty').style.display = list.length ? 'none' : 'block';
+    var pages = Math.max(1, Math.ceil(list.length / PER));
+    if (page > pages) page = pages;
+    var slice = list.slice((page - 1) * PER, page * PER);
+    slice.forEach(function (a, i) {
+      var el = document.createElement('article'); el.className = 'card'; el.style.animationDelay = (i * 0.08) + 's';
+      var media = a.video ? '<video class="thumb-video" src="' + a.video + '" muted loop autoplay playsinline></video>'
+                : a.image ? '<img class="thumb" src="' + a.image + '" alt="" loading="lazy">' : '';
+      el.innerHTML =
+        media +
+        '<span class="tag tag-blog">' + a.tag + '</span>' +
+        '<h3><a href="' + (a.url || ('articles/' + a.id + '.html')) + '">' + a.title + '</a></h3>' +
+        '<p class="excerpt">' + a.excerpt + '</p>' +
+        '<div class="meta"><span class="stat">✍️ ' + (a.author || 'ContentHub') + '</span><span class="stat">' + a.date + '</span><span class="stat">' + a.read + '</span></div>';
+      grid.appendChild(el);
+    });
+    renderPager(pages);
+  }
+
+  function renderPager(pages) {
+    var pager = document.getElementById('pager');
+    if (pages <= 1) { pager.innerHTML = ''; return; }
+    var html = '<button ' + (page === 1 ? 'disabled' : '') + ' onclick="goPage(' + (page - 1) + ')">← Prev</button>';
+    for (var i = 1; i <= pages; i++) {
+      html += '<button class="' + (i === page ? 'on' : '') + '" onclick="goPage(' + i + ')">' + i + '</button>';
+    }
+    html += '<button ' + (page === pages ? 'disabled' : '') + ' onclick="goPage(' + (page + 1) + ')">Next →</button>';
+    pager.innerHTML = html;
+  }
+  window.goPage = function (p) { page = p; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
+
+  document.getElementById('searchInput').addEventListener('input', function (e) {
+    state.q = e.target.value.toLowerCase();
+    render();
+  });
+
+  render();
+});
+</script>
+</body>
+</html>

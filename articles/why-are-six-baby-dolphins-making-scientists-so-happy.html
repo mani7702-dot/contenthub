@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why are six baby dolphins making scientists so happy? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Animals</span>
+      <h1>Why are six baby dolphins making scientists so happy?</h1>
+      <div class="meta"><span></span><span>2026-10-26</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-are-six-baby-dolphins-making-scientists-so-happy.jpg" alt="Why are six baby dolphins making scientists so happy?">
+    <div class="article-body">
+      <p>Six Irrawaddy dolphin calves were born in Cambodia's Mekong River this year, lifting the tiny population to about 118 — and not one dolphin has died in five years.</p>
+      <h1>Why are six baby dolphins making scientists so happy?</h1>
+<h2>A dolphin that lives in a river</h2>
+<p>Most dolphins live in the ocean, but one special kind — the <strong>Irrawaddy dolphin</strong> — swims in rivers too. In Cambodia, a small group of them lives in a stretch of the <strong>Mekong River</strong> about 120 kilometres long, in the country's northeast. These dolphins have round heads and a smiley-looking face, and people along the river think of them as sacred animals.</p>
+<p>There is a problem, though: this group is <strong>very, very small</strong>. In the late 1990s there were about 200. Then, year after year, the number went down. By 2017 only about 89 were left.</p>
+<h2>Six new babies</h2>
+<p>Now there is good news. This year, scientists confirmed <strong>six new dolphin calves</strong> were born in the river — five in Kratie province and one in Stung Treng. The sixth baby was spotted at a famous dolphin pool called Kampi, and it pushed the estimated population up to about <strong>118 dolphins</strong>.</p>
+<p>Even better: the last time a dolphin died in this group was in 2021. That means almost <strong>five years with no known deaths</strong> — a huge change from the years when the group was shrinking.</p>
+<h2>Why are they coming back?</h2>
+<p>Dolphins can't recover on their own. People helped. The Cambodian government and conservation groups worked together to make the river safer:</p>
+<ul><li><strong>Patrols</strong> on the river stopped illegal fishing, including electric fishing that stuns everything in the water.</li><li><strong>Families living nearby</strong> were helped to earn money in ways other than heavy fishing, so they did not need to catch so many fish.</li><li>Scientists <strong>photograph each dolphin's fin</strong> — every fin is shaped a little differently — so they can tell exactly who is who and count the babies.</li></ul>
+<p>Six babies in one year is a record for a group this small. It is a sign the dolphins are still having young, and that they can bounce back if the river stays safe for them.</p>
+<h2>A cautious cheer</h2>
+<p>These dolphins are still in danger. Fishing nets, dams far upstream, low water in the dry season and pollution are all still threats. But 118 is the highest number in years, and each calf is a tiny, splashing piece of hope.</p>
+<h2>Sources</h2>
+<ul><li>Mongabay — [Six new calves offer hope amid ongoing threats to Cambodia's Irrawaddy dolphins](https://news.mongabay.com/short-article/2026/10/six-new-calves-offer-hope-amid-ongoing-threats-to-cambodias-irrawaddy-dolphins/)</li><li>Good News Network — [Numbers of Endangered and Sacred River Dolphin Grow by 6](https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/)</li><li>The Star / Phnom Penh Post — [Latest Kratie dolphin calf sighting brings population to 118](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/28/latest-kratie-dolphin-calf-sighting-brings-population-in-cambodia-to-118)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

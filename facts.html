@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Facts — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  .fact-stage{max-width:640px;margin:0 auto;padding:20px 0 50px;text-align:center}
+  .fact-card{
+    background:var(--surface);border:1px solid var(--line);border-radius:24px;padding:44px 32px;
+    box-shadow:var(--card-shadow);min-height:220px;display:flex;flex-direction:column;justify-content:center;gap:16px;
+    position:relative;overflow:hidden
+  }
+  .fact-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;background:var(--brand-grad)}
+  .fact-card .num{font-size:.85rem;font-weight:800;letter-spacing:.08em;color:var(--violet)}
+  .fact-card .text{font-size:clamp(1.25rem,3vw,1.7rem);font-weight:700;line-height:1.5}
+  .fact-controls{display:flex;gap:14px;justify-content:center;margin-top:26px}
+  .fact-controls .btn{padding:12px 20px}
+  .fact-dots{display:flex;gap:8px;justify-content:center;margin-top:18px}
+  .dotx{width:9px;height:9px;border-radius:50%;background:var(--line);transition:.3s}
+  .dotx.on{background:var(--violet);transform:scale(1.3)}
+  @keyframes flipIn{from{opacity:0;transform:translateY(26px) rotateX(45deg)}to{opacity:1;transform:translateY(0) rotateX(0)}}
+  .fact-card.swap{animation:flipIn .5s ease both}
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a class="active" href="facts.html">Facts</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:40px 0 10px">
+  <div class="container">
+    <h1>Mind-<span class="grad">Blowing</span> Facts</h1>
+    <p>A fresh surprise every click. Flip through and amaze yourself.</p>
+  </div>
+</section>
+
+<main class="fact-stage container">
+  <div class="fact-card" id="factCard">
+    <span class="num" id="factNum">FACT 01</span>
+    <p class="text" id="factText">Loading…</p>
+  </div>
+  <div class="fact-dots" id="dots"></div>
+  <div class="fact-controls">
+    <button class="btn btn-ghost" id="prevFact">← Previous</button>
+    <button class="btn btn-solid" id="nextFact">Next fact ✨</button>
+  </div>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="assets/script.js"></script>
+<script>
+window.CH.loadFeed(function (data) {
+  var facts = data.facts;
+  var i = 0;
+  var card = document.getElementById('factCard');
+  var numEl = document.getElementById('factNum');
+  var textEl = document.getElementById('factText');
+  var dotsEl = document.getElementById('dots');
+
+  facts.forEach(function (_, idx) {
+    var d = document.createElement('span');
+    d.className = 'dotx' + (idx === 0 ? ' on' : '');
+    d.onclick = function () { show(idx); };
+    dotsEl.appendChild(d);
+  });
+  var dots = dotsEl.children;
+
+  function show(n) {
+    i = (n + facts.length) % facts.length;
+    card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap');
+    numEl.textContent = 'FACT ' + String(i + 1).padStart(2, '0');
+    textEl.textContent = facts[i].fact || facts[i].title;
+    for (var x = 0; x < dots.length; x++) dots[x].className = 'dotx' + (x === i ? ' on' : '');
+  }
+
+  document.getElementById('prevFact').onclick = function () { show(i - 1); };
+  document.getElementById('nextFact').onclick = function () { show(i + 1); };
+
+  show(0);
+});
+</script>
+</body>
+</html>

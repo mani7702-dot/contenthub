@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A tiny island just protected a fifth of its ocean — here's what that means — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">news</span>
+      <h1>A tiny island just protected a fifth of its ocean — here's what that means</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>2 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/a-tiny-island-just-protected-a-fifth-of-its-ocean-here-s-what-that-means.jpg" alt="A tiny island just protected a fifth of its ocean — here's what that means">
+    <div class="article-body">
+      <p>Jersey, a small British island in the English Channel, just expanded its protected sea areas from 6.5% to 21.7% of its waters — a safe, quiet underwater playground for seahorses, fish, and shimmering kelp forests.</p>
+      <p>Some islands protect treasure hidden underwater. The little island of Jersey, floating in the English Channel between England and France, has just drawn a giant friendly ring around one fifth of its ocean — and the fish are very happy about it.</p>
+<h2>What changed?</h2>
+<p>Jersey has had protected sea areas for a while. But the number just jumped from 6.5% to 21.7% — over three times as much water is now off-limits to the heaviest fishing boats. That means seabed-stirring tools like trawling nets and dredges can't churn up the bottom there anymore.</p>
+<p>Why does that matter? Because the calm spots protect habitats that act like nurseries for baby fish — seagrass meadows, kelp forests, and spiky pink "maerl" beds that look like coral but are made of algae.</p>
+<h2>Ocean neighborhoods protected</h2>
+<p>These are the underwater neighborhoods where sea creatures grow up, hide, and find food. Protection doesn't mean fishing is banned across a fifth of the water — it means the noisiest, most damaging gear stays out so those habitats can recover and stay healthy. And that keeps fish plentiful for local fishers too.</p>
+<p>The idea took three years of chatting between the island's leaders and French fishermen, and the rules finally came into force on 1 September.</p>
+<h2>A worldwide wave</h2>
+<p>Jersey is part of a bigger movement. Many countries have joined the "30 by 30" promise — protecting 30% of the world's ocean by 2030. It's a big goal that needs small islands like Jersey to do their part.</p>
+<p><strong>Try it yourself:</strong> Animals love safe corridors. Watch how wildlife use special bridges and tunnels — you can even spot local animals using the "wildlife crossing" bridges over highways near your country on YouTube nature channels.</p>
+<p><strong>For grown-ups:</strong> The expansion focuses on <em>demersal</em> fishing gear — trawls and dredges that drag along the seabed — to avoid disturbing sensitive habitats. It was planned through Jersey's Marine Spatial Plan with three years of consultation with Jersey and French fishing representatives, and it contributes to the Global Ocean Alliance's 30-by-2030 biodiversity target.</p>
+<h3>Sources</h3>
+<ul><li>Government of Jersey — official announcement: https://www.gov.je/News/2026/Pages/MPAexpansion.aspx</li><li>Good News Network: https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/</li><li>Bailiwick Express (independent report): https://www.bailiwickexpress.com/news/more-than-a-fifth-of-jersey-waters-now-protected-but-what-does-that-mean/</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

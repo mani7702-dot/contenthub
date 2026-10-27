@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The tardigrade: 7 reasons the water bear is almost unkillable — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Animals</span>
+      <h1>The tardigrade: 7 reasons the water bear is almost unkillable</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/the-tardigrade-7-reasons-the-water-bear-is-almost-unkillable.png" alt="The tardigrade: 7 reasons the water bear is almost unkillable">
+    <div class="article-body">
+      <p>Half a millimeter long, eight legs, and it has survived boiling, freezing, deep-ocean pressure and outer space. Meet the toughest animal on Earth.</p>
+      <p>Tardigrades are less than a millimeter long, have eight stubby legs, and waddle around like something between a bear and a vacuum cleaner. Their nickname is "water bear," and they are the closest thing nature has to a superhero.</p>
+<p>Here are seven reasons they are basically impossible to kill.</p>
+<h2>1. They have been to space</h2>
+<p>In 2007, scientists sent tardigrades into orbit and exposed them to the vacuum of space for ten days. Vacuum means no air at all. They came back, and most were completely fine. Some even reproduced afterwards.</p>
+<p>They remain the only animals known to have survived unprotected in space.</p>
+<h2>2. They can dry out for years</h2>
+<p>When water runs out, a tardigrade curls into a dried-out ball called a <strong>tun</strong> (say: "tun"), pulls its legs in, and shuts its body almost all the way down. It is not quite dead — it is paused.</p>
+<p>In this state it can survive around 30 years. Add one drop of water and it unfurls within hours, as if nothing happened.</p>
+<h2>3. They replace their water with sugar</h2>
+<p>Their secret ingredient is a sugar called <strong>trehalose</strong>. As a tardigrade dries out, trehalose steps in where water used to be, holding cells and DNA in shape so nothing cracks. When the water returns, the sugar swaps back out and the animal restarts.</p>
+<p>It is one of the cleverest survival tricks in biology.</p>
+<h2>4. They can take the heat and the cold</h2>
+<p>Boiling water and temperatures near absolute zero: tardigrades have survived both. The exact limits depend on the species and how long the exposure lasts, but the range is far wider than almost any other animal can handle.</p>
+<h2>5. Crushing pressure does not bother them</h2>
+<p>They survive pressures six times greater than the deepest trenches of the ocean. A creature that lives in a drop of water on moss has survived conditions that would flatten a submarine.</p>
+<h2>6. They carry radiation-proof protein</h2>
+<p>Tardigrades make a protein called <strong>Dsup</strong>, short for "damage suppressor." It clamps onto their DNA and shields it from radiation damage. When scientists put the Dsup gene into human cells in the lab, those cells survived X-rays far better than normal.</p>
+<p>Researchers still study Dsup today, because a protein that protects DNA could matter for medicine and space travel.</p>
+<h2>7. They are everywhere</h2>
+<p>Look at them under a microscope and they look cuddly, with claws and a slow, deliberate shuffle. You can find them in the moss on a wall, in a sample of wet dirt, or in the slime of a pond. They have been on every continent, on every kind of surface.</p>
+<p>If you want to find one: soak a small pinch of moss in water for a day, then look at a drop under a microscope. Water bears are surprisingly easy to meet.</p>
+<p><strong>Sources:</strong> [National Geographic Kids — Tardigrade](https://kids.nationalgeographic.com/animals/invertebrates/facts/tardigrade) · [BBC Nature — Tardigrades: water bears in space](https://www.bbc.co.uk/nature/12855775) · [National Geographic — What is a tardigrade?](https://www.nationalgeographic.com/animals/invertebrates/facts/tardigrades-water-bears)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

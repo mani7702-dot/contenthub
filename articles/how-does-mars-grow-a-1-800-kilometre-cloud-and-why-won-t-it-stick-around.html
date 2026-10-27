@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How does Mars grow a 1,800-kilometre cloud — and why won't it stick around? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>How does Mars grow a 1,800-kilometre cloud — and why won't it stick around?</h1>
+      <div class="meta"><span></span><span>2026-10-22</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-does-mars-grow-a-1-800-kilometre-cloud-and-why-won-t-it-stick-around.png" alt="How does Mars grow a 1,800-kilometre cloud — and why won't it stick around?">
+    <div class="article-body">
+      <p>Every Martian summer morning, a thin white cloud unfurls west of the giant Arsia Mons volcano, stretching nearly 1,800 km before fading — and a new study says it forms by a process once thought to exist only in textbooks.</p>
+      <h2>The cloud that appears like clockwork</h2>
+<p>Stand on Mars on a warm summer morning and look west near the giant shield volcano <strong>Arsia Mons</strong>, and you may spot a thin, needle-sharp cloud stretching 1,800 kilometres away — nearly half the distance from London to Rome. This is the <strong>Arsia Mons Elongated Cloud</strong>, or AMEC, and it appears every single morning during Martian spring and summer before fading as the day heats up.</p>
+<p>Arsia Mons is the southernmost of Mars' great Tharsis volcanoes. It rises about <strong>20 km</strong> above the surrounding plains — almost twice the height of Mount Everest. As the morning sun warms its peak, the daily cloud unfurls as if painted in the sky.</p>
+<h2>Why does the cloud need no dust to grow?</h2>
+<p>On Earth, clouds form when water vapour condenses onto tiny particles — pollen, sea salt, or pollution. This is <strong>heterogeneous nucleation</strong>, how every raindrop begins. Mars, by contrast, is famously dusty, so scientists long assumed dust supplied the particles letting AMEC form. But computer models using that idea could not reproduce the cloud's slender shape at all.</p>
+<p>The new study suggests a different trick. Westward winds crash up against Arsia Mons and slam downward on the other side, unleashing invisible <strong>gravity waves</strong> that squeeze the air. As it expands, the air cools by up to 30 °C in under fifteen minutes — plunging below −143 °C.</p>
+<p>In that clean, frigid pocket, with little dust about, water vapour collides hard enough to freeze straight into ice crystals <strong>without any surface to land on</strong>. Scientists call this <strong>homogeneous nucleation</strong>, and AMEC may be its first observed example in a real planetary atmosphere — not a textbook lab experiment.</p>
+<h2>Where could this happen next?</h2>
+<p>Showing that homogeneous nucleation can shape an entire sky opens doors across the Solar System. Places with clean, cold air and strong gravity waves — the icy plumes of Saturn's moon Enceladus, Earth's own polar mesosphere, or Jupiter's frozen moons could surprise us the same way. ESA's <strong>Mars Express</strong> continues watching Arsia Mons so future visitors will know exactly when and where to look.</p>
+<h2>Try this at home</h2>
+<p>On a clear night, find the constellation Ophiuchus and look nearby for the fuzzy galactic plane. Knowing that real physics links clouds on your sky to clouds on Mars makes every wispy streak feel like a hidden story.</p>
+<p><strong>Fun fact:</strong> The AMEC cloud lives only a few hours each morning. It forms, stretches 1,800 km, and dissipates as the thin Martian atmosphere warms — one of the few clouds sculpted not by eruptions but by the mountain's towering height and the invisible waves flowing around it.</p>
+<p><strong>Sources:</strong> [Universe Today — Mars' Most Mysterious Cloud](https://www.universetoday.com/articles/marss-most-mysterious-cloud-might-be-defying-textbook-cloud-physics) · [Nature Geoscience](https://www.nature.com/articles/s41561-026-01387-z) · [Wikipedia — Arsia Mons](https://en.wikipedia.org/wiki/Arsia_Mons) · [Wikipedia — Mars Express](https://en.wikipedia.org/wiki/Mars_Express)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How does a compass know which way is north? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>How does a compass know which way is north?</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-does-a-compass-know-which-way-is-north.jpg" alt="How does a compass know which way is north?">
+    <div class="article-body">
+      <p>Tiny explorers have trusted compasses for over a thousand years. But how does a little floating needle always find north?</p>
+      <p>A compass is one of the oldest tools in the world. Sailors used them a thousand years before anyone had maps of the open ocean. But how does a little floating needle manage to always point north?</p>
+<p>The secret is that Earth itself is a giant magnet — and the compass needle is a tiny one that cannot resist.</p>
+<h2>Earth is a giant magnet</h2>
+<p>Deep inside our planet, there is a churning core of hot, liquid metal. That moving metal acts like a huge magnet, wrapping the whole Earth in an invisible magnetic field. You cannot see it, but it is everywhere around you.</p>
+<h2>The needle is a tiny magnet too</h2>
+<p>Inside a compass, the needle is a small bar magnet, balanced so it can spin freely. And here is the rule: magnets that are free to turn will line themselves up with other magnets. So the needle swings until it lines up with Earth's giant magnetic field — and one end of that line points north.</p>
+<p>The end painted red points to the north magnetic pole, and the other end points south.</p>
+<h2>North on the compass, north on the map</h2>
+<p>There is a tiny cheat coders and sailors have to know: the compass points to the <strong>magnetic</strong> north pole, but maps are drawn with <strong>true</strong> north. The two are not exactly the same place, and the difference is different for every city. Map-makers mark this gap, called <strong>declination</strong>, so explorers can correct.</p>
+<p>The magnetic pole even moves a little every year. So a compass tells you roughly where north is — and over a thousand years of exploration, "roughly" was plenty.</p>
+<h2>Why magnets get in line</h2>
+<p>Try it yourself. Rub a sewing needle on a fridge magnet a few dozen times — one direction only — and the needle becomes magnetic. Float it on a cork in a bowl of water and it will slowly turn to point north-south. Magnets always want to line up with other magnets, and Earth is the biggest magnet around.</p>
+<p>So the compass is not reading a map. It is simply the oldest magnet trick in the book: put a tiny magnet in a world that already has one, and let them agree.</p>
+<blockquote>Try this at home: make a needle a magnet by rubbing it on a fridge magnet, float it on a cork or leaf in still water, and watch it find north by itself.</blockquote>
+<p><strong>Sources:</strong> [National Geographic — How a compass works and Earth's magnetic field](https://education.nationalgeographic.org/resource/compass/) · [Britannica — Compass and magnetic declination](https://www.britannica.com/technology/compass-navigational-instrument)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

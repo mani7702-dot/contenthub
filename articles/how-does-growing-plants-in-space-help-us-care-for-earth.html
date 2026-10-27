@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How does growing plants in space help us care for Earth? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>How does growing plants in space help us care for Earth?</h1>
+      <div class="meta"><span></span><span>2026-10-25</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-does-growing-plants-in-space-help-us-care-for-earth.jpg" alt="How does growing plants in space help us care for Earth?">
+    <div class="article-body">
+      <p>NASA astronaut Luke Delaney is busy tending to plants aboard the International Space Station, testing how microgravity changes the way life grows — and what that tells us about tending our own planet from up above.</p>
+      <h2>What does a space botanist do on the ISS?</h2>
+<p>Imagine tending a garden while floating two hundred miles above Earth, where every seed, leaf, and drop of water drifts as if underwater. That is exactly what NASA astronaut <strong>Luke Delaney</strong> does aboard the <strong>International Space Station</strong>, and he is not alone — every day in orbit, plants are helping scientists unlock secrets that reach all the way back down to our blue planet.</p>
+<h2>Why grow plants where there is no up or down?</h2>
+<p>On Earth, roots always grow downward and stems reach upward. That invisible direction is called <strong>gravitropism</strong> — a built-in GPS that tells plants which way is down. In space, that GPS stops working, so plants must figure out a new way to grow.</p>
+<p>NASA scientists have been asking: without gravity's pull, how do plants decide which way is up? By studying petri dishes and growth modules in the ISS laboratory, researchers watch how plants re-orient themselves, how their cells change shape, and how their <strong>genes</strong> switch on and off. It turns out gravity is not just about falling — it sends signals that plants use to build themselves properly.</p>
+<h2>The ISS as a floating laboratory</h2>
+<p>Aboard the station, plants grow inside special pillows of soil under LED lights, with gentle pumps and cameras recording every inch of growth. Since the ISS began hosting plant experiments, crews have grown <strong>lettuce, radishes, zinnias, and even moss</strong> that survived the vacuum of space itself. Each experiment teaches us how life adapts — knowledge that could help astronauts grow fresh food on a <strong>three-year trip to Mars</strong>.</p>
+<p>But the gifts keep coming back to Earth. As plants grow without gravity's tug, scientists learn how to make crops stronger, water them more efficiently, and protect them from stress — improvements we can bring home to farms facing drought and extreme weather. The space garden is, in a sense, Earth's garden teaching us new tricks.</p>
+<h2>Try this at home</h2>
+<p><strong>Plant a seed in a clear cup</strong> with a damp paper towel and watch how the root always bends downward — that tiny tug is Earth's gravity guiding it. <strong>Try it upside down:</strong> tape a sprouting seed to the inside of a jar lid and hang it so it grows in a circle. Notice how it still finds its way. <strong>Look at the night sky</strong> and find the ISS — on a clear evening you can see a slow, steady "star" gliding across, carrying its floating garden high above.</p>
+<h2>Fun Fact</h2>
+<p>The ISS travels at about <strong>28,000 kilometers per hour</strong>, which means it orbits Earth <strong>15 and a half times every single day</strong> — so those plants complete a sunrise and sunset every 90 minutes, living through far more days in a week than we do on Earth!</p>
+<h2>Sources</h2>
+<ul><li>Space.com — "Space botanist conducts plant experiments in orbit" (Space Photo of the Day for Oct. 21, 2026), by Chelsea Gohd — https://www.space.com/space-exploration/human-spaceflight/space-botanist-conducts-plant-experiments-in-orbit-space-photo-of-the-day-for-oct-21-2026</li><li>Wikipedia — "Plants in space" — confirms ISS VEGGIE plant growth facility, gravitropism studies, 20 plant experiments by 2010 — https://en.wikipedia.org/wiki/Plants_in_space</li><li>Wikipedia — "Astrobotany" — confirms NASA plant growth as both food source and atmospheric air regeneration on long-duration missions — https://en.wikipedia.org/wiki/Astrobotany</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

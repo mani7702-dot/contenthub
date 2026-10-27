@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What does JWST's new peek inside Orion reveal about baby stars? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>What does JWST's new peek inside Orion reveal about baby stars?</h1>
+      <div class="meta"><span></span><span>2026-10-22</span><span>4</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/what-does-jwst-s-new-peek-inside-orion-reveal-about-baby-stars.png" alt="What does JWST's new peek inside Orion reveal about baby stars?">
+    <div class="article-body">
+      <p>The James Webb Space Telescope sees through dusty clouds in Orion's stellar nursery to catch baby stars shooting out high-speed jets.</p>
+      <h2>A cosmic nursery hides behind a veil of dust</h2>
+<p>If you look up at Orion the Hunter on a crisp winter night, you might spot a fuzzy "star" in his sword. That fuzzy patch is the <strong>Orion Nebula</strong> — a glowing cloud called a <em>stellar nursery</em>, where new stars are born.</p>
+<p>But the nebula has a secret: most of the action happens inside thick, cold clouds of gas and dust that block visible light. It's like trying to watch a movie through a thick blanket.</p>
+<h2>How JWST sees through the blanket</h2>
+<p>The James Webb Space Telescope has a superpower: <strong>infrared vision</strong>. Infrared light slips right through the dusty blanket that hides the nursery's baby stars, revealing what's happening inside.</p>
+<p>JWST recently stared at a small slice of the vast Orion A complex — a region called <strong>OMC-2</strong> — that lies 1,267 light-years from Earth. By the time that light reached us, humans had only just invented the telegraph, so imagine how far away that really is!</p>
+<p>The region JWST examined spans just 2.5 by 1.5 light-years — tiny compared to the full cloud, but close enough to see incredible detail.</p>
+<h2>Baby stars shoot out speedy jets</h2>
+<p>Inside OMC-2's cold clouds, gravity slowly tugs on pockets of gas and dust. As a pocket grows denser, gravity wins and the cloud collapses — this is how a <strong>protostar</strong> forms.</p>
+<p>But here's the amazing part: as the collapsing cloud spins faster (conserving angular momentum), it flattens into a spinning disk called an <strong>accretion disk</strong>. Powerful magnetic fields in the disk's inner region channel some of the material into super-fast <strong>jets</strong> that blast out along the baby star's rotation axis — like cosmic fireman's hoses shooting out at hundreds of thousands of miles per hour.</p>
+<p>When those jets crash into the surrounding dust and gas, they light up in sharp, glowing streaks that JWST's infrared eye captures as colorful wisps across the image. Most appear reddish, while younger protostars still getting their feet wet blaze a brighter white.</p>
+<h2>What the grownup stars will become</h2>
+<p>A few of the bright dots in JWST's image — marked with six symmetrical spikes from the telescope's mirrors — have already cleared away their birth blankets. These are <strong>pre-main-sequence stars</strong>, the grown-ups of this cosmic nursery. They show us what tomorrow's OMC-2 protostars will grow up to look like.</p>
+<h2>Try this at home</h2>
+<p>Find the Orion Nebula this winter: look for the fuzzy middle "star" in Orion's sword. With a small telescope or even good binoculars, you're seeing a stellar nursery 1,267 light-years away! To simulate how dust blocks light, shine a flashlight through a foggy jar of water — visible light scatters, but if you could see infrared, the "stars" behind the fog would become clear.</p>
+<h2>Fun Fact</h2>
+<p>The brightest stars in the Orion Nebula form the <strong>Trapezium Cluster</strong> — four stars that look like a tiny trapezoid even through small telescopes. These hot, young stars are the ones lighting up the entire nebula.</p>
+<h2>Sources</h2>
+<p>1. "JWST tours Orion's hidden stellar nursery" — Astronomy.com, Oct 2026. https://www.astronomy.com/science/jwst-tours-orions-hidden-stellar-nursery/</p>
+<p>2. "Orion Nebula" — Wikipedia. https://en.wikipedia.org/wiki/Orion_Nebula</p>
+<p>3. "Orion Molecular Cloud Complex" — Wikipedia. https://en.wikipedia.org/wiki/Orion_Molecular_Complex</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

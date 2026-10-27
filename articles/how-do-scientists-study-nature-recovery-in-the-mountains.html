@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How do scientists study nature recovery in the mountains? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>How do scientists study nature recovery in the mountains?</h1>
+      <div class="meta"><span></span><span>2026-10-21</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-do-scientists-study-nature-recovery-in-the-mountains.jpg" alt="How do scientists study nature recovery in the mountains?">
+    <div class="article-body">
+      <p>High up in England's Lake District, scientists have built a brand-new field lab to study how mountains recover when humans step back. Here's how peatlands, rainforests, and tiny organisms work together to heal the land.</p>
+      <p>Mountains may look quiet and empty, but down in their valleys and bogs, an invisible world of recovery is already at work. How do scientists watch it happen?</p>
+<p>High up in England's Lake District, a brand-new field laboratory has opened its doors — not to students in coats and ties, but to scientists, conservationists, and curious young explorers who want to learn how nature stitches itself back together.</p>
+<p>The lab sits at RSPB Wild Haweswater, a reserve where the land climbs steep and green. Here, researchers are tracking something most of us never think about: how the uplands breathe.</p>
+<h2>Three layers of the upland world</h2>
+<p>Think of the mountain like a sandwich with three special layers:</p>
+<p><strong>The peat layer — Earth's underground library.</strong> Peatlands are wetlands where dead plants never fully rot. Year after year, new layers pile on top, trapping bits of leaves, moss, and roots. These bogs act like sponges — they soak up rainwater, slow it down, and hold it for months. That means floods downstream become gentler, and dry spells stay softer too.</p>
+<p>But there's a superpower hiding here: peat is the biggest carbon stash on land. More carbon lives in peat than in all the trees and grass and plankton combined. As long as the bog stays wet, that carbon sleeps. If the bog dries out, it wakes up — and the carbon wakes with it.</p>
+<p><strong>The rainforest layer — the mist catcher.</strong> The UK's Lake District sits in what scientists call a temperate rainforest — a place where rain falls often and mist clings to the trees. Here, moss hangs from branches like green curtains, catching water from the air. Every drop that drips down feeds the soil below.</p>
+<p><strong>The soil layer — the city underground.</strong> Under every step, millions of tiny organisms — bacteria, fungi, springtails, and worms — are busy trading nutrients like a bustling market. A single teaspoon of healthy soil holds more creatures than there are people on Earth. They break down fallen leaves, share sugars with tree roots, and build the soil itself one grain at a time.</p>
+<h2>How the lab watches it all</h2>
+<p>The new lab gives researchers a basecamp in the middle of all this activity. Instead of trekking in for a day trip, they can stay nearby, set up instruments, and watch the mountain change through every season.</p>
+<p>They use cameras that take pictures of the same patch of moorland every single day. They lower sensors into the peat to measure how wet it stays. They collect water samples to see what the plants are breathing out. And they count what returns — a bird's nest here, a new cluster of moss there, a fox track in the mud.</p>
+<h2>Try this at home</h2>
+<p>Fill a clear jar halfway with water. Add a sprinkle of soil, a pinch of leaves, and a few drops of milk (the milk stands in for nutrients). Cover the jar and leave it on a sunny windowsill for a week. Watch what grows — algae first, then maybe tiny plants. This is how scientists start: with a small patch and a lot of patience, waiting to see what nature does next.</p>
+<h2>Fun fact</h2>
+<p>The Lake District's temperate rainforests were once widespread across the UK. Today, less than 1% of the original native woodland remains. That's why labs like this one matter — every bog replanted, every moss restored, every sensor reading adds to the story of how wild places come back.</p>
+<p>The scientists here are not just watching nature recover — they are learning how to ask it for permission to help, one careful step at a time.</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

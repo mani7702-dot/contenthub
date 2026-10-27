@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why are Mars's moons so lumpy? A new mission will grab a handful to find out — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>Why are Mars's moons so lumpy? A new mission will grab a handful to find out</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-are-mars-s-moons-so-lumpy-a-new-mission-will-grab-a-handful-to-find-out.png" alt="Why are Mars's moons so lumpy? A new mission will grab a handful to find out">
+    <div class="article-body">
+      <p>Japan's MMX spacecraft blasted off to Mars's moon Phobos to scoop up moondust and bring it back to Earth — the first sample ever from the Mars system.</p>
+      <p>Mars has two tiny moons, and they look nothing like round snowballs. They are lumpy, cratered, and a little bit potato-shaped. A mission that blasted off this week plans to grab a piece of one of them and bring it to Earth.</p>
+<h2>The two space potatoes</h2>
+<p>Their names are Phobos (PHEE-bos) and Deimos (DAY-mos). Phobos is about 20 kilometres across and Deimos about half that — smaller than our own Moon. Scientists do not actually agree on how these two little potatoes got there.</p>
+<p>One idea: a giant space rock slammed into young Mars, and the moons formed from the wreckage. The other: they are two wandering asteroids that drifted close, and Mars's gravity pulled them in.</p>
+<p>You cannot answer that question by looking at Mars with a telescope. You need a sample. So Japan's space agency, JAXA, built a spacecraft to go get one.</p>
+<h2>The journey of the MMX spacecraft</h2>
+<p>The Mars Moons eXploration (MMX) rocket lifted off from the Tanegashima Space Center in Japan on the night of October 19 (October 20 local Japan time). It will cruise until it reaches Mars's neighbourhood in August 2027.</p>
+<p>First it will study Deimos as it flies by. Then it will turn toward Phobos, drop a small rover to the surface to scout a landing spot, and finally land the spacecraft itself.</p>
+<p>On the surface, a robotic arm and two samplers will grab moondust. The amount coming back is tiny — just 10 grams. But scientists say even single grains can be studied. The capsule returns to Earth in 2031 and parachutes into the Woomera desert in Australia.</p>
+<h2>Why one handful matters</h2>
+<p>The two competing ideas about where the moons came from give very different chemistry. When the sample reaches a lab, scientists say the answer should be almost immediately obvious — is it a broken bit of Mars, or a captured asteroid?</p>
+<p>There is even a bonus. Phobos sits so close to Mars that every impact on Mars can puff little grains of Mars dust onto Phobos. So the handful may secretly contain real Mars material too — the first pristine bits of the Red Planet ever brought home.</p>
+<p><strong>Try it yourself:</strong> watch JAXA's launch-replay clips on its YouTube channel to see the rocket light up the sky — the launch happened just after midnight IST.</p>
+<h2>For the grown-ups</h2>
+<p>MMX is a JAXA-led sample-return mission with NASA, ESA, CNES and DLR partners. It is the first mission ever designed to return material from the Mars system; NASA's Perseverance caches were left stranded after funding for Mars Sample Return was cut. The sample capsule lands at the Woomera Prohibited Area in 2031. NASA will curate about 15% of the returned sample at the Johnson Space Center.</p>
+<p><strong>Sources:</strong> [NASA Science — MMX](https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/) · [ESA — Martian Moons eXploration](https://www.esa.int/ESA_Multimedia/Images/2026/10/The_Martian_Moons_eXploration_MMX_mission) · [BBC — Mission grabs a piece of Mars's moon](https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o) · [Axios — New space mission aims to grab Mars moon soil](https://www.axios.com/2026/10/19/mmx-mars-phobos-mission-sample)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

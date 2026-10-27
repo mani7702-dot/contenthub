@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How a rocket launch painted a jellyfish in the sky — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>How a rocket launch painted a jellyfish in the sky</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-a-rocket-launch-painted-a-jellyfish-in-the-sky.jpg" alt="How a rocket launch painted a jellyfish in the sky">
+    <div class="article-body">
+      <p>A SpaceX Falcon 9 lifted off for the Space Station at sunrise and lit up the eastern sky with a glowing shape that looked just like a jellyfish floating in space.</p>
+      <p>At six thirty-three in the morning, the sky over the eastern United States turned into a science-fiction picture.</p>
+<p>A SpaceX Falcon 9 rocket rose from Cape Canaveral, heading to the International Space Station. As it climbed into the dark sky, its exhaust lit up from above — and suddenly everyone looking out their window saw something that looked like a giant jellyfish floating high above the trees.</p>
+<h2>Why did it look like a jellyfish?</h2>
+<p>It happens on rockets that launch near sunrise or sunset. Down on the ground it is still dark, but way up high — thirty, forty, fifty kilometres up — the sun is already shining. So sunlight reaches the rocket's exhaust and makes the spreading gas shine like a torch.</p>
+<p>The hot gas pours out and fans outward, making a glowing, umbrella-shaped "bell" just like a jellyfish's head. Then thinner trails stretch down beneath it like the creature's trailing tentacles. From the ground it looks unreal: a living thing drifting across the sky instead of a machine leaving Earth.</p>
+<h2>What was the rocket carrying?</h2>
+<p>This was SpaceX's 35th cargo run to the Space Station for NASA — called CRS-35. The Dragon capsule carried more than 6,300 pounds of food, supplies, and science experiments.</p>
+<p>One of the most exciting items was the final set of new solar panels for the ISS — known as IROSAs. These will help power the space station for crews living and working above us.</p>
+<p>There were also experiments that study how the human body changes in space. Tiny "organoid" models of heart tissue and brain cells float in microgravity, letting scientists watch how they grow without the pull of gravity. Researchers hope these studies will help doctors back on Earth understand heart disease and brain conditions like Alzheimer's.</p>
+<h2>Try this at home</h2>
+<p>You can see the same glow effect with a flashlight in a dark room! Shine a flashlight upward toward the ceiling while lying on the floor. Watch how the beam spreads out and creates a glowing cone — just like a rocket's exhaust plume lighting up the sky.</p>
+<h2>Fun fact</h2>
+<p>The "jellyfish" shape has a real name in astronomy: it is similar to what scientists call a "noctilucent cloud" — night-shining clouds that form 80 kilometres above Earth and glow silver-blue when sunlight hits them after sunset.</p>
+<p>Every launch is different, and so is every glow. But the feeling is the same: the simple, quiet wonder of watching a machine leave our world and carry human curiosity with it.</p>
+<p><strong>Sources:</strong> [Wikipedia — SpaceX CRS-35](https://en.wikipedia.org/wiki/SpaceX_CRS-35) · [ScienceDaily — NASA's SpaceX launch lights up the sky with a giant glowing jellyfish](https://www.sciencedaily.com/releases/2026/10/261016070635.htm)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

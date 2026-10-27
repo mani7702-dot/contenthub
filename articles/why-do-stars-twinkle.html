@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why do stars twinkle? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why do stars twinkle?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-stars-twinkle.jpg" alt="Why do stars twinkle?">
+    <div class="article-body">
+      <p>Stars do not really wobble — our air makes them look like they do. Here is what is happening between you and a star.</p>
+      <p>Look up on a clear night and the stars seem to shimmer and dance. Some nights they twinkle hard, changing color as they go. Other nights they sit perfectly still.</p>
+<p>The truth is a little surprising: the star is not doing anything. All the wobbling happens on the way to you.</p>
+<h2>The air is like a wobbly window</h2>
+<p>Between your eyes and a star there is a lot of air. That air is never still. Warm air and cool air are always sliding past each other in invisible currents, especially near the ground on a chilly night.</p>
+<p>Light from a star passes through all of it. Warm air and cool air bend light by slightly different amounts, so the beam nudges this way and that as you watch. A star is so far away that it looks like a single point of light, and that point gets knocked about as the air moves.</p>
+<p>You have seen this before. Look through the air above a hot road on a sunny day — the pavement shimmers. The same thing is happening to starlight, just higher up.</p>
+<h2>Why planets are steadier</h2>
+<p>Here is something you can test with your own eyes. Find a bright, steady point of light that does not twinkle. It might be a planet.</p>
+<p>Planets look tiny, but they are not points. They are small disks. The Sun lights up each planet, so each one sends you a wide beam of light instead of a single thin one. The air still bends it, but the wobbles cancel each other out, so the light stays calm.</p>
+<p>That is the old rhyme: stars twinkle, planets do not. If it shimmers, it is a star. If it sits steady and bright, it is probably a planet.</p>
+<h2>Why stars twinkle in colors</h2>
+<p>Sometimes a twinkling star flashes red, then blue, then green. That color show comes from the bending too. Different colors of light bend by different amounts when they cross from warm air into cool air, so each color arrives at your eye at a slightly different moment.</p>
+<blockquote>Try this at home: on a clear night, look for three steady points of light that do not twinkle. Those are likely planets. Then look at the stars around them and count how many twinkle.</blockquote>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

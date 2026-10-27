@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ContentHub — Create, Read, Play</title>
+<meta name="description" content="A vibrant content creation site for blog writing, news articles, facts, and lightweight games.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a class="active" href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="blobs"><div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div></div>
+  <div class="container">
+    <h1>Create. Read. <span class="grad">Play.</span><br>Your daily hub of ideas &amp; games.</h1>
+    <p>Blogs, breaking news, and surprising facts — plus quick, lightweight games for every mood. All in one colorful place.</p>
+    <div class="hero-cta">
+      <a class="btn btn-solid" href="blog.html">Read the latest ✨</a>
+      <a class="btn btn-ghost" href="games.html">Play a game 🎮</a>
+    </div>
+  </div>
+  <div class="ticker" id="ticker" aria-hidden="true">
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+</section>
+
+<main>
+  <!-- Blog preview -->
+  <section class="section container">
+    <div class="section-head reveal">
+      <div>
+        <span class="eyebrow">Our Writers</span>
+        <h2>Latest Blog Posts</h2>
+        <p>Long-form stories and practical guides from across the web.</p>
+      </div>
+      <a class="btn btn-ghost" href="blog.html">All posts →</a>
+    </div>
+    <div class="card-grid" id="blogGrid"></div>
+  </section>
+
+  <!-- News preview -->
+  <section class="section container">
+    <div class="section-head reveal">
+      <div>
+        <span class="eyebrow">Around the Clock</span>
+        <h2>Top News</h2>
+        <p>The stories shaping today, gathered automatically as they publish.</p>
+      </div>
+      <a class="btn btn-ghost" href="news.html">All news →</a>
+    </div>
+    <div class="card-grid" id="newsGrid"></div>
+  </section>
+
+  <!-- Trending -->
+  <section class="section container">
+    <div class="section-head reveal">
+      <div>
+        <span class="eyebrow">What's Hot</span>
+        <h2>Trending Now 🔥</h2>
+        <p>The stories readers are checking out the most right now.</p>
+      </div>
+    </div>
+    <div class="trending-bar" id="trendGrid"></div>
+  </section>
+
+  <!-- Facts banner -->
+  <div class="container">
+    <section class="feat-banner reveal">
+      <div>
+        <span class="eyebrow" style="color:#fff;opacity:.9">Did You Know?</span>
+        <h2 id="factHead">Honey never spoils.</h2>
+        <p id="factBody">Even after 3,000 years in an Egyptian tomb, honey remains perfectly edible. A tiny daily fact to brighten your mind.</p>
+        <a class="btn" href="facts.html">More surprising facts</a>
+      </div>
+      <div class="orb"></div><div class="orb o2"></div>
+    </section>
+  </div>
+
+  <!-- Games preview -->
+  <section class="section container">
+    <div class="section-head reveal">
+      <div>
+        <span class="eyebrow">Light &amp; Fast</span>
+        <h2>Play a Game</h2>
+        <p>Quick, fun games that run right in your browser — no downloads, no lag.</p>
+      </div>
+      <a class="btn btn-ghost" href="games.html">Games hub →</a>
+    </div>
+    <div class="games-grid" id="gamePreview"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+        <p style="color:var(--ink-soft);margin-top:12px;max-width:320px">A living library of blog posts, news, facts, and games — fresh, vibrant, and always updating.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <a href="blog.html">Blog</a>
+        <a href="news.html">News</a>
+        <a href="facts.html">Facts</a>
+      </div>
+      <div>
+        <h4>Play</h4>
+        <a href="games.html">Tic-Tac-Toe</a>
+        <a href="games.html">Memory Match</a>
+        <a href="games.html">Reaction Click</a>
+      </div>
+    </div>
+    <p class="copy">© 2026 ContentHub · Built for creators, readers, and players.</p>
+  </div>
+</footer>
+
+<script src="assets/script.js"></script>
+<script>
+window.CH.loadFeed(function (data) {
+  function mediaHtml(a, cls) {
+    var m = '';
+    if (a.video) m = '<video class="' + (cls || 'thumb-video') + '" src="' + a.video + '" muted loop autoplay playsinline></video>';
+    else if (a.image) m = '<img class="' + (cls || 'thumb') + '" src="' + a.image + '" alt="" loading="lazy">';
+    return m;
+  }
+
+  // Blog cards
+  var blogGrid = document.getElementById('blogGrid');
+  data.blog.slice(0, 3).forEach(function (a, i) {
+    var el = document.createElement('article');
+    el.className = 'card'; el.style.animationDelay = (i * 0.12) + 's';
+    el.innerHTML =
+      mediaHtml(a) +
+      '<span class="tag tag-blog">' + a.tag + '</span>' +
+      '<h3><a href="' + (a.url || ('articles/' + a.id + '.html')) + '">' + a.title + '</a></h3>' +
+      '<p class="excerpt">' + a.excerpt + '</p>' +
+      '<div class="meta"><span class="stat">✍️ ' + (a.author || 'ContentHub') + '</span><span class="stat">' + a.read + ' read</span><span class="stat arrow">→</span></div>';
+    blogGrid.appendChild(el);
+  });
+
+  // News cards
+  var newsGrid = document.getElementById('newsGrid');
+  data.news.slice(0, 3).forEach(function (a, i) {
+    var el = document.createElement('article');
+    el.className = 'card'; el.style.animationDelay = (i * 0.12) + 's';
+    el.innerHTML =
+      mediaHtml(a) +
+      '<span class="tag tag-news">' + a.tag + '</span>' +
+      '<h3><a href="' + (a.url || ('articles/' + a.id + '.html')) + '">' + a.title + '</a></h3>' +
+      '<p class="excerpt">' + a.excerpt + '</p>' +
+      '<div class="meta"><span class="stat">📰 ' + (a.author || 'News Desk') + '</span><span class="stat">' + a.date + '</span><span class="stat arrow">→</span></div>';
+    newsGrid.appendChild(el);
+  });
+
+  // Fact banner (rotate through facts)
+  var fi = 0;
+  var fHead = document.getElementById('factHead'), fBody = document.getElementById('factBody');
+  var showFact = function () {
+    var f = data.facts[fi % data.facts.length];
+    fHead.textContent = (f.fact || f.title).split('.').shift() + '.';
+    fBody.textContent = f.fact || f.title;
+    fi++;
+  };
+  showFact();
+  setInterval(showFact, 5000);
+
+  // Ticker
+  var track = document.getElementById('tickerTrack');
+  var items = [];
+  data.blog.forEach(function (a) { items.push('<span><b>BLOG</b> ' + a.title + '</span>'); });
+  data.news.forEach(function (a) { items.push('<span><b>NEWS</b> ' + a.title + '</span>'); });
+  data.facts.forEach(function (f) { items.push('<span><b>FACT</b> ' + (f.fact || f.title) + '</span>'); });
+  var html = items.join('') + items.join('');
+  track.innerHTML = html;
+
+  // Trending now (sorted by stored view counts)
+  var trendGrid = document.getElementById('trendGrid');
+  var allItems = data.blog.concat(data.news).map(function (a) {
+    return { url: 'article.html?type=' + (data.news.indexOf(a) > -1 ? 'news' : 'blog') + '&id=' + a.id, title: a.title, tag: a.tag, views: window.CH.getViews(a.id) };
+  });
+  allItems.sort(function (x, y) { return y.views - x.views; });
+  allItems.slice(0, 4).forEach(function (a, i) {
+    var el = document.createElement('a');
+    el.className = 'trend-item'; el.href = a.url;
+    el.innerHTML = '<span class="rank">' + (i + 1) + '</span>' +
+      '<div style="flex:1"><h4>' + a.title + '</h4>' +
+      '<div class="trend-meta">' + (a.tag || '') + ' · ' + a.views + ' views</div></div>' +
+      '<span class="fire">🔥</span>';
+    trendGrid.appendChild(el);
+  });
+
+  // Game preview
+  var gp = document.getElementById('gamePreview');
+  var games = [
+    { n: 'Tic-Tac-Toe', d: 'Classic three-in-a-row against a friend.', i: '⭕', u: 'games.html#tictactoe' },
+    { n: 'Memory Match', d: 'Flip cards and match the pairs.', i: '🧠', u: 'games.html#memory' },
+    { n: 'Reaction Click', d: 'How fast can you click?', i: '⚡', u: 'games.html#reaction' },
+    { n: 'Number Guess', d: 'Guess the secret number fast.', i: '🎯', u: 'games.html#guess' }
+  ];
+  games.forEach(function (g) {
+    var el = document.createElement('a'); el.className = 'game-card'; el.href = g.u;
+    el.innerHTML = '<div class="g-ico">' + g.i + '</div><h3>' + g.n + '</h3><p>' + g.d + '</p><span class="btn btn-ghost">Play now</span>';
+    gp.appendChild(el);
+  });
+});
+</script>
+</body>
+</html>

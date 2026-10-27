@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Japan launches historic mission to bring home samples from Mars' mysterious moon — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">World</span>
+      <h1>Japan launches historic mission to bring home samples from Mars' mysterious moon</h1>
+      <div class="meta"><span></span><span>2026-10-24</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/japan-launches-historic-mission-to-bring-home-samples-from-mars-mysterious-moon.png" alt="Japan launches historic mission to bring home samples from Mars' mysterious moon">
+    <div class="article-body">
+      <p>Japan's MMX spacecraft has launched on a five-year journey to land on Phobos — one of Mars' tiny moons — and return the first-ever soil samples from the Red Planet's moon system to Earth by 2031.</p>
+      <h1>How Japan is going to bring Mars' mysterious moon samples back to Earth</h1>
+<p>Picture a tiny, potato-shaped moon orbiting Mars — so small and lumpy that it looks like a cosmic rock that got left behind. That's <strong>Phobos</strong>, and soon a Japanese spacecraft will land on it, scoop up some dust, and bring it all the way home to Earth. It's the first time any country has tried to bring back samples from another planet's moon system.</p>
+<h2>1. A bold launch from Japan</h2>
+<p>On October 19, 2026, the <strong>Martian Moons eXploration (MMX)</strong> mission lifted off from Tanegashima Space Center aboard Japan's brand-new H3 rocket. Led by JAXA — Japan's space agency — the mission is a five-year, $578 million team effort with partners from NASA, France, Germany, and the European Space Agency.</p>
+<p>Why Phobos? Scientists have a puzzle: did Mars' two tiny moons form from a giant impact on Mars long ago, or were they captured asteroids from the asteroid belt? By bringing back real samples, MMX could finally solve the mystery.</p>
+<h2>2. A tiny rover named Idefix</h2>
+<p>Before the main spacecraft lands, it will drop off a small robotic rover called <strong>Idefix</strong> (named after the faithful dog from Asterix comics!). This microwave-sized rover has four wheels and will bounce across Phobos' bumpy surface — moving just millimeters per second — to find the safest, most interesting spot for the main lander to touch down.</p>
+<p>The real challenge is Phobos' super-low gravity: it's so weak that a normal landing could bounce the spacecraft right back off into space. Japanese engineers designed special equipment to grip the surface and gently drill into it to collect at least 10 grams of dusty soil.</p>
+<h2>3. Coming home with Martian secrets</h2>
+<p>After gathering samples and flying around Phobos and its even-smaller sibling Deimos, MMX will head back to Earth. In <strong>2031</strong>, the sample capsule will land in the Australian desert — bringing with it material that may contain grains of Mars itself, blasted off the Red Planet billions of years ago by ancient impacts.</p>
+<p>Those grains could hold clues about Mars' past climate, its ancient rivers and lakes, and whether the Red Planet ever had conditions that could support life. It's like sending a messenger to bring back a message in a bottle — except the message is written in rock, and it traveled 600 million kilometers to get here.</p>
+<h2>Try this at home</h2>
+<p><strong>Make your own Phobos!</strong> Roll a golf ball in a bowl of sand and watch how it leaves a bumpy trail — that's how low gravity affects movement. <strong>Build a sample collector:</strong> use a hair dryer on cool setting to blow cotton balls (simulating dust) into a jar with a lid. <strong>Learn constellations:</strong> look up the constellation <strong>Cassiopeia</strong> — it's visible from both hemispheres and points near where Mars will appear in the night sky.</p>
+<h2>Fun Fact</h2>
+<p>Phobos is slowly spiraling inward toward Mars and will eventually crash into the planet or break apart into a ring system — in about <strong>50 million years</strong>. So these samples are a race against cosmic time!</p>
+<h2>Sources</h2>
+<ul><li>Good News Network: "Japan Successfully Launches Mission to Bring Home the First-Ever Martian Moon Samples"</li><li>Wikipedia: Martian Moons Exploration — confirms JAXA leadership, launch date, Phobos landing, Idefix rover, 2031 return date, and international partners (NASA CNES DLR ESA)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

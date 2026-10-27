@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How does a paper-thin robot swim using living muscle cells? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>How does a paper-thin robot swim using living muscle cells?</h1>
+      <div class="meta"><span></span><span>2026-10-23</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-does-a-paper-thin-robot-swim-using-living-muscle-cells.jpg" alt="How does a paper-thin robot swim using living muscle cells?">
+    <div class="article-body">
+      <p>MIT engineers built a robot as thin as a piece of gum that swims through water using living muscle cells that respond to flashes of light — no batteries or motors needed.</p>
+      <h1>How does a paper-thin robot swim using living muscle cells?</h1>
+<h2>A robot that moves like a living thing</h2>
+<p>Imagine a robot so thin it could fit on a grain of rice — and instead of batteries and motors, it moves using <strong>real, living muscle cells</strong>. That is exactly what a team of engineers at MIT has built. Their creation is about the size and shape of a stick of gum, with two tiny fins that flap to push it through water. But the secret is not in plastic or metal — it is in biology.</p>
+<h2>Muscle on a gel</h2>
+<p>The robot's body is made from a flexible sheet of gel called <strong>gelatin methacrylate</strong> (think Jell-O, but engineered for science). Both sides of this gel are stamped with tiny square-shaped grooves. When scientists add living muscle cells from animals, the cells grow into those grooves and link up, forming organized muscle fibers that look like the stripes in a piece of seaweed.</p>
+<p>The big trick? The muscle cells are <strong>genetically tweaked to respond to light</strong>. Shine a flashlight on the left fin, and that side contracts and flaps. Shine it on the right, and the robot turns. No wires, no remote control, no batteries — just light and living tissue working together.</p>
+<h2>Why make a swimming robot from living parts?</h2>
+<p>Most robots today are made of hard plastic and metal, which can be too rough for fragile places like coral reefs or inside human blood vessels. Living muscle is soft, bendy, and can even heal tiny injuries — which makes it perfect for exploring delicate spots that regular robots would damage.</p>
+<p>In lab tests, the MIT team guided their paper-thin robot through a small underwater maze. At its fastest, it swam about <strong>four body lengths per minute</strong>. That is slow by human standards, but it is the same pace as a leisurely cow shark gliding through the ocean. The robot is not built for speed — it is built to be gentle.</p>
+<h2>Try this at home</h2>
+<p>You can model the robot's light-controlled movement with simple materials. Stick two small pieces of thin, bendable plastic (like a card from a coffee cup lid) onto a paperclip base so they can flap freely. Hold a flashlight steady and move it slowly from left to right underneath — just like that, you are using "light commands" to control a robot's motion!</p>
+<h2>Fun Fact</h2>
+<p>The muscle cells in the robot were strengthened using a training routine — the scientists flashed light on them repeatedly to “exercise” the cells, just like you exercise your arms and legs at recess. After training, the muscle fibers were strong enough to actually push the robot through water!</p>
+<h2>Sources</h2>
+<ul><li>MIT News — "Powered by muscle cells, a paper-thin robot swims through watery maze" (Sept 29, 2026, by Jennifer Chu) — https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929</li><li>ScienceDaily — "MIT scientists build a tiny robot that swims using living muscle cells" (Oct 22, 2026) — https://www.sciencedaily.com/releases/2026/10/261022081308.htm</li><li>Advanced Functional Materials — "2D skeletal muscle thin film actuators enhance efficiency of biohybrid robots" — https://onlinelibrary.wiley.com/doi/10.1002/adfm.202600000</li><li>Wikipedia — "Biorobotics" (concept background on biohybrid robots) — https://en.wikipedia.org/wiki/Biorobotics</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What is the Milky Way? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>What is the Milky Way?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/what-is-the-milky-way.jpg" alt="What is the Milky Way?">
+    <div class="article-body">
+      <p>It is the faint white band across a dark night sky, and it is also our entire galaxy — home to at least 100 billion stars, including the Sun. How we know what it looks like from inside it.</p>
+      <p>On a clear night far from city lights, you can see a soft, cloudy band of light stretching across the sky. The ancient Romans called it a "milky road." It is not a cloud, and it is not a river. It is the rest of our galaxy — seen edge-on, from inside.</p>
+<p>That band is the <strong>Milky Way</strong>, and everything you can see in the night sky is part of it.</p>
+<h2>A galaxy is a giant star city</h2>
+<p>The Milky Way is a <strong>galaxy</strong>: a huge collection of stars, gas and dust all held together by gravity. Scientists estimate it contains at least <strong>100 billion stars</strong>, and most of them are thought to have planets of their own.</p>
+<p>It is a <strong>barred spiral</strong> galaxy. Imagine a gigantic spinning pinwheel with a straight bar of stars running through its middle. Two or more spiral arms coil out from that bar, packed with bright young stars and glowing gas clouds, while a round haze of older stars and <strong>dark matter</strong> surrounds the whole thing.</p>
+<h2>How do we know the shape if we live inside it?</h2>
+<p>This is the clever part. Nobody has ever photographed the Milky Way from the outside — we are stuck inside it, about 25,000 light-years from the centre, out on a suburban arm.</p>
+<p>Instead, astronomers gathered clues, the way you could work out the shape of a forest while standing in it:</p>
+<p>1. <strong>The band itself.</strong> We see a thick stripe of stars across the sky rather than stars spread evenly in all directions. That means our galaxy is flat, like a disk, and we are looking along its plane.</p>
+<p>2. <strong>The stars in the band.</strong> The concentration of stars, gas and glowing clouds traces out spiral arms — the same fingerprints found in other spiral galaxies we <em>can</em> see from outside.</p>
+<p>3. <strong>The colours and dust.</strong> Astronomers measure how much dust the Milky Way holds and the colours of its light, and compare those with other galaxies. The numbers match a barred spiral.</p>
+<p>4. <strong>The motion of stars.</strong> All the stars orbit the centre. Tracking how they move reveals the disk's size and shape.</p>
+<p>All those clues add up to a picture of a huge, spinning disk with a bright centre and swirling arms.</p>
+<h2>Numbers that are hard to imagine</h2>
+<p>The disk of the Milky Way is about <strong>100,000 light-years across</strong>. A light-year is the distance light travels in a year, so a beam of light would need 100,000 years to cross our galaxy from one side to the other.</p>
+<p>Our Sun is not sitting still. Everything in the galaxy orbits the centre, and the Sun takes roughly <strong>200 million years</strong> to complete one lap — one "galactic year." The Earth has been around for about 20 of them.</p>
+<p>The centre of the galaxy is impossible to see directly, because enormous clouds of gas and dust block the view. Hidden behind them sits <strong>Sagittarius A\</strong>*, a supermassive black hole — an object with gravity so fierce that not even light can escape once it gets too close. Its mass is millions of times greater than the Sun's, and everything in the galaxy, including us, is slowly circling it.</p>
+<h2>We are not alone</h2>
+<p>The Milky Way is one of at least 40 galaxies in a cluster called the <strong>Local Group</strong>. Its other large spiral member is the Andromeda Galaxy, and around them are dozens of smaller galaxies. Around 200 ball-shaped star clusters also orbit outside the main disk.</p>
+<p>So next time you see that faint milky smear across a dark sky, remember what you are looking at: your own neighbourhood, from the inside.</p>
+<p><strong>Sources:</strong> [NASA Imagine the Universe — The Milky Way Galaxy](https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html) · [European Space Agency — Space for Kids: The Milky Way](https://www.esa.int/kids/en/learn/Our_Universe/Stars_and_galaxies/The_Milky_Way) · [National Geographic Kids — Milky Way Galaxy](https://kids.nationalgeographic.com/space/article/milky-way)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

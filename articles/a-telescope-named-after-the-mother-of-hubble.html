@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A telescope named after 'the mother of Hubble — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>A telescope named after 'the mother of Hubble</h1>
+      <div class="meta"><span></span><span>2026-10-15</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/a-telescope-named-after-the-mother-of-hubble.jpg" alt="A telescope named after 'the mother of Hubble">
+    <div class="article-body">
+      <p>NASA's newest space telescope made TIME's list of the best inventions of 2026 — and it carries the name of a woman who fought to be in astronomy at all.</p>
+      <p>TIME magazine has published its list of the Best Inventions of 2026, and one of them is NASA's Nancy Grace Roman Space Telescope.</p>
+<p>It is not the first telescope in space, and it will not be the biggest. So why did it make the list?</p>
+<h2>The woman it is named after</h2>
+<p>Nancy Grace Roman was an astronomer who spent her career fighting for her place in a field that mostly did not want women in it. She went on to become NASA's first chief of astronomy, and she is often called the "mother of Hubble" because she was one of the people who made the Hubble Space Telescope happen.</p>
+<p>Naming the new telescope after her means her name now flies above the one she helped launch.</p>
+<h2>What it will do</h2>
+<p>The Roman telescope is designed to take enormous, detailed pictures of huge stretches of the sky — wider views than Hubble manages. Scientists plan to use it to study dark energy, the mysterious force that seems to be pushing the universe apart, and to look for planets far from home.</p>
+<h2>The engineering check</h2>
+<p>This month NASA also reported that the telescope's team finished a long stretch of tests to fine-tune the observatory's vision and get its main instrument ready for regular work. Space telescopes cannot be serviced easily once they are up there, so getting everything right before launch is the whole game.</p>
+<p><strong>Source:</strong> [NASA — TIME Best Inventions of 2026](https://science.nasa.gov/blogs/honors/2026/10/15/time-best-inventions-of-2026/)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

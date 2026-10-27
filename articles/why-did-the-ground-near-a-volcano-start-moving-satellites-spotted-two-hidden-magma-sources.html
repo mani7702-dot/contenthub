@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why did the ground near a volcano start moving? Satellites spotted two hidden magma sources — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why did the ground near a volcano start moving? Satellites spotted two hidden magma sources</h1>
+      <div class="meta"><span></span><span>2026-10-20</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-did-the-ground-near-a-volcano-start-moving-satellites-spotted-two-hidden-magma-sources.jpg" alt="Why did the ground near a volcano start moving? Satellites spotted two hidden magma sources">
+    <div class="article-body">
+      <p>A volcano famous for its glowing lava lake is hiding two hidden magma sources. Satellites watched the ground sink, then rise — and scientists say that helps warn the 2 million people who live near it.</p>
+      <h1>Why did the ground start moving beneath a volcano? Satellites found two hidden magma pools</h1>
+<h2>A famous volcano with a glowing lake</h2>
+<p>Nicaragua has a volcano called <strong>Masaya</strong> that is famous for something very unusual — a <strong>lava lake</strong>. That is a pool of glowing, melted rock sitting at the top of a crater. People travel from all over the world to see it glow at night. But around this volcano live almost <strong>2 million people</strong>. So scientists watch it very closely, because knowing what is happening inside a volcano can help warn people before it erupts.</p>
+<h2>The ground sank. Then it rose. Why?</h2>
+<p>For six years, satellites watched the ground around Masaya. They could see the tiniest movements — smaller than a centimeter. Here is what happened:</p>
+<ul><li>One part of the volcano <strong>sank first, then began to rise</strong>. That might mean fresh melted rock (magma) was flowing into a deep pocket underneath.</li><li>The ground right around the active <strong>Santiago crater and its lava lake kept sinking</strong> the whole time. That suggests a separate, shallower pocket of magma was slowly emptying.</li></ul>
+<p>Two opposite movements at once — that is the clue. Scientists now think Masaya has at least <strong>two different magma storage zones</strong> deep underground, and each one is doing its own thing.</p>
+<h2>Why this matters for people near the volcano</h2>
+<p>The researchers are from Penn State University in the USA. They used a radar satellite called <strong>Sentinel-1</strong> that flies over about once every 12 days and can measure tiny changes in the height of the land, even through clouds. Their findings were published in <em>Geophysical Research Letters</em>.</p>
+<p>The goal is not to predict an eruption right now — nobody is saying one is coming. The goal is to <strong>monitor better</strong>, so scientists can spot warning signs sooner and keep the 2 million people who live nearby safer.</p>
+<h3>Try this at home</h3>
+<p>You can't check a volcano from your backyard, but you CAN see how satellites measure tiny changes. Use a marker to draw a dot on a balloon near its top, then blow it up a little — does the dot move? That is a bit like how inflation of the ground hints at magma below. (No lava at home, of course!)</p>
+<p><strong>Sources:</strong></p>
+<ul><li>Penn State via ScienceDaily: https://www.sciencedaily.com/releases/2026/10/261018205039.htm</li><li>Economic Times (India): https://economictimes.com/news/international/world-news/volcano-near-which-2-million-people-live-tracked-by-scientists-for-2-years-they-found-hidden-underground-movements/articleshow/135051893.cms</li><li>Cadena3 (Argentina, Spanish): https://www.cadena3.com/noticia/ciencia/descubren-dos-fuentes-ocultas-de-magma-bajo-el-volcan-masaya-en-nicaragua_604931</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

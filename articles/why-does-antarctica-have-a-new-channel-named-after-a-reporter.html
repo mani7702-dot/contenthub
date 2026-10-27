@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why does Antarctica have a new channel named after a reporter? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">news</span>
+      <h1>Why does Antarctica have a new channel named after a reporter?</h1>
+      <div class="meta"><span></span><span>2026-10-26</span><span>2 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-does-antarctica-have-a-new-channel-named-after-a-reporter.jpg" alt="Why does Antarctica have a new channel named after a reporter?">
+    <div class="article-body">
+      <p>A stretch of icy water in Antarctica is now called the Amos Channel, after BBC science reporter Jonathan Amos. The waterway only appeared when a chunk of ice connecting two islands broke apart.</p>
+      <h1>Why does Antarctica have a new channel named after a reporter?</h1>
+<p>Have you ever wondered how places get their names? Mountains, rivers, islands — somebody has to decide what they're called. In Antarctica, that's a very serious job, and it just gave one person a very special honour.</p>
+<h2>A brand-new channel appears</h2>
+<p>In the west of Antarctica, two islands — Rothschild Island and Alexander Island — used to be joined by a thick bridge of ice. When that ice broke apart, a stretch of seawater opened up between them for the first time. That's a brand-new geographic feature. And every new feature on Earth needs a name.</p>
+<h2>Why a reporter?</h2>
+<p>The committee that names Antarctic places picked a very unexpected name: the <strong>Amos Channel</strong>. It's named after Jonathan Amos, a science reporter who spent 38 years at BBC News telling the world about Antarctica.</p>
+<p>Amos reported on colossal icebergs, penguin colonies, and even the discovery of explorer Ernest Shackleton's lost ship, the <em>Endurance</em>. But here's the funny part: he has never actually visited the continent himself — he wrote about it all from his desk!</p>
+<h2>"An extraordinary accolade"</h2>
+<p>When Amos heard the news, he said it was "absolutely incredible — what an extraordinary accolade". He admitted that having a place on the map is "quite the incentive to go and visit" — even after covering Antarctica for nearly four decades.</p>
+<p>The British Antarctic Survey said the honour fits his "outstanding contribution to the promotion of Antarctic research". From now on, researchers and map-makers in that part of the continent will use the name Amos Channel on all their charts.</p>
+<h2>Try this at home</h2>
+<p>Look at a map or an atlas and find a place near you with an unusual name — a river, a mountain, or a street. Do a quick search to find out who or what it was named after. Sometimes the story behind a name is stranger (or funnier) than you'd expect!</p>
+<h2>for-grownups</h2>
+<p>Antarctic place-names are decided by official committees under strict rules. The UK Antarctic Place Names Committee recommended this name, which applies to sites in the British Antarctic Territory as well as South Georgia and the South Sandwich Islands. The Amos Channel only became a real, stable feature when the ice bridge connecting Rothschild and Alexander Islands disintegrated, letting seawater flow between them. Jonathan Amos reported on Antarctic science for 38 years at BBC News but has never travelled there himself.</p>
+<p><strong>Sources:</strong></p>
+<p>1. BBC News — "Part of Antarctica named after former BBC reporter Jonathan Amos" — https://www.bbc.co.uk/news/articles/ckvg7w919x09o</p>
+<p>2. tafs.uz — "Antarctic strait named after former BBC science correspondent Jonathan Amos" — https://tafs.uz/en/2026/10/26/antarctic-strait-named-after-former-bbc-science-correspondent-jonathan-amos</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

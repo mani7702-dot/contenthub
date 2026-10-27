@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a class="active" href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:40px 0 20px">
+  <div class="container">
+    <h1>News <span class="grad">Wire</span></h1>
+    <p>The latest headlines collected automatically from across the web — accurate and always fresh.</p>
+    <div class="search" style="max-width:640px;margin:26px auto 0">
+      <input id="searchInput" type="text" placeholder="Search the news…">
+    </div>
+  </div>
+</section>
+
+<main class="container">
+  <div class="card-grid" id="grid"></div>
+  <div class="pager" id="pager"></div>
+  <p id="empty" style="display:none;text-align:center;color:var(--ink-soft);padding:40px">No news matches your search right now. Check back soon — new stories arrive all day.</p>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="assets/script.js"></script>
+<script>
+window.CH.loadFeed(function (data) {
+  var grid = document.getElementById('grid');
+  var PER = 6; var page = 1;
+  function render() {
+    grid.innerHTML = '';
+    var q = (document.getElementById('searchInput').value || '').toLowerCase();
+    var list = data.news.filter(function (a) {
+      return !q || (a.title + a.excerpt).toLowerCase().indexOf(q) > -1;
+    });
+    document.getElementById('empty').style.display = list.length ? 'none' : 'block';
+    var pages = Math.max(1, Math.ceil(list.length / PER));
+    if (page > pages) page = pages;
+    var slice = list.slice((page - 1) * PER, page * PER);
+    slice.forEach(function (a, i) {
+      var el = document.createElement('article'); el.className = 'card'; el.style.animationDelay = (i * 0.08) + 's';
+      var media = a.video ? '<video class="thumb-video" src="' + a.video + '" muted loop autoplay playsinline></video>'
+                : a.image ? '<img class="thumb" src="' + a.image + '" alt="" loading="lazy">' : '';
+      el.innerHTML =
+        media +
+        '<span class="tag tag-news">' + a.tag + '</span>' +
+        '<h3><a href="' + (a.url || ('articles/' + a.id + '.html')) + '">' + a.title + '</a></h3>' +
+        '<p class="excerpt">' + a.excerpt + '</p>' +
+        '<div class="meta"><span class="stat">📰 ' + a.author + '</span><span class="stat">' + a.date + '</span><span class="stat">' + a.read + ' read</span></div>';
+      grid.appendChild(el);
+    });
+    renderPager(pages);
+  }
+  function renderPager(pages) {
+    var pager = document.getElementById('pager');
+    if (pages <= 1) { pager.innerHTML = ''; return; }
+    var html = '<button ' + (page === 1 ? 'disabled' : '') + ' onclick="goPage(' + (page - 1) + ')">← Prev</button>';
+    for (var i = 1; i <= pages; i++) {
+      html += '<button class="' + (i === page ? 'on' : '') + '" onclick="goPage(' + i + ')">' + i + '</button>';
+    }
+    html += '<button ' + (page === pages ? 'disabled' : '') + ' onclick="goPage(' + (page + 1) + ')">Next →</button>';
+    pager.innerHTML = html;
+  }
+  window.goPage = function (p) { page = p; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
+  document.getElementById('searchInput').addEventListener('input', render);
+  render();
+});
+</script>
+</body>
+</html>

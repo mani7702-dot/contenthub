@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why do leaves change color in autumn? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why do leaves change color in autumn?</h1>
+      <div class="meta"><span></span><span>2026-10-19</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-leaves-change-color-in-autumn.jpg" alt="Why do leaves change color in autumn?">
+    <div class="article-body">
+      <p>Every autumn the same trees that were green all summer turn gold and red. It looks like magic, but it is a quiet chemical process that starts with shorter days. Here is how it works, step by numbered step.</p>
+      <p>Every year around this time, the world puts on a show. Trees that were green all summer slowly turn gold, orange, and brilliant red — and then drop their leaves. It looks like magic, but it is really chemistry. Here is what is happening, one step at a time.</p>
+<h2>1. Green comes from a busy little molecule</h2>
+<p>During spring and summer, a leaf is green because of a special pigment called <strong>chlorophyll</strong>. Chlorophyll does the most important job in the plant world: it captures energy from sunlight to make food through <strong>photosynthesis</strong>. There is so much of it packed into a leaf that it masks every other color hiding underneath. A summer leaf is basically a green factory.</p>
+<h2>2. Shorter days send the signal</h2>
+<p>Here is the surprise: a tree does not check a calendar. It reads the <strong>light</strong>. After summer, the days grow shorter and the nights longer, and that tells the tree winter is coming. Like a slow alarm clock, the tree begins to shut down its leaf factories. Chlorophyll production slows, stops, and the green pigment that is already there starts to break down. As it disappears, the colors that were underneath the whole time finally get their turn to shine.</p>
+<h2>3. The yellows were always there</h2>
+<p>Those yellow and orange shades come from pigments called <strong>carotenoids</strong> — the same family of colors that makes carrots orange and corn yellow. Carotenoids live in the leaf all summer, but green chlorophyll was covering them up. When the chlorophyll fades, the yellows and oranges appear almost instantly. That is why the first hint of fall is usually gold.</p>
+<h2>4. The reds are made fresh</h2>
+<p>This is the neatest trick of all. The reds and purples do not just get revealed — they get <em>made</em> right there in the leaf, near the very end. As the tree shuts down, sugars sometimes get trapped in the leaf. On bright, sunny days, those sugars combine with other chemicals to create brand-new pigments called <strong>anthocyanins</strong>. Trees like maples, oaks, and dogwoods produce them. This is why sunny days plus cool nights produce the most dazzling reds, and why some autumns are redder than others.</p>
+<h2>5. The leaf lets go (on purpose)</h2>
+<p>At the base of the leaf stem, the tree grows a layer of corky cells called the <strong>abscission layer</strong> — think of it as a tiny zipper that cuts off the leaf's water and sugar supply. The leaf finishes its color change, dries out, and finally falls when the zipper closes completely. That is why leaves do not usually all fall on one windy day; the tree releases them gradually, one by one.</p>
+<h2>6. The weather paints the picture</h2>
+<p>The chemistry happens every autumn, but how <em>brilliant</em> the colors are depends on the weather. Sunny days boost sugar production and anthocyanins, so reds glow. Cool nights help too. But if it is rainy and cloudy, the colors stay muted and duller. That is why no two autumns look exactly the same — the weather is part of the painting each year.</p>
+<p>So the trees are not just turning pretty colors by accident. They are carefully breaking down their summer chemistry, saving the good bits, and getting ready to rest through winter. And when the leaves finally fall, the forest floor gets a golden carpet.</p>
+<p>The next time you crunch through autumn leaves, you can tell yourself exactly what happened up in the branches — sun, sugars, and a whole lot of patient chemistry.</p>
+<p><strong>Sources:</strong> [Harvard Forest — The Process of Leaf Color Change](https://harvardforest.fas.harvard.edu/education-opportunities/classic-outreach-resources/autumn-foliage-color/leaf-science/leaf-process/) · [Penn State Extension — The Science Behind Autumn Leaf Color](https://extension.psu.edu/the-science-behind-autumn-leaf-color) · [NOAA — Cool autumn weather reveals nature's true hues](https://www.noaa.gov/stories/cool-autumn-weather-reveals-nature-s-true-hues)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
