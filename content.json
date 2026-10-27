@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:29:22Z",
+  "updated": "2026-10-27T23:42:41Z",
   "boards": {
     "news": [
       {
@@ -145,6 +145,18 @@
         "image": "assets/images/2026-10-27-new-frog-hiding-100-years.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/this-new-frog-was-hiding-in-plain-sight-for-100-years.html"
+      },
+      {
+        "id": "how-did-10-million-more-acres-of-amazon-rainforest-get-saved-in-just-7-months",
+        "title": "How Did 10 Million More Acres of Amazon Rainforest Get Saved in Just 7 Months?",
+        "excerpt": "An American nonprofit teamed up with a Bolivian conservation group to create a 715,000-acre wildlife reserve along the It\u00e9nez River, a crucial corridor that connects protected areas across Brazil and Bolivia. The new reserve pushes the partner organization's total protected land to 70 million acres \u2014 an area the size of Nevada \u2014 with 10 million acres gained in just seven months.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-27",
+        "read": "4 min",
+        "image": "assets/images/how-did-10-million-more-acres-of-amazon-rainforest-get-saved-in-just-7-months.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-10-million-more-acres-of-amazon-rainforest-get-saved-in-just-7-months.html"
       },
       {
         "id": "how-an-ai-litter-dashcam-is-mapping-britain-s-roadside-trash",
@@ -7522,6 +7534,18 @@
       "image": "assets/images/2026-10-27-new-frog-hiding-100-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/this-new-frog-was-hiding-in-plain-sight-for-100-years.html"
+    },
+    {
+      "id": "how-did-10-million-more-acres-of-amazon-rainforest-get-saved-in-just-7-months",
+      "title": "How Did 10 Million More Acres of Amazon Rainforest Get Saved in Just 7 Months?",
+      "excerpt": "An American nonprofit teamed up with a Bolivian conservation group to create a 715,000-acre wildlife reserve along the It\u00e9nez River, a crucial corridor that connects protected areas across Brazil and Bolivia. The new reserve pushes the partner organization's total protected land to 70 million acres \u2014 an area the size of Nevada \u2014 with 10 million acres gained in just seven months.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-27",
+      "read": "4 min",
+      "image": "assets/images/how-did-10-million-more-acres-of-amazon-rainforest-get-saved-in-just-7-months.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-10-million-more-acres-of-amazon-rainforest-get-saved-in-just-7-months.html"
     },
     {
       "id": "how-an-ai-litter-dashcam-is-mapping-britain-s-roadside-trash",
