@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welsh School Pupils Meet NASA's Space-Stuck Astronaut After Their Badge Flies to Orbit — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>Welsh School Pupils Meet NASA's Space-Stuck Astronaut After Their Badge Flies to Orbit</h1>
+      <div class="meta"><span></span><span>2026-10-27</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/2026-10-27-welsh-school-pupils-meet-nasa-astronaut-after-badge-flies-to-iss.jpg" alt="Welsh School Pupils Meet NASA's Space-Stuck Astronaut After Their Badge Flies to Orbit">
+    <div class="article-body">
+      <p>Students at Ysgol Cemaes on Anglesey designed a school badge that traveled to the International Space Station, then virtually met NASA astronaut Frank Rubio — the American who spent a record-breaking 371 days in orbit after his return journey was grounded.</p>
+      <h1>How Did a Welsh School Badge End Up Floating in Space — and How Did Its Designers Meet the Astronaut Who Lived There?</h1>
+<p>Picture a classroom in a small island off Wales, where a group of 8- to 10-year-olds have something most other kids can only dream about: they've <strong>designed a badge that actually flew to space</strong>. And they got to chat with the astronaut who lived there for over a year — all on the same day.</p>
+<p>That's exactly what happened at <strong>Ysgol Cemaes</strong>, a primary school on the island of Anglesey, when pupils logged on for a virtual chat with <strong>Frank Rubio</strong>, the NASA astronaut who holds the American record for the <strong>longest single spaceflight: a staggering 371 days</strong>.</p>
+<p>---</p>
+<h2>A Badge That Traveled 250 Miles Straight Up</h2>
+<p>Earlier this year, thanks to a special connection — <strong>Dr Melanie Coathup</strong>, a former pupil of the school now working as a scientist with close ties to the astronaut corps — the children at Ysgol Cemaes designed a badge that was <strong>packed aboard a rocket and delivered to the International Space Station</strong>.</p>
+<p>Once in orbit, the badge was photographed floating in microgravity, weightless alongside the Earth below. For kids used to seeing their designs on paper, watching them drift in zero-g turns a school project into a lifelong spark.</p>
+<p>---</p>
+<h2>A Record-Breaking Year in Orbit</h2>
+<p>Rubio's journey to the ISS was supposed to last six months — the typical rotation for a space station crew. But when his <strong>Soyuz spacecraft</strong> couldn't carry him home, his mission stretched into something unprecedented.</p>
+<p>Instead of six months, Rubio orbited our planet for <strong>371 days</strong> — longer than any American astronaut in history. During that time, he conducted science experiments and adapted to zero gravity: sleeping without a bed, eating tortillas, and even growing a mustache in space.</p>
+<p>---</p>
+<h2>"Ask Anything" From 250 Miles Away</h2>
+<p>When Rubio joined the virtual call — after his return to Earth, carrying stories from orbit — the pupils at Ysgol Cemaes had prepared questions for months. They asked about everything from how to brush your teeth in space to what the view of Earth looks like from the window.</p>
+<p>Nine-year-old Harry said the best part was "learning about NASA and Frank Rubio." His classmate Sofia, 8, added they'd been watching videos about sleeping and eating in zero gravity.</p>
+<p>The school now plans to send <strong>another badge</strong> into space next year.</p>
+<p>---</p>
+<h2>Fun Fact</h2>
+<p>The International Space Station — where Rubio's badge flew — is the <strong>largest human-made object in space</strong>, bigger than a football field and visible from Earth as a bright, fast-moving star.</p>
+<p>---</p>
+<h2>Sources</h2>
+<ul><li>BBC News, "Pupils who designed a badge sent to space meet NASA astronaut" (Oct 27, 2026) — https://www.bbc.co.uk/news/articles/cq78pzl85nglo</li><li>Wikipedia, "Francisco Rubio (astronaut)" — https://en.wikipedia.org/wiki/Francisco_Rubio_(astronaut)</li><li>Wikipedia, "International Space Station" — https://en.wikipedia.org/wiki/International_Space_Station</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

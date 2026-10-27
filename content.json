@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:14:08Z",
+  "updated": "2026-10-27T23:29:22Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-a-dinosaur-beaked-bird-lost-the-ability-to-fly-150-million-years-ago.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-a-dinosaur-beaked-bird-lost-the-ability-to-fly-150-million-years-ago.html"
+      },
+      {
+        "id": "welsh-school-pupils-meet-nasa-s-space-stuck-astronaut-after-their-badge-flies-to-orbit",
+        "title": "Welsh School Pupils Meet NASA's Space-Stuck Astronaut After Their Badge Flies to Orbit",
+        "excerpt": "Students at Ysgol Cemaes on Anglesey designed a school badge that traveled to the International Space Station, then virtually met NASA astronaut Frank Rubio \u2014 the American who spent a record-breaking 371 days in orbit after his return journey was grounded.",
+        "tag": "Space",
+        "author": "",
+        "date": "2026-10-27",
+        "read": "3 min",
+        "image": "assets/images/2026-10-27-welsh-school-pupils-meet-nasa-astronaut-after-badge-flies-to-iss.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/welsh-school-pupils-meet-nasa-s-space-stuck-astronaut-after-their-badge-flies-to-orbit.html"
       },
       {
         "id": "how-many-tiny-moons-does-earth-have-right-now-the-rubin-telescope-is-about-to-find-out",
@@ -7450,6 +7462,18 @@
       "image": "assets/images/how-a-dinosaur-beaked-bird-lost-the-ability-to-fly-150-million-years-ago.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-a-dinosaur-beaked-bird-lost-the-ability-to-fly-150-million-years-ago.html"
+    },
+    {
+      "id": "welsh-school-pupils-meet-nasa-s-space-stuck-astronaut-after-their-badge-flies-to-orbit",
+      "title": "Welsh School Pupils Meet NASA's Space-Stuck Astronaut After Their Badge Flies to Orbit",
+      "excerpt": "Students at Ysgol Cemaes on Anglesey designed a school badge that traveled to the International Space Station, then virtually met NASA astronaut Frank Rubio \u2014 the American who spent a record-breaking 371 days in orbit after his return journey was grounded.",
+      "tag": "Space",
+      "author": "",
+      "date": "2026-10-27",
+      "read": "3 min",
+      "image": "assets/images/2026-10-27-welsh-school-pupils-meet-nasa-astronaut-after-badge-flies-to-iss.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/welsh-school-pupils-meet-nasa-s-space-stuck-astronaut-after-their-badge-flies-to-orbit.html"
     },
     {
       "id": "how-many-tiny-moons-does-earth-have-right-now-the-rubin-telescope-is-about-to-find-out",
