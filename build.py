@@ -17,7 +17,7 @@ from datetime import datetime
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(ROOT, "content")
 ARTICLES_DIR = os.path.join(ROOT, "articles")
-SITE_BASE = os.environ.get("SITE_BASE", "")
+SITE_BASE = os.environ.get("SITE_BASE", "https://mani7702-dot.github.io/contenthub").rstrip("/")
 SITE_CNAME = os.environ.get("SITE_CNAME", "")
 
 BOARD_TITLE = {"news": "News", "blog": "Blog", "trending": "Trending"}

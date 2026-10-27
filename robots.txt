@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://mani7702-dot.github.io/contenthub/sitemap.xml
