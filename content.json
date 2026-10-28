@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T21:05:07Z",
+  "updated": "2026-10-28T21:27:46Z",
   "boards": {
     "news": [
       {
@@ -121,6 +121,18 @@
         "image": "assets/images/2026-10-27-53-orangutans-rescued-from-borneo-fires.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html"
+      },
+      {
+        "id": "how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected",
+        "title": "How did NASA's Artemis I fly past the Moon with less radiation danger than expected?",
+        "excerpt": "NASA's uncrewed Artemis I rocket zipped around the Moon in late 2022 carrying tiny crystal detectors inside human-shaped dummies \u2014 and surprisingly, the cosmic radiation near the Moon, while stronger than in Earth orbit, is not nearly as dramatic a jump as scientists first thought.",
+        "tag": "Space",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "assets/images/how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected.html"
       },
       {
         "id": "how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch",
@@ -7810,6 +7822,18 @@
       "image": "assets/images/2026-10-27-53-orangutans-rescued-from-borneo-fires.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html"
+    },
+    {
+      "id": "how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected",
+      "title": "How did NASA's Artemis I fly past the Moon with less radiation danger than expected?",
+      "excerpt": "NASA's uncrewed Artemis I rocket zipped around the Moon in late 2022 carrying tiny crystal detectors inside human-shaped dummies \u2014 and surprisingly, the cosmic radiation near the Moon, while stronger than in Earth orbit, is not nearly as dramatic a jump as scientists first thought.",
+      "tag": "Space",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "assets/images/how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected.html"
     },
     {
       "id": "how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch",
