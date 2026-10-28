@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:42:41Z",
+  "updated": "2026-10-28T01:31:55Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/2026-10-27-53-orangutans-rescued-from-borneo-fires.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html"
+      },
+      {
+        "id": "can-ai-really-be-trusted-to-do-science-on-its-own",
+        "title": "Can AI really be trusted to do science on its own?",
+        "excerpt": "AI is racing through maths, biology and crystal-hunting \u2014 but a growing number of scientists worry that speed comes at a cost: a crisis of trust. Can we tell real discovery from AI-generated fiction?",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "3 min",
+        "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
       },
       {
         "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",
@@ -7402,6 +7414,18 @@
       "image": "assets/images/2026-10-27-53-orangutans-rescued-from-borneo-fires.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html"
+    },
+    {
+      "id": "can-ai-really-be-trusted-to-do-science-on-its-own",
+      "title": "Can AI really be trusted to do science on its own?",
+      "excerpt": "AI is racing through maths, biology and crystal-hunting \u2014 but a growing number of scientists worry that speed comes at a cost: a crisis of trust. Can we tell real discovery from AI-generated fiction?",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "3 min",
+      "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
     },
     {
       "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",

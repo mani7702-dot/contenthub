@@ -16,6 +16,12 @@
     <description>This article is a pipeline test: written on a VPS, built by a script, and pushed to GitHub Pages — no human touched it.</description>
   </item>
   <item>
+    <title>Can AI really be trusted to do science on its own?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html</guid>
+    <description>AI is racing through maths, biology and crystal-hunting — but a growing number of scientists worry that speed comes at a cost: a crisis of trust. Can we tell real discovery from AI-generated fiction?</description>
+  </item>
+  <item>
     <title>How Did the World's Oldest Shipwreck Stay Hidden for 4,500 Years?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/how-did-the-world-s-oldest-shipwreck-stay-hidden-for-4-500-years.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-the-world-s-oldest-shipwreck-stay-hidden-for-4-500-years.html</guid>
@@ -116,12 +122,6 @@
     <link>https://mani7702-dot.github.io/contenthub/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</guid>
     <description>Using the world's most powerful supercomputers, the MEGATRON project is simulating how the very first stars lit up the universe and forged the chemical elements — carbon, oxygen, iron — that make planets, pets, and people possible.</description>
-  </item>
-  <item>
-    <title>Why does Madagascar have a giant patch of Moon rock on Earth?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/why-does-madagascar-have-a-giant-patch-of-moon-rock-on-earth.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/why-does-madagascar-have-a-giant-patch-of-moon-rock-on-earth.html</guid>
-    <description></description>
   </item>
 </channel>
 </rss>
