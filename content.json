@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:24:41Z",
+  "updated": "2026-10-28T10:44:56Z",
   "boards": {
     "news": [
       {
@@ -421,6 +421,18 @@
         "image": "assets/images/what-does-maxxing-mean-meet-the-word-that-took-over-2026.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-maxxing-mean-meet-the-word-that-took-over-2026.html"
+      },
+      {
+        "id": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
+        "title": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
+        "excerpt": "",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-27",
+        "read": "3 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia.html"
       },
       {
         "id": "10-surprising-places-where-nuclear-bomb-tests-left-hidden-clues",
@@ -7990,6 +8002,18 @@
       "image": "assets/images/what-does-maxxing-mean-meet-the-word-that-took-over-2026.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-maxxing-mean-meet-the-word-that-took-over-2026.html"
+    },
+    {
+      "id": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
+      "title": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
+      "excerpt": "",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-27",
+      "read": "3 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia.html"
     },
     {
       "id": "10-surprising-places-where-nuclear-bomb-tests-left-hidden-clues",
