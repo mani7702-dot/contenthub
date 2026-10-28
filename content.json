@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T01:31:55Z",
+  "updated": "2026-10-28T01:52:16Z",
   "boards": {
     "news": [
       {
@@ -6246,6 +6246,18 @@
       }
     ],
     "trending": [
+      {
+        "id": "how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter",
+        "title": "How did a stretch of Antarctic water get named after a BBC science reporter?",
+        "excerpt": "A channel of water between two Antarctic islands now carries the name of Jonathan Amos, a BBC science correspondent who reported on polar research for nearly four decades.",
+        "tag": "World",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter.html"
+      },
       {
         "id": "eclipse-egyptian-temples-2027",
         "title": "5 Amazing Egyptian Temples in the Path of the 2027 'Eclipse of the Century'",
@@ -12613,6 +12625,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter",
+      "fact": "How did a stretch of Antarctic water get named after a BBC science reporter?",
+      "category": "World",
+      "title": "How did a stretch of Antarctic water get named after a BBC science reporter?"
+    },
     {
       "id": "eclipse-egyptian-temples-2027",
       "fact": "5 Amazing Egyptian Temples in the Path of the 2027 'Eclipse of the Century'",

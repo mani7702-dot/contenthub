@@ -4,6 +4,12 @@
 <title>ContentHub</title>
 <link>https://mani7702-dot.github.io/contenthub/</link>
   <item>
+    <title>How did a stretch of Antarctic water get named after a BBC science reporter?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter.html</guid>
+    <description>A channel of water between two Antarctic islands now carries the name of Jonathan Amos, a BBC science correspondent who reported on polar research for nearly four decades.</description>
+  </item>
+  <item>
     <title>How did four astronauts travel 100 million miles and come home safely?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/how-did-four-astronauts-travel-100-million-miles-and-come-home-safely.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-four-astronauts-travel-100-million-miles-and-come-home-safely.html</guid>
@@ -116,12 +122,6 @@
     <link>https://mani7702-dot.github.io/contenthub/articles/why-does-the-universe-s-expansion-speed-not-add-up.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/why-does-the-universe-s-expansion-speed-not-add-up.html</guid>
     <description>Scientists measure the universe's expansion speed two ways, but the numbers disagree — a clue from ancient cosmic magnetism might explain why.</description>
-  </item>
-  <item>
-    <title>How did the first stars change the universe — and where did all the elements come from?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-the-first-stars-change-the-universe-and-where-did-all-the-elements-come-from.html</guid>
-    <description>Using the world's most powerful supercomputers, the MEGATRON project is simulating how the very first stars lit up the universe and forged the chemical elements — carbon, oxygen, iron — that make planets, pets, and people possible.</description>
   </item>
 </channel>
 </rss>
