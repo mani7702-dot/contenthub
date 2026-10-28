@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T19:48:09Z",
+  "updated": "2026-10-28T20:11:53Z",
   "boards": {
     "news": [
+      {
+        "id": "what-makes-a-fire-salamander-glow-under-ultraviolet-light",
+        "title": "What Makes a Fire Salamander Glow Under Ultraviolet Light?",
+        "excerpt": "Fire salamanders are famous for their bright warning colors, but scientists just discovered they do something magical under ultraviolet light: their skin and toxic secretions glow green and cyan, like nature's own neon sign.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+      },
       {
         "id": "how-does-an-autistic-brain-learn-to-recognize-faces",
         "title": "How Does an Autistic Brain Learn to Recognize Faces?",
@@ -7655,6 +7667,18 @@
     }
   ],
   "news": [
+    {
+      "id": "what-makes-a-fire-salamander-glow-under-ultraviolet-light",
+      "title": "What Makes a Fire Salamander Glow Under Ultraviolet Light?",
+      "excerpt": "Fire salamanders are famous for their bright warning colors, but scientists just discovered they do something magical under ultraviolet light: their skin and toxic secretions glow green and cyan, like nature's own neon sign.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+    },
     {
       "id": "how-does-an-autistic-brain-learn-to-recognize-faces",
       "title": "How Does an Autistic Brain Learn to Recognize Faces?",
