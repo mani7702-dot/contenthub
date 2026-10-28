@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T21:27:46Z",
+  "updated": "2026-10-28T23:09:38Z",
   "boards": {
     "news": [
+      {
+        "id": "how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean",
+        "title": "How Do Tiny Plants Help Keep Microplastics Out of the Ocean?",
+        "excerpt": "A clever new invention mimics the way ultrahydrophobic plants in wetlands trap microplastic particles, and it is already pulling more than 98% of them out of wastewater flowing toward the Atlantic Ocean.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29T14:18:00+05:30",
+        "read": "3 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean.html"
+      },
       {
         "id": "what-makes-a-fire-salamander-glow-under-ultraviolet-light",
         "title": "What Makes a Fire Salamander Glow Under Ultraviolet Light?",
@@ -5429,6 +5441,18 @@
     ],
     "blog": [
       {
+        "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
+        "title": "How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?",
+        "excerpt": "A small island in Scotland's Inner Hebrides was long known only from old stories and place names \u2014 but a community-led dig has uncovered the buried remains of a 6th-century monastery that rivaled Iona itself.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-10-28T22:44:00+05:30",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers.html"
+      },
+      {
         "id": "10-amazing-animals-discovered-in-places-you-d-least-expect",
         "title": "10 Amazing Animals Discovered in Places You'd Least Expect",
         "excerpt": "From laboratory tanks to airport runways, new animal species turn up where we live, work, and travel \u2014 sometimes right under our noses.",
@@ -6499,6 +6523,18 @@
     ],
     "trending": [
       {
+        "id": "how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting",
+        "title": "How Did Scientists Make Electric Car Batteries Smaller and Longer-Lasting?",
+        "excerpt": "South Korean researchers have borrowed super-precise computer-chip manufacturing to fix a major flaw in next-generation electric car batteries, potentially leading to smaller, lighter battery packs that let EVs travel farther on a single charge.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting.html"
+      },
+      {
         "id": "how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter",
         "title": "How did a stretch of Antarctic water get named after a BBC science reporter?",
         "excerpt": "A channel of water between two Antarctic islands now carries the name of Jonathan Amos, a BBC science correspondent who reported on polar research for nearly four decades.",
@@ -6633,6 +6669,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
+      "title": "How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?",
+      "excerpt": "A small island in Scotland's Inner Hebrides was long known only from old stories and place names \u2014 but a community-led dig has uncovered the buried remains of a 6th-century monastery that rivaled Iona itself.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-10-28T22:44:00+05:30",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers.html"
+    },
     {
       "id": "10-amazing-animals-discovered-in-places-you-d-least-expect",
       "title": "10 Amazing Animals Discovered in Places You'd Least Expect",
@@ -7703,6 +7751,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean",
+      "title": "How Do Tiny Plants Help Keep Microplastics Out of the Ocean?",
+      "excerpt": "A clever new invention mimics the way ultrahydrophobic plants in wetlands trap microplastic particles, and it is already pulling more than 98% of them out of wastewater flowing toward the Atlantic Ocean.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29T14:18:00+05:30",
+      "read": "3 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean.html"
+    },
     {
       "id": "what-makes-a-fire-salamander-glow-under-ultraviolet-light",
       "title": "What Makes a Fire Salamander Glow Under Ultraviolet Light?",
@@ -13129,6 +13189,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting",
+      "fact": "How Did Scientists Make Electric Car Batteries Smaller and Longer-Lasting?",
+      "category": "Science",
+      "title": "How Did Scientists Make Electric Car Batteries Smaller and Longer-Lasting?"
+    },
     {
       "id": "how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter",
       "fact": "How did a stretch of Antarctic water get named after a BBC science reporter?",

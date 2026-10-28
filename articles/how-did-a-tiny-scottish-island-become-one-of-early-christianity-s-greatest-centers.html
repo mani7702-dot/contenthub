@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">History</span>
+      <h1>How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?</h1>
+      <div class="meta"><span></span><span>2026-10-28T22:44:00+05:30</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    
+    <div class="article-body">
+      <p>A small island in Scotland's Inner Hebrides was long known only from old stories and place names — but a community-led dig has uncovered the buried remains of a 6th-century monastery that rivaled Iona itself.</p>
+      <h1>How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?</h1>
+<h2>A Small Island with a Big Secret</h2>
+<p>Tucked away in Scotland's Inner Hebrides, the island of Lismore is only about 2,350 hectares — small enough to walk across in a day. Yet for centuries, historians knew this quiet island as the home of a 6th-century monastery founded by Saint Moluag, one of the earliest centers of Celtic Christianity. The problem was, almost no one had ever found proof beneath the ground. Now, thanks to a determined group of volunteers, the island's buried past is finally coming to light.</p>
+<h2>A Community Funded the Dig</h2>
+<p>At 170 residents, Lismore's community is tiny — but its determination is mighty. The Lismore Historical Society launched an investigation of the island's 13th-century cathedral, with every penny crowdfunded by the island's own people. Their gamble paid off in three remarkable discoveries that confirm Lismore was far more than a small island church — it was a thriving hub of faith, craftsmanship, and learning.</p>
+<p>Archaeologist Dr. Clare Ellis of Argyll Archaeology, who led the excavations, explained that Lismore's early monastery was "known from historical records, place-name evidence, and local tradition, but there was very little archaeological evidence to confirm its character, extent, or significance." The dig set out to change that.</p>
+<h2>Burials, Crafts, and Precious Metal</h2>
+<p>The excavations turned up three spectacular finds. First, archaeologists uncovered extensive burial grounds alongside large, carved stone cross fragments — six graves dating back to between 650 and 1040 CE. Next, they found remnants of craftworking: handmade pottery, stone tools, and an oval-shaped building with a limestone floor where ancient artisans once worked.</p>
+<p>The third discovery was perhaps the most exciting: 1,000 pieces of debris from precious-metal working. Crucibles — the containers used to melt metal — were found alongside copper, silver, and gold artifacts, revealing that the monastery was not just a place of prayer but also a center of valuable craftsmanship.</p>
+<h2>Rivaling Iona</h2>
+<p>Professor Gordon Noble from the University of Aberdeen, a co-author of the research published in Antiquity, summed it up: "We can now see that [Lismore] was a thriving center of worship, craftsmanship and learning, whose importance may have rivalled some of the best-known monasteries in early medieval Britain."</p>
+<p>For centuries, Lismore's monastery lived on in stories and maps. Now its stones speak for themselves.</p>
+<p><strong>Fun fact:</strong> Lismore is Gaelic for "great enclosure" — and it was once the seat of the medieval Bishop of Argyll, overseeing Christianity across much of western Scotland.</p>
+<p><strong>Time:</strong> 22:44 IST</p>
+<h2>Sources</h2>
+<p>1. Good News Network — "Tiny Scottish Island's Little Historical Society Makes Massive Discovery" (Oct 28, 2026) — https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/</p>
+<p>2. Wikipedia — "Lismore, Scotland" (Inner Hebrides, Saint Moluag, 6th-century monastery) — https://en.wikipedia.org/wiki/Lismore,_Scotland</p>
+<p>3. Antiquity Journal — Project Gallery (Ellis et al., 2024) — https://www.antiquity.ac.uk/projgall/</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
-"""Compute the slug from the article title."""
-import re
-
-title = "How Do Our Immune Cells 'Feel' the World Around Them With a Hidden Sense of Touch?"
+"""Compute ContentHub slug from a title (mirrors build.py line 107 / deploy.sh)."""
+import re, sys
+title = sys.argv[1] if len(sys.argv) > 1 else "How Did Scientists Make Electric Car Batteries Smaller and Longer-Lasting?"
 slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:90]
-print(f"Title: {title}")
-print(f"Slug: {slug}")
+print(slug)
