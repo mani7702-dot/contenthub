@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T01:52:16Z",
+  "updated": "2026-10-28T03:11:00Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
+      },
+      {
+        "id": "what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million",
+        "title": "What happened when a Nanotyrannus skeleton sold for $47.3 million?",
+        "excerpt": "A rare skeleton of Nanotyrannus, a dinosaur once mistaken for a teenage T. rex, sold for $47.3 million at auction \u2014 sparking a debate over whether priceless fossils should live in museums or private vaults.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "assets/images/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.html"
       },
       {
         "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",
@@ -7438,6 +7450,18 @@
       "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
+    },
+    {
+      "id": "what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million",
+      "title": "What happened when a Nanotyrannus skeleton sold for $47.3 million?",
+      "excerpt": "A rare skeleton of Nanotyrannus, a dinosaur once mistaken for a teenage T. rex, sold for $47.3 million at auction \u2014 sparking a debate over whether priceless fossils should live in museums or private vaults.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "assets/images/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.html"
     },
     {
       "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",
