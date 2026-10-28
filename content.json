@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T04:30:58Z",
+  "updated": "2026-10-28T09:03:27Z",
   "boards": {
     "news": [
+      {
+        "id": "how-does-an-autistic-brain-learn-to-recognize-faces",
+        "title": "How Does an Autistic Brain Learn to Recognize Faces?",
+        "excerpt": "A new study using EEG brain scans found that autistic children's brains process faces differently than neurotypical children \u2014 and those differences may begin much earlier than scientists thought.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-28T18:30:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-does-an-autistic-brain-learn-to-recognize-faces.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-an-autistic-brain-learn-to-recognize-faces.html"
+      },
       {
         "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
         "title": "How does a lava planet keep its atmosphere? James Webb spots a giant sunscreen",
@@ -13,6 +25,18 @@
         "image": "assets/images/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.html"
+      },
+      {
+        "id": "how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs",
+        "title": "How Did Scientists Find New Animals Hiding in Airports, Cemeteries, and Labs?",
+        "excerpt": "From aquarium tanks to apartment parking lots, a transparent fish in a lab, a Darth Vader isopod in seafood markets, and a legless lizard at LAX \u2014 scientists keep discovering new species in the most ordinary corners of our world.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "assets/images/how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs.html"
       },
       {
         "id": "the-site-is-live-how-this-page-was-published",
@@ -27,6 +51,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html"
       },
       {
+        "id": "how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch",
+        "title": "How Do Our Immune Cells 'Feel' the World Around Them With a Hidden Sense of Touch?",
+        "excerpt": "Immune cells called T cells can sense how stiff or soft the tissues around them are, using this 'hidden sense of touch' to decide whether to become long-term guardians that stay in the body's tissues. The discovery, published in Nature Immunology, shows that these cells use physical cues from their environment \u2014 not just chemical signals \u2014 to shape how they protect us.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch.html"
+      },
+      {
         "id": "can-ai-really-be-trusted-to-do-science-on-its-own",
         "title": "Can AI really be trusted to do science on its own?",
         "excerpt": "AI is racing through maths, biology and crystal-hunting \u2014 but a growing number of scientists worry that speed comes at a cost: a crisis of trust. Can we tell real discovery from AI-generated fiction?",
@@ -37,6 +73,18 @@
         "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
+      },
+      {
+        "id": "how-did-a-dartmouth-high-school-baseball-team-stay-smiling-through-6-winless-seasons",
+        "title": "How Did a Dartmouth High School Baseball Team Stay Smiling Through 6 Winless Seasons?",
+        "excerpt": "The Dartmouth High School Spartans in Nova Scotia haven't won a baseball game in six years \u2014 yet every player still shows up with cheer, cleats, and a paint-stained smile. Their secret? No cut roster means everyone gets a turn, and the team's 'vibes guy' makes sure the fun never fades.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dartmouth-high-school-baseball-team-stay-smiling-through-6-winless-seasons.html"
       },
       {
         "id": "how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago",
@@ -85,6 +133,18 @@
         "image": "assets/images/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.html"
+      },
+      {
+        "id": "how-did-an-asteroid-that-killed-the-dinosaurs-help-ants-conquer-the-world",
+        "title": "How Did an Asteroid That Killed the Dinosaurs Help Ants Conquer the World?",
+        "excerpt": "66 million years ago, an asteroid slammed into Earth and ended the age of the dinosaurs. In the aftermath, 'jumping genes' in ant DNA surged into action \u2014 giving ants a surprise genetic boost that may explain why they became the world's most successful group of social insects.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-asteroid-that-killed-the-dinosaurs-help-ants-conquer-the-world.html"
       },
       {
         "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",
@@ -5285,6 +5345,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-four-astronauts-travel-100-million-miles-and-come-home-safely.html"
       },
       {
+        "id": "how-did-a-teacher-s-daily-positivity-practice-spread-through-an-elementary-school",
+        "title": "How Did a Teacher's Daily Positivity Practice Spread Through an Elementary School?",
+        "excerpt": "A first-grade teacher in Kansas started a simple daily affirmation circle \u2014 now children across every grade at Rex Elementary are ending their school day feeling confident and kind.",
+        "tag": "Kids",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "3 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-teacher-s-daily-positivity-practice-spread-through-an-elementary-school.html"
+      },
+      {
         "id": "how-did-the-world-s-oldest-shipwreck-stay-hidden-for-4-500-years",
         "title": "How Did the World's Oldest Shipwreck Stay Hidden for 4,500 Years?",
         "excerpt": "",
@@ -6454,6 +6526,18 @@
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-four-astronauts-travel-100-million-miles-and-come-home-safely.html"
     },
     {
+      "id": "how-did-a-teacher-s-daily-positivity-practice-spread-through-an-elementary-school",
+      "title": "How Did a Teacher's Daily Positivity Practice Spread Through an Elementary School?",
+      "excerpt": "A first-grade teacher in Kansas started a simple daily affirmation circle \u2014 now children across every grade at Rex Elementary are ending their school day feeling confident and kind.",
+      "tag": "Kids",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "3 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-teacher-s-daily-positivity-practice-spread-through-an-elementary-school.html"
+    },
+    {
       "id": "how-did-the-world-s-oldest-shipwreck-stay-hidden-for-4-500-years",
       "title": "How Did the World's Oldest Shipwreck Stay Hidden for 4,500 Years?",
       "excerpt": "",
@@ -7476,6 +7560,18 @@
   ],
   "news": [
     {
+      "id": "how-does-an-autistic-brain-learn-to-recognize-faces",
+      "title": "How Does an Autistic Brain Learn to Recognize Faces?",
+      "excerpt": "A new study using EEG brain scans found that autistic children's brains process faces differently than neurotypical children \u2014 and those differences may begin much earlier than scientists thought.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-28T18:30:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-does-an-autistic-brain-learn-to-recognize-faces.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-an-autistic-brain-learn-to-recognize-faces.html"
+    },
+    {
       "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
       "title": "How does a lava planet keep its atmosphere? James Webb spots a giant sunscreen",
       "excerpt": "A scorching rocky world 280 light-years away should have lost its atmosphere long ago \u2014 yet the James Webb Space Telescope finds it still reflects about 75% of its star's light, possibly because of silicate clouds acting like a giant sunscreen.",
@@ -7486,6 +7582,18 @@
       "image": "assets/images/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.html"
+    },
+    {
+      "id": "how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs",
+      "title": "How Did Scientists Find New Animals Hiding in Airports, Cemeteries, and Labs?",
+      "excerpt": "From aquarium tanks to apartment parking lots, a transparent fish in a lab, a Darth Vader isopod in seafood markets, and a legless lizard at LAX \u2014 scientists keep discovering new species in the most ordinary corners of our world.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "assets/images/how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs.html"
     },
     {
       "id": "the-site-is-live-how-this-page-was-published",
@@ -7500,6 +7608,18 @@
       "url": "https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html"
     },
     {
+      "id": "how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch",
+      "title": "How Do Our Immune Cells 'Feel' the World Around Them With a Hidden Sense of Touch?",
+      "excerpt": "Immune cells called T cells can sense how stiff or soft the tissues around them are, using this 'hidden sense of touch' to decide whether to become long-term guardians that stay in the body's tissues. The discovery, published in Nature Immunology, shows that these cells use physical cues from their environment \u2014 not just chemical signals \u2014 to shape how they protect us.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch.html"
+    },
+    {
       "id": "can-ai-really-be-trusted-to-do-science-on-its-own",
       "title": "Can AI really be trusted to do science on its own?",
       "excerpt": "AI is racing through maths, biology and crystal-hunting \u2014 but a growing number of scientists worry that speed comes at a cost: a crisis of trust. Can we tell real discovery from AI-generated fiction?",
@@ -7510,6 +7630,18 @@
       "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
+    },
+    {
+      "id": "how-did-a-dartmouth-high-school-baseball-team-stay-smiling-through-6-winless-seasons",
+      "title": "How Did a Dartmouth High School Baseball Team Stay Smiling Through 6 Winless Seasons?",
+      "excerpt": "The Dartmouth High School Spartans in Nova Scotia haven't won a baseball game in six years \u2014 yet every player still shows up with cheer, cleats, and a paint-stained smile. Their secret? No cut roster means everyone gets a turn, and the team's 'vibes guy' makes sure the fun never fades.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dartmouth-high-school-baseball-team-stay-smiling-through-6-winless-seasons.html"
     },
     {
       "id": "how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago",
@@ -7558,6 +7690,18 @@
       "image": "assets/images/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.html"
+    },
+    {
+      "id": "how-did-an-asteroid-that-killed-the-dinosaurs-help-ants-conquer-the-world",
+      "title": "How Did an Asteroid That Killed the Dinosaurs Help Ants Conquer the World?",
+      "excerpt": "66 million years ago, an asteroid slammed into Earth and ended the age of the dinosaurs. In the aftermath, 'jumping genes' in ant DNA surged into action \u2014 giving ants a surprise genetic boost that may explain why they became the world's most successful group of social insects.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-asteroid-that-killed-the-dinosaurs-help-ants-conquer-the-world.html"
     },
     {
       "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",

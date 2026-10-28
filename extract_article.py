@@ -1,25 +1,30 @@
-import re, sys, os
+#!/usr/bin/env python3
+import re, sys
 
-def extract_article(html_path):
-    with open(html_path, 'r', errors='replace') as f:
-        html = f.read()
-    
-    # Try to find the main article body
-    # BBC articles often have content in <article> tags or specific divs
-    # Let's look for paragraphs
-    paragraphs = re.findall(r'<p[^>]*>(.*?)</p>', html, re.DOTALL)
-    
-    print(f"\n=== Found {len(paragraphs)} paragraphs ===")
-    for i, p in enumerate(paragraphs):
-        # Clean HTML tags
-        clean = re.sub(r'<[^>]+>', '', p).strip()
-        if len(clean) > 30:
-            print(f"P{i}: {clean[:200]}")
+with open('/home/ubuntu/contenthub/gnn_positivity.html', 'r', errors='replace') as f:
+    html = f.read()
 
-for slug in ["badge-sends-to-space", "spaceplane"]:
-    path = f"/home/ubuntu/contenthub/temp_{slug}.html"
-    if os.path.exists(path):
-        print(f"\n{'='*60}")
-        print(f"Article: {slug}")
-        print('='*60)
-        extract_article(path)
+# Try to find the article body
+match = re.search(r'<article[^>]*>(.*?)</article>', html, re.DOTALL)
+if not match:
+    match = re.search(r'class="entry-content[^>]*>(.*?)</div>', html, re.DOTALL)
+if match:
+    content = match.group(1)
+else:
+    # Try to find the main body text after the title
+    match = re.search(r'One Teacher.*?Practice.*?</h1>(.*?)(?:<aside|class="shared|class="comment|<footer)', html, re.DOTALL)
+    if match:
+        content = match.group(1)
+    else:
+        # Find the body content div
+        match = re.search(r'<body[^>]*>(.*?)<footer', html, re.DOTALL)
+        if match:
+            content = match.group(1)
+        else:
+            content = html
+
+text = re.sub(r'<script[^>]*>.*?</script>', '', content, flags=re.DOTALL)
+text = re.sub(r'<style[^>]*>.*?</style>', '', text, flags=re.DOTALL)
+text = re.sub(r'<[^>]+>', ' ', text)
+text = re.sub(r'\s+', ' ', text).strip()
+print(text[:3000])

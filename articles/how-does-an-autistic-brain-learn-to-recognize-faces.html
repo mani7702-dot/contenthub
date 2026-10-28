@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Does an Autistic Brain Learn to Recognize Faces? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">science</span>
+      <h1>How Does an Autistic Brain Learn to Recognize Faces?</h1>
+      <div class="meta"><span></span><span>2026-10-28T18:30:00+05:30</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-does-an-autistic-brain-learn-to-recognize-faces.jpg" alt="How Does an Autistic Brain Learn to Recognize Faces?">
+    <div class="article-body">
+      <p>A new study using EEG brain scans found that autistic children's brains process faces differently than neurotypical children — and those differences may begin much earlier than scientists thought.</p>
+      <h1>How Does an Autistic Brain Learn to Recognize a Face?</h1>
+<p>Most of us glance at a friend's face and instantly know who it is. But recognizing faces is a surprisingly complex dance in our brains — one that develops over many years. A new study is giving us a closer look at how that dance unfolds differently for autistic children.</p>
+<h2>What the Brain Does When It Sees a Face</h2>
+<p>When you look at someone's face, your brain sends out tiny electrical waves. These waves are like quiet radio signals — invisible, but full of information. For neurotypical children, these face-recognition signals get sharper and more specialized as they grow older, kind of like how a radio dial gradually tunes in a clearer station.</p>
+<p>A research team led by Dr. James McPartland at Yale used a technique called <strong>electroencephalography (EEG)</strong> — which places sensors across the scalp to listen to the brain's electrical symphony. Unlike older methods that only sampled a few spots, this study captured the full orchestra of brain activity across <strong>400 children</strong>, both autistic and neurotypical, spread across different ages.</p>
+<h2>The Important Difference Found</h2>
+<p>Here's what they discovered: in neurotypical kids, the brain's response to faces became more refined and distinct as they got older. For autistic children, that same pattern of sharpening was much less pronounced. In other words, the brain signals associated with seeing faces didn't "tune in" as clearly.</p>
+<p>"The neural activity that we measure at the scalp is just not as distinct in autistic children," explains first author Dr. Jason Griffin from the University of Houston.</p>
+<p>The team also found something surprising: the differences don't just appear around <strong>170 milliseconds</strong> after seeing a face (which is where earlier research focused). Instead, hints of difference show up even <em>earlier</em> in the processing stream — suggesting that the way autistic brains register faces starts diverging from neurotypical development from the very first moments of perception.</p>
+<h2>Why This Matters</h2>
+<p>For many autistic people, recognizing faces or reading emotions from expressions can be tricky territory. You might have experienced that yourself or met someone who finds eye contact uncomfortable or puzzling. This research helps us understand that these aren't habits or preferences — they reflect genuine differences in how the brain wires itself to process social information.</p>
+<p>The study also gently reminds us that these findings point toward <strong>biological differences present from early development</strong>, shaped by how the brain grows — rather than simply being something learned or adapted to over time.</p>
+<h2>Fun fact: Faces in the City</h2>
+<p>Dr. McPartland compares older brain-scanning approaches to trying to understand traffic in a whole city by watching just one downtown street. The new method is like viewing the entire city from space — you see the full flow of information moving through the brain.</p>
+<p>This research could one day help scientists explore more personalized ways to support face recognition and social communication — meeting each person's brain where it is rather than expecting it to follow one single path.</p>
+<p>---</p>
+<p><strong>Time:</strong> 18:30 IST | <strong>Sources:</strong> ScienceDaily (Oct 27, 2026) — https://www.sciencedaily.com/releases/2026/10/261027063824.htm | Yale School of Medicine materials via ScienceDaily</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

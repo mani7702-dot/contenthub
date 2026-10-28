@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
-"""Verify the downloaded image content matches the article topic."""
-import sys
-sys.path.insert(0, "/home/ubuntu/.local/lib/python3.14/site-packages")
+"""Verify the downloaded image is relevant to the article topic."""
 from PIL import Image
-
-path = "/home/ubuntu/contenthub/assets/images/how-did-knitted-traffic-cops-help-slow-down-speeding-drivers-in-a-quiet-english-village.jpg"
-im = Image.open(path)
-print(f"Size: {im.size}")
-print(f"Mode: {im.mode}")
-
-# Get basic pixel statistics to understand image content
 import os
-print(f"File size: {os.path.getsize(path)} bytes")
 
-# We need to use vision_analyze to check the image content
+path = "assets/images/how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch.jpg"
+im = Image.open(path)
+print(f"Original: {im.size}, mode: {im.mode}")
+
+# Resize for vision verification
+small = im.resize((400, 300), Image.Resampling.LANCZOS)
+small.save("/tmp/verify_immune.jpg", "JPEG", quality=85)
+print(f"Saved resized to /tmp/verify_immune.jpg")
+print(f"File size: {os.path.getsize(path)} bytes")

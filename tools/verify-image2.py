@@ -1,19 +1,38 @@
 #!/usr/bin/env python3
-"""Resize image to smaller size for vision analysis."""
-import sys
-sys.path.insert(0, "/home/ubuntu/.local/lib/python3.14/site-packages")
+"""Check what image was downloaded by looking at EXIF or file details."""
 from PIL import Image
+import os, struct
 
-path = "/home/ubuntu/contenthub/assets/images/how-did-knitted-traffic-cops-help-slow-down-speeding-drivers-in-a-quiet-english-village.jpg"
+path = "assets/images/how-do-our-immune-cells-feel-the-world-around-them-with-a-hidden-sense-of-touch.jpg"
 im = Image.open(path)
-print(f"Original size: {im.size}")
+print(f"Format: {im.format}")
+print(f"Size: {im.size}")
+print(f"Mode: {im.mode}")
+print(f"File size: {os.path.getsize(path)} bytes")
 
-# Resize to a smaller size for vision analysis
-small = im.resize((400, 300), Image.Resampling.LANCZOS)
-small_path = "/home/ubuntu/contenthub/assets/images/verify_small.jpg"
-small.save(small_path, "JPEG", quality=85)
-print(f"Saved small version to: {small_path}")
+# Check EXIF data for any clues
+try:
+    exif = im.getexif()
+    if exif:
+        for tag_id, value in exif.items():
+            from PIL.ExifTags import TAGS
+            tag = TAGS.get(tag_id, tag_id)
+            if isinstance(value, str) and len(value) < 500:
+                print(f"EXIF {tag}: {value}")
+except Exception as e:
+    print(f"No EXIF: {e}")
 
-# Also print pixel statistics
-import os
-print(f"Small file size: {os.path.getsize(small_path)} bytes")
+# Check if it's a Wikimedia image - look at the first few bytes
+# Wikimedia images often have comments
+# Let's get basic pixel statistics
+import numpy as np
+arr = np.array(im)
+print(f"Pixel stats: min={arr.min()}, max={arr.max()}, mean={arr.mean():.1f}")
+print(f"Unique colors (approx): {len(np.unique(arr.reshape(-1, arr.shape[-1]), axis=0))}")
+
+# Check for color distribution - is this mostly blue (immune cells), 
+# or does it have text/diagrams?
+# Sample some pixels
+print(f"\nTop-left corner pixel: {arr[0, 0]}")
+print(f"Center pixel: {arr[arr.shape[0]//2, arr.shape[1]//2]}")
+print(f"Bottom-right pixel: {arr[-1, -1]}")
