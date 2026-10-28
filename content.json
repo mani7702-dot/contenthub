@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:14:00Z",
+  "updated": "2026-10-28T19:48:09Z",
   "boards": {
     "news": [
       {
@@ -37,6 +37,18 @@
         "image": "assets/images/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.html"
+      },
+      {
+        "id": "how-did-a-kangaroo-end-up-a-mile-out-at-sea",
+        "title": "How Did a Kangaroo End Up a Mile Out at Sea?",
+        "excerpt": "A scuba diver and his crew in South Australia rescued a kangaroo over a mile from shore. Spotting the exhausted joey floating in the calm sea, they scooped him up and brought him safely back to land.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-kangaroo-end-up-a-mile-out-at-sea.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-a-mile-out-at-sea.html"
       },
       {
         "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
@@ -7678,6 +7690,18 @@
       "image": "assets/images/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.html"
+    },
+    {
+      "id": "how-did-a-kangaroo-end-up-a-mile-out-at-sea",
+      "title": "How Did a Kangaroo End Up a Mile Out at Sea?",
+      "excerpt": "A scuba diver and his crew in South Australia rescued a kangaroo over a mile from shore. Spotting the exhausted joey floating in the calm sea, they scooped him up and brought him safely back to land.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-kangaroo-end-up-a-mile-out-at-sea.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-a-mile-out-at-sea.html"
     },
     {
       "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
