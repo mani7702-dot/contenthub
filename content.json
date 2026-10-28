@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:47:55Z",
+  "updated": "2026-10-28T18:14:00Z",
   "boards": {
     "news": [
       {
@@ -5369,6 +5369,18 @@
     ],
     "blog": [
       {
+        "id": "10-amazing-animals-discovered-in-places-you-d-least-expect",
+        "title": "10 Amazing Animals Discovered in Places You'd Least Expect",
+        "excerpt": "From laboratory tanks to airport runways, new animal species turn up where we live, work, and travel \u2014 sometimes right under our noses.",
+        "tag": "Science & Nature",
+        "author": "",
+        "date": "2026-10-28T12:30:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/2026-10-28-10-amazing-animals-discovered-in-places-you-d-least-expect.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/10-amazing-animals-discovered-in-places-you-d-least-expect.html"
+      },
+      {
         "id": "how-did-four-astronauts-travel-100-million-miles-and-come-home-safely",
         "title": "How did four astronauts travel 100 million miles and come home safely?",
         "excerpt": "After spending 237 days living and working aboard the International Space Station, four international astronauts safely splashed down in their Crew Dragon capsule \u2014 closing a mission that traveled more than 100 million miles around Earth.",
@@ -6561,6 +6573,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "10-amazing-animals-discovered-in-places-you-d-least-expect",
+      "title": "10 Amazing Animals Discovered in Places You'd Least Expect",
+      "excerpt": "From laboratory tanks to airport runways, new animal species turn up where we live, work, and travel \u2014 sometimes right under our noses.",
+      "tag": "Science & Nature",
+      "author": "",
+      "date": "2026-10-28T12:30:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/2026-10-28-10-amazing-animals-discovered-in-places-you-d-least-expect.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/10-amazing-animals-discovered-in-places-you-d-least-expect.html"
+    },
     {
       "id": "how-did-four-astronauts-travel-100-million-miles-and-come-home-safely",
       "title": "How did four astronauts travel 100 million miles and come home safely?",

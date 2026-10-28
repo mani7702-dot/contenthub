@@ -38,7 +38,13 @@ def write(path, text):
 def parse_frontmatter(text):
     """Tolerant key:value frontmatter; returns (meta dict, body markdown)."""
     meta, body = {}, text
-    m = re.match(r"^---\s*\n(.*?)\n---\s*\n?(.*)$", text, re.S)
+    # Fix (confirmed 2026-10-28, contenthub-publishing-bugs skill):
+    # In a raw string r"...", \\n is two chars (backslash + n), which regex
+    # interprets as "literal backslash followed by n" — NOT a newline.
+    # This breaks ALL frontmatter parsing. The fix is to use \n (single backslash)
+    # so regex matches an actual newline character.
+    # Using a non-raw string to make the newline explicit and unambiguous.
+    m = re.match("^---\\s*\\n(.*?)\\n---\\s*\\n?(.*)$", text, re.S)
     if m:
         for line in m.group(1).split("\n"):
             if ":" in line and not line.startswith((" ", "-")):
