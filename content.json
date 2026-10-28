@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:44:56Z",
+  "updated": "2026-10-28T10:53:31Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dartmouth-high-school-baseball-team-stay-smiling-through-6-winless-seasons.html"
+      },
+      {
+        "id": "how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
+        "title": "How Did a Wrong Turn Save 14 Lives From a Burning House in Georgia?",
+        "excerpt": "A stranger's wrong turn in Georgia led him straight to a house fire where he helped rescue 14 children belonging to a foster family that has cared for over 500 kids.",
+        "tag": "animals",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia.html"
       },
       {
         "id": "how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago",
@@ -421,18 +433,6 @@
         "image": "assets/images/what-does-maxxing-mean-meet-the-word-that-took-over-2026.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-maxxing-mean-meet-the-word-that-took-over-2026.html"
-      },
-      {
-        "id": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
-        "title": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
-        "excerpt": "",
-        "tag": "General",
-        "author": "",
-        "date": "2026-10-27",
-        "read": "3 min",
-        "image": "",
-        "video": "",
-        "url": "https://mani7702-dot.github.io/contenthub/articles/2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia.html"
       },
       {
         "id": "10-surprising-places-where-nuclear-bomb-tests-left-hidden-clues",
@@ -7680,6 +7680,18 @@
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dartmouth-high-school-baseball-team-stay-smiling-through-6-winless-seasons.html"
     },
     {
+      "id": "how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
+      "title": "How Did a Wrong Turn Save 14 Lives From a Burning House in Georgia?",
+      "excerpt": "A stranger's wrong turn in Georgia led him straight to a house fire where he helped rescue 14 children belonging to a foster family that has cared for over 500 kids.",
+      "tag": "animals",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia.html"
+    },
+    {
       "id": "how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago",
       "title": "How Did Early Humans Reach the Jordan Valley 1.9 Million Years Ago?",
       "excerpt": "A 1.9-million-year-old archaeological site in Israel's Jordan Valley shows that early humans left Africa hundreds of thousands of years earlier than scientists once thought. Three advanced dating methods converged on the same surprising timeline, pushing back the story of our species' first steps into the Middle East.",
@@ -8002,18 +8014,6 @@
       "image": "assets/images/what-does-maxxing-mean-meet-the-word-that-took-over-2026.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-maxxing-mean-meet-the-word-that-took-over-2026.html"
-    },
-    {
-      "id": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
-      "title": "2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia",
-      "excerpt": "",
-      "tag": "General",
-      "author": "",
-      "date": "2026-10-27",
-      "read": "3 min",
-      "image": "",
-      "video": "",
-      "url": "https://mani7702-dot.github.io/contenthub/articles/2026-10-28-how-did-a-wrong-turn-save-14-lives-from-a-burning-house-in-georgia.html"
     },
     {
       "id": "10-surprising-places-where-nuclear-bomb-tests-left-hidden-clues",

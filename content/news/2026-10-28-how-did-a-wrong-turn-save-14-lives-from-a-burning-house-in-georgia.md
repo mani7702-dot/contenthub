@@ -1,3 +1,4 @@
+---
 title: "How Did a Wrong Turn Save 14 Lives From a Burning House in Georgia?"
 date: 2026-10-28
 category: animals
