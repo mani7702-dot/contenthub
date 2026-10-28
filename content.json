@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T03:44:30Z",
+  "updated": "2026-10-28T04:30:58Z",
   "boards": {
     "news": [
       {
@@ -51,6 +51,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago.html"
       },
       {
+        "id": "how-did-knitted-traffic-cops-help-slow-down-speeding-drivers-in-a-quiet-english-village",
+        "title": "How Did Knitted Traffic Cops Help Slow Down Speeding Drivers in a Quiet English Village?",
+        "excerpt": "In the village of Fillongley, Warwickshire, a group of crafty knitters created life-sized woolen traffic officers and speed cameras to slow down speeding drivers \u2014 and it's working!",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-knitted-traffic-cops-help-slow-down-speeding-drivers-in-a-quiet-english-village.html"
+      },
+      {
         "id": "what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million",
         "title": "What happened when a Nanotyrannus skeleton sold for $47.3 million?",
         "excerpt": "A rare skeleton of Nanotyrannus, a dinosaur once mistaken for a teenage T. rex, sold for $47.3 million at auction \u2014 sparking a debate over whether priceless fossils should live in museums or private vaults.",
@@ -61,6 +73,18 @@
         "image": "assets/images/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.html"
+      },
+      {
+        "id": "how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years",
+        "title": "How Did a Hidden Crystal Patchwork Sabotage a Superconductor Studied for 40 Years?",
+        "excerpt": "Scientists peering inside a copper-based superconductor that has been studied for four decades made a stunning discovery: the crystal is not uniform at all. It is a patchwork of different atomic arrangements stitched together by surprisingly wide boundary zones that may quietly weaken the very superconductivity researchers have been trying to understand and improve.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.html"
       },
       {
         "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",
@@ -7500,6 +7524,18 @@
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago.html"
     },
     {
+      "id": "how-did-knitted-traffic-cops-help-slow-down-speeding-drivers-in-a-quiet-english-village",
+      "title": "How Did Knitted Traffic Cops Help Slow Down Speeding Drivers in a Quiet English Village?",
+      "excerpt": "In the village of Fillongley, Warwickshire, a group of crafty knitters created life-sized woolen traffic officers and speed cameras to slow down speeding drivers \u2014 and it's working!",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-knitted-traffic-cops-help-slow-down-speeding-drivers-in-a-quiet-english-village.html"
+    },
+    {
       "id": "what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million",
       "title": "What happened when a Nanotyrannus skeleton sold for $47.3 million?",
       "excerpt": "A rare skeleton of Nanotyrannus, a dinosaur once mistaken for a teenage T. rex, sold for $47.3 million at auction \u2014 sparking a debate over whether priceless fossils should live in museums or private vaults.",
@@ -7510,6 +7546,18 @@
       "image": "assets/images/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million.html"
+    },
+    {
+      "id": "how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years",
+      "title": "How Did a Hidden Crystal Patchwork Sabotage a Superconductor Studied for 40 Years?",
+      "excerpt": "Scientists peering inside a copper-based superconductor that has been studied for four decades made a stunning discovery: the crystal is not uniform at all. It is a patchwork of different atomic arrangements stitched together by surprisingly wide boundary zones that may quietly weaken the very superconductivity researchers have been trying to understand and improve.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-crystal-patchwork-sabotage-a-superconductor-studied-for-40-years.html"
     },
     {
       "id": "how-did-53-orangutans-get-rescued-from-borneo-s-fires",
