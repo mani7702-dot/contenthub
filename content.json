@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:21:29Z",
+  "updated": "2026-10-28T17:47:55Z",
   "boards": {
     "news": [
       {
@@ -5381,6 +5381,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-four-astronauts-travel-100-million-miles-and-come-home-safely.html"
       },
       {
+        "id": "how-did-tanzania-find-its-first-new-natural-gas-in-over-a-decade",
+        "title": "How Did Tanzania Find Its First New Natural Gas in Over a Decade?",
+        "excerpt": "",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "3 min",
+        "image": "assets/images/how-did-tanzania-find-its-first-new-natural-gas-in-over-a-decade.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tanzania-find-its-first-new-natural-gas-in-over-a-decade.html"
+      },
+      {
         "id": "how-did-a-teacher-s-daily-positivity-practice-spread-through-an-elementary-school",
         "title": "How Did a Teacher's Daily Positivity Practice Spread Through an Elementary School?",
         "excerpt": "A first-grade teacher in Kansas started a simple daily affirmation circle \u2014 now children across every grade at Rex Elementary are ending their school day feeling confident and kind.",
@@ -6560,6 +6572,18 @@
       "image": "assets/images/how-did-four-astronauts-travel-100-million-miles-and-come-home-safely.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-four-astronauts-travel-100-million-miles-and-come-home-safely.html"
+    },
+    {
+      "id": "how-did-tanzania-find-its-first-new-natural-gas-in-over-a-decade",
+      "title": "How Did Tanzania Find Its First New Natural Gas in Over a Decade?",
+      "excerpt": "",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "3 min",
+      "image": "assets/images/how-did-tanzania-find-its-first-new-natural-gas-in-over-a-decade.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tanzania-find-its-first-new-natural-gas-in-over-a-decade.html"
     },
     {
       "id": "how-did-a-teacher-s-daily-positivity-practice-spread-through-an-elementary-school",
