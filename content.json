@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:37:59Z",
+  "updated": "2026-10-28T21:05:07Z",
   "boards": {
     "news": [
       {
@@ -73,6 +73,18 @@
         "image": "assets/images/how-did-a-kangaroo-end-up-a-mile-out-at-sea.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-a-mile-out-at-sea.html"
+      },
+      {
+        "id": "how-did-three-italian-hobbits-find-an-irishman-s-lost-wedding-ring-and-fly-to-ireland",
+        "title": "How Did Three Italian Hobbits Find an Irishman's Lost Wedding Ring and Fly to Ireland?",
+        "excerpt": "When Irish visitor Patrick Mohr lost his wedding ring in a mountain stream in Tuscany, three local friends searched for days, found it, and flew to Ireland dressed as hobbits to hand it back in person.",
+        "tag": "world",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-three-italian-hobbits-find-an-irishman-s-lost-wedding-ring-and-fly-to-ireland.html"
       },
       {
         "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
@@ -7750,6 +7762,18 @@
       "image": "assets/images/how-did-a-kangaroo-end-up-a-mile-out-at-sea.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-a-mile-out-at-sea.html"
+    },
+    {
+      "id": "how-did-three-italian-hobbits-find-an-irishman-s-lost-wedding-ring-and-fly-to-ireland",
+      "title": "How Did Three Italian Hobbits Find an Irishman's Lost Wedding Ring and Fly to Ireland?",
+      "excerpt": "When Irish visitor Patrick Mohr lost his wedding ring in a mountain stream in Tuscany, three local friends searched for days, found it, and flew to Ireland dressed as hobbits to hand it back in person.",
+      "tag": "world",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-three-italian-hobbits-find-an-irishman-s-lost-wedding-ring-and-fly-to-ireland.html"
     },
     {
       "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
