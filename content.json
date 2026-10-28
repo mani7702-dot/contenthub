@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:53:31Z",
+  "updated": "2026-10-28T11:21:29Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/how-does-an-autistic-brain-learn-to-recognize-faces.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-an-autistic-brain-learn-to-recognize-faces.html"
+      },
+      {
+        "id": "how-did-scientists-discover-new-animals-in-a-lab-airport-cemetery-and-parking-lot",
+        "title": "How Did Scientists Discover New Animals in a Lab, Airport, Cemetery, and Parking Lot?",
+        "excerpt": "From a neuroscience lab tank to a parking lot patch of moss, scientists are finding new species where we least expect them \u2014 even in our own backyards.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-28T16:40:00+05:30",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-discover-new-animals-in-a-lab-airport-cemetery-and-parking-lot.html"
       },
       {
         "id": "how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs",
@@ -7594,6 +7606,18 @@
       "image": "assets/images/how-does-an-autistic-brain-learn-to-recognize-faces.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-an-autistic-brain-learn-to-recognize-faces.html"
+    },
+    {
+      "id": "how-did-scientists-discover-new-animals-in-a-lab-airport-cemetery-and-parking-lot",
+      "title": "How Did Scientists Discover New Animals in a Lab, Airport, Cemetery, and Parking Lot?",
+      "excerpt": "From a neuroscience lab tank to a parking lot patch of moss, scientists are finding new species where we least expect them \u2014 even in our own backyards.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-28T16:40:00+05:30",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-discover-new-animals-in-a-lab-airport-cemetery-and-parking-lot.html"
     },
     {
       "id": "how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs",
