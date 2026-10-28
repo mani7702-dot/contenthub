@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did Early Humans Reach the Jordan Valley 1.9 Million Years Ago? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">General</span>
+      <h1>How Did Early Humans Reach the Jordan Valley 1.9 Million Years Ago?</h1>
+      <div class="meta"><span></span><span>2026-10-28</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    
+    <div class="article-body">
+      <p>A 1.9-million-year-old archaeological site in Israel's Jordan Valley shows that early humans left Africa hundreds of thousands of years earlier than scientists once thought. Three advanced dating methods converged on the same surprising timeline, pushing back the story of our species' first steps into the Middle East.</p>
+      <p>time: 09:11 IST</p>
+<h1>How Did Early Humans Reach the Jordan Valley 1.9 Million Years Ago?</h1>
+<h2>1. A River Valley That Rewrote the Clock</h2>
+<p>The Jordan Valley — the winding river that today flows between Israel and Jordan — was the stage for a discovery that changes how we think about our own story. Deep in its ancient sediments, archaeologists found stone tools and animal bones that tell us <strong>early humans were here at least 1.9 million years ago</strong>. That is hundreds of thousands of years earlier than most scientists had believed. The site, called <strong>‘Ubeidiya</strong>, sits just south of the Sea of Galilee, and for decades researchers wondered how old it really was.</p>
+<h2>2. Three Clocks That Agreed</h2>
+<p>Instead of relying on a single guess, an international team from the Hebrew University of Jerusalem, the University of Haifa, and the University of Tulsa used <strong>three independent dating methods</strong> — and all three pointed to roughly the same answer.</p>
+<p>First, <strong>cosmogenic isotope burial dating</strong> measured rare atoms built up by cosmic rays in rocks exposed at Earth's surface, then buried over time. Second, scientists studied the <strong>ancient magnetic field locked in lake sediments</strong> — Earth's magnetic poles have flipped many times in history, and the sediment layers recorded those changes like pages in a book. Finally, <strong>uranium-lead dating of fossilized freshwater snail shells</strong> provided a minimum age for the layers. Together, the results made ‘Ubeidiya roughly as old as the famous <strong>Dmanisi</strong> site in Georgia — about <strong>1.8 million years</strong> — making both among the earliest known human settlements outside Africa.</p>
+<h2>3. The Tools That Traveled Far</h2>
+<p>What makes ‘Ubeidiya special isn't just its age, but what was left behind. The site holds some of the earliest examples of <strong>Acheulean stone tools</strong> — the distinctive teardrop-shaped hand axes that early humans carried as they spread across new landscapes. These tools required planning and skill to make, suggesting that the people who created them were more advanced than previously credited. Animal bones found alongside the tools show that these early settlers hunted and scavenged creatures that no longer walk these lands, painting a vivid picture of a lost world.</p>
+<p>When early humans stepped out of Africa nearly two million years ago, they carried little more than stone, fire, and each other. Today, every footprint found in the Jordan Valley reminds us that curiosity and courage are nothing new — we have been explorers for longer than we ever imagined.</p>
+<h2>Fun Fact</h2>
+<p>The name <strong>‘Ubeidiya</strong> comes from a tiny Arabic word meaning "little basil" — a humble herb that still grows in the region. And it turns out, the same valley that gave the site its name is also where some of humanity's mightiest first steps were taken.</p>
+<h2>Sources</h2>
+<p>1. ScienceDaily — "1.9-million-year-old discovery rewrites the story of human evolution" (October 26, 2026) — https://www.sciencedaily.com/releases/2026/10/261025073042.htm</p>
+<p>2. Wikipedia — "Dmanisi" (human remains 1.8 million years old, oldest found outside Africa) — https://en.wikipedia.org/wiki/Dmanisi</p>
+<p>3. Wikipedia — "Acheulean" (stone tool tradition, hand axes, Early Pleistocene) — https://en.wikipedia.org/wiki/Acheulean</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

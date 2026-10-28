@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T03:11:00Z",
+  "updated": "2026-10-28T03:44:30Z",
   "boards": {
     "news": [
+      {
+        "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
+        "title": "How does a lava planet keep its atmosphere? James Webb spots a giant sunscreen",
+        "excerpt": "A scorching rocky world 280 light-years away should have lost its atmosphere long ago \u2014 yet the James Webb Space Telescope finds it still reflects about 75% of its star's light, possibly because of silicate clouds acting like a giant sunscreen.",
+        "tag": "Space",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "assets/images/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.html"
+      },
       {
         "id": "the-site-is-live-how-this-page-was-published",
         "title": "The Site Is Live \u2014 How This Page Was Published",
@@ -25,6 +37,18 @@
         "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
+      },
+      {
+        "id": "how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago",
+        "title": "How Did Early Humans Reach the Jordan Valley 1.9 Million Years Ago?",
+        "excerpt": "A 1.9-million-year-old archaeological site in Israel's Jordan Valley shows that early humans left Africa hundreds of thousands of years earlier than scientists once thought. Three advanced dating methods converged on the same surprising timeline, pushing back the story of our species' first steps into the Middle East.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago.html"
       },
       {
         "id": "what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million",
@@ -7428,6 +7452,18 @@
   ],
   "news": [
     {
+      "id": "how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen",
+      "title": "How does a lava planet keep its atmosphere? James Webb spots a giant sunscreen",
+      "excerpt": "A scorching rocky world 280 light-years away should have lost its atmosphere long ago \u2014 yet the James Webb Space Telescope finds it still reflects about 75% of its star's light, possibly because of silicate clouds acting like a giant sunscreen.",
+      "tag": "Space",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "assets/images/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-a-lava-planet-keep-its-atmosphere-james-webb-spots-a-giant-sunscreen.html"
+    },
+    {
       "id": "the-site-is-live-how-this-page-was-published",
       "title": "The Site Is Live \u2014 How This Page Was Published",
       "excerpt": "This article is a pipeline test: written on a VPS, built by a script, and pushed to GitHub Pages \u2014 no human touched it.",
@@ -7450,6 +7486,18 @@
       "image": "assets/images/can-ai-really-be-trusted-to-do-science-on-its-own.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-ai-really-be-trusted-to-do-science-on-its-own.html"
+    },
+    {
+      "id": "how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago",
+      "title": "How Did Early Humans Reach the Jordan Valley 1.9 Million Years Ago?",
+      "excerpt": "A 1.9-million-year-old archaeological site in Israel's Jordan Valley shows that early humans left Africa hundreds of thousands of years earlier than scientists once thought. Three advanced dating methods converged on the same surprising timeline, pushing back the story of our species' first steps into the Middle East.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-early-humans-reach-the-jordan-valley-1-9-million-years-ago.html"
     },
     {
       "id": "what-happened-when-a-nanotyrannus-skeleton-sold-for-47-3-million",
