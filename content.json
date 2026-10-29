@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:27:49Z",
+  "updated": "2026-10-29T23:01:49Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.html"
+      },
+      {
+        "id": "how-did-a-simple-roll-of-tape-beat-sandbags-at-stopping-flood-water",
+        "title": "How Did a Simple Roll of Tape Beat Sandbags at Stopping Flood Water?",
+        "excerpt": "Tests at the University of Hull found that everyday synthetic tape can block up to 99% of flood water from sneaking through a doorway \u2014 far better than heavy, clumsy sandbags.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29T18:30:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-simple-roll-of-tape-beat-sandbags-at-stopping-flood-water.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-simple-roll-of-tape-beat-sandbags-at-stopping-flood-water.html"
       },
       {
         "id": "how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today",
@@ -8410,6 +8422,18 @@
       "image": "assets/images/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.html"
+    },
+    {
+      "id": "how-did-a-simple-roll-of-tape-beat-sandbags-at-stopping-flood-water",
+      "title": "How Did a Simple Roll of Tape Beat Sandbags at Stopping Flood Water?",
+      "excerpt": "Tests at the University of Hull found that everyday synthetic tape can block up to 99% of flood water from sneaking through a doorway \u2014 far better than heavy, clumsy sandbags.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29T18:30:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-simple-roll-of-tape-beat-sandbags-at-stopping-flood-water.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-simple-roll-of-tape-beat-sandbags-at-stopping-flood-water.html"
     },
     {
       "id": "how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today",
