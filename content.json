@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29T17:17:40Z",
+  "updated": "2026-10-29T17:30:40Z",
   "boards": {
     "news": [
+      {
+        "id": "how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today",
+        "title": "How Did Romans Make Color-Changing Glass 1,600 Years Ago \u2014 And Can Science Copy It Today?",
+        "excerpt": "A 4th-century Roman glass cup changes color from green to red depending on how you light it \u2014 and scientists just decoded the secret that might be the world's first nanotechnology.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29T17:28:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/romans-made-color-changing-glass.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today.html"
+      },
       {
         "id": "how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean",
         "title": "How Do Tiny Plants Help Keep Microplastics Out of the Ocean?",
@@ -8123,6 +8135,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today",
+      "title": "How Did Romans Make Color-Changing Glass 1,600 Years Ago \u2014 And Can Science Copy It Today?",
+      "excerpt": "A 4th-century Roman glass cup changes color from green to red depending on how you light it \u2014 and scientists just decoded the secret that might be the world's first nanotechnology.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-29T17:28:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/romans-made-color-changing-glass.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today.html"
+    },
     {
       "id": "how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean",
       "title": "How Do Tiny Plants Help Keep Microplastics Out of the Ocean?",
