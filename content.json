@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T15:12:47Z",
+  "updated": "2026-10-29T17:17:40Z",
   "boards": {
     "news": [
       {
@@ -169,6 +169,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+      },
+      {
+        "id": "could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline",
+        "title": "Could Birdwatching Rewire Your Brain and Slow Down Cognitive Decline?",
+        "excerpt": "A new study finds that expert birders show increased structural complexity in brain regions tied to attention, visual perception, and memory \u2014 suggesting that the mental workout of identifying birds can help keep age-related cognitive decline at bay.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline.html"
       },
       {
         "id": "how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength",
@@ -8278,6 +8290,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+    },
+    {
+      "id": "could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline",
+      "title": "Could Birdwatching Rewire Your Brain and Slow Down Cognitive Decline?",
+      "excerpt": "A new study finds that expert birders show increased structural complexity in brain regions tied to attention, visual perception, and memory \u2014 suggesting that the mental workout of identifying birds can help keep age-related cognitive decline at bay.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline.html"
     },
     {
       "id": "how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength",
