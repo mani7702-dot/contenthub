@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:26:58Z",
+  "updated": "2026-10-29T18:42:02Z",
   "boards": {
     "news": [
       {
@@ -6893,6 +6893,18 @@
         "image": "assets/images/how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago.html"
+      },
+      {
+        "id": "how-did-magma-store-a-hidden-oxygen-tank-deep-inside-earth-and-could-it-have-filled-our-at",
+        "title": "How Did Magma Store a Hidden Oxygen Tank Deep Inside Earth \u2014 And Could It Have Filled Our Atmosphere?",
+        "excerpt": "Scientists have discovered that molten rock deep inside Earth can hold far more oxygen than anyone expected \u2014 and it may have helped build the very air we breathe billions of years ago.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-magma-store-a-hidden-oxygen-tank-deep-inside-earth-and-could-it-have-filled-our-at.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-magma-store-a-hidden-oxygen-tank-deep-inside-earth-and-could-it-have-filled-our-at.html"
       },
       {
         "id": "how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting",
@@ -13926,6 +13938,12 @@
       "fact": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?",
       "category": "Science",
       "title": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?"
+    },
+    {
+      "id": "how-did-magma-store-a-hidden-oxygen-tank-deep-inside-earth-and-could-it-have-filled-our-at",
+      "fact": "How Did Magma Store a Hidden Oxygen Tank Deep Inside Earth \u2014 And Could It Have Filled Our Atmosphere?",
+      "category": "science",
+      "title": "How Did Magma Store a Hidden Oxygen Tank Deep Inside Earth \u2014 And Could It Have Filled Our Atmosphere?"
     },
     {
       "id": "how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting",
