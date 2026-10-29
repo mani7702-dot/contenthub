@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:43:46Z",
+  "updated": "2026-10-29T05:04:24Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html"
+      },
+      {
+        "id": "how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own",
+        "title": "How Did a New Yorker Named Service Clean Up a Brooklyn Dumping Site All on His Own?",
+        "excerpt": "When Joshua Service spotted a filthy dumping site under a Brooklyn bridge, he didn't just call 311 \u2014 he grabbed gloves and cleaned it up himself, filling ten trash bags in two hours and inspiring his whole neighborhood.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-29T04:59:00+05:30",
+        "read": "3",
+        "image": "assets/images/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.html"
       },
       {
         "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
@@ -7918,6 +7930,18 @@
       "image": "assets/images/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html"
+    },
+    {
+      "id": "how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own",
+      "title": "How Did a New Yorker Named Service Clean Up a Brooklyn Dumping Site All on His Own?",
+      "excerpt": "When Joshua Service spotted a filthy dumping site under a Brooklyn bridge, he didn't just call 311 \u2014 he grabbed gloves and cleaned it up himself, filling ten trash bags in two hours and inspiring his whole neighborhood.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-29T04:59:00+05:30",
+      "read": "3",
+      "image": "assets/images/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.html"
     },
     {
       "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
