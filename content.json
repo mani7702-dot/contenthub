@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T01:10:09Z",
+  "updated": "2026-10-29T01:30:11Z",
   "boards": {
     "news": [
       {
@@ -5465,6 +5465,18 @@
     ],
     "blog": [
       {
+        "id": "could-coconut-oil-power-the-next-generation-of-jet-fuel",
+        "title": "Could Coconut Oil Power the Next Generation of Jet Fuel?",
+        "excerpt": "Scientists in Japan have turned discarded coconut oil into a sustainable aviation fuel that runs in a real jet engine, cuts pollution, and uses waste that would otherwise go to landfill.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29T11:29:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/coconut-jet-fuel.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html"
+      },
+      {
         "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
         "title": "How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?",
         "excerpt": "A small island in Scotland's Inner Hebrides was long known only from old stories and place names \u2014 but a community-led dig has uncovered the buried remains of a 6th-century monastery that rivaled Iona itself.",
@@ -6693,6 +6705,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "could-coconut-oil-power-the-next-generation-of-jet-fuel",
+      "title": "Could Coconut Oil Power the Next Generation of Jet Fuel?",
+      "excerpt": "Scientists in Japan have turned discarded coconut oil into a sustainable aviation fuel that runs in a real jet engine, cuts pollution, and uses waste that would otherwise go to landfill.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29T11:29:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/coconut-jet-fuel.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html"
+    },
     {
       "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
       "title": "How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?",

@@ -10,6 +10,12 @@
     <description>A clever new invention mimics the way ultrahydrophobic plants in wetlands trap microplastic particles, and it is already pulling more than 98% of them out of wastewater flowing toward the Atlantic Ocean.</description>
   </item>
   <item>
+    <title>Could Coconut Oil Power the Next Generation of Jet Fuel?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html</guid>
+    <description>Scientists in Japan have turned discarded coconut oil into a sustainable aviation fuel that runs in a real jet engine, cuts pollution, and uses waste that would otherwise go to landfill.</description>
+  </item>
+  <item>
     <title>How Did a Texas Barber Return $128,000 He Found at an ATM to Its Owner?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html</guid>
@@ -116,12 +122,6 @@
     <link>https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-find-new-animals-hiding-in-airports-cemeteries-and-labs.html</guid>
     <description>From aquarium tanks to apartment parking lots, a transparent fish in a lab, a Darth Vader isopod in seafood markets, and a legless lizard at LAX — scientists keep discovering new species in the most ordinary corners of our world.</description>
-  </item>
-  <item>
-    <title>The Site Is Live — How This Page Was Published</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html</guid>
-    <description>This article is a pipeline test: written on a VPS, built by a script, and pushed to GitHub Pages — no human touched it.</description>
   </item>
 </channel>
 </rss>
