@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29T19:57:07Z",
+  "updated": "2026-10-29T20:25:26Z",
   "boards": {
     "news": [
+      {
+        "id": "how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran",
+        "title": "How Did Dunwoody College Students Build a Brand-New Car for a Minneapolis Veteran?",
+        "excerpt": "Dunwoody College of Technology automotive students refurbished a 2020 Hyundai Elantra for a US Navy veteran through the NABC Recycled Rides for Schools program, giving him the freedom to reach doctor's appointments and daily errands.",
+        "tag": "current events",
+        "author": "",
+        "date": "2026-10-30T01:54:00+05:30",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran.html"
+      },
       {
         "id": "how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit",
         "title": "How Are Canada and the EU Planning an Ever-Closer Partnership at Their Montreal Summit?",
@@ -8267,6 +8279,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran",
+      "title": "How Did Dunwoody College Students Build a Brand-New Car for a Minneapolis Veteran?",
+      "excerpt": "Dunwoody College of Technology automotive students refurbished a 2020 Hyundai Elantra for a US Navy veteran through the NABC Recycled Rides for Schools program, giving him the freedom to reach doctor's appointments and daily errands.",
+      "tag": "current events",
+      "author": "",
+      "date": "2026-10-30T01:54:00+05:30",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran.html"
+    },
     {
       "id": "how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit",
       "title": "How Are Canada and the EU Planning an Ever-Closer Partnership at Their Montreal Summit?",
