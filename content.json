@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:01:49Z",
+  "updated": "2026-10-29T23:09:23Z",
   "boards": {
     "news": [
       {
@@ -289,6 +289,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength.html"
+      },
+      {
+        "id": "romans-made-color-changing-glass-and-we-ve-just-replicated-it-after-1-600-years",
+        "title": "Romans Made Color-Changing Glass\u2014and We've Just Replicated It After 1,600 Years",
+        "excerpt": "Ancient Roman craftsmen accidentally created the world's first nanotechnology by embedding invisible gold and silver nanoparticles into glass. Now, 1,600 years later, scientists have figured out their secret and recreated the legendary Lycurgus Cup that changes from green to red when light hits it.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/romans-made-color-changing-glass-and-we-ve-just-replicated-it-after-1-600-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/romans-made-color-changing-glass-and-we-ve-just-replicated-it-after-1-600-years.html"
       },
       {
         "id": "how-did-autistic-children-process-faces-differently-than-scientists-thought",
@@ -8686,6 +8698,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength.html"
+    },
+    {
+      "id": "romans-made-color-changing-glass-and-we-ve-just-replicated-it-after-1-600-years",
+      "title": "Romans Made Color-Changing Glass\u2014and We've Just Replicated It After 1,600 Years",
+      "excerpt": "Ancient Roman craftsmen accidentally created the world's first nanotechnology by embedding invisible gold and silver nanoparticles into glass. Now, 1,600 years later, scientists have figured out their secret and recreated the legendary Lycurgus Cup that changes from green to red when light hits it.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/romans-made-color-changing-glass-and-we-ve-just-replicated-it-after-1-600-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/romans-made-color-changing-glass-and-we-ve-just-replicated-it-after-1-600-years.html"
     },
     {
       "id": "how-did-autistic-children-process-faces-differently-than-scientists-thought",
