@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T08:09:43Z",
+  "updated": "2026-10-29T08:33:22Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+      },
+      {
+        "id": "how-did-autistic-children-process-faces-differently-than-scientists-thought",
+        "title": "How Did Autistic Children Process Faces Differently Than Scientists Thought?",
+        "excerpt": "A new Yale study using brain scans from 128 sensors reveals that autistic children's brains respond to faces in a different way than previously understood \u2014 and those differences start earlier than scientists had realized.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
       },
       {
         "id": "how-did-one-sauna-session-send-immune-cells-surging-through-your-body",
@@ -8038,6 +8050,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+    },
+    {
+      "id": "how-did-autistic-children-process-faces-differently-than-scientists-thought",
+      "title": "How Did Autistic Children Process Faces Differently Than Scientists Thought?",
+      "excerpt": "A new Yale study using brain scans from 128 sensors reveals that autistic children's brains respond to faces in a different way than previously understood \u2014 and those differences start earlier than scientists had realized.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
     },
     {
       "id": "how-did-one-sauna-session-send-immune-cells-surging-through-your-body",
