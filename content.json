@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T09:48:37Z",
+  "updated": "2026-10-29T11:11:10Z",
   "boards": {
     "news": [
       {
@@ -49,6 +49,18 @@
         "image": "assets/images/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.html"
+      },
+      {
+        "id": "how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it",
+        "title": "How Did a Kangaroo End Up 3 Kilometers Offshore \u2014 And How Did Divers Save It?",
+        "excerpt": "A routine fishing trip in Boston Bay, Australia, turned into an extraordinary wildlife rescue when a dive crew spotted an exhausted kangaroo swimming over 3 kilometers from shore. Here's how they helped the waterlogged marsupial back to dry land.",
+        "tag": "animals",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.html"
       },
       {
         "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
@@ -8038,6 +8050,18 @@
       "image": "assets/images/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own.html"
+    },
+    {
+      "id": "how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it",
+      "title": "How Did a Kangaroo End Up 3 Kilometers Offshore \u2014 And How Did Divers Save It?",
+      "excerpt": "A routine fishing trip in Boston Bay, Australia, turned into an extraordinary wildlife rescue when a dive crew spotted an exhausted kangaroo swimming over 3 kilometers from shore. Here's how they helped the waterlogged marsupial back to dry land.",
+      "tag": "animals",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.html"
     },
     {
       "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
