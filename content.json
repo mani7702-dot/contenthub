@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T00:53:45Z",
+  "updated": "2026-10-29T01:10:09Z",
   "boards": {
     "news": [
       {
@@ -37,6 +37,18 @@
         "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+      },
+      {
+        "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
+        "title": "How Do T Cells Feel Their Surroundings to Help Us Stay Healthy?",
+        "excerpt": "Scientists at McGill University discovered that T cells can feel how stiff or soft the tissues around them are. This 'hidden sense of touch' helps them decide whether to become long-lasting guards that protect us from future infections.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.html"
       },
       {
         "id": "how-did-a-stranger-pay-420-for-a-group-s-lunch-in-south-korea",
@@ -7798,6 +7810,18 @@
       "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+    },
+    {
+      "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
+      "title": "How Do T Cells Feel Their Surroundings to Help Us Stay Healthy?",
+      "excerpt": "Scientists at McGill University discovered that T cells can feel how stiff or soft the tissues around them are. This 'hidden sense of touch' helps them decide whether to become long-lasting guards that protect us from future infections.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.html"
     },
     {
       "id": "how-did-a-stranger-pay-420-for-a-group-s-lunch-in-south-korea",

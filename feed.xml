@@ -28,6 +28,12 @@
     <description>Fire salamanders are famous for their bright warning colors, but scientists just discovered they do something magical under ultraviolet light: their skin and toxic secretions glow green and cyan, like nature's own neon sign.</description>
   </item>
   <item>
+    <title>How Do T Cells Feel Their Surroundings to Help Us Stay Healthy?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.html</guid>
+    <description>Scientists at McGill University discovered that T cells can feel how stiff or soft the tissues around them are. This 'hidden sense of touch' helps them decide whether to become long-lasting guards that protect us from future infections.</description>
+  </item>
+  <item>
     <title>How Did a Stranger Pay $420 for a Group's Lunch in South Korea?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/how-did-a-stranger-pay-420-for-a-group-s-lunch-in-south-korea.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-a-stranger-pay-420-for-a-group-s-lunch-in-south-korea.html</guid>
@@ -116,12 +122,6 @@
     <link>https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/the-site-is-live-how-this-page-was-published.html</guid>
     <description>This article is a pipeline test: written on a VPS, built by a script, and pushed to GitHub Pages — no human touched it.</description>
-  </item>
-  <item>
-    <title>How did NASA's Artemis I fly past the Moon with less radiation danger than expected?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-artemis-i-fly-past-the-moon-with-less-radiation-danger-than-expected.html</guid>
-    <description>NASA's uncrewed Artemis I rocket zipped around the Moon in late 2022 carrying tiny crystal detectors inside human-shaped dummies — and surprisingly, the cosmic radiation near the Moon, while stronger than in Earth orbit, is not nearly as dramatic a jump as scientists first thought.</description>
   </item>
 </channel>
 </rss>
