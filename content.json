@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:10:49Z",
+  "updated": "2026-10-29T22:19:58Z",
   "boards": {
     "news": [
       {
@@ -5909,6 +5909,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-piece-of-antarctica-get-named-after-a-bbc-science-reporter.html"
       },
       {
+        "id": "how-did-joydrops-turn-happy-short-documentaries-into-an-awards-season-sensation",
+        "title": "How Did JoyDrops Turn Happy Short Documentaries Into an Awards Season Sensation?",
+        "excerpt": "After a comedian joked that documentary shorts are 'little sads,' Good News Network teamed up with Switchboard Magazine to spotlight feel-good films that prove stories can be moving, rigorous, and hopeful all at once.",
+        "tag": "Entertainment",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-did-joydrops-turn-happy-short-documentaries-into-an-awards-season-sensation.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-joydrops-turn-happy-short-documentaries-into-an-awards-season-sensation.html"
+      },
+      {
         "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
         "title": "How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?",
         "excerpt": "A small island in Scotland's Inner Hebrides was long known only from old stories and place names \u2014 but a community-led dig has uncovered the buried remains of a 6th-century monastery that rivaled Iona itself.",
@@ -7268,6 +7280,18 @@
       "image": "assets/images/how-did-a-piece-of-antarctica-get-named-after-a-bbc-science-reporter.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-piece-of-antarctica-get-named-after-a-bbc-science-reporter.html"
+    },
+    {
+      "id": "how-did-joydrops-turn-happy-short-documentaries-into-an-awards-season-sensation",
+      "title": "How Did JoyDrops Turn Happy Short Documentaries Into an Awards Season Sensation?",
+      "excerpt": "After a comedian joked that documentary shorts are 'little sads,' Good News Network teamed up with Switchboard Magazine to spotlight feel-good films that prove stories can be moving, rigorous, and hopeful all at once.",
+      "tag": "Entertainment",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/how-did-joydrops-turn-happy-short-documentaries-into-an-awards-season-sensation.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-joydrops-turn-happy-short-documentaries-into-an-awards-season-sensation.html"
     },
     {
       "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
