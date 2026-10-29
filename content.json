@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:09:33Z",
+  "updated": "2026-10-29T12:29:40Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+      },
+      {
+        "id": "how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal",
+        "title": "How Did Canada and Europe Take Their Friendship to the Next Level in Montreal?",
+        "excerpt": "Canada and the European Union are getting closer than ever, but they're not joining forces officially. Find out what 'associate membership' means and why not everyone agrees.",
+        "tag": "world",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.html"
       },
       {
         "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
@@ -8110,6 +8122,18 @@
       "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+    },
+    {
+      "id": "how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal",
+      "title": "How Did Canada and Europe Take Their Friendship to the Next Level in Montreal?",
+      "excerpt": "Canada and the European Union are getting closer than ever, but they're not joining forces officially. Find out what 'associate membership' means and why not everyone agrees.",
+      "tag": "world",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.html"
     },
     {
       "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
