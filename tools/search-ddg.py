@@ -1,23 +1,44 @@
 #!/usr/bin/env python3
-"""Search for a story across multiple news sources using DuckDuckGo."""
-import subprocess, sys, re, urllib.parse
+"""Search for lightning proposal story on multiple platforms."""
+import subprocess, re, urllib.parse
 
-query = sys.argv[1]
-encoded = urllib.parse.quote(query)
-url = f"https://html.duckduckgo.com/html/?q={encoded}"
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
-p = subprocess.run(["curl", "-sL", "--max-time", "20", "-A", UA, url], capture_output=True)
-html = p.stdout.decode("utf-8", errors="replace")
+UA = "Mozilla/5.0 (ContentHub reader; contact andugulamani722@gmail.com)"
 
-# Extract result links and snippets
+def fetch(url):
+    p = subprocess.run(["curl", "-sL", "--max-time", "30", "-A", UA, url], capture_output=True)
+    return p.stdout.decode("utf-8", errors="replace")
+
+def strip_html(text):
+    html = re.sub(r'<script[^>]*>.*?</script>', '', text, flags=re.DOTALL)
+    html = re.sub(r'<style[^>]*>.*?</style>', '', html, flags=re.DOTALL)
+    html = re.sub(r'<[^>]+>', ' ', html)
+    html = re.sub(r'&[a-z#0-9]+;', ' ', html)
+    html = re.sub(r'\s+', ' ', html).strip()
+    return html
+
+# Try DuckDuckGo for search
+ddg_url = "https://html.duckduckgo.com/html/?q=" + urllib.parse.quote("lightning strike proposal Wisconsin hiking Broderick Kettle Moraine")
+html = fetch(ddg_url)
+# Extract search results
 results = re.findall(r'class="result__a"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', html, re.DOTALL)
-snippets = re.findall(r'class="result__snippet"[^>]*>(.*?)</span>', html, re.DOTALL)
+snippets = re.findall(r'class="result__snippet">(.*?)</a>', html, re.DOTALL)
 
-for i, (link, title) in enumerate(results[:10]):
-    clean_title = re.sub(r'<[^>]+>', '', title).strip()
-    clean_link = link.strip()
-    snippet = re.sub(r'<[^>]+>', '', snippets[i]).strip() if i < len(snippets) else ""
-    print(f"Title: {clean_title}")
-    print(f"URL: {clean_link}")
-    print(f"Snippet: {snippet[:200]}")
+print("=== DuckDuckGo Results ===")
+for i, (url, title) in enumerate(results[:10]):
+    title_text = re.sub(r'<[^>]+>', '', title).strip()
+    snip = snippets[i] if i < len(snippets) else ""
+    snip_text = re.sub(r'<[^>]+>', '', snip).strip()[:200]
+    print(f"  [{i+1}] {title_text}")
+    print(f"      URL: {url}")
+    print(f"      Snippet: {snip_text}")
     print()
+
+# Also try the Listverse nuclear testing URL to confirm
+print("\n=== Listverse nuclear testing article ===")
+lv_url = "https://listverse.com/2026/10/27/10-unexpected-things-still-carrying-the-fingerprints-of-nuclear/"
+html2 = fetch(lv_url)
+text2 = strip_html(html2)
+# Find the main article content
+idx = text2.find("Nuclear weapons tests")
+if idx >= 0:
+    print(text2[idx:idx+2000])
