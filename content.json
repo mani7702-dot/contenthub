@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T20:25:26Z",
+  "updated": "2026-10-29T20:53:22Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "assets/images/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.html"
+      },
+      {
+        "id": "how-did-scientists-simulate-the-universe-s-first-2-billion-years-in-one-giant-computer",
+        "title": "How Did Scientists Simulate the Universe's First 2 Billion Years in One Giant Computer?",
+        "excerpt": "A team at Harvard & Smithsonian built Lumina, a supercomputer simulation that recreates the universe's first 2 billion years \u2014 modeling how gas, dark matter, and light shaped the cosmos from the Big Bang's afterglow to the dawn of galaxies. Using 15,000 GPUs on the Frontier supercomputer, Lumina helps scientists decode what the James Webb Space Telescope is seeing.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-scientists-simulate-the-universe-s-first-2-billion-years-in-one-giant-computer.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-simulate-the-universe-s-first-2-billion-years-in-one-giant-computer.html"
       },
       {
         "id": "how-did-jupiter-build-invisible-shields-that-outmatch-earth-s",
@@ -8374,6 +8386,18 @@
       "image": "assets/images/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.html"
+    },
+    {
+      "id": "how-did-scientists-simulate-the-universe-s-first-2-billion-years-in-one-giant-computer",
+      "title": "How Did Scientists Simulate the Universe's First 2 Billion Years in One Giant Computer?",
+      "excerpt": "A team at Harvard & Smithsonian built Lumina, a supercomputer simulation that recreates the universe's first 2 billion years \u2014 modeling how gas, dark matter, and light shaped the cosmos from the Big Bang's afterglow to the dawn of galaxies. Using 15,000 GPUs on the Frontier supercomputer, Lumina helps scientists decode what the James Webb Space Telescope is seeing.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-scientists-simulate-the-universe-s-first-2-billion-years-in-one-giant-computer.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-simulate-the-universe-s-first-2-billion-years-in-one-giant-computer.html"
     },
     {
       "id": "how-did-jupiter-build-invisible-shields-that-outmatch-earth-s",
