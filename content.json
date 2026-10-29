@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:34:33Z",
+  "updated": "2026-10-29T23:43:27Z",
   "boards": {
     "news": [
       {
@@ -5861,6 +5861,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
       },
       {
+        "id": "how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind",
+        "title": "How Did Jupiter Use an Invisible Shield of Plasma Waves to Deflect the Solar Wind?",
+        "excerpt": "Jupiter's Juno spacecraft discovered the gas giant's bow shock works like a cosmic symphony, using plasma waves with multiple frequencies to deflect the solar wind.",
+        "tag": "space",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind.html"
+      },
+      {
         "id": "who-was-panther-pat-the-first-woman-to-play-pro-football",
         "title": "Who Was Panther Pat, the First Woman to Play Pro Football?",
         "excerpt": "In 1970, Pat Palinkas stepped onto a football field as the placekick holder for the Orlando Panthers \u2014 becoming the first woman to play professional football in a men's league. Fifty years later, a stop-motion documentary called \\\"Panther Pat\\\" brings her forgotten story back to life.",
@@ -7244,6 +7256,18 @@
       "image": "assets/images/how-did-aging-muscles-trade-strength-for-protection.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
+    },
+    {
+      "id": "how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind",
+      "title": "How Did Jupiter Use an Invisible Shield of Plasma Waves to Deflect the Solar Wind?",
+      "excerpt": "Jupiter's Juno spacecraft discovered the gas giant's bow shock works like a cosmic symphony, using plasma waves with multiple frequencies to deflect the solar wind.",
+      "tag": "space",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind.html"
     },
     {
       "id": "who-was-panther-pat-the-first-woman-to-play-pro-football",
