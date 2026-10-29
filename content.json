@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:43:27Z",
+  "updated": "2026-10-29T23:53:54Z",
   "boards": {
     "news": [
       {
@@ -5897,6 +5897,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years.html"
       },
       {
+        "id": "how-did-a-tiktok-video-reveal-a-whole-new-kind-of-underground-fish",
+        "title": "How Did a TikTok Video Reveal a Whole New Kind of Underground Fish?",
+        "excerpt": "A pale, translucent fish with skin-covered eyes was hiding in plain sight \u2014 spotted not on a research expedition, but in a TikTok video showing it emerging from a borewell in India.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29T14:30:00+05:30",
+        "read": "2 min",
+        "image": "assets/images/how-did-a-tiktok-video-reveal-a-whole-new-kind-of-underground-fish.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiktok-video-reveal-a-whole-new-kind-of-underground-fish.html"
+      },
+      {
         "id": "how-did-scientists-date-128-000-year-old-ice-from-tibet",
         "title": "How Did Scientists Date 128,000-Year-Old Ice From Tibet?",
         "excerpt": "Ancient ice cores drilled from the Guliya Ice Cap in Tibet carry climate secrets stretching back more than 128,000 years \u2014 far older than scientists once believed. By studying radioactive isotopes, researchers built the first reliable timeline for these frozen archives.",
@@ -7292,6 +7304,18 @@
       "image": "assets/images/what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years.html"
+    },
+    {
+      "id": "how-did-a-tiktok-video-reveal-a-whole-new-kind-of-underground-fish",
+      "title": "How Did a TikTok Video Reveal a Whole New Kind of Underground Fish?",
+      "excerpt": "A pale, translucent fish with skin-covered eyes was hiding in plain sight \u2014 spotted not on a research expedition, but in a TikTok video showing it emerging from a borewell in India.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-29T14:30:00+05:30",
+      "read": "2 min",
+      "image": "assets/images/how-did-a-tiktok-video-reveal-a-whole-new-kind-of-underground-fish.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiktok-video-reveal-a-whole-new-kind-of-underground-fish.html"
     },
     {
       "id": "how-did-scientists-date-128-000-year-old-ice-from-tibet",
