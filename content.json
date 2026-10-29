@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:16:32Z",
+  "updated": "2026-10-29T03:28:42Z",
   "boards": {
     "news": [
       {
@@ -49,6 +49,18 @@
         "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+      },
+      {
+        "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
+        "title": "How Can a Roll of Tape Stop Floodwaters Better Than Sandbags?",
+        "excerpt": "When floods threaten, a humble roll of tape may be a smarter defender than the heavy, messy sandbags everyone has seen. New tests in the UK found that ordinary tape can block up to 99% of incoming flood water \u2014 beating sandbags at their own game.",
+        "tag": "Weather & Nature",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags.html"
       },
       {
         "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
@@ -7906,6 +7918,18 @@
       "image": "assets/images/what-makes-a-fire-salamander-glow-under-ultraviolet-light.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-fire-salamander-glow-under-ultraviolet-light.html"
+    },
+    {
+      "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
+      "title": "How Can a Roll of Tape Stop Floodwaters Better Than Sandbags?",
+      "excerpt": "When floods threaten, a humble roll of tape may be a smarter defender than the heavy, messy sandbags everyone has seen. New tests in the UK found that ordinary tape can block up to 99% of incoming flood water \u2014 beating sandbags at their own game.",
+      "tag": "Weather & Nature",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags.html"
     },
     {
       "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
