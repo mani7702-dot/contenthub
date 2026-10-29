@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29T17:30:40Z",
+  "updated": "2026-10-29T17:39:04Z",
   "boards": {
     "news": [
+      {
+        "id": "how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit",
+        "title": "How Are Canada and the EU Planning an Ever-Closer Partnership at Their Montreal Summit?",
+        "excerpt": "At a summit in Montreal, European Commission President Ursula von der Leyen and Canadian Prime Minister Mark Carney laid out a bold vision for an 'associate membership' partnership \u2014 the EU's closest relationship with any country outside Europe.",
+        "tag": "world",
+        "author": "",
+        "date": "2026-10-29T23:06:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.html"
+      },
       {
         "id": "how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today",
         "title": "How Did Romans Make Color-Changing Glass 1,600 Years Ago \u2014 And Can Science Copy It Today?",
@@ -8135,6 +8147,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit",
+      "title": "How Are Canada and the EU Planning an Ever-Closer Partnership at Their Montreal Summit?",
+      "excerpt": "At a summit in Montreal, European Commission President Ursula von der Leyen and Canadian Prime Minister Mark Carney laid out a bold vision for an 'associate membership' partnership \u2014 the EU's closest relationship with any country outside Europe.",
+      "tag": "world",
+      "author": "",
+      "date": "2026-10-29T23:06:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit.html"
+    },
     {
       "id": "how-did-romans-make-color-changing-glass-1-600-years-ago-and-can-science-copy-it-today",
       "title": "How Did Romans Make Color-Changing Glass 1,600 Years Ago \u2014 And Can Science Copy It Today?",
