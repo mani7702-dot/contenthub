@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T02:54:02Z",
+  "updated": "2026-10-29T03:16:32Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html"
+      },
+      {
+        "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
+        "title": "How Did Five Tiny Cheetah Cubs Make the Camera Their Playground?",
+        "excerpt": "A litter of five cheetah cubs born at the Smithsonian's conservation campus is now starring in a live den cam \u2014 offering a rare, up-close look at one of the world's most vulnerable big cats and the teamwork helping them survive.",
+        "tag": "Science & Nature",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground.html"
       },
       {
         "id": "what-makes-a-fire-salamander-glow-under-ultraviolet-light",
@@ -7870,6 +7882,18 @@
       "image": "assets/images/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html"
+    },
+    {
+      "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
+      "title": "How Did Five Tiny Cheetah Cubs Make the Camera Their Playground?",
+      "excerpt": "A litter of five cheetah cubs born at the Smithsonian's conservation campus is now starring in a live den cam \u2014 offering a rare, up-close look at one of the world's most vulnerable big cats and the teamwork helping them survive.",
+      "tag": "Science & Nature",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground.html"
     },
     {
       "id": "what-makes-a-fire-salamander-glow-under-ultraviolet-light",
