@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:38:29Z",
+  "updated": "2026-10-29T21:48:57Z",
   "boards": {
     "news": [
       {
@@ -325,6 +325,18 @@
         "image": "assets/images/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.html"
+      },
+      {
+        "id": "can-you-watch-rare-cheetah-cubs-live-from-birth-at-the-smithsonian",
+        "title": "Can You Watch Rare Cheetah Cubs Live From Birth at the Smithsonian?",
+        "excerpt": "A live webcam at the Smithsonian Conservation Institute in Virginia lets anyone watch Zura the cheetah care for her five newborn cubs around the clock \u2014 a rare glimpse into the lives of one of the world's most endangered big cats.",
+        "tag": "animals",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/can-you-watch-rare-cheetah-cubs-live-from-birth-at-the-smithsonian.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-you-watch-rare-cheetah-cubs-live-from-birth-at-the-smithsonian.html"
       },
       {
         "id": "how-did-one-sauna-session-send-immune-cells-surging-through-your-body",
@@ -8638,6 +8650,18 @@
       "image": "assets/images/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.html"
+    },
+    {
+      "id": "can-you-watch-rare-cheetah-cubs-live-from-birth-at-the-smithsonian",
+      "title": "Can You Watch Rare Cheetah Cubs Live From Birth at the Smithsonian?",
+      "excerpt": "A live webcam at the Smithsonian Conservation Institute in Virginia lets anyone watch Zura the cheetah care for her five newborn cubs around the clock \u2014 a rare glimpse into the lives of one of the world's most endangered big cats.",
+      "tag": "animals",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/can-you-watch-rare-cheetah-cubs-live-from-birth-at-the-smithsonian.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-you-watch-rare-cheetah-cubs-live-from-birth-at-the-smithsonian.html"
     },
     {
       "id": "how-did-one-sauna-session-send-immune-cells-surging-through-your-body",
