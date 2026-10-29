@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:48:57Z",
+  "updated": "2026-10-29T22:10:49Z",
   "boards": {
     "news": [
       {
@@ -5801,6 +5801,18 @@
     ],
     "blog": [
       {
+        "id": "how-did-aging-muscles-trade-strength-for-protection",
+        "title": "How Did Aging Muscles Trade Strength for Protection?",
+        "excerpt": "As we grow older, our muscles shift from fast-twitch to slow-twitch fibers \u2014 and scientists now believe this is not just a sign of decline, but a clever survival strategy that trades power for protection.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-30T03:38:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/how-did-aging-muscles-trade-strength-for-protection.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
+      },
+      {
         "id": "who-was-panther-pat-the-first-woman-to-play-pro-football",
         "title": "Who Was Panther Pat, the First Woman to Play Pro Football?",
         "excerpt": "In 1970, Pat Palinkas stepped onto a football field as the placekick holder for the Orlando Panthers \u2014 becoming the first woman to play professional football in a men's league. Fifty years later, a stop-motion documentary called \\\"Panther Pat\\\" brings her forgotten story back to life.",
@@ -7149,6 +7161,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "how-did-aging-muscles-trade-strength-for-protection",
+      "title": "How Did Aging Muscles Trade Strength for Protection?",
+      "excerpt": "As we grow older, our muscles shift from fast-twitch to slow-twitch fibers \u2014 and scientists now believe this is not just a sign of decline, but a clever survival strategy that trades power for protection.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-30T03:38:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/how-did-aging-muscles-trade-strength-for-protection.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
+    },
     {
       "id": "who-was-panther-pat-the-first-woman-to-play-pro-football",
       "title": "Who Was Panther Pat, the First Woman to Play Pro Football?",
