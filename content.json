@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:19:58Z",
+  "updated": "2026-10-29T22:27:49Z",
   "boards": {
     "news": [
       {
@@ -7002,6 +7002,18 @@
       }
     ],
     "trending": [
+      {
+        "id": "can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out",
+        "title": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?",
+        "excerpt": "A UK experiment showed that ordinary rolls of tape can block up to 99% of floodwater sneaking past a door, easily beating the 70% kept out by traditional sandbags \u2014 a handy trick for families when a storm surge hits with little warning.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "3 min",
+        "image": "assets/images/can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out.html"
+      },
       {
         "id": "how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago",
         "title": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?",
@@ -14173,6 +14185,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out",
+      "fact": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?",
+      "category": "Science",
+      "title": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?"
+    },
     {
       "id": "how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago",
       "fact": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?",
