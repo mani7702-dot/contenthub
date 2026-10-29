@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T20:56:54Z",
+  "updated": "2026-10-29T21:07:28Z",
   "boards": {
     "news": [
       {
@@ -289,6 +289,18 @@
         "image": "assets/images/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.html"
+      },
+      {
+        "id": "what-100-million-year-old-volcanoes-reveal-about-an-ancient-lost-ocean",
+        "title": "What 100-Million-Year-Old Volcanoes Reveal About an Ancient Lost Ocean",
+        "excerpt": "Scientists have uncovered a hidden volcanic system in Iran that formed 100 million years ago, when a long-vanished ocean called the Neo-Tethys shaped the ancient world.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/what-100-million-year-old-volcanoes-reveal-about-an-ancient-lost-ocean.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-100-million-year-old-volcanoes-reveal-about-an-ancient-lost-ocean.html"
       },
       {
         "id": "how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world",
@@ -8578,6 +8590,18 @@
       "image": "assets/images/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.html"
+    },
+    {
+      "id": "what-100-million-year-old-volcanoes-reveal-about-an-ancient-lost-ocean",
+      "title": "What 100-Million-Year-Old Volcanoes Reveal About an Ancient Lost Ocean",
+      "excerpt": "Scientists have uncovered a hidden volcanic system in Iran that formed 100 million years ago, when a long-vanished ocean called the Neo-Tethys shaped the ancient world.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/what-100-million-year-old-volcanoes-reveal-about-an-ancient-lost-ocean.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-100-million-year-old-volcanoes-reveal-about-an-ancient-lost-ocean.html"
     },
     {
       "id": "how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world",
