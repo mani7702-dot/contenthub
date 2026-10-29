@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:38:41Z",
+  "updated": "2026-10-29T12:09:33Z",
   "boards": {
     "news": [
       {
@@ -157,6 +157,18 @@
         "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
+      },
+      {
+        "id": "how-is-etsy-keeping-ai-generated-crafts-away-from-buyers",
+        "title": "How Is Etsy Keeping AI-Generated Crafts Away From Buyers?",
+        "excerpt": "Etsy, the online marketplace known for handmade and vintage treasures, now requires every seller to include at least one unaltered photo in each listing and bans AI-generated recipes, patterns, and craft instructions \u2014 all to keep the shelves full of genuine human creativity.",
+        "tag": "Business",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.html"
       },
       {
         "id": "how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world",
@@ -8170,6 +8182,18 @@
       "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
+    },
+    {
+      "id": "how-is-etsy-keeping-ai-generated-crafts-away-from-buyers",
+      "title": "How Is Etsy Keeping AI-Generated Crafts Away From Buyers?",
+      "excerpt": "Etsy, the online marketplace known for handmade and vintage treasures, now requires every seller to include at least one unaltered photo in each listing and bans AI-generated recipes, patterns, and craft instructions \u2014 all to keep the shelves full of genuine human creativity.",
+      "tag": "Business",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-is-etsy-keeping-ai-generated-crafts-away-from-buyers.html"
     },
     {
       "id": "how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world",
