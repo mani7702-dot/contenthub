@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:16:42Z",
+  "updated": "2026-10-29T15:12:47Z",
   "boards": {
     "news": [
       {
@@ -5669,6 +5669,30 @@
     ],
     "blog": [
       {
+        "id": "what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years",
+        "title": "What Amazing Secrets Has the Tower of London Kept for 1,000 Years?",
+        "excerpt": "For nearly a millennium the Tower of London has worn many crowns: royal palace, armoury, treasury, menagerie, mint, and prison. Its stones have witnessed daring rescues, disguises, a jewel heist, and the footsteps of kings, queens, and even a few famous beasts.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-10-29T15:00:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years.html"
+      },
+      {
+        "id": "how-did-scientists-date-128-000-year-old-ice-from-tibet",
+        "title": "How Did Scientists Date 128,000-Year-Old Ice From Tibet?",
+        "excerpt": "Ancient ice cores drilled from the Guliya Ice Cap in Tibet carry climate secrets stretching back more than 128,000 years \u2014 far older than scientists once believed. By studying radioactive isotopes, researchers built the first reliable timeline for these frozen archives.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29T14:30:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-did-scientists-date-128-000-year-old-ice-from-tibet.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-date-128-000-year-old-ice-from-tibet.html"
+      },
+      {
         "id": "could-coconut-oil-power-the-next-generation-of-jet-fuel",
         "title": "Could Coconut Oil Power the Next Generation of Jet Fuel?",
         "excerpt": "Scientists in Japan have turned discarded coconut oil into a sustainable aviation fuel that runs in a real jet engine, cuts pollution, and uses waste that would otherwise go to landfill.",
@@ -6945,6 +6969,30 @@
     ]
   },
   "blog": [
+    {
+      "id": "what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years",
+      "title": "What Amazing Secrets Has the Tower of London Kept for 1,000 Years?",
+      "excerpt": "For nearly a millennium the Tower of London has worn many crowns: royal palace, armoury, treasury, menagerie, mint, and prison. Its stones have witnessed daring rescues, disguises, a jewel heist, and the footsteps of kings, queens, and even a few famous beasts.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-10-29T15:00:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years.html"
+    },
+    {
+      "id": "how-did-scientists-date-128-000-year-old-ice-from-tibet",
+      "title": "How Did Scientists Date 128,000-Year-Old Ice From Tibet?",
+      "excerpt": "Ancient ice cores drilled from the Guliya Ice Cap in Tibet carry climate secrets stretching back more than 128,000 years \u2014 far older than scientists once believed. By studying radioactive isotopes, researchers built the first reliable timeline for these frozen archives.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29T14:30:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-did-scientists-date-128-000-year-old-ice-from-tibet.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-date-128-000-year-old-ice-from-tibet.html"
+    },
     {
       "id": "could-coconut-oil-power-the-next-generation-of-jet-fuel",
       "title": "Could Coconut Oil Power the Next Generation of Jet Fuel?",
