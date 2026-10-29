@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:29:40Z",
+  "updated": "2026-10-29T13:43:03Z",
   "boards": {
     "news": [
       {
@@ -121,6 +121,18 @@
         "image": "assets/images/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.html"
+      },
+      {
+        "id": "how-did-a-tiny-laser-beam-make-computer-memory-1000-times-faster",
+        "title": "How Did a Tiny Laser Beam Make Computer Memory 1000 Times Faster?",
+        "excerpt": "Scientists at UC San Diego used a specially shaped laser beam to flip tiny magnetic switches inside computer memory \u2014 a trick that could one day make data storage 1000 times faster and far more energy-efficient.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-tiny-laser-beam-make-computer-memory-1000-times-faster.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-laser-beam-make-computer-memory-1000-times-faster.html"
       },
       {
         "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
@@ -8158,6 +8170,18 @@
       "image": "assets/images/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.html"
+    },
+    {
+      "id": "how-did-a-tiny-laser-beam-make-computer-memory-1000-times-faster",
+      "title": "How Did a Tiny Laser Beam Make Computer Memory 1000 Times Faster?",
+      "excerpt": "Scientists at UC San Diego used a specially shaped laser beam to flip tiny magnetic switches inside computer memory \u2014 a trick that could one day make data storage 1000 times faster and far more energy-efficient.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-tiny-laser-beam-make-computer-memory-1000-times-faster.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-laser-beam-make-computer-memory-1000-times-faster.html"
     },
     {
       "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
