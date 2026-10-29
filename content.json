@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:07:28Z",
+  "updated": "2026-10-29T21:38:29Z",
   "boards": {
     "news": [
       {
@@ -241,6 +241,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+      },
+      {
+        "id": "how-did-128-000-year-old-ice-in-tibet-reveal-what-earth-looked-like-in-the-last-ice-age",
+        "title": "How Did 128,000-Year-Old Ice in Tibet Reveal What Earth Looked Like in the Last Ice Age?",
+        "excerpt": "Deep in a Tibetan ice cap, scientists found ice older than scientists ever expected \u2014 a frozen diary that may have been locked away since the last great ice age.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-128-000-year-old-ice-in-tibet-reveal-what-earth-looked-like-in-the-last-ice-age.html"
       },
       {
         "id": "could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline",
@@ -8542,6 +8554,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+    },
+    {
+      "id": "how-did-128-000-year-old-ice-in-tibet-reveal-what-earth-looked-like-in-the-last-ice-age",
+      "title": "How Did 128,000-Year-Old Ice in Tibet Reveal What Earth Looked Like in the Last Ice Age?",
+      "excerpt": "Deep in a Tibetan ice cap, scientists found ice older than scientists ever expected \u2014 a frozen diary that may have been locked away since the last great ice age.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-128-000-year-old-ice-in-tibet-reveal-what-earth-looked-like-in-the-last-ice-age.html"
     },
     {
       "id": "could-birdwatching-rewire-your-brain-and-slow-down-cognitive-decline",
