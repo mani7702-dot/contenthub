@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T09:32:17Z",
+  "updated": "2026-10-29T09:48:37Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean.html"
+      },
+      {
+        "id": "do-spiders-dream-what-their-nightly-twitches-might-mean",
+        "title": "Do Spiders Dream? What Their Nightly Twitches Might Mean",
+        "excerpt": "Scientists have discovered that spiders experience two clear sleep stages \u2014 including a REM-like phase with eye movements and muscle twitches. Could our eight-legged roommates be having tiny spider dreams?",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29T12:15:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/do-spiders-dream-what-their-nightly-twitches-might-mean.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/do-spiders-dream-what-their-nightly-twitches-might-mean.html"
       },
       {
         "id": "how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner",
@@ -7990,6 +8002,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-tiny-plants-help-keep-microplastics-out-of-the-ocean.html"
+    },
+    {
+      "id": "do-spiders-dream-what-their-nightly-twitches-might-mean",
+      "title": "Do Spiders Dream? What Their Nightly Twitches Might Mean",
+      "excerpt": "Scientists have discovered that spiders experience two clear sleep stages \u2014 including a REM-like phase with eye movements and muscle twitches. Could our eight-legged roommates be having tiny spider dreams?",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-29T12:15:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/do-spiders-dream-what-their-nightly-twitches-might-mean.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/do-spiders-dream-what-their-nightly-twitches-might-mean.html"
     },
     {
       "id": "how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner",
