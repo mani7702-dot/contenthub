@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:09:23Z",
+  "updated": "2026-10-29T23:26:17Z",
   "boards": {
     "news": [
       {
@@ -313,6 +313,18 @@
         "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
+      },
+      {
+        "id": "how-did-the-eu-chief-lay-out-a-vision-for-a-new-canada-partnership-at-the-montreal-summit",
+        "title": "How Did the EU Chief Lay Out a Vision for a New Canada Partnership at the Montreal Summit?",
+        "excerpt": "At the Canada-EU summit in Montreal, European Commission President Ursula von der Leyen unveiled a bold new vision for closer partnership between Canada and the European Union, with talks spanning trade, defense, research, and student exchanges.",
+        "tag": "world",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/eu-chief-lays-out-vision-for-new-canada-partnership-at-montreal-summit.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-eu-chief-lay-out-a-vision-for-a-new-canada-partnership-at-the-montreal-summit.html"
       },
       {
         "id": "how-is-etsy-keeping-ai-generated-crafts-away-from-buyers",
@@ -8722,6 +8734,18 @@
       "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
+    },
+    {
+      "id": "how-did-the-eu-chief-lay-out-a-vision-for-a-new-canada-partnership-at-the-montreal-summit",
+      "title": "How Did the EU Chief Lay Out a Vision for a New Canada Partnership at the Montreal Summit?",
+      "excerpt": "At the Canada-EU summit in Montreal, European Commission President Ursula von der Leyen unveiled a bold new vision for closer partnership between Canada and the European Union, with talks spanning trade, defense, research, and student exchanges.",
+      "tag": "world",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/eu-chief-lays-out-vision-for-new-canada-partnership-at-montreal-summit.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-eu-chief-lay-out-a-vision-for-a-new-canada-partnership-at-the-montreal-summit.html"
     },
     {
       "id": "how-is-etsy-keeping-ai-generated-crafts-away-from-buyers",
