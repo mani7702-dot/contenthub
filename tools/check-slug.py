@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import re
-TITLE = "How Did 10 Million More Acres of Amazon Rainforest Get Saved in Just 7 Months?"
-slug = re.sub(r"[^a-z0-9]+", "-", TITLE.lower()).strip("-")[:90]
-print("Slug:", slug)
-print("Length:", len(slug))
+title = "Europe's youth take to the streets - they feel locked out of a promising future"
+slug = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')[:90]
+print(f"Title-derived slug: {slug}")
+# Also check the frontmatter slug in the article

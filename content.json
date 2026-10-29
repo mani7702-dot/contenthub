@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T08:33:22Z",
+  "updated": "2026-10-29T09:32:17Z",
   "boards": {
     "news": [
       {
@@ -75,6 +75,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags.html"
       },
       {
+        "id": "europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future",
+        "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+        "excerpt": "Young people across Europe \u2014 from Milan to Madrid, Paris to Tirana \u2014 have taken to the streets in recent weeks, demanding action on jobs, housing, and climate change. What connects them is a shared feeling: the future they were promised seems to be slipping away.",
+        "tag": "World",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.html"
+      },
+      {
         "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
         "title": "How Do T Cells Feel Their Surroundings to Help Us Stay Healthy?",
         "excerpt": "Scientists at McGill University discovered that T cells can feel how stiff or soft the tissues around them are. This 'hidden sense of touch' helps them decide whether to become long-lasting guards that protect us from future infections.",
@@ -97,6 +109,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+      },
+      {
+        "id": "how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength",
+        "title": "How Did a Simple Fiber Supplement Reduce Arthritis Pain and Boost Strength?",
+        "excerpt": "A daily spoonful of inulin \u2014 a fiber found in chicory root and Jerusalem artichokes \u2014 helped people with knee arthritis feel less pain and grip objects more strongly, scientists recently discovered.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength.html"
       },
       {
         "id": "how-did-autistic-children-process-faces-differently-than-scientists-thought",
@@ -8028,6 +8052,18 @@
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags.html"
     },
     {
+      "id": "europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future",
+      "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+      "excerpt": "Young people across Europe \u2014 from Milan to Madrid, Paris to Tirana \u2014 have taken to the streets in recent weeks, demanding action on jobs, housing, and climate change. What connects them is a shared feeling: the future they were promised seems to be slipping away.",
+      "tag": "World",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/europe-s-youth-take-to-the-streets-they-feel-locked-out-of-a-promising-future.html"
+    },
+    {
       "id": "how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy",
       "title": "How Do T Cells Feel Their Surroundings to Help Us Stay Healthy?",
       "excerpt": "Scientists at McGill University discovered that T cells can feel how stiff or soft the tissues around them are. This 'hidden sense of touch' helps them decide whether to become long-lasting guards that protect us from future infections.",
@@ -8050,6 +8086,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
+    },
+    {
+      "id": "how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength",
+      "title": "How Did a Simple Fiber Supplement Reduce Arthritis Pain and Boost Strength?",
+      "excerpt": "A daily spoonful of inulin \u2014 a fiber found in chicory root and Jerusalem artichokes \u2014 helped people with knee arthritis feel less pain and grip objects more strongly, scientists recently discovered.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-simple-fiber-supplement-reduce-arthritis-pain-and-boost-strength.html"
     },
     {
       "id": "how-did-autistic-children-process-faces-differently-than-scientists-thought",
