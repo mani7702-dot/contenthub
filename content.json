@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T19:33:39Z",
+  "updated": "2026-10-29T19:57:07Z",
   "boards": {
     "news": [
       {
@@ -301,6 +301,18 @@
         "image": "assets/images/how-did-bomb-testing-fingerprints-end-up-in-honey-teeth-and-antarctic-ice.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-bomb-testing-fingerprints-end-up-in-honey-teeth-and-antarctic-ice.html"
+      },
+      {
+        "id": "could-your-favorite-diet-soda-be-aging-your-brain-faster",
+        "title": "Could Your Favorite Diet Soda Be Aging Your Brain Faster?",
+        "excerpt": "A major eight-year study of nearly 13,000 Brazilian adults found that people who drink the most artificial sweeteners \u2014 like those in diet sodas, sugar-free gum, and 'zero sugar' snacks \u2014 show a 62% faster decline in memory and thinking skills, as if their brains were aging 1.6 years ahead of schedule.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/could-diet-soda-be-aging-your-brain-faster.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-your-favorite-diet-soda-be-aging-your-brain-faster.html"
       },
       {
         "id": "how-did-a-stranger-pay-420-for-a-group-s-lunch-in-south-korea",
@@ -5729,6 +5741,18 @@
     ],
     "blog": [
       {
+        "id": "who-was-panther-pat-the-first-woman-to-play-pro-football",
+        "title": "Who Was Panther Pat, the First Woman to Play Pro Football?",
+        "excerpt": "In 1970, Pat Palinkas stepped onto a football field as the placekick holder for the Orlando Panthers \u2014 becoming the first woman to play professional football in a men's league. Fifty years later, a stop-motion documentary called \\\"Panther Pat\\\" brings her forgotten story back to life.",
+        "tag": "Sports & History",
+        "author": "",
+        "date": "2026-10-29T20:30:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/who-was-panther-pat-the-first-woman-to-play-pro-football.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/who-was-panther-pat-the-first-woman-to-play-pro-football.html"
+      },
+      {
         "id": "what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years",
         "title": "What Amazing Secrets Has the Tower of London Kept for 1,000 Years?",
         "excerpt": "For nearly a millennium the Tower of London has worn many crowns: royal palace, armoury, treasury, menagerie, mint, and prison. Its stones have witnessed daring rescues, disguises, a jewel heist, and the footsteps of kings, queens, and even a few famous beasts.",
@@ -7065,6 +7089,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "who-was-panther-pat-the-first-woman-to-play-pro-football",
+      "title": "Who Was Panther Pat, the First Woman to Play Pro Football?",
+      "excerpt": "In 1970, Pat Palinkas stepped onto a football field as the placekick holder for the Orlando Panthers \u2014 becoming the first woman to play professional football in a men's league. Fifty years later, a stop-motion documentary called \\\"Panther Pat\\\" brings her forgotten story back to life.",
+      "tag": "Sports & History",
+      "author": "",
+      "date": "2026-10-29T20:30:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/who-was-panther-pat-the-first-woman-to-play-pro-football.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/who-was-panther-pat-the-first-woman-to-play-pro-football.html"
+    },
     {
       "id": "what-amazing-secrets-has-the-tower-of-london-kept-for-1-000-years",
       "title": "What Amazing Secrets Has the Tower of London Kept for 1,000 Years?",
@@ -8530,6 +8566,18 @@
       "image": "assets/images/how-did-bomb-testing-fingerprints-end-up-in-honey-teeth-and-antarctic-ice.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-bomb-testing-fingerprints-end-up-in-honey-teeth-and-antarctic-ice.html"
+    },
+    {
+      "id": "could-your-favorite-diet-soda-be-aging-your-brain-faster",
+      "title": "Could Your Favorite Diet Soda Be Aging Your Brain Faster?",
+      "excerpt": "A major eight-year study of nearly 13,000 Brazilian adults found that people who drink the most artificial sweeteners \u2014 like those in diet sodas, sugar-free gum, and 'zero sugar' snacks \u2014 show a 62% faster decline in memory and thinking skills, as if their brains were aging 1.6 years ahead of schedule.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/could-diet-soda-be-aging-your-brain-faster.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-your-favorite-diet-soda-be-aging-your-brain-faster.html"
     },
     {
       "id": "how-did-a-stranger-pay-420-for-a-group-s-lunch-in-south-korea",
