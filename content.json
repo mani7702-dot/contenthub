@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T01:30:11Z",
+  "updated": "2026-10-29T01:39:59Z",
   "boards": {
     "news": [
       {
@@ -5477,6 +5477,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html"
       },
       {
+        "id": "how-did-white-storks-come-back-to-england-after-600-years-away",
+        "title": "How Did White Storks Come Back to England After 600 Years Away?",
+        "excerpt": "A trio of juvenile white storks has arrived at Willington Wetlands in Derbyshire, marking the hopeful beginning of their return to the English Midlands after vanishing more than six centuries ago.",
+        "tag": "wildlife",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-white-storks-come-back-to-england-after-600-years-away.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-white-storks-come-back-to-england-after-600-years-away.html"
+      },
+      {
         "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
         "title": "How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?",
         "excerpt": "A small island in Scotland's Inner Hebrides was long known only from old stories and place names \u2014 but a community-led dig has uncovered the buried remains of a 6th-century monastery that rivaled Iona itself.",
@@ -6716,6 +6728,18 @@
       "image": "assets/images/coconut-jet-fuel.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html"
+    },
+    {
+      "id": "how-did-white-storks-come-back-to-england-after-600-years-away",
+      "title": "How Did White Storks Come Back to England After 600 Years Away?",
+      "excerpt": "A trio of juvenile white storks has arrived at Willington Wetlands in Derbyshire, marking the hopeful beginning of their return to the English Midlands after vanishing more than six centuries ago.",
+      "tag": "wildlife",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-white-storks-come-back-to-england-after-600-years-away.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-white-storks-come-back-to-england-after-600-years-away.html"
     },
     {
       "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
