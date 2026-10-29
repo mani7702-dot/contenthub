@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T13:43:03Z",
+  "updated": "2026-10-29T14:09:05Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "assets/images/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.html"
+      },
+      {
+        "id": "how-did-a-700000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived",
+        "title": "How Did a 700,000-Year-Old Elephant Tooth Reveal a Lost World Where Early Humans Lived?",
+        "excerpt": "A remarkably preserved elephant tooth from northern Israel, nearly 700,000 years old, has let scientists reconstruct a lush prehistoric landscape of forests and wetlands where giant straight-tusked elephants and early humans once lived side by side.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-700000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.html"
       },
       {
         "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
@@ -8146,6 +8158,18 @@
       "image": "assets/images/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-canada-and-europe-take-their-friendship-to-the-next-level-in-montreal.html"
+    },
+    {
+      "id": "how-did-a-700000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived",
+      "title": "How Did a 700,000-Year-Old Elephant Tooth Reveal a Lost World Where Early Humans Lived?",
+      "excerpt": "A remarkably preserved elephant tooth from northern Israel, nearly 700,000 years old, has let scientists reconstruct a lush prehistoric landscape of forests and wetlands where giant straight-tusked elephants and early humans once lived side by side.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-700000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.html"
     },
     {
       "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
