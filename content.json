@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:11:10Z",
+  "updated": "2026-10-29T11:38:41Z",
   "boards": {
     "news": [
       {
@@ -157,6 +157,18 @@
         "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
+      },
+      {
+        "id": "how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world",
+        "title": "How Did the Asteroid That Killed the Dinosaurs Help Ants Take Over the World?",
+        "excerpt": "About 66 million years ago, a giant asteroid struck Earth and ended the Age of Dinosaurs. Now scientists have discovered that the same event may have helped ants rise to dominance \u2014 thanks to 'jumping genes' hidden in their DNA that activated right when the dust settled.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.html"
       },
       {
         "id": "how-did-one-sauna-session-send-immune-cells-surging-through-your-body",
@@ -8158,6 +8170,18 @@
       "image": "assets/images/how-did-autistic-children-process-faces-differently-than-scientists-thought.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-autistic-children-process-faces-differently-than-scientists-thought.html"
+    },
+    {
+      "id": "how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world",
+      "title": "How Did the Asteroid That Killed the Dinosaurs Help Ants Take Over the World?",
+      "excerpt": "About 66 million years ago, a giant asteroid struck Earth and ended the Age of Dinosaurs. Now scientists have discovered that the same event may have helped ants rise to dominance \u2014 thanks to 'jumping genes' hidden in their DNA that activated right when the dust settled.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-asteroid-that-killed-dinosaurs-help-ants-take-over-the-world.html"
     },
     {
       "id": "how-did-one-sauna-session-send-immune-cells-surging-through-your-body",
