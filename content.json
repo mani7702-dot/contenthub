@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:26:17Z",
+  "updated": "2026-10-29T23:34:33Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html"
+      },
+      {
+        "id": "less-than-42-minutes-of-bright-daylight-linked-to-higher-dementia-risk",
+        "title": "Less Than 42 Minutes of Bright Daylight Linked to Higher Dementia Risk",
+        "excerpt": "Getting sunlight \u2014 even on a cloudy day \u2014 may be one of the simplest ways to help protect your brain as you age. A large study following nearly 90,000 adults found that spending 42 minutes or more each day in bright daylight was associated with a 17 percent lower risk of dementia.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-29T05:01:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/less-than-42-minutes-of-bright-daylight-linked-to-higher-dementia-risk.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/less-than-42-minutes-of-bright-daylight-linked-to-higher-dementia-risk.html"
       },
       {
         "id": "how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own",
@@ -8506,6 +8518,18 @@
       "image": "assets/images/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-barber-return-128-000-he-found-at-an-atm-to-its-owner.html"
+    },
+    {
+      "id": "less-than-42-minutes-of-bright-daylight-linked-to-higher-dementia-risk",
+      "title": "Less Than 42 Minutes of Bright Daylight Linked to Higher Dementia Risk",
+      "excerpt": "Getting sunlight \u2014 even on a cloudy day \u2014 may be one of the simplest ways to help protect your brain as you age. A large study following nearly 90,000 adults found that spending 42 minutes or more each day in bright daylight was associated with a 17 percent lower risk of dementia.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-29T05:01:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/less-than-42-minutes-of-bright-daylight-linked-to-higher-dementia-risk.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/less-than-42-minutes-of-bright-daylight-linked-to-higher-dementia-risk.html"
     },
     {
       "id": "how-did-a-new-yorker-named-service-clean-up-a-brooklyn-dumping-site-all-on-his-own",
