@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:42:02Z",
+  "updated": "2026-10-29T19:33:39Z",
   "boards": {
     "news": [
       {
@@ -145,6 +145,18 @@
         "image": "assets/images/how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.html"
+      },
+      {
+        "id": "how-did-cranberry-juice-become-a-tooth-decay-fighter",
+        "title": "How Did Cranberry Juice Become a Tooth Decay Fighter?",
+        "excerpt": "A new study suggests that pure, unsweetened cranberry juice may help protect teeth by slowing the growth of harmful dental plaque and reducing the acids that cause cavities. The secret may be in natural compounds called proanthocyanidins that interfere with bad bacteria.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-did-cranberry-juice-become-a-tooth-decay-fighter.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-cranberry-juice-become-a-tooth-decay-fighter.html"
       },
       {
         "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
@@ -8362,6 +8374,18 @@
       "image": "assets/images/how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.html"
+    },
+    {
+      "id": "how-did-cranberry-juice-become-a-tooth-decay-fighter",
+      "title": "How Did Cranberry Juice Become a Tooth Decay Fighter?",
+      "excerpt": "A new study suggests that pure, unsweetened cranberry juice may help protect teeth by slowing the growth of harmful dental plaque and reducing the acids that cause cavities. The secret may be in natural compounds called proanthocyanidins that interfere with bad bacteria.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/how-did-cranberry-juice-become-a-tooth-decay-fighter.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-cranberry-juice-become-a-tooth-decay-fighter.html"
     },
     {
       "id": "how-can-a-roll-of-tape-stop-floodwaters-better-than-sandbags",
