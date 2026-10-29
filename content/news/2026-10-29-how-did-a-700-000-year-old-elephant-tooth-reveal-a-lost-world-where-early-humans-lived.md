@@ -6,7 +6,7 @@ read: "4 min"
 excerpt: "A remarkably preserved elephant tooth from northern Israel, nearly 700,000 years old, has let scientists reconstruct a lush prehistoric landscape of forests and wetlands where giant straight-tusked elephants and early humans once lived side by side."
 tags: "elephants, paleontology, archaeology, early humans, Ice Age, Hula Valley, Gesher Benot Ya'aqov, Acheulian tools, Quaternary Science Reviews"
 board: news
-slug: how-did-a-700000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived
+slug: how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived
 image: assets/images/how-did-a-700-000-year-old-elephant-tooth-reveal-a-lost-world-where-early-humans-lived.jpg
 image_caption: "A museum exhibit displaying a fossilized skeleton of a straight-tusked elephant (Palaeoloxodon antiquus), one of the Ice Age giants whose tooth fossil from northern Israel helped scientists reconstruct a lost prehistoric world. Photo: Wikimedia Commons / CC0"
 ---
