@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:39:04Z",
+  "updated": "2026-10-29T17:49:06Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.html"
+      },
+      {
+        "id": "how-did-jupiter-build-invisible-shields-that-outmatch-earth-s",
+        "title": "How Did Jupiter Build Invisible Shields That Outmatch Earth's?",
+        "excerpt": "NASA's Juno spacecraft has revealed that Jupiter defends itself from the solar wind using a far more elaborate system of plasma waves and shock regions than Earth, giving the giant planet a multi-layered invisible shield that could help scientists understand cosmic shock waves from exploding stars.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-jupiter-build-invisible-shields-that-outmatch-earth-s.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-jupiter-build-invisible-shields-that-outmatch-earth-s.html"
       },
       {
         "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
@@ -8230,6 +8242,18 @@
       "image": "assets/images/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-kangaroo-end-up-3-kilometers-offshore-and-how-did-divers-save-it.html"
+    },
+    {
+      "id": "how-did-jupiter-build-invisible-shields-that-outmatch-earth-s",
+      "title": "How Did Jupiter Build Invisible Shields That Outmatch Earth's?",
+      "excerpt": "NASA's Juno spacecraft has revealed that Jupiter defends itself from the solar wind using a far more elaborate system of plasma waves and shock regions than Earth, giving the giant planet a multi-layered invisible shield that could help scientists understand cosmic shock waves from exploding stars.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-jupiter-build-invisible-shields-that-outmatch-earth-s.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-jupiter-build-invisible-shields-that-outmatch-earth-s.html"
     },
     {
       "id": "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground",
