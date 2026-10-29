@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T06:42:03Z",
+  "updated": "2026-10-29T08:09:43Z",
   "boards": {
     "news": [
       {
@@ -169,6 +169,18 @@
         "image": "assets/images/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.html"
+      },
+      {
+        "id": "what-really-happens-to-a-shooting-star-before-it-reaches-earth",
+        "title": "What Really Happens to a Shooting Star Before It Reaches Earth?",
+        "excerpt": "When a space rock dives into our atmosphere, it doesn't simply vanish in a flash of light. Scientists have identified seven surprising stages that reveal how meteors melt, shatter, and sometimes survive to become meteorites.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-28",
+        "read": "3 min",
+        "image": "assets/images/what-really-happens-to-a-shooting-star-before-it-reaches-earth.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-really-happens-to-a-shooting-star-before-it-reaches-earth.html"
       },
       {
         "id": "how-did-a-kangaroo-end-up-a-mile-out-at-sea",
@@ -8098,6 +8110,18 @@
       "image": "assets/images/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-luxury-cruise-ship-end-up-stranded-in-cambodia-after-soaring-fuel-costs.html"
+    },
+    {
+      "id": "what-really-happens-to-a-shooting-star-before-it-reaches-earth",
+      "title": "What Really Happens to a Shooting Star Before It Reaches Earth?",
+      "excerpt": "When a space rock dives into our atmosphere, it doesn't simply vanish in a flash of light. Scientists have identified seven surprising stages that reveal how meteors melt, shatter, and sometimes survive to become meteorites.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-28",
+      "read": "3 min",
+      "image": "assets/images/what-really-happens-to-a-shooting-star-before-it-reaches-earth.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-really-happens-to-a-shooting-star-before-it-reaches-earth.html"
     },
     {
       "id": "how-did-a-kangaroo-end-up-a-mile-out-at-sea",
