@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T01:39:59Z",
+  "updated": "2026-10-29T02:00:48Z",
   "boards": {
     "news": [
       {
@@ -6570,6 +6570,18 @@
       }
     ],
     "trending": [
+      {
+        "id": "how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago",
+        "title": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?",
+        "excerpt": "A total solar eclipse witnessed by ancient Chinese astronomers in 709 BCE let researchers pin down how much faster Earth spun back then \u2014 and revealed that our star was waking up from a long quiet spell.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago.html"
+      },
       {
         "id": "how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting",
         "title": "How Did Scientists Make Electric Car Batteries Smaller and Longer-Lasting?",
@@ -13285,6 +13297,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago",
+      "fact": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?",
+      "category": "Science",
+      "title": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?"
+    },
     {
       "id": "how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting",
       "fact": "How Did Scientists Make Electric Car Batteries Smaller and Longer-Lasting?",
