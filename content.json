@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T03:28:42Z",
+  "updated": "2026-10-29T03:43:46Z",
   "boards": {
     "news": [
       {
@@ -5525,6 +5525,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-white-storks-come-back-to-england-after-600-years-away.html"
       },
       {
+        "id": "how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice",
+        "title": "How Did a Lightning Strike Lead to a Proposal When She Restarted His Heart Twice?",
+        "excerpt": "Nick and Eva Broderick were hiking in Wisconsin's Kettle Moraine State Forest when lightning struck a tree beside them. Eva performed CPR twice to save Nick's life \u2014 and later that week, Nick had a surprising question of his own.",
+        "tag": "Inspiring",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice.html"
+      },
+      {
         "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",
         "title": "How Did a Tiny Scottish Island Become One of Early Christianity's Greatest Centers?",
         "excerpt": "A small island in Scotland's Inner Hebrides was long known only from old stories and place names \u2014 but a community-led dig has uncovered the buried remains of a 6th-century monastery that rivaled Iona itself.",
@@ -6788,6 +6800,18 @@
       "image": "assets/images/how-did-white-storks-come-back-to-england-after-600-years-away.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-white-storks-come-back-to-england-after-600-years-away.html"
+    },
+    {
+      "id": "how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice",
+      "title": "How Did a Lightning Strike Lead to a Proposal When She Restarted His Heart Twice?",
+      "excerpt": "Nick and Eva Broderick were hiking in Wisconsin's Kettle Moraine State Forest when lightning struck a tree beside them. Eva performed CPR twice to save Nick's life \u2014 and later that week, Nick had a surprising question of his own.",
+      "tag": "Inspiring",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice.html"
     },
     {
       "id": "how-did-a-tiny-scottish-island-become-one-of-early-christianity-s-greatest-centers",

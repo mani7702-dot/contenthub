@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import re
-title = "How Did a Texas Barber Return $128,000 He Found at an ATM to Its Owner?"
+"""Compute slug from a title using the same formula as build.py and deploy.sh."""
+import re, sys
+title = sys.argv[1] if len(sys.argv) > 1 else input("Title: ")
 slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:90]
-print(f"Title: {title}")
-print(f"Slug:  {slug}")
+print(slug)

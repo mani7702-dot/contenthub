@@ -1,33 +1,25 @@
 #!/usr/bin/env python3
-"""Fetch a GNN article's main text content for cross-checking."""
-import subprocess, re, gzip, sys
+"""Fetch and extract the full text of a GNN article for cross-checking."""
+import subprocess, re
+UA = "Mozilla/5.0 (ContentHub picker; contact anduguhamani722@gmail.com)"
 
-UA = "Mozilla/5.0 (ContentHub picker; contact andugulamani722@gmail.com)"
-url = sys.argv[1] if len(sys.argv) > 1 else "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/"
-r = subprocess.run(["curl", "-s", "--max-time", "25", "-A", UA, url], capture_output=True)
-data = r.stdout
-if data[:2] == b"\x1f\x8b":
-    data = gzip.decompress(data)
-text = data.decode("utf-8", errors="replace")
+url = "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/"
 
-# Find title
-title_match = re.search(r"<title>(.*?)</title>", text, re.DOTALL)
-if title_match:
-    print(f"TITLE: {title_match.group(1).strip()}")
-    print()
+p = subprocess.run(["curl", "-s", "--max-time", "25", "-A", UA, url], capture_output=True)
+html = p.stdout.decode("utf-8", errors="ignore")
 
-# Extract article body content from the GNN article
-# Look for the main content area
-content_match = re.search(r'<article[^>]*>(.*?)</article>', text, re.DOTALL)
-if content_match:
-    body = content_match.group(1)
-else:
-    # Try finding paragraphs with substantial content
-    body = text
+# Extract all text content
+text = re.sub(r'<script[^>]*>.*?</script>', '', html, flags=re.DOTALL)
+text = re.sub(r'<style[^>]*>.*?</style>', '', text, flags=re.DOTALL)
+text = re.sub(r'<[^>]+>', ' ', text)
+text = re.sub(r'&amp;', '&', text)
+text = re.sub(r'&lt;', '<', text)
+text = re.sub(r'&gt;', '>', text)
+text = re.sub(r'&quot;', '"', text)
+text = re.sub(r'&#039;', "'", text)
+text = re.sub(r'&nbsp;', ' ', text)
+text = re.sub(r'\s+', ' ', text)
 
-paragraphs = re.findall(r'<p[^>]*>(.*?)</p>', body, re.DOTALL)
-for p in paragraphs:
-    clean = re.sub(r'<[^>]+>', '', p).strip()
-    if len(clean) > 60:
-        print(clean[:400])
-        print("---")
+# Find the main content
+print("=== FULL ARTICLE TEXT ===")
+print(text[:5000])

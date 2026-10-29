@@ -1,18 +1,9 @@
 #!/usr/bin/env python3
-"""Resize and verify image content for ContentHub articles."""
+"""Verify image content with PIL — check dimensions, mode, and pixel values."""
 from PIL import Image
-import sys
-
-path = sys.argv[1] if len(sys.argv) > 1 else ""
-if not path:
-    print("Usage: verify-image.py <image_path>")
-    sys.exit(1)
-
+path = "assets/images/how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice.jpg"
 im = Image.open(path)
 print(f"Size: {im.size}, Mode: {im.mode}")
-print(f"Top-left: {im.getpixel((0, 0))}, Center: {im.getpixel((im.width//2, im.height//2))}")
-
-# Resize for vision_analyze
-im.thumbnail((400, 400), Image.Resampling.LANCZOS)
-im.save("/tmp/verify.jpg", "JPEG", quality=85)
-print("Resized to /tmp/verify.jpg")
+print(f"Top-left: {im.getpixel((0, 0))}")
+print(f"Center: {im.getpixel((im.width//2, im.height//2))}")
+print(f"Bottom-right: {im.getpixel((im.width-1, im.height-1))}")
