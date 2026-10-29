@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T05:04:24Z",
+  "updated": "2026-10-29T05:16:40Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.html"
+      },
+      {
+        "id": "how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser",
+        "title": "How Did Two Electrons Team Up to Break Physics' X-Ray Energy Limit in a Helium Laser?",
+        "excerpt": "Scientists discovered that helium's two electrons \u2014 when released in sequence and reunited \u2014 can produce X-ray photons far more energetic than any single electron was thought capable of, breaking a long-standing textbook limit.",
+        "tag": "Physics",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
       },
       {
         "id": "how-did-bomb-testing-fingerprints-end-up-in-honey-teeth-and-antarctic-ice",
@@ -7990,6 +8002,18 @@
       "image": "assets/images/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-t-cells-feel-their-surroundings-to-help-us-stay-healthy.html"
+    },
+    {
+      "id": "how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser",
+      "title": "How Did Two Electrons Team Up to Break Physics' X-Ray Energy Limit in a Helium Laser?",
+      "excerpt": "Scientists discovered that helium's two electrons \u2014 when released in sequence and reunited \u2014 can produce X-ray photons far more energetic than any single electron was thought capable of, breaking a long-standing textbook limit.",
+      "tag": "Physics",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-break-physics-x-ray-energy-limit-in-a-helium-laser.html"
     },
     {
       "id": "how-did-bomb-testing-fingerprints-end-up-in-honey-teeth-and-antarctic-ice",
