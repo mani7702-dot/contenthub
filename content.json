@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:49:06Z",
+  "updated": "2026-10-29T18:17:05Z",
   "boards": {
     "news": [
       {
@@ -5753,6 +5753,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html"
       },
       {
+        "id": "how-did-einstein-s-equations-reveal-a-hidden-flaw-in-the-universe-s-biggest-puzzle",
+        "title": "How Did Einstein's Equations Reveal a Hidden Flaw in the Universe's Biggest Puzzle?",
+        "excerpt": "Mathematicians at UC Davis found that the math behind the Big Bang's most popular model is so shaky that the universe might not need dark energy at all \u2014 it could be accelerating all on its own.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-29",
+        "read": "3 min",
+        "image": "assets/images/how-did-einstein-s-equations-reveal-a-hidden-flaw-in-the-universe-s-biggest-puzzle.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-einstein-s-equations-reveal-a-hidden-flaw-in-the-universe-s-biggest-puzzle.html"
+      },
+      {
         "id": "how-did-white-storks-come-back-to-england-after-600-years-away",
         "title": "How Did White Storks Come Back to England After 600 Years Away?",
         "excerpt": "A trio of juvenile white storks has arrived at Willington Wetlands in Derbyshire, marking the hopeful beginning of their return to the English Midlands after vanishing more than six centuries ago.",
@@ -7052,6 +7064,18 @@
       "image": "assets/images/coconut-jet-fuel.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-coconut-oil-power-the-next-generation-of-jet-fuel.html"
+    },
+    {
+      "id": "how-did-einstein-s-equations-reveal-a-hidden-flaw-in-the-universe-s-biggest-puzzle",
+      "title": "How Did Einstein's Equations Reveal a Hidden Flaw in the Universe's Biggest Puzzle?",
+      "excerpt": "Mathematicians at UC Davis found that the math behind the Big Bang's most popular model is so shaky that the universe might not need dark energy at all \u2014 it could be accelerating all on its own.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-29",
+      "read": "3 min",
+      "image": "assets/images/how-did-einstein-s-equations-reveal-a-hidden-flaw-in-the-universe-s-biggest-puzzle.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-einstein-s-equations-reveal-a-hidden-flaw-in-the-universe-s-biggest-puzzle.html"
     },
     {
       "id": "how-did-white-storks-come-back-to-england-after-600-years-away",

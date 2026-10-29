@@ -1,31 +1,44 @@
 #!/usr/bin/env python3
-"""Deeper image inspection — sample more pixels, check color distribution."""
+"""Inspect image content for the Einstein universe article."""
 from PIL import Image
-path = "assets/images/how-did-a-lightning-strike-lead-to-a-proposal-when-she-restarted-his-heart-twice.jpg"
-im = Image.open(path)
+import os
+
+img_path = "assets/images/how-did-einstein-s-equations-reveal-a-hidden-flaw-in-the-universe-s-biggest-puzzle.jpg"
+
+if not os.path.exists(img_path):
+    print("IMAGE NOT FOUND")
+    exit()
+
+im = Image.open(img_path)
+print(f"Size: {im.size}, Mode: {im.mode}")
+
+# Grid sampling
 w, h = im.size
-print(f"Size: {w}x{h}, Mode: {im.mode}")
+step_x, step_y = w // 10, h // 10
+print("\nGrid sampling (10x10):")
+for y in range(0, h, step_y):
+    row = [im.getpixel((x, y)) for x in range(0, w, step_x)]
+    print(f"  Y={y:4d}: {row}")
 
-# Sample a grid of pixels
-samples = []
-for x in range(0, w, w // 10):
-    for y in range(0, h, h // 10):
-        samples.append(im.getpixel((x, y)))
+# Non-black pixel ratio
+non_black = 0
+total = 0
+for x in range(0, w, 5):
+    for y in range(0, h, 5):
+        total += 1
+        if im.getpixel((x, y)) != (0, 0, 0):
+            non_black += 1
+print(f"\nNon-black pixels: {non_black}/{total} ({100*non_black/total:.1f}%)")
 
-# Analyze color channels
-r_vals = [s[0] for s in samples]
-g_vals = [s[1] for s in samples]
-b_vals = [s[2] for s in samples]
-print(f"R: min={min(r_vals)}, max={max(r_vals)}, avg={sum(r_vals)//len(r_vals)}")
-print(f"G: min={min(g_vals)}, max={max(g_vals)}, avg={sum(g_vals)//len(g_vals)}")
-print(f"B: min={min(b_vals)}, max={max(b_vals)}, avg={sum(b_vals)//len(b_vals)}")
+# Check if it's a photo or artistic
+# Natural photos have varied, natural color distributions
+# Abstract/art often have saturated geometric blocks
+corner_pixels = [im.getpixel((0, 0)), im.getpixel((w-1, 0)), im.getpixel((0, h-1)), im.getpixel((w-1, h-1))]
+print(f"Corner pixels: {corner_pixels}")
 
-# Check for bright spots (lightning, stars)
-bright = sum(1 for s in samples if s[0] > 200 and s[1] > 200 and s[2] > 200)
-dark = sum(1 for s in samples if s[0] < 80 and s[1] < 80 and s[2] < 80)
-print(f"Bright pixels: {bright}/{len(samples)} ({100*bright//len(samples)}%)")
-print(f"Dark pixels: {dark}/{len(samples)} ({100*dark//len(samples)}%)")
-
-# Blue-dominant pixels (sky/night)
-blue_dom = sum(1 for s in samples if s[2] > s[0] + 20 and s[2] > s[1] + 20)
-print(f"Blue-dominant pixels: {blue_dom}/{len(samples)} ({100*blue_dom//len(samples)}%)")
+# Check if mostly black (could be a deep space image)
+if non_black/total < 0.3:
+    print("WARNING: Low content density - may be mostly black space image")
+    # Check if bright spots exist (stars/galaxies)
+    bright_pixels = sum(1 for x in range(0,w,3) for y in range(0,h,3) if sum(im.getpixel((x,y))) > 200*3)
+    print(f"Bright pixels (>200 each channel): {bright_pixels}")
