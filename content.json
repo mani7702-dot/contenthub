@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:24:50Z",
+  "updated": "2026-10-30T23:29:27Z",
   "boards": {
     "news": [
       {
@@ -37,6 +37,18 @@
         "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+      },
+      {
+        "id": "how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages",
+        "title": "How Could a Suitcase-Sized Satellite Listen to the Universe's Dark Ages?",
+        "excerpt": "Before the first stars switched on, the universe sat in darkness for about 150 million years. A tiny spacecraft called CosmoCube plans to hide behind the Moon and eavesdrop on a faint whisper left over from that lost era.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.html"
       },
       {
         "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
@@ -9490,6 +9502,18 @@
       "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+    },
+    {
+      "id": "how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages",
+      "title": "How Could a Suitcase-Sized Satellite Listen to the Universe's Dark Ages?",
+      "excerpt": "Before the first stars switched on, the universe sat in darkness for about 150 million years. A tiny spacecraft called CosmoCube plans to hide behind the Moon and eavesdrop on a faint whisper left over from that lost era.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.html"
     },
     {
       "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
