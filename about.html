@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="About ContentHub — a living library of original blog posts, news, facts, and games, written and published around the clock by a team of humans and editors.">
+<title>About — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:48px 0 20px">
+  <div class="container">
+    <h1>About <span class="grad">ContentHub</span></h1>
+    <p>What we are, what we publish, and how we do it.</p>
+  </div>
+</section>
+
+<main class="container" style="max-width:760px;padding:10px 0 60px">
+  <p><strong>ContentHub</strong> is a living library of blog posts, news, facts, and games. We publish original stories about science, space, animals, history, technology, and everyday wonders — written to be clear, accurate, and enjoyable for curious readers of every age.</p>
+
+  <h2>What we publish</h2>
+  <ul>
+    <li><strong>Blog</strong> — explainers and how-things-work pieces on science, history, nature, and ideas.</li>
+    <li><strong>News</strong> — fresh, factual reports from around the world, written in our own words and always linked to the sources behind the story.</li>
+    <li><strong>Facts</strong> — quick, shareable collections of interesting things to know.</li>
+    <li><strong>Games</strong> — free, in-browser games with no downloads and no accounts.</li>
+  </ul>
+
+  <h2>Our standards</h2>
+  <p>We take care with what we publish. Every news article is cross-checked against at least two independent sources before it is written, and every article links to the original reporting so you can follow the story to its source. We do not publish rumour, and we aim to be clear when something is uncertain. We do not cover medical or legal topics, and we keep everything suitable for a general audience.</p>
+
+  <h2>How it runs</h2>
+  <p>ContentHub is a small independent publication. Our team writes and edits the pieces here around the clock, drawing on free and open reporting, public research, and public-domain imagery. The site is hosted on free infrastructure and supported entirely by reader support and advertising.</p>
+
+  <h2>Contact</h2>
+  <p>We welcome feedback, corrections, and story ideas. You can reach the team by email at <strong>andugulamani722@gmail.com</strong>.</p>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+        <p style="color:var(--ink-soft);margin-top:12px;max-width:320px">A living library of blog posts, news, facts, and games — fresh, vibrant, and always updating.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <a href="blog.html">Blog</a>
+        <a href="news.html">News</a>
+        <a href="facts.html">Facts</a>
+      </div>
+      <div>
+        <h4>Play</h4>
+        <a href="games.html">Tic-Tac-Toe</a>
+        <a href="games.html">Memory Match</a>
+        <a href="games.html">Reaction Click</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </div>
+    <p class="copy">© 2026 ContentHub · Built for creators, readers, and players.</p>
+  </div>
+</footer>
+
+<script>window.addEventListener("DOMContentLoaded",()=>{const t=document.getElementById("themeToggle"),s=localStorage.getItem("ch-theme");document.documentElement.dataset.theme=s||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");t.textContent=document.documentElement.dataset.theme==="dark"?"☀️":"🌙";t.onclick=()=>{const d=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=d;localStorage.setItem("ch-theme",d);t.textContent=d==="dark"?"☀️":"🌙";};});</script>
+</body>
+</html>

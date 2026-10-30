@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Privacy policy for ContentHub — what data we collect, how advertising works, and your choices.">
+<title>Privacy Policy — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:48px 0 20px">
+  <div class="container">
+    <h1>Privacy <span class="grad">Policy</span></h1>
+    <p>Last updated: October 31, 2026</p>
+  </div>
+</section>
+
+<main class="container" style="max-width:760px;padding:10px 0 60px">
+  <p>This Privacy Policy explains what information ContentHub ("we", "us", "the site") collects and how it is used. By using the site you agree to this policy.</p>
+
+  <h2>Information we collect</h2>
+  <p>ContentHub does not require you to create an account and does not collect personal information like your name, email, or address through normal browsing. The only exception is email correspondence — if you contact us by email, we receive the address you send from so we can reply.</p>
+
+  <h2>Cookies and automatic data</h2>
+  <p>Like most websites, we and the third-party services we use (such as advertising partners and analytics) may collect standard log and device data automatically — for example your browser type, approximate location, pages visited, and referral source. This data is used to understand site traffic and to serve and measure advertising.</p>
+
+  <h2>Advertising</h2>
+  <p>ContentHub is supported by advertising. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this and other websites. Google's use of the advertising cookie enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the Internet.</p>
+  <p>You may opt out of personalised advertising by visiting <a href="https://www.google.com/settings/ads" rel="nofollow" target="_blank" style="text-decoration:underline">Google Ads Settings</a>, or opt out of some third-party vendor cookies by visiting <a href="https://www.aboutads.info/choices" rel="nofollow" target="_blank" style="text-decoration:underline">www.aboutads.info/choices</a>.</p>
+
+  <h2>How to block cookies</h2>
+  <p>You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, some parts of the site may still function; note that disabling cookies may reduce the quality of advertising shown but the site itself remains usable.</p>
+
+  <h2>Children</h2>
+  <p>ContentHub is a general-interest site suitable for readers of all ages. We do not knowingly collect personal information from children. In accordance with the Children's Online Privacy Protection Act (COPPA), we do not require any personal information to use the site, and advertising served to child audiences is non-personalised by default.</p>
+
+  <h2>Third-party links</h2>
+  <p>Articles on ContentHub link to external websites for sourcing. Those websites have their own privacy policies, which we do not control.</p>
+
+  <h2>Changes to this policy</h2>
+  <p>We may update this policy from time to time. Changes will be posted on this page with an updated date.</p>
+
+  <h2>Contact</h2>
+  <p>Questions about this policy can be sent to <strong>andugulamani722@gmail.com</strong>.</p>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+        <p style="color:var(--ink-soft);margin-top:12px;max-width:320px">A living library of blog posts, news, facts, and games — fresh, vibrant, and always updating.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <a href="blog.html">Blog</a>
+        <a href="news.html">News</a>
+        <a href="facts.html">Facts</a>
+      </div>
+      <div>
+        <h4>Play</h4>
+        <a href="games.html">Tic-Tac-Toe</a>
+        <a href="games.html">Memory Match</a>
+        <a href="games.html">Reaction Click</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </div>
+    <p class="copy">© 2026 ContentHub · Built for creators, readers, and players.</p>
+  </div>
+</footer>
+
+<script>window.addEventListener("DOMContentLoaded",()=>{const t=document.getElementById("themeToggle"),s=localStorage.getItem("ch-theme");document.documentElement.dataset.theme=s||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");t.textContent=document.documentElement.dataset.theme==="dark"?"☀️":"🌙";t.onclick=()=>{const d=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=d;localStorage.setItem("ch-theme",d);t.textContent=d==="dark"?"☀️":"🌙";};});</script>
+</body>
+</html>
