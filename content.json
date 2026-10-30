@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:17:13Z",
+  "updated": "2026-10-30T02:24:16Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.html"
+      },
+      {
+        "id": "how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires",
+        "title": "How Did 53 Orangutans Find Safety After Borneo's Devastating Fires?",
+        "excerpt": "When forest fires swept across Borneo this summer, a dedicated rescue team sprang into action \u2014 saving 53 orangutans and giving them a second chance in the wild.",
+        "tag": "animals",
+        "author": "",
+        "date": "2026-10-30T02:21:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires.html"
       },
       {
         "id": "how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran",
@@ -8542,6 +8554,18 @@
       "image": "assets/images/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.html"
+    },
+    {
+      "id": "how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires",
+      "title": "How Did 53 Orangutans Find Safety After Borneo's Devastating Fires?",
+      "excerpt": "When forest fires swept across Borneo this summer, a dedicated rescue team sprang into action \u2014 saving 53 orangutans and giving them a second chance in the wild.",
+      "tag": "animals",
+      "author": "",
+      "date": "2026-10-30T02:21:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires.html"
     },
     {
       "id": "how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran",
