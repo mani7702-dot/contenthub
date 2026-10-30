@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-30T19:30:03Z",
+  "updated": "2026-10-30T19:37:55Z",
   "boards": {
     "news": [
+      {
+        "id": "could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built",
+        "title": "Could a Nuclear Clock Keep Time Better Than Any Clock Ever Built?",
+        "excerpt": "Deep inside a crystal of thorium, scientists in Vienna have built the world's first self-stabilizing nuclear clock \u2014 a device that keeps its own rhythm and is so accurate it would drift by just one second over 30 million years.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+      },
       {
         "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
         "title": "How Did a Cooler Summer Give Japan Its Best Potato Harvest in a Decade?",
@@ -9119,6 +9131,18 @@
     }
   ],
   "news": [
+    {
+      "id": "could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built",
+      "title": "Could a Nuclear Clock Keep Time Better Than Any Clock Ever Built?",
+      "excerpt": "Deep inside a crystal of thorium, scientists in Vienna have built the world's first self-stabilizing nuclear clock \u2014 a device that keeps its own rhythm and is so accurate it would drift by just one second over 30 million years.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+    },
     {
       "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
       "title": "How Did a Cooler Summer Give Japan Its Best Potato Harvest in a Decade?",
