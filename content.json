@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:56:51Z",
+  "updated": "2026-10-30T23:04:18Z",
   "boards": {
     "news": [
       {
@@ -181,6 +181,18 @@
         "image": "assets/images/could-a-laser-beam-really-work-as-a-radio-antenna.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-laser-beam-really-work-as-a-radio-antenna.html"
+      },
+      {
+        "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
+        "title": "How Did a 6-Inch 'Cretaceous Rabbit' Rewrite 40 Years of Mammal History?",
+        "excerpt": "A nearly complete fossil found in Mongolia's Gobi Desert shows that a small mammal scientists thought was a close cousin of today's placentals actually belonged to a completely different branch of the family tree.",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.html"
       },
       {
         "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
@@ -9610,6 +9622,18 @@
       "image": "assets/images/could-a-laser-beam-really-work-as-a-radio-antenna.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-laser-beam-really-work-as-a-radio-antenna.html"
+    },
+    {
+      "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
+      "title": "How Did a 6-Inch 'Cretaceous Rabbit' Rewrite 40 Years of Mammal History?",
+      "excerpt": "A nearly complete fossil found in Mongolia's Gobi Desert shows that a small mammal scientists thought was a close cousin of today's placentals actually belonged to a completely different branch of the family tree.",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.html"
     },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
