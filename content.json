@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:45:55Z",
+  "updated": "2026-10-30T20:50:57Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "assets/images/why-are-people-deliberately-making-their-clothes-look-mended.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-people-deliberately-making-their-clothes-look-mended.html"
+      },
+      {
+        "id": "can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes",
+        "title": "Can the Human Heart Really Handle the Trip to Mars? A New Study Says Yes",
+        "excerpt": "Thirteen astronauts spent six months in space, and researchers found their hearts adapted well enough to handle the weaker gravity of Mars. Regular exercise, it turns out, may be the secret.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.html"
       },
       {
         "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
@@ -9346,6 +9358,18 @@
       "image": "assets/images/why-are-people-deliberately-making-their-clothes-look-mended.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-people-deliberately-making-their-clothes-look-mended.html"
+    },
+    {
+      "id": "can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes",
+      "title": "Can the Human Heart Really Handle the Trip to Mars? A New Study Says Yes",
+      "excerpt": "Thirteen astronauts spent six months in space, and researchers found their hearts adapted well enough to handle the weaker gravity of Mars. Regular exercise, it turns out, may be the secret.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.html"
     },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
