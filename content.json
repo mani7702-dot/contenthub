@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T05:44:07Z",
+  "updated": "2026-10-30T05:54:08Z",
   "boards": {
     "news": [
       {
@@ -7218,6 +7218,18 @@
       }
     ],
     "trending": [
+      {
+        "id": "how-did-a-simple-daily-pill-show-a-70-lower-dementia-risk-for-certain-people",
+        "title": "How Did a Simple Daily Pill Show a 70% Lower Dementia Risk for Certain People?",
+        "excerpt": "Scientists studying over 13,000 adults found that a common, inexpensive daily pill was linked to a 70% lower dementia risk \u2014 but only for people whose genes give them a particular trait. The surprise? It all comes down to platelets.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30T05:52:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-simple-daily-pill-show-a-70-lower-dementia-risk-for-certain-people.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-simple-daily-pill-show-a-70-lower-dementia-risk-for-certain-people.html"
+      },
       {
         "id": "can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out",
         "title": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?",
@@ -14617,6 +14629,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "how-did-a-simple-daily-pill-show-a-70-lower-dementia-risk-for-certain-people",
+      "fact": "How Did a Simple Daily Pill Show a 70% Lower Dementia Risk for Certain People?",
+      "category": "science",
+      "title": "How Did a Simple Daily Pill Show a 70% Lower Dementia Risk for Certain People?"
+    },
     {
       "id": "can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out",
       "fact": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?",
