@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did Scientists Recreate the Universe's First 2 Billion Years in a Computer Simulation? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">science</span>
+      <h1>How Did Scientists Recreate the Universe's First 2 Billion Years in a Computer Simulation?</h1>
+      <div class="meta"><span></span><span>2026-10-30T05:00:00+00:00</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-did-scientists-recreate-the-universe-s-first-2-billion-years-in-a-computer-simulation.jpg" alt="How Did Scientists Recreate the Universe's First 2 Billion Years in a Computer Simulation?">
+    <div class="article-body">
+      <p>Scientists have built Lumina, one of the largest cosmic simulations ever, recreating 2 billion years of the early universe and showing how dark matter, gas, and starlight shaped the first galaxies.</p>
+      <p>Imagine trying to rewind the entire universe and watch it unfold from the very beginning — all the swirling gas, invisible dark matter, and the first pinpricks of light from newborn stars, all playing out across billions of light-years. That's exactly what a team of astronomers has done, using one of the world's most powerful supercomputers to build a virtual cosmos called <strong>Lumina</strong>.</p>
+<h2>A Virtual Universe 100 Times Bigger</h2>
+<p>Lumina is one of the largest and most detailed cosmological simulations ever created. Developed by researchers at the Center for Astrophysics | Harvard &amp; Smithsonian, it recreates the universe's first <strong>2 billion years</strong> — the era when the first stars and galaxies were lighting up the cosmic darkness.</p>
+<p>What makes Lumina special is its sheer scale. It models a cube of space nearly <strong>1.5 billion light-years on each side</strong> — about 100 times larger than previous comparable simulations. Inside this virtual space, billions of particles representing dark matter, gas, and starlight interact under the pull of gravity and the push of radiation. The result is a detailed movie of how cosmic structure grew from tiny quantum ripples into the web of galaxies we see today.</p>
+<h2>A Supercomputer Named Frontier</h2>
+<p>Running a simulation this vast demands enormous computing power. The team used <strong>more than 15,000 graphics processing units</strong> on Frontier, one of the world's fastest supercomputers at Oak Ridge National Laboratory in Tennessee. That's roughly the same number of GPUs found in 15,000 high-end gaming computers working together.</p>
+<p>With all that power, Lumina can follow not just the big-picture evolution of the cosmos, but also zoom in to see individual galaxies forming and exploding. For the first time, researchers can watch both hydrogen and helium change into their modern forms across such an enormous volume while still tracking the fine details of star birth and black hole growth.</p>
+<h2>Testing Our Theories Against the Stars</h2>
+<p>Lumina isn't just a pretty light show — it's a scientific tool. Astronomers can compare its predictions with data from the James Webb Space Telescope (JWST) and NASA's upcoming Nancy Grace Roman Space Telescope. When the simulated galaxies match what real telescopes observe, it strengthens confidence in our understanding. When they don't, it points to new physics we haven't discovered yet.</p>
+<p>One of Lumina's key achievements is modeling <strong>helium reionization</strong> — the moment when radiation from the first stars stripped electrons from helium atoms across the universe. This is one of the last uncharted chapters in cosmic history.</p>
+<h2>Fun Fact</h2>
+<p>The name "Lumina" comes from the Latin word for "light" — fitting, since the simulation traces how the first sources of light transformed a cold, dark universe into the glowing cosmos we inhabit today.</p>
+<p><strong>Sources:</strong></p>
+<p>1. ScienceDaily — "Smithsonian scientists just recreated the first 2 billion years of the Universe" (Oct 26, 2026) — https://www.sciencedaily.com/releases/2026/10/261026225600.htm</p>
+<p>2. Zier et al. — "Introducing the lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization" — Monthly Notices of the Royal Astronomical Society, 2026; 552(4), DOI: 10.1093/mnras/stag1469</p>
+<p>3. Wikipedia — "Dark matter" (cosmological simulation context) — https://en.wikipedia.org/wiki/Dark_matter</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
