@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:59:04Z",
+  "updated": "2026-10-30T11:12:13Z",
   "boards": {
     "news": [
       {
@@ -169,6 +169,18 @@
         "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+      },
+      {
+        "id": "how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling",
+        "title": "How Did Two Electrons Team Up to Shatter the X-Ray Energy Ceiling?",
+        "excerpt": "For decades, physicists thought there was a hard ceiling on how energetic laser-made X-rays could be. A new experiment shows that when two electrons in a helium atom dance together and release their energy at the same moment, they can blast past that limit \u2014 opening a brighter window onto the quantum world.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling.html"
       },
       {
         "id": "can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities",
@@ -8962,6 +8974,18 @@
       "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+    },
+    {
+      "id": "how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling",
+      "title": "How Did Two Electrons Team Up to Shatter the X-Ray Energy Ceiling?",
+      "excerpt": "For decades, physicists thought there was a hard ceiling on how energetic laser-made X-rays could be. A new experiment shows that when two electrons in a helium atom dance together and release their energy at the same moment, they can blast past that limit \u2014 opening a brighter window onto the quantum world.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling.html"
     },
     {
       "id": "can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities",
