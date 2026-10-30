@@ -147,6 +147,81 @@ def render_article_html(a):
     return page
 
 
+
+
+def render_all_articles_page(items):
+    """Static HTML hub listing every article as a plain <a> link (crawl path for search engines)."""
+    from collections import OrderedDict
+    boards = OrderedDict()
+    for a in items:
+        boards.setdefault(a["board"], []).append(a)
+
+    rows = []
+    for board, arts in boards.items():
+        rows.append('<section class="allarts-board"><h2>' + esc(board.title()) + '</h2><ul>')
+        for a in arts:
+            rows.append('<li><a href="articles/' + a["id"] + '.html">' + esc(a["title"]) + '</a> <span class="allarts-date">' + esc(a["date"]) + '</span></li>')
+        rows.append('</ul></section>')
+
+    nav = '''<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="blog.html">Blog</a>
+      <a href="news.html">News</a>
+      <a href="facts.html">Facts</a>
+      <a href="games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>'''
+
+    footer = '''<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Built for creators, readers, and players.</p>
+  </div>
+</footer>'''
+
+    theme_js = '''<script>window.addEventListener("DOMContentLoaded",()=>{const t=document.getElementById("themeToggle"),s=localStorage.getItem("ch_theme");document.documentElement.dataset.theme=s||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");t.textContent=document.documentElement.dataset.theme==="dark"?"☀️":"🌙";t.onclick=()=>{const d=document.documentElement.dataset.theme==="dark"?"light":"dark";document.documentElement.dataset.theme=d;localStorage.setItem("ch_theme",d);t.textContent=d==="dark"?"☀️":"🌙";};});</script>'''
+
+    return '''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>All Articles — ContentHub</title>
+<meta name="description" content="Every article on ContentHub, listed: science, space, animals, history, technology and more.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  .allarts-board{margin:28px 0}
+  .allarts-board h2{font-size:1.3rem;color:var(--ink);margin-bottom:12px}
+  .allarts-board ul{list-style:none;padding:0}
+  .allarts-board li{padding:8px 0;border-bottom:1px solid var(--line)}
+  .allarts-board a{color:var(--ink);text-decoration:none;font-weight:600}
+  .allarts-board a:hover{text-decoration:underline}
+  .allarts-date{color:var(--ink-soft);font-size:.85rem;margin-left:8px}
+</style>
+</head>
+<body>
+''' + nav + '''
+<section class="hero" style="padding:44px 0 16px">
+  <div class="container">
+    <h1>All <span class="grad">Articles</span></h1>
+    <p>Complete index of everything on ContentHub, newest first.</p>
+  </div>
+</section>
+<main class="container" style="padding:8px 0 60px;max-width:820px">
+''' + "\n".join(rows) + '''
+</main>
+''' + footer + '''
+<script src="assets/script.js"></script>
+''' + theme_js + '''
+</body>
+</html>'''
+
 def build():
     items = collect()
     os.makedirs(ARTICLES_DIR, exist_ok=True)
@@ -195,6 +270,8 @@ def build():
            '<title>ContentHub</title>\n<link>%s/</link>\n%s</channel>\n</rss>\n' % (SITE_BASE, "".join(feed_items)))
     write(os.path.join(ROOT, "feed.xml"), rss)
 
+    # 4b. Static all-articles link hub (crawl path)
+    write(os.path.join(ROOT, "all-articles.html"), render_all_articles_page(items))
     # 5. CNAME for custom domain
     if SITE_CNAME:
         write(os.path.join(ROOT, "CNAME"), SITE_CNAME)
