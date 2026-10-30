@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:41:27Z",
+  "updated": "2026-10-30T22:49:38Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "assets/images/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.html"
+      },
+      {
+        "id": "was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers",
+        "title": "Was T. rex Warm-Blooded? A 66-Million-Year-Old Tooth Finally Answers",
+        "excerpt": "For the first time, scientists have measured the body temperature of a living T. rex \u2014 by reading a chemical signature locked inside its fossil teeth. The answer is surprisingly close to our own.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
       },
       {
         "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
@@ -9502,6 +9514,18 @@
       "image": "assets/images/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.html"
+    },
+    {
+      "id": "was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers",
+      "title": "Was T. rex Warm-Blooded? A 66-Million-Year-Old Tooth Finally Answers",
+      "excerpt": "For the first time, scientists have measured the body temperature of a living T. rex \u2014 by reading a chemical signature locked inside its fossil teeth. The answer is surprisingly close to our own.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
     },
     {
       "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
