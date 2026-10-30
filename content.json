@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T05:01:35Z",
+  "updated": "2026-10-30T05:44:07Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
+      },
+      {
+        "id": "where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot",
+        "title": "Where Did These 10 New Animals Get Discovered \u2014 in Labs, Airports, and Even a Parking Lot?",
+        "excerpt": "Scientists are finding brand-new animal species in the most ordinary places \u2014 inside university labs where they've been studied for years, at airport fuel depots, in cemetery walls, and even in a bundle of moss from an apartment parking lot. A new roundup from Listverse shows that biodiversity can hide right beside us.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot.html"
       },
       {
         "id": "how-did-two-electrons-working-together-break-physics-x-ray-energy-limit",
@@ -8722,6 +8734,18 @@
       "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
+    },
+    {
+      "id": "where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot",
+      "title": "Where Did These 10 New Animals Get Discovered \u2014 in Labs, Airports, and Even a Parking Lot?",
+      "excerpt": "Scientists are finding brand-new animal species in the most ordinary places \u2014 inside university labs where they've been studied for years, at airport fuel depots, in cemetery walls, and even in a bundle of moss from an apartment parking lot. A new roundup from Listverse shows that biodiversity can hide right beside us.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot.html"
     },
     {
       "id": "how-did-two-electrons-working-together-break-physics-x-ray-energy-limit",
