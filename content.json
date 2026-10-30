@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:04:18Z",
+  "updated": "2026-10-30T23:24:50Z",
   "boards": {
     "news": [
       {
@@ -193,6 +193,18 @@
         "image": "assets/images/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.html"
+      },
+      {
+        "id": "why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery",
+        "title": "Why Did a Feather in Dinosaur Poop Solve a 66-Million-Year-Old Mystery?",
+        "excerpt": "A single fossil feather, found inside 66-million-year-old dinosaur droppings, is offering scientists a surprising new clue about why only some birds survived the asteroid that ended the dinosaurs.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.html"
       },
       {
         "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
@@ -9634,6 +9646,18 @@
       "image": "assets/images/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.html"
+    },
+    {
+      "id": "why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery",
+      "title": "Why Did a Feather in Dinosaur Poop Solve a 66-Million-Year-Old Mystery?",
+      "excerpt": "A single fossil feather, found inside 66-million-year-old dinosaur droppings, is offering scientists a surprising new clue about why only some birds survived the asteroid that ended the dinosaurs.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.html"
     },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
