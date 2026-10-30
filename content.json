@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-30T18:39:22Z",
+  "updated": "2026-10-30T19:01:30Z",
   "boards": {
     "news": [
+      {
+        "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
+        "title": "How Did a Cooler Summer Give Japan Its Best Potato Harvest in a Decade?",
+        "excerpt": "While heat and drought shrank harvests across much of the Northern Hemisphere, one cool, rainy island in northern Japan pulled off its finest potato crop in ten years \u2014 a reminder of how much good farming depends on the weather.",
+        "tag": "News",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.html"
+      },
       {
         "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
         "title": "How Did a Texas School Custodian Get an Elementary School Named After Her?",
@@ -9035,6 +9047,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
+      "title": "How Did a Cooler Summer Give Japan Its Best Potato Harvest in a Decade?",
+      "excerpt": "While heat and drought shrank harvests across much of the Northern Hemisphere, one cool, rainy island in northern Japan pulled off its finest potato crop in ten years \u2014 a reminder of how much good farming depends on the weather.",
+      "tag": "News",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.html"
+    },
     {
       "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
       "title": "How Did a Texas School Custodian Get an Elementary School Named After Her?",
