@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:33:11Z",
+  "updated": "2026-10-30T20:37:25Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.html"
+      },
+      {
+        "id": "what-happens-when-two-dead-stars-collide-and-make-a-brand-new-magnetar",
+        "title": "What Happens When Two Dead Stars Collide and Make a Brand-New Magnetar?",
+        "excerpt": "When two dead stars crashed together more than six billion years ago, they flashed with X-rays for nearly ten minutes \u2014 far longer than usual. Astronomers think the collision may have left behind a newborn magnetar, one of the strangest objects in the cosmos.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/what-happens-when-two-dead-stars-collide-and-make-a-brand-new-magnetar.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-happens-when-two-dead-stars-collide-and-make-a-brand-new-magnetar.html"
       },
       {
         "id": "how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away",
@@ -9250,6 +9262,18 @@
       "image": "assets/images/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.html"
+    },
+    {
+      "id": "what-happens-when-two-dead-stars-collide-and-make-a-brand-new-magnetar",
+      "title": "What Happens When Two Dead Stars Collide and Make a Brand-New Magnetar?",
+      "excerpt": "When two dead stars crashed together more than six billion years ago, they flashed with X-rays for nearly ten minutes \u2014 far longer than usual. Astronomers think the collision may have left behind a newborn magnetar, one of the strangest objects in the cosmos.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/what-happens-when-two-dead-stars-collide-and-make-a-brand-new-magnetar.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-happens-when-two-dead-stars-collide-and-make-a-brand-new-magnetar.html"
     },
     {
       "id": "how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away",
