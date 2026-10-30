@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:04:48Z",
+  "updated": "2026-10-30T03:16:03Z",
   "boards": {
     "news": [
       {
@@ -5933,6 +5933,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-mayo-clinic-discover-new-ways-to-fight-zombie-cells-that-drive-aging.html"
       },
       {
+        "id": "how-did-jupiter-use-plasma-waves-to-build-an-invisible-shield-around-itself",
+        "title": "How Did Jupiter Use Plasma Waves to Build an Invisible Shield Around Itself?",
+        "excerpt": "NASA's Juno spacecraft has discovered that Jupiter defends itself from the solar wind using a clever symphony of plasma waves and multiple shock layers \u2014 a system far more intricate than Earth's single-layer shield.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-jupiter-use-plasma-waves-to-build-an-invisible-shield-around-itself.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-jupiter-use-plasma-waves-to-build-an-invisible-shield-around-itself.html"
+      },
+      {
         "id": "how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind",
         "title": "How Did Jupiter Use an Invisible Shield of Plasma Waves to Deflect the Solar Wind?",
         "excerpt": "Jupiter's Juno spacecraft discovered the gas giant's bow shock works like a cosmic symphony, using plasma waves with multiple frequencies to deflect the solar wind.",
@@ -7352,6 +7364,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-mayo-clinic-discover-new-ways-to-fight-zombie-cells-that-drive-aging.html"
+    },
+    {
+      "id": "how-did-jupiter-use-plasma-waves-to-build-an-invisible-shield-around-itself",
+      "title": "How Did Jupiter Use Plasma Waves to Build an Invisible Shield Around Itself?",
+      "excerpt": "NASA's Juno spacecraft has discovered that Jupiter defends itself from the solar wind using a clever symphony of plasma waves and multiple shock layers \u2014 a system far more intricate than Earth's single-layer shield.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-jupiter-use-plasma-waves-to-build-an-invisible-shield-around-itself.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-jupiter-use-plasma-waves-to-build-an-invisible-shield-around-itself.html"
     },
     {
       "id": "how-did-jupiter-use-an-invisible-shield-of-plasma-waves-to-deflect-the-solar-wind",
