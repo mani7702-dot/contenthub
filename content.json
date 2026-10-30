@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:59:05Z",
+  "updated": "2026-10-30T04:11:52Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.html"
+      },
+      {
+        "id": "could-van-gogh-s-starry-night-capture-a-real-july-1889-sky",
+        "title": "Could Van Gogh's Starry Night Capture a Real July 1889 Sky?",
+        "excerpt": "A new study matches the swirling stars in Van Gogh's famous painting to the actual night sky over Saint-R\u00e9my on July 22, 1889 \u2014 and the Hyades cluster in Taurus takes center stage.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
       },
       {
         "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
@@ -8698,6 +8710,18 @@
       "image": "assets/images/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.html"
+    },
+    {
+      "id": "could-van-gogh-s-starry-night-capture-a-real-july-1889-sky",
+      "title": "Could Van Gogh's Starry Night Capture a Real July 1889 Sky?",
+      "excerpt": "A new study matches the swirling stars in Van Gogh's famous painting to the actual night sky over Saint-R\u00e9my on July 22, 1889 \u2014 and the Hyades cluster in Taurus takes center stage.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
     },
     {
       "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
