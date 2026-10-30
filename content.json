@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T15:14:14Z",
+  "updated": "2026-10-30T15:24:54Z",
   "boards": {
     "news": [
       {
@@ -181,6 +181,18 @@
         "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+      },
+      {
+        "id": "what-ancient-clay-jars-tell-us-about-the-world-s-oldest-shipwreck",
+        "title": "What Ancient Clay Jars Tell Us About the World's Oldest Shipwreck",
+        "excerpt": "Off the Turkish coast near Kekova, divers have pulled pottery from a ship that sank around 4,500 years ago, making it the oldest known shipwreck and a time capsule of long-vanished Mediterranean trade.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-ancient-clay-jars-tell-us-about-the-world-s-oldest-shipwreck.html"
       },
       {
         "id": "how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling",
@@ -9142,6 +9154,18 @@
       "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+    },
+    {
+      "id": "what-ancient-clay-jars-tell-us-about-the-world-s-oldest-shipwreck",
+      "title": "What Ancient Clay Jars Tell Us About the World's Oldest Shipwreck",
+      "excerpt": "Off the Turkish coast near Kekova, divers have pulled pottery from a ship that sank around 4,500 years ago, making it the oldest known shipwreck and a time capsule of long-vanished Mediterranean trade.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-ancient-clay-jars-tell-us-about-the-world-s-oldest-shipwreck.html"
     },
     {
       "id": "how-did-two-electrons-team-up-to-shatter-the-x-ray-energy-ceiling",
