@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:04:59Z",
+  "updated": "2026-10-30T10:12:03Z",
   "boards": {
     "news": [
       {
@@ -7325,6 +7325,18 @@
         "image": "assets/images/can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out.html"
+      },
+      {
+        "id": "how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon",
+        "title": "How Did Japan Launch a Spacecraft to Bring Home the First-Ever Samples From a Martian Moon?",
+        "excerpt": "Japan's Martian Moons eXploration mission blasted off on October 19th, heading toward Phobos \u2014 a tiny potato-shaped moon where a robot rover will scout landing sites before the main craft drills up at least 10 grams of regolith to bring home to Earth in 2031.",
+        "tag": "space",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon.html"
       },
       {
         "id": "how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago",
@@ -14808,6 +14820,12 @@
       "fact": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?",
       "category": "Science",
       "title": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?"
+    },
+    {
+      "id": "how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon",
+      "fact": "How Did Japan Launch a Spacecraft to Bring Home the First-Ever Samples From a Martian Moon?",
+      "category": "space",
+      "title": "How Did Japan Launch a Spacecraft to Bring Home the First-Ever Samples From a Martian Moon?"
     },
     {
       "id": "how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago",
