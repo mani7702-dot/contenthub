@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:24:49Z",
+  "updated": "2026-10-30T21:36:37Z",
   "boards": {
     "news": [
       {
@@ -109,6 +109,18 @@
         "image": "assets/images/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.html"
+      },
+      {
+        "id": "could-a-laser-beam-really-work-as-a-radio-antenna",
+        "title": "Could a Laser Beam Really Work as a Radio Antenna?",
+        "excerpt": "Engineers have turned a laser beam into a working radio antenna that looks like a lightsaber \u2014 and it could change how spacecraft talk to Earth.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3",
+        "image": "assets/images/could-a-laser-beam-really-work-as-a-radio-antenna.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-laser-beam-really-work-as-a-radio-antenna.html"
       },
       {
         "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
@@ -9418,6 +9430,18 @@
       "image": "assets/images/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.html"
+    },
+    {
+      "id": "could-a-laser-beam-really-work-as-a-radio-antenna",
+      "title": "Could a Laser Beam Really Work as a Radio Antenna?",
+      "excerpt": "Engineers have turned a laser beam into a working radio antenna that looks like a lightsaber \u2014 and it could change how spacecraft talk to Earth.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3",
+      "image": "assets/images/could-a-laser-beam-really-work-as-a-radio-antenna.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-laser-beam-really-work-as-a-radio-antenna.html"
     },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",

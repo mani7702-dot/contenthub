@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Could a Laser Beam Really Work as a Radio Antenna? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">news</span>
+      <h1>Could a Laser Beam Really Work as a Radio Antenna?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/could-a-laser-beam-really-work-as-a-radio-antenna.jpg" alt="Could a Laser Beam Really Work as a Radio Antenna?">
+    <div class="article-body">
+      <p>Engineers have turned a laser beam into a working radio antenna that looks like a lightsaber — and it could change how spacecraft talk to Earth.</p>
+      <p>Radio antennas have one dependable rule: to send or catch a different frequency, you usually have to change the antenna's size. That means motors, hinges, or folding metal arms — heavy parts that are tricky to build and even trickier to pack into a rocket.</p>
+<p>Now engineers at North Carolina State University have tried something completely different. Instead of shaping metal, they used a laser to carve an antenna out of thin air.</p>
+<h2>A beam of charged air</h2>
+<p>When a laser is focused with just the right power and width, it strips electrons from the atoms in a narrow column of air. The result is <strong>plasma</strong> — a gas full of electrically charged particles, often called the fourth state of matter alongside solids, liquids, and gases.</p>
+<p>Because those particles carry charge, they can interact with radio waves in ways ordinary air cannot. The team's glowing column, called a plasma filament, became a working antenna. To feed it a signal without touching it, the researchers sent the laser through a metal ring that acts like a capacitor, passing energy to the plasma through an invisible electric field.</p>
+<p>In their very first test, the beam successfully transmitted radio waves at 30 megahertz, inside a band used for everything from air traffic to FM radio.</p>
+<h2>Stretching a signal with a flick of a laser</h2>
+<p>The clever part is how adjustable it is. Want a longer antenna? Turn up the laser. Want to aim the signal in a new direction? Just tilt the beam. No moving metal parts required.</p>
+<p>"By controlling the parameters of the laser, you can control the characteristics of the plasma filament — including its length," said Prya Darshni, the study's lead author.</p>
+<h2>Why spacecraft might love it</h2>
+<p>Satellites and probes face brutal limits on weight and bulk, and unfolding a giant antenna in orbit is a delicate dance. A laser-made antenna could one day be created and retuned on the spot. In low Earth orbit there is still enough thin air to form plasma, though the team stresses that this is only a first proof of concept.</p>
+<h2>Fun fact</h2>
+<p>Astronomers have spotted plasma antennas in nature too — the charged gas around stars can bend and reflect radio signals, which is one reason giant clouds of plasma make such useful cosmic "mirrors."</p>
+<h2>Sources</h2>
+<ul><li>"Researchers Successfully Demonstrate Plasma Beam Antenna" — NC State News</li><li>"Scientists create a lightsaber-like laser antenna that transmits radio waves" — ScienceDaily (materials provided by North Carolina State University)</li><li>"This 'Lightsaber' Beam Is Actually a Working Radio Antenna" — SciTechDaily</li><li>Research paper: "Laser-Induced-Plasma-Filament Antenna Transmitting 30 MHz VHF," IEEE Journal of Microwaves (open access)</li></ul>
+<p><em>Published 2026-10-31 03:05 IST.</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
