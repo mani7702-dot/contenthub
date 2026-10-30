@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:44:16Z",
+  "updated": "2026-10-30T23:50:41Z",
   "boards": {
     "news": [
       {
@@ -229,6 +229,18 @@
         "image": "assets/images/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.html"
+      },
+      {
+        "id": "how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue",
+        "title": "How Did a 450-Million-Year-Old Sea Lily Keep Its Soft Tissue?",
+        "excerpt": "A fossil dug up decades ago and tucked away in a small museum has turned out to be a one-in-a-million find: a sea creature that lived 450 million years ago, preserved with its delicate soft parts still intact \u2014 the oldest such crinoid ever found.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.html"
       },
       {
         "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
@@ -9706,6 +9718,18 @@
       "image": "assets/images/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.html"
+    },
+    {
+      "id": "how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue",
+      "title": "How Did a 450-Million-Year-Old Sea Lily Keep Its Soft Tissue?",
+      "excerpt": "A fossil dug up decades ago and tucked away in a small museum has turned out to be a one-in-a-million find: a sea creature that lived 450 million years ago, preserved with its delicate soft parts still intact \u2014 the oldest such crinoid ever found.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.html"
     },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
