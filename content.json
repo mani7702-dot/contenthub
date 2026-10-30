@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T09:23:24Z",
+  "updated": "2026-10-30T10:04:59Z",
   "boards": {
     "news": [
       {
@@ -6029,6 +6029,18 @@
     ],
     "blog": [
       {
+        "id": "can-floating-islands-be-entire-cities",
+        "title": "Can Floating Islands Be Entire Cities?",
+        "excerpt": "On Lake Titicaca in Peru, the Uros people have been building entire floating cities out of totora reeds for generations \u2014 proving that a floating home can be more than just a house.",
+        "tag": "listicles",
+        "author": "",
+        "date": "2026-10-30T18:45:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/can-floating-islands-be-entire-cities.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-floating-islands-be-entire-cities.html"
+      },
+      {
         "id": "how-did-aging-muscles-trade-strength-for-protection",
         "title": "How Did Aging Muscles Trade Strength for Protection?",
         "excerpt": "As we grow older, our muscles shift from fast-twitch to slow-twitch fibers \u2014 and scientists now believe this is not just a sign of decline, but a clever survival strategy that trades power for protection.",
@@ -7485,6 +7497,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "can-floating-islands-be-entire-cities",
+      "title": "Can Floating Islands Be Entire Cities?",
+      "excerpt": "On Lake Titicaca in Peru, the Uros people have been building entire floating cities out of totora reeds for generations \u2014 proving that a floating home can be more than just a house.",
+      "tag": "listicles",
+      "author": "",
+      "date": "2026-10-30T18:45:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/can-floating-islands-be-entire-cities.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-floating-islands-be-entire-cities.html"
+    },
     {
       "id": "how-did-aging-muscles-trade-strength-for-protection",
       "title": "How Did Aging Muscles Trade Strength for Protection?",
