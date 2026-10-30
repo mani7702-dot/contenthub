@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:12:03Z",
+  "updated": "2026-10-30T10:59:04Z",
   "boards": {
     "news": [
       {
@@ -61,6 +61,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran.html"
+      },
+      {
+        "id": "can-a-simple-liquid-really-stop-cavities-without-drilling",
+        "title": "Can a Simple Liquid Really Stop Cavities Without Drilling?",
+        "excerpt": "A major clinical trial confirms that a quick, painless liquid treatment can stop tooth decay in children without any drilling, needles, or messy fillings \u2014 and it's been hiding in plain sight for decades.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/can-a-simple-liquid-really-stop-cavities-without-drilling.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-simple-liquid-really-stop-cavities-without-drilling.html"
       },
       {
         "id": "how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-liv",
@@ -8842,6 +8854,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran.html"
+    },
+    {
+      "id": "can-a-simple-liquid-really-stop-cavities-without-drilling",
+      "title": "Can a Simple Liquid Really Stop Cavities Without Drilling?",
+      "excerpt": "A major clinical trial confirms that a quick, painless liquid treatment can stop tooth decay in children without any drilling, needles, or messy fillings \u2014 and it's been hiding in plain sight for decades.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/can-a-simple-liquid-really-stop-cavities-without-drilling.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-simple-liquid-really-stop-cavities-without-drilling.html"
     },
     {
       "id": "how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-liv",
