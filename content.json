@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:24:30Z",
+  "updated": "2026-10-30T07:33:00Z",
   "boards": {
     "news": [
       {
@@ -73,6 +73,18 @@
         "image": "assets/images/2026-10-30-how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-lives-in-the-process.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-liv.html"
+      },
+      {
+        "id": "how-did-the-romans-make-a-cup-that-changes-color-like-magic",
+        "title": "How Did the Romans Make a Cup That Changes Color Like Magic?",
+        "excerpt": "The Lycurgus Cup, made by Roman artisans nearly 1,800 years ago, glows green in daylight and flashes red when lit from within. Scientists have only now figured out how the ancient glassmakers pulled off this dazzling trick.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-the-romans-make-a-cup-that-changes-color-like-magic.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-romans-make-a-cup-that-changes-color-like-magic.html"
       },
       {
         "id": "how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages",
@@ -8782,6 +8794,18 @@
       "image": "assets/images/2026-10-30-how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-lives-in-the-process.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-liv.html"
+    },
+    {
+      "id": "how-did-the-romans-make-a-cup-that-changes-color-like-magic",
+      "title": "How Did the Romans Make a Cup That Changes Color Like Magic?",
+      "excerpt": "The Lycurgus Cup, made by Roman artisans nearly 1,800 years ago, glows green in daylight and flashes red when lit from within. Scientists have only now figured out how the ancient glassmakers pulled off this dazzling trick.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-the-romans-make-a-cup-that-changes-color-like-magic.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-romans-make-a-cup-that-changes-color-like-magic.html"
     },
     {
       "id": "how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages",
