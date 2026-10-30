@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:53:54Z",
+  "updated": "2026-10-30T00:53:15Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran.html"
+      },
+      {
+        "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
+        "title": "How Did Einstein's Equations Challenge the Need for Dark Energy?",
+        "excerpt": "For decades, scientists have assumed that a mysterious 'dark energy' is pushing the universe apart faster and faster. But new mathematical work from UC Davis suggests that Einstein's original equations might naturally produce cosmic acceleration on their own \u2014 without dark energy at all.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-einstein-s-equations-challenge-the-need-for-dark-energy.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-einstein-s-equations-challenge-the-need-for-dark-energy.html"
       },
       {
         "id": "how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit",
@@ -8494,6 +8506,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran.html"
+    },
+    {
+      "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
+      "title": "How Did Einstein's Equations Challenge the Need for Dark Energy?",
+      "excerpt": "For decades, scientists have assumed that a mysterious 'dark energy' is pushing the universe apart faster and faster. But new mathematical work from UC Davis suggests that Einstein's original equations might naturally produce cosmic acceleration on their own \u2014 without dark energy at all.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-einstein-s-equations-challenge-the-need-for-dark-energy.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-einstein-s-equations-challenge-the-need-for-dark-energy.html"
     },
     {
       "id": "how-are-canada-and-the-eu-planning-an-ever-closer-partnership-at-their-montreal-summit",
