@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:50:41Z",
+  "updated": "2026-10-30T23:56:38Z",
   "boards": {
     "news": [
       {
@@ -205,6 +205,18 @@
         "image": "assets/images/could-a-laser-beam-really-work-as-a-radio-antenna.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-laser-beam-really-work-as-a-radio-antenna.html"
+      },
+      {
+        "id": "did-ancient-egyptian-princesses-really-train-with-bows-and-daggers",
+        "title": "Did Ancient Egyptian Princesses Really Train With Bows and Daggers?",
+        "excerpt": "Bows, arrows, daggers and maces were found in the tombs of Egyptian princesses 4,000 years ago \u2014 but were they ceremonial gifts or tools of the trade? A fresh look at six royal mummies from Dahshur suggests these women actually trained with weapons.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.html"
       },
       {
         "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
@@ -9694,6 +9706,18 @@
       "image": "assets/images/could-a-laser-beam-really-work-as-a-radio-antenna.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-laser-beam-really-work-as-a-radio-antenna.html"
+    },
+    {
+      "id": "did-ancient-egyptian-princesses-really-train-with-bows-and-daggers",
+      "title": "Did Ancient Egyptian Princesses Really Train With Bows and Daggers?",
+      "excerpt": "Bows, arrows, daggers and maces were found in the tombs of Egyptian princesses 4,000 years ago \u2014 but were they ceremonial gifts or tools of the trade? A fresh look at six royal mummies from Dahshur suggests these women actually trained with weapons.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.html"
     },
     {
       "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
