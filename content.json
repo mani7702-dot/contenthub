@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:29:27Z",
+  "updated": "2026-10-30T23:44:16Z",
   "boards": {
     "news": [
       {
@@ -181,6 +181,18 @@
         "image": "assets/images/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.html"
+      },
+      {
+        "id": "how-did-a-23-foot-crocodilian-rule-ancient-south-america-s-food-chain",
+        "title": "How Did a 23-Foot Crocodilian Rule Ancient South America's Food Chain?",
+        "excerpt": "Bite marks on ancient bones suggest a seven-metre crocodylian called Purussaurus was the top predator in South America's Miocene wetlands \u2014 bigger than the mammals that shared its shores.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-23-foot-crocodilian-rule-ancient-south-america-s-food-chain.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-23-foot-crocodilian-rule-ancient-south-america-s-food-chain.html"
       },
       {
         "id": "could-a-laser-beam-really-work-as-a-radio-antenna",
@@ -9646,6 +9658,18 @@
       "image": "assets/images/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-the-human-heart-really-handle-the-trip-to-mars-a-new-study-says-yes.html"
+    },
+    {
+      "id": "how-did-a-23-foot-crocodilian-rule-ancient-south-america-s-food-chain",
+      "title": "How Did a 23-Foot Crocodilian Rule Ancient South America's Food Chain?",
+      "excerpt": "Bite marks on ancient bones suggest a seven-metre crocodylian called Purussaurus was the top predator in South America's Miocene wetlands \u2014 bigger than the mammals that shared its shores.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-23-foot-crocodilian-rule-ancient-south-america-s-food-chain.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-23-foot-crocodilian-rule-ancient-south-america-s-food-chain.html"
     },
     {
       "id": "could-a-laser-beam-really-work-as-a-radio-antenna",
