@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:14:25Z",
+  "updated": "2026-10-30T21:24:49Z",
   "boards": {
     "news": [
       {
@@ -6305,6 +6305,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
       },
       {
+        "id": "where-did-the-world-s-only-flying-mammals-first-take-off",
+        "title": "Where Did the World's Only Flying Mammals First Take Off?",
+        "excerpt": "Bats are the only mammals that truly fly, and for decades nobody could agree where they first appeared. Now the biggest bat study ever assembled \u2014 103 genomes and 44 fossils from 137 scientists \u2014 points to a surprising answer: Europe.",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/where-did-the-worlds-only-flying-mammals-first-take-off.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
+      },
+      {
         "id": "could-a-reusable-spaceplane-really-fly-to-space-twice-a-day-from-a-british-airport",
         "title": "Could a Reusable Spaceplane Really Fly to Space Twice a Day from a British Airport?",
         "excerpt": "Spaceport Cornwall and New Zealand firm Dawn Aerospace have signed an agreement to explore flying a reusable, runway-launched spaceplane from Newquay \u2014 a sleek rocket-powered craft that could one day reach the edge of space and be back on the ground in time to do it all again the same day.",
@@ -7940,6 +7952,18 @@
       "image": "assets/images/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
+    },
+    {
+      "id": "where-did-the-world-s-only-flying-mammals-first-take-off",
+      "title": "Where Did the World's Only Flying Mammals First Take Off?",
+      "excerpt": "Bats are the only mammals that truly fly, and for decades nobody could agree where they first appeared. Now the biggest bat study ever assembled \u2014 103 genomes and 44 fossils from 137 scientists \u2014 points to a surprising answer: Europe.",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/where-did-the-worlds-only-flying-mammals-first-take-off.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
     },
     {
       "id": "could-a-reusable-spaceplane-really-fly-to-space-twice-a-day-from-a-british-airport",
