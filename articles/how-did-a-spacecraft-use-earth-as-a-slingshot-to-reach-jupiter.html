@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter?</h1>
+      <div class="meta"><span></span><span>2026-10-31T01:32:00+05:30</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter.jpg" alt="How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter?">
+    <div class="article-body">
+      <p>A European spacecraft on its way to Jupiter just swung past Earth at 8,640 km above the Indian Ocean — borrowing our planet's gravity to speed up without burning precious fuel.</p>
+      <h1>How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter?</h1>
+<h2>A Borrowed Boost</h2>
+<p>On 28 September 2026, a spacecraft the size of a small truck raced past our planet at a breathtaking pace. It was Juice — short for the Jupiter Icy Moons Explorer — and it came within just 8,640 kilometres of the Indian Ocean. That sounds far, but in space terms it's a close shave: the spacecraft was skimming past the very edge of our atmosphere.</p>
+<p>The point of this near-miss wasn't to visit Earth at all. It was to steal a little of our planet's gravity.</p>
+<h2>Why a Slingshot Works</h2>
+<p>When a spacecraft swings close to a moving planet, the planet's gravity tugs it along and bends its path. Engineers call this a "gravity assist," and it's a bit like a surfer catching the forward edge of a wave. Because Earth itself is hurtling around the Sun, Juice picked up speed without firing its engines at all.</p>
+<p>The numbers are remarkable. The flyby bent Juice's course by 20 degrees and boosted its speed by 3.5 kilometres per second — for free. Mission planners at the European Space Agency had six chances to nudge the spacecraft into position beforehand. Impressively, they needed only one small course correction, saving fuel that will be precious during the years ahead.</p>
+<h2>Rehearsing for Jupiter</h2>
+<p>Earth's pull wasn't the only bonus. As it passed, all ten of Juice's scientific instruments switched on to test themselves on a real target — much like a musician tuning up before a big concert. The spacecraft also spent days sailing through Earth's "magnetotail," the long tail of our planet's magnetic field, and it took a series of snapshots of our world as it went.</p>
+<p>This was Juice's third planetary dance since launch, after a lunar-Earth swing in 2024 and a pass by Venus in 2025. It will return for one final Earth visit in January 2029, then arrive at Jupiter in July 2031. There, it will loop around the giant planet and make 35 flybys of its icy moons — Ganymede, Callisto and Europa.</p>
+<p>---</p>
+<p><em>Fun fact: Juice travels with two solar wings stretching 85 metres, about the length of a football pitch — all that just to stay powered as sunlight grows faint out at Jupiter.</em></p>
+<h2>Sources</h2>
+<ul><li>European Space Agency — "Successful Earth flyby improves Juice's course to Jupiter" https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter</li><li>ScienceDaily — "Slingshot to Jupiter: spacecraft bends course with Earth's gravity" https://www.sciencedaily.com/releases/2026/10/261001214102.htm</li><li>Wikipedia — "Jupiter Icy Moons Explorer" https://en.wikipedia.org/wiki/Jupiter_Icy_Moons_Explorer</li><li>Space.com and BBC Sky at Night Magazine corroborated the 8,640 km altitude, 20° deflection and 3.5 km/s speed gain.</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

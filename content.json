@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:57:10Z",
+  "updated": "2026-10-30T20:03:15Z",
   "boards": {
     "news": [
       {
@@ -6209,6 +6209,18 @@
     ],
     "blog": [
       {
+        "id": "how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter",
+        "title": "How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter?",
+        "excerpt": "A European spacecraft on its way to Jupiter just swung past Earth at 8,640 km above the Indian Ocean \u2014 borrowing our planet's gravity to speed up without burning precious fuel.",
+        "tag": "Space",
+        "author": "",
+        "date": "2026-10-31T01:32:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter.html"
+      },
+      {
         "id": "how-did-thousands-of-strangers-buy-a-whole-english-estate",
         "title": "How Did Thousands of Strangers Buy a Whole English Estate?",
         "excerpt": "A 9,500-acre slice of English countryside went up for sale for the first time in centuries \u2014 so 25,000 ordinary people chipped in to buy it together and hand it back to nature.",
@@ -7809,6 +7821,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter",
+      "title": "How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter?",
+      "excerpt": "A European spacecraft on its way to Jupiter just swung past Earth at 8,640 km above the Indian Ocean \u2014 borrowing our planet's gravity to speed up without burning precious fuel.",
+      "tag": "Space",
+      "author": "",
+      "date": "2026-10-31T01:32:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter.html"
+    },
     {
       "id": "how-did-thousands-of-strangers-buy-a-whole-english-estate",
       "title": "How Did Thousands of Strangers Buy a Whole English Estate?",
