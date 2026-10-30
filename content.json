@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:36:37Z",
+  "updated": "2026-10-30T21:45:56Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+      },
+      {
+        "id": "why-did-nine-gal-pagos-sea-turtles-stay-home-instead-of-crossing-the-ocean",
+        "title": "Why Did Nine Gal\u00e1pagos Sea Turtles Stay Home Instead of Crossing the Ocean?",
+        "excerpt": "Sea turtles are famous ocean travellers \u2014 but nine tagged green turtles around the Gal\u00e1pagos barely left their island neighbourhood for three whole years.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/why-did-nine-galapagos-sea-turtles-stay-home-instead-of-crossing-the-ocean.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-nine-gal-pagos-sea-turtles-stay-home-instead-of-crossing-the-ocean.html"
       },
       {
         "id": "could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built",
@@ -9334,6 +9346,18 @@
       "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+    },
+    {
+      "id": "why-did-nine-gal-pagos-sea-turtles-stay-home-instead-of-crossing-the-ocean",
+      "title": "Why Did Nine Gal\u00e1pagos Sea Turtles Stay Home Instead of Crossing the Ocean?",
+      "excerpt": "Sea turtles are famous ocean travellers \u2014 but nine tagged green turtles around the Gal\u00e1pagos barely left their island neighbourhood for three whole years.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/why-did-nine-galapagos-sea-turtles-stay-home-instead-of-crossing-the-ocean.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-nine-gal-pagos-sea-turtles-stay-home-instead-of-crossing-the-ocean.html"
     },
     {
       "id": "could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built",
