@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T06:15:50Z",
+  "updated": "2026-10-30T07:24:30Z",
   "boards": {
     "news": [
       {
@@ -87,6 +87,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
       },
       {
+        "id": "how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states",
+        "title": "How Did Tiny Magnetic Vortices Teach Scientists to Watch a Computer Brain Switch States?",
+        "excerpt": "Scientists filmed the tiniest magnetic whirlpools \u2014 called skyrmions \u2014 rearranging for the first time, opening a path toward computers that think more like our brains while using far less power.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "3 min",
+        "image": "assets/images/how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states.html"
+      },
+      {
         "id": "where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot",
         "title": "Where Did These 10 New Animals Get Discovered \u2014 in Labs, Airports, and Even a Parking Lot?",
         "excerpt": "Scientists are finding brand-new animal species in the most ordinary places \u2014 inside university labs where they've been studied for years, at airport fuel depots, in cemetery walls, and even in a bundle of moss from an apartment parking lot. A new roundup from Listverse shows that biodiversity can hide right beside us.",
@@ -121,6 +133,18 @@
         "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+      },
+      {
+        "id": "how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging",
+        "title": "How Did the Bacteria in Your Gut Reveal How Fast You're Aging?",
+        "excerpt": "Scientists discovered that the trillions of microbes living in your digestive system can predict your body's biological aging speed \u2014 and one friendly bacterium called Bifidobacterium adolescentis stands out as the strongest helper of them all.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging.html"
       },
       {
         "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
@@ -8772,6 +8796,18 @@
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
     },
     {
+      "id": "how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states",
+      "title": "How Did Tiny Magnetic Vortices Teach Scientists to Watch a Computer Brain Switch States?",
+      "excerpt": "Scientists filmed the tiniest magnetic whirlpools \u2014 called skyrmions \u2014 rearranging for the first time, opening a path toward computers that think more like our brains while using far less power.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "3 min",
+      "image": "assets/images/how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states.html"
+    },
+    {
       "id": "where-did-these-10-new-animals-get-discovered-in-labs-airports-and-even-a-parking-lot",
       "title": "Where Did These 10 New Animals Get Discovered \u2014 in Labs, Airports, and Even a Parking Lot?",
       "excerpt": "Scientists are finding brand-new animal species in the most ordinary places \u2014 inside university labs where they've been studied for years, at airport fuel depots, in cemetery walls, and even in a bundle of moss from an apartment parking lot. A new roundup from Listverse shows that biodiversity can hide right beside us.",
@@ -8806,6 +8842,18 @@
       "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+    },
+    {
+      "id": "how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging",
+      "title": "How Did the Bacteria in Your Gut Reveal How Fast You're Aging?",
+      "excerpt": "Scientists discovered that the trillions of microbes living in your digestive system can predict your body's biological aging speed \u2014 and one friendly bacterium called Bifidobacterium adolescentis stands out as the strongest helper of them all.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging.html"
     },
     {
       "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
