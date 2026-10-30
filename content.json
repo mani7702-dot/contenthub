@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:08:49Z",
+  "updated": "2026-10-30T22:14:53Z",
   "boards": {
     "news": [
       {
@@ -6293,6 +6293,18 @@
     ],
     "blog": [
       {
+        "id": "how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years",
+        "title": "How Did One New Skull Fragment Push Homo erectus Back 200,000 Years?",
+        "excerpt": "A dusty box of fossils from a South African cave sat unstudied for decades. Among them was something no one expected: the oldest adult Homo erectus skull piece ever found.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-10-31T03:45:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years.html"
+      },
+      {
         "id": "was-the-early-universe-really-as-pristine-as-scientists-thought",
         "title": "Was the early universe really as pristine as scientists thought?",
         "excerpt": "Astronomers long imagined the young cosmos as a nearly empty place made of hydrogen and helium. New James Webb Space Telescope observations show some early galaxies were already spreading carbon, oxygen, and silicon \u2014 the stuff of planets and living things \u2014 just 500 million years after the Big Bang.",
@@ -7953,6 +7965,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years",
+      "title": "How Did One New Skull Fragment Push Homo erectus Back 200,000 Years?",
+      "excerpt": "A dusty box of fossils from a South African cave sat unstudied for decades. Among them was something no one expected: the oldest adult Homo erectus skull piece ever found.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-10-31T03:45:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years.html"
+    },
     {
       "id": "was-the-early-universe-really-as-pristine-as-scientists-thought",
       "title": "Was the early universe really as pristine as scientists thought?",
