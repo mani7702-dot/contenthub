@@ -43,6 +43,6 @@ A single common pipistrelle can eat around **3,000 tiny insects in one night** �
 
 ## Sources
 
-- BBC News — "Largest woodland bat survey a 'nice story of AI for good'" (October 2026) — https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o
-- Bat Conservation Trust — "AI reveals 98 million bat calls in Britain's largest woodland bat survey" (October 2026) — https://www.bats.org.uk/news/2026/10/ai-reveals-98-million-bat-calls-in-britains-largest-woodland-bat-survey
-- Forest Research — "AI helps reveal Britain's bats in largest ever National Woodland Bat Survey" (October 2026) — https://www.forestresearch.gov.uk/news/ai-helps-reveal-britains-bats-in-largest-ever-national-woodland-bat-survey/
+- BBC News — "Largest woodland bat survey" (October 2026) — https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o
+- Bat Conservation Trust — "98 million bat calls recorded in Britain's largest woodland bat survey" (October 2026) — https://www.bats.org.uk/news/2026/10/ai-reveals-98-million-bat-calls-in-britains-largest-woodland-bat-survey
+- Forest Research — "Britain's bats revealed in largest ever National Woodland Bat Survey" (October 2026) — https://www.forestresearch.gov.uk/news/ai-helps-reveal-britains-bats-in-largest-ever-national-woodland-bat-survey/
