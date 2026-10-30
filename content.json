@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:40:01Z",
+  "updated": "2026-10-30T13:23:52Z",
   "boards": {
     "news": [
       {
@@ -109,6 +109,18 @@
         "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
+      },
+      {
+        "id": "how-did-a-farmer-s-phone-number-on-an-exam-question-inspire-a-student-s-dream",
+        "title": "How Did a Farmer's Phone Number on an Exam Question Inspire a Student's Dream?",
+        "excerpt": "",
+        "tag": "history",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-farmer-s-phone-number-on-an-exam-question-inspire-a-student-s-dream.html"
       },
       {
         "id": "how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states",
@@ -8986,6 +8998,18 @@
       "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
+    },
+    {
+      "id": "how-did-a-farmer-s-phone-number-on-an-exam-question-inspire-a-student-s-dream",
+      "title": "How Did a Farmer's Phone Number on an Exam Question Inspire a Student's Dream?",
+      "excerpt": "",
+      "tag": "history",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-farmer-s-phone-number-on-an-exam-question-inspire-a-student-s-dream.html"
     },
     {
       "id": "how-did-tiny-magnetic-vortices-teach-scientists-to-watch-a-computer-brain-switch-states",

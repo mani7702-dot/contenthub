@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did a Farmer's Phone Number on an Exam Question Inspire a Student's Dream? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">history</span>
+      <h1>How Did a Farmer's Phone Number on an Exam Question Inspire a Student's Dream?</h1>
+      <div class="meta"><span></span><span>2026-10-30</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    
+    <div class="article-body">
+      
+      <h1>How Did a Farmer's Phone Number on an Exam Question Inspire a Student's Dream?</h1>
+<h2>1. What started with a tricky exam question</h2>
+<p>Sometimes the smallest details lead to the biggest surprises. On a Chinese high school English exam, a reading passage described a real strawberry advertisement — and included an actual phone number. A curious student decided to find out if the number was real, and what happened next was truly heart-warming.</p>
+<h2>2. A strawberry farmer who answered every call</h2>
+<p>The number belonged to a strawberry grower named Mr. Wang in Beijing, who had been cultivating fruit for over twenty years. He had been receiving mysterious calls from students every year for more than a decade, but he never minded. Each caller was taking the same English exam that mentioned his ad, so they all had the same question: was the number real?</p>
+<p>Mr. Wang always answered with the same simple advice: "Study hard, be good students, and once you graduate, come visit me in Beijing." It was a throwaway line meant to be encouraging — but one student took it seriously.</p>
+<h2>3. From exam paper to dinner table</h2>
+<p>That student was He Ziqi. Years later, after earning his place at Beijing's Central University of Finance and Economics, he reconnected with Mr. Wang and explained that he had followed the farmer's advice. Delighted by the news, Wang treated He to a dinner of Peking duck — where another sweet surprise unfolded. In a city of 21 million people, Wang discovered that He's daughter attended the very school next to the university campus. The coincidence brought both families together in laughter.</p>
+<p>He Ziqi is now pursuing postgraduate studies in artificial intelligence — carrying forward the encouragement that began with a chance encounter on an exam paper.</p>
+<h2>Fun Fact</h2>
+<p>The exam question that started it all was designed to test reading comprehension — the kind of ordinary classroom exercise that students take every day. Yet its phone number became an unlikely bridge between two strangers, reminding us that kindness, even in small print, can grow into something wonderful. Sometimes destiny hides in the footnotes.</p>
+<p><strong>18:52 IST, October 30, 2026</strong></p>
+<h2>Sources</h2>
+<p>1. Good News Network — "A Farmer Didn't Know His Cell Number Was on an Exam Question, Now Uses the Calls He Gets as Opportunities to Inspire" (Oct 20, 2026) — https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/</p>
+<p>2. South China Morning Post — "Chinese student encouraged by farm owner enrols in master's programme" (Oct 20, 2026)</p>
+<p>3. China Daily — "What happened to the strawberry farm owner who became famous for his phone number on an exam?" (Oct 20, 2026)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
