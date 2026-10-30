@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:09:48Z",
+  "updated": "2026-10-30T19:16:48Z",
   "boards": {
     "news": [
       {
@@ -6161,6 +6161,18 @@
     ],
     "blog": [
       {
+        "id": "how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years",
+        "title": "How Did Antarctica's First Dinosaur Bone Hide in a Drawer for 40 Years?",
+        "excerpt": "A small fossil collected on an icy Antarctic island in 1985 sat forgotten in a museum drawer for four decades \u2014 until a curious scientist opened it and realised it was the first dinosaur bone ever found on the continent.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31T00:45:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
+      },
+      {
         "id": "why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs",
         "title": "Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs?",
         "excerpt": "When the asteroid struck 66 million years ago, most dinosaurs vanished \u2014 but crocodiles and their relatives lived on. A new study of 7,000 fossils suggests their love of warm places put survivors exactly where the climate stayed kind.",
@@ -7725,6 +7737,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years",
+      "title": "How Did Antarctica's First Dinosaur Bone Hide in a Drawer for 40 Years?",
+      "excerpt": "A small fossil collected on an icy Antarctic island in 1985 sat forgotten in a museum drawer for four decades \u2014 until a curious scientist opened it and realised it was the first dinosaur bone ever found on the continent.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31T00:45:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
+    },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs",
       "title": "Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs?",
