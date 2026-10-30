@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:23:24Z",
+  "updated": "2026-10-30T12:40:01Z",
   "boards": {
     "news": [
       {
@@ -7385,6 +7385,18 @@
         "image": "assets/images/can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out.html"
+      },
+      {
+        "id": "how-did-a-seahorse-impostor-fool-scientists-for-65-years",
+        "title": "How Did a Seahorse Impostor Fool Scientists for 65 Years?",
+        "excerpt": "For decades, seven mysterious fish were filed away in museum drawers as seahorses \u2014 until CT scans revealed they were a completely separate kind of creature. Meet the 'sea muppet,' a real-life doppelganger that proves evolution sometimes hits the same winning design twice.",
+        "tag": "animals",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-seahorse-impostor-fool-scientists-for-65-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-seahorse-impostor-fool-scientists-for-65-years.html"
       },
       {
         "id": "how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon",
@@ -14940,6 +14952,12 @@
       "fact": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?",
       "category": "Science",
       "title": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?"
+    },
+    {
+      "id": "how-did-a-seahorse-impostor-fool-scientists-for-65-years",
+      "fact": "How Did a Seahorse Impostor Fool Scientists for 65 Years?",
+      "category": "animals",
+      "title": "How Did a Seahorse Impostor Fool Scientists for 65 Years?"
     },
     {
       "id": "how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon",
