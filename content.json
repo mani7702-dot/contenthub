@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T05:54:08Z",
+  "updated": "2026-10-30T06:15:50Z",
   "boards": {
     "news": [
       {
@@ -5981,6 +5981,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
       },
       {
+        "id": "how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters",
+        "title": "How Did a Tiny Island Protect Over 20 Percent of Its Ocean Waters?",
+        "excerpt": "",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters.html"
+      },
+      {
         "id": "how-did-mayo-clinic-discover-new-ways-to-fight-zombie-cells-that-drive-aging",
         "title": "How Did Mayo Clinic Discover New Ways to Fight Zombie Cells That Drive Aging?",
         "excerpt": "Scientists at Mayo Clinic have uncovered fresh details about 'zombie' cells \u2014 aging cells that linger in the body and fuel inflammation. Seven new studies map how these cells differ, why they harm us, and how everyday compounds like the one in tomatoes might help fight back.",
@@ -7424,6 +7436,18 @@
       "image": "assets/images/how-did-aging-muscles-trade-strength-for-protection.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
+    },
+    {
+      "id": "how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters",
+      "title": "How Did a Tiny Island Protect Over 20 Percent of Its Ocean Waters?",
+      "excerpt": "",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters.html"
     },
     {
       "id": "how-did-mayo-clinic-discover-new-ways-to-fight-zombie-cells-that-drive-aging",
