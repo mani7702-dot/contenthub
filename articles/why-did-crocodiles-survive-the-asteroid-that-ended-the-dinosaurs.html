@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs?</h1>
+      <div class="meta"><span></span><span>2026-10-30T23:24:00+05:30</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs.jpg" alt="Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs?">
+    <div class="article-body">
+      <p>When the asteroid struck 66 million years ago, most dinosaurs vanished — but crocodiles and their relatives lived on. A new study of 7,000 fossils suggests their love of warm places put survivors exactly where the climate stayed kind.</p>
+      <h1>Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs?</h1>
+<h2>One Bad Day for the Dinosaurs</h2>
+<p>About 66 million years ago, a giant asteroid slammed into what is now Mexico. The impact threw dust and ash into the sky, dimmed the Sun, and reshuffled life on Earth. The non-avian dinosaurs — the famous ones — disappeared forever. Yet crocodiles and their many ancient relatives were still swimming, walking, and basking in the Sun afterward, and they are with us today.</p>
+<p>That has long puzzled scientists. Crocodiles appeared around the same time as dinosaurs, and they have now lived through two of Earth's five great mass extinctions. What made them so tough?</p>
+<h2>A 250-Million-Year Habit: Follow the Warmth</h2>
+<p>A new study led by researchers at University College London (UCL) offers an answer, published in the journal <em>Science Advances</em>. The team looked at more than 7,000 fossils and records covering over 400 species, living and extinct, then combined that evidence with computer models of Earth's changing climate and geography across 245 million years.</p>
+<p>A clear pattern emerged. Rather than evolving brand-new bodies to cope with cold, crocodile relatives simply <em>moved</em>. When the planet warmed, they spread far beyond the tropics — even reaching Antarctica. When it cooled, they retreated back toward the equator.</p>
+<p>That habit turned out to be a lifesaver. When the team simulated conditions right after the asteroid hit, tropical regions near the equator stayed warm enough for crocodile relatives in almost every scenario. The climate dinosaurs needed shrank far more dramatically.</p>
+<h2>More Than Just Luck</h2>
+<p>Temperature was not the whole story. Crocodiles also had other useful traits working in their favour: small body sizes, flexible diets that could shift with whatever food was available, and the ability to live partly in water. As "cold-blooded" animals, they also need far less food than warm-blooded creatures of the same size — a real advantage when meals become scarce.</p>
+<p>"Crocodiles are often called living fossils," said lead author Dr. Alfio Alessandro Chiarenza. "But their ancestors and relatives changed enormously throughout their history."</p>
+<p>He is right about the variety. Ancient crocodile relatives included armoured plant-eaters, fully land-dwelling hunters, and giants like <em>Sarcosuchus</em> the "super croc," which grew up to 12 metres long. Their one steady thread was a fondness for warmth.</p>
+<h2>Fun fact</h2>
+<p>The warm spell about 50 million years ago was so toasty — roughly 10°C hotter than today, with no ice at the poles — that crocodile relatives lived at high latitudes across North America, Europe, and even Antarctica.</p>
+<h2>Sources</h2>
+<ul><li>ScienceDaily — "The asteroid killed the dinosaurs. Why did crocodiles survive?" https://www.sciencedaily.com/releases/2026/10/261030002922.htm</li><li>Phys.org — "Keeping to warm climates may have helped crocodiles outlast the dinosaurs" https://phys.org/news/2026-10-climates-crocodiles-outlast-dinosaurs.html</li><li>Study published in <em>Science Advances</em> (Chiarenza et al., UCL Earth Sciences)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

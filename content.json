@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T15:24:54Z",
+  "updated": "2026-10-30T17:56:55Z",
   "boards": {
     "news": [
       {
@@ -169,6 +169,18 @@
         "image": "assets/images/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.html"
+      },
+      {
+        "id": "how-indian-startups-are-changing-the-way-families-care-for-aging-parents",
+        "title": "How Indian Startups Are Changing the Way Families Care for Aging Parents",
+        "excerpt": "Young Indians living abroad are turning to innovative start-ups for eldercare solutions as family structures change.",
+        "tag": "world",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "8",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-indian-startups-are-changing-the-way-families-care-for-aging-parents.html"
       },
       {
         "id": "could-van-gogh-s-starry-night-capture-a-real-july-1889-sky",
@@ -6101,6 +6113,18 @@
     ],
     "blog": [
       {
+        "id": "why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs",
+        "title": "Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs?",
+        "excerpt": "When the asteroid struck 66 million years ago, most dinosaurs vanished \u2014 but crocodiles and their relatives lived on. A new study of 7,000 fossils suggests their love of warm places put survivors exactly where the climate stayed kind.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-30T23:24:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs.html"
+      },
+      {
         "id": "can-floating-islands-be-entire-cities",
         "title": "Can Floating Islands Be Entire Cities?",
         "excerpt": "On Lake Titicaca in Peru, the Uros people have been building entire floating cities out of totora reeds for generations \u2014 proving that a floating home can be more than just a house.",
@@ -7654,6 +7678,18 @@
   },
   "blog": [
     {
+      "id": "why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs",
+      "title": "Why Did Crocodiles Survive the Asteroid That Ended the Dinosaurs?",
+      "excerpt": "When the asteroid struck 66 million years ago, most dinosaurs vanished \u2014 but crocodiles and their relatives lived on. A new study of 7,000 fossils suggests their love of warm places put survivors exactly where the climate stayed kind.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-30T23:24:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-ended-the-dinosaurs.html"
+    },
+    {
       "id": "can-floating-islands-be-entire-cities",
       "title": "Can Floating Islands Be Entire Cities?",
       "excerpt": "On Lake Titicaca in Peru, the Uros people have been building entire floating cities out of totora reeds for generations \u2014 proving that a floating home can be more than just a house.",
@@ -9142,6 +9178,18 @@
       "image": "assets/images/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.html"
+    },
+    {
+      "id": "how-indian-startups-are-changing-the-way-families-care-for-aging-parents",
+      "title": "How Indian Startups Are Changing the Way Families Care for Aging Parents",
+      "excerpt": "Young Indians living abroad are turning to innovative start-ups for eldercare solutions as family structures change.",
+      "tag": "world",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "8",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-indian-startups-are-changing-the-way-families-care-for-aging-parents.html"
     },
     {
       "id": "could-van-gogh-s-starry-night-capture-a-real-july-1889-sky",

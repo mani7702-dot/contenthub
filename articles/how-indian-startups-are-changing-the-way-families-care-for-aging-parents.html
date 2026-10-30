@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Indian Startups Are Changing the Way Families Care for Aging Parents — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">world</span>
+      <h1>How Indian Startups Are Changing the Way Families Care for Aging Parents</h1>
+      <div class="meta"><span></span><span>2026-10-30</span><span>8</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    
+    <div class="article-body">
+      <p>Young Indians living abroad are turning to innovative start-ups for eldercare solutions as family structures change.</p>
+      <h1>How Indian Startups Are Changing the Way Families Care for Aging Parents</h1>
+<h2>The Changing Family Landscape</h2>
+<p>When Bhattacharyya's father had a health crisis while visiting his parents in Kolkata, the young man in Jakarta faced a question familiar to millions of Indians—how do you care for elderly parents when you can't be there in person? As families become more mobile and joint households shrink, many young Indians are turning to start-ups that make eldercare both practical and compassionate.</p>
+<h2>Rising Demand Meets New Solutions</h2>
+<p>Between 2020 and 2050, India's population aged 60 and above is projected to reach nearly 2.1 billion people globally, with one in five Indians being 60+ by 2050, according to UNFPA. Changes in family structures and rising incomes are creating demand for services that weren't needed before.</p>
+<p>Government data shows India's senior care industry is valued at around $7 billion and growing rapidly. Startups like Manasum Senior Living are already building 900 senior housing units and planning to scale to 10,000 by 2030—services designed to help older adults live independently with support when needed.</p>
+<h2>Technology Meets Care</h2>
+<p>Beyond physical housing, companies are using technology to bridge distance and care gaps. Startups like NoBlink.ai combine AI-powered monitoring with radar devices that can alert emergency services if someone falls. Other companies offer end-to-end home care services and online platforms that help seniors manage their daily lives while giving families peace of mind.</p>
+<h2>A Generational Shift</h2>
+<p>What was once seen as an "old age home"—a stigma in Indian culture—is slowly changing. Younger generations who grew up abroad understand and even embrace organized eldercare services. Companies like Goodfellows, backed by Ratan Tata, play a supportive role in families' lives rather than replacing family bonds entirely.</p>
+<p>Fun fact: A study found that by 2050, Colliers International estimates India will need around 2.2 million senior living units, but only 25,000 are currently available—creating a massive opportunity for entrepreneurs building caring communities for older adults.</p>
+<p>At 14:27 IST, the scene is clear: technology and social innovation are creating new ways for Indian families to care for their aging parents across generations and distances.</p>
+<h2>Sources</h2>
+<ul><li>BBC News: "Indians turn to start-ups to care for ageing parents as young become more mobile"</li><li>UNFPA World Population Prospects 2024</li><li>Colliers International Group estimates on senior living demand</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
