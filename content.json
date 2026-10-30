@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-30T18:30:12Z",
+  "updated": "2026-10-30T18:39:22Z",
   "boards": {
     "news": [
+      {
+        "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
+        "title": "How Did a Texas School Custodian Get an Elementary School Named After Her?",
+        "excerpt": "For 39 years, Marilyn Hampton kept a Texas school district running \u2014 and quietly did far more than clean. When a brand-new elementary school needed a name, the community chose hers.",
+        "tag": "News",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+      },
       {
         "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
         "title": "How Did NASA's Asteroid Bennu Samples Reveal Secrets of the Solar System's Birth?",
@@ -9023,6 +9035,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
+      "title": "How Did a Texas School Custodian Get an Elementary School Named After Her?",
+      "excerpt": "For 39 years, Marilyn Hampton kept a Texas school district running \u2014 and quietly did far more than clean. When a brand-new elementary school needed a name, the community chose hers.",
+      "tag": "News",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+    },
     {
       "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
       "title": "How Did NASA's Asteroid Bennu Samples Reveal Secrets of the Solar System's Birth?",

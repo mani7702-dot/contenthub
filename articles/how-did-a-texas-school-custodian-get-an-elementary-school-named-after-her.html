@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did a Texas School Custodian Get an Elementary School Named After Her? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">News</span>
+      <h1>How Did a Texas School Custodian Get an Elementary School Named After Her?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg" alt="How Did a Texas School Custodian Get an Elementary School Named After Her?">
+    <div class="article-body">
+      <p>For 39 years, Marilyn Hampton kept a Texas school district running — and quietly did far more than clean. When a brand-new elementary school needed a name, the community chose hers.</p>
+      <p>Some honors arrive in shiny packages. Others arrive when someone hands you a red carpet and asks you to unroll it.</p>
+<p>That is exactly what happened to Marilyn Hampton, a custodian who spent 39 years working for the Aubrey Independent School District in Texas. At an October school board meeting, she was invited to speak about a routine matter. Instead, the superintendent, Dr. Shannon Saylor, asked her to roll out a carpet — and stitched into the fabric were the words "Marilyn Hampton Elementary School."</p>
+<h2>A surprise she never saw coming</h2>
+<p>Hampton covered her face with her hands as board members rushed to hug her. "You're too good. I wasn't expecting this. Thank y'all. I can't speak," she said, according to the New York Post. Later, she told a local news crew she simply could not stop crying, adding that her heart was full.</p>
+<p>The new school, the district's fifth elementary campus, is under construction in Aubrey, a small town north of Dallas. It is scheduled to open next August.</p>
+<h2>Far more than mopping floors</h2>
+<p>What makes the tribute so remarkable is how much Hampton did beyond her job description. She bought and delivered school supplies to students who needed them, helped kids study for tests, and ran the ticket booth at football games. Generations of children came to know her steady, encouraging presence in the hallways.</p>
+<p>"She may not have the official title of an educator, but she was in every meaningful sense a teacher and an educator at heart," Saylor said of Hampton. The superintendent added that Hampton was, quite simply, "truly Aubrey ISD."</p>
+<h2>Turning a wound into a gift</h2>
+<p>Hampton was one of eight siblings and the only one to graduate from high school. She has said she once felt like a failure for never going to college. Time changed that feeling.</p>
+<p>"I just thought, 'You know, Marilyn? God put you where you are supposed to be.' And I'm very happy with the way things turned out," she said. Even in retirement, she keeps busy at the district's Early Bird Learning Center, rocking babies and helping the youngest learners start their day.</p>
+<h2>A growing tradition</h2>
+<p>Aubrey is not the first district to honor a custodian this way. In Missouri, a school was recently named for a beloved building custodian who also drove buses and greeted students each morning. It is a reminder that the people who shape a school are not always the ones at the front of the classroom.</p>
+<h2>Fun fact</h2>
+<p>Schools were not always named after famous presidents and generals. In Ann Arbor, Michigan, a school that opened in 1973 was named for Clifford E. Bryant, a World War II veteran who later worked for years as a school custodian and was remembered as a friend to students and teachers alike.</p>
+<h2>Sources</h2>
+<ul><li>The Guardian: "New elementary school in Texas named after beloved longtime school custodian" (October 29, 2026)</li><li>New York Post: "Texas custodian Marilyn Hampton breaks down in tears as new elementary school is named in her honor" (October 25, 2026)</li><li>Good News Network: "New Texas School Is Named For Longtime Janitor 'Miss Marilyn'" (October 30, 2026)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
