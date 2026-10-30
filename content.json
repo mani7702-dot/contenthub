@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:24:16Z",
+  "updated": "2026-10-30T02:49:43Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.html"
+      },
+      {
+        "id": "how-did-nuclear-bomb-tests-leave-behind-hidden-clues-in-honey-teeth-and-shark-eyes",
+        "title": "How Did Nuclear Bomb Tests Leave Behind Hidden Clues in Honey, Teeth, and Shark Eyes?",
+        "excerpt": "Decades after nuclear weapons tests stopped, radioactive traces they left behind are still turning up in surprising places \u2014 and helping scientists solve puzzles about honey, baby teeth, and the world's longest-living sharks.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-30T08:15:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-did-nuclear-bomb-tests-leave-behind-hidden-clues-in-honey-teeth-and-shark-eyes.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nuclear-bomb-tests-leave-behind-hidden-clues-in-honey-teeth-and-shark-eyes.html"
       },
       {
         "id": "how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires",
@@ -8554,6 +8566,18 @@
       "image": "assets/images/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.html"
+    },
+    {
+      "id": "how-did-nuclear-bomb-tests-leave-behind-hidden-clues-in-honey-teeth-and-shark-eyes",
+      "title": "How Did Nuclear Bomb Tests Leave Behind Hidden Clues in Honey, Teeth, and Shark Eyes?",
+      "excerpt": "Decades after nuclear weapons tests stopped, radioactive traces they left behind are still turning up in surprising places \u2014 and helping scientists solve puzzles about honey, baby teeth, and the world's longest-living sharks.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-30T08:15:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-did-nuclear-bomb-tests-leave-behind-hidden-clues-in-honey-teeth-and-shark-eyes.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nuclear-bomb-tests-leave-behind-hidden-clues-in-honey-teeth-and-shark-eyes.html"
     },
     {
       "id": "how-did-53-orangutans-find-safety-after-borneo-s-devastating-fires",
