@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:44:13Z",
+  "updated": "2026-10-30T19:50:22Z",
   "boards": {
     "news": [
       {
@@ -61,6 +61,18 @@
         "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
+      },
+      {
+        "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",
+        "title": "How Did Scientists Listen to 98 Million Bat Calls Across England's Woodlands?",
+        "excerpt": "Researchers hung tiny microphones in 310 English woodlands and recorded bat calls for nearly 10,000 nights. The result is one of the biggest wildlife listening projects ever attempted \u2014 and it found some of Britain's rarest bats hiding in plain sound.",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.html"
       },
       {
         "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
@@ -9202,6 +9214,18 @@
       "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
+    },
+    {
+      "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",
+      "title": "How Did Scientists Listen to 98 Million Bat Calls Across England's Woodlands?",
+      "excerpt": "Researchers hung tiny microphones in 310 English woodlands and recorded bat calls for nearly 10,000 nights. The result is one of the biggest wildlife listening projects ever attempted \u2014 and it found some of Britain's rarest bats hiding in plain sound.",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.html"
     },
     {
       "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
