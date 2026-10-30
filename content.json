@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:37:55Z",
+  "updated": "2026-10-30T19:44:13Z",
   "boards": {
     "news": [
       {
@@ -37,6 +37,18 @@
         "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+      },
+      {
+        "id": "why-are-people-deliberately-making-their-clothes-look-mended",
+        "title": "Why Are People Deliberately Making Their Clothes Look Mended?",
+        "excerpt": "Instead of hiding a tear, a growing number of people are stitching bright stars, felt animals and bold patterns right over it. The fashion world is paying attention.",
+        "tag": "News",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/why-are-people-deliberately-making-their-clothes-look-mended.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-people-deliberately-making-their-clothes-look-mended.html"
       },
       {
         "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
@@ -9166,6 +9178,18 @@
       "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+    },
+    {
+      "id": "why-are-people-deliberately-making-their-clothes-look-mended",
+      "title": "Why Are People Deliberately Making Their Clothes Look Mended?",
+      "excerpt": "Instead of hiding a tear, a growing number of people are stitching bright stars, felt animals and bold patterns right over it. The fashion world is paying attention.",
+      "tag": "News",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/why-are-people-deliberately-making-their-clothes-look-mended.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-people-deliberately-making-their-clothes-look-mended.html"
     },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",

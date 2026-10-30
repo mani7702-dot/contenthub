@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Are People Deliberately Making Their Clothes Look Mended? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">News</span>
+      <h1>Why Are People Deliberately Making Their Clothes Look Mended?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-are-people-deliberately-making-their-clothes-look-mended.jpg" alt="Why Are People Deliberately Making Their Clothes Look Mended?">
+    <div class="article-body">
+      <p>Instead of hiding a tear, a growing number of people are stitching bright stars, felt animals and bold patterns right over it. The fashion world is paying attention.</p>
+      <p>For most of history, a hole in a jumper was a problem to be solved quietly. You matched the thread, hid the stitches, and hoped nobody noticed.</p>
+<p>Not anymore. A trend called "visible mending" flips that idea on its head. Instead of disguising a repair, people are celebrating it — stitching flowers over a rip, covering a stain with a felt fox, or weaving bold white thread across a knee in a pattern meant to be seen.</p>
+<h2>A patch that says "I fixed this"</h2>
+<p>Alice Brown, a 27-year-old forest ranger from Lincolnshire in England, buys second-hand jumpers even when they already have holes. "I see it as a challenge," she told the BBC. She needle-felts tiny animals and insects onto her clothes to cover moth holes and marks.</p>
+<p>At workshops in Brighton, teacher Jayne Eagle shows students how to hide a patch behind a tear so a cat-face design peeks through the gap. She borrows techniques from traditional Japanese mending — <em>sashiko</em> and <em>boro</em> — where simple running stitches in contrasting thread turn a repair into decoration. Eagle calls mending an "act of rebellion" against the throwaway habits of fast fashion.</p>
+<h2>Why now?</h2>
+<p>The idea took off about six years ago and has grown quickly since. One reason is practical: mending saves money and keeps clothes out of landfill. Another is personal. As one workshop student put it, her mother's generation never wanted a mend to show, but "now part of it is being proud of what you've done."</p>
+<p>There is also a quiet message in a visible mend. It says the person who wears it chose to keep something rather than replace it.</p>
+<h2>Even big brands are joining in</h2>
+<p>Perhaps the biggest surprise is how the high street has responded. Uniqlo now offers decorative repairs using sashiko stitching, in keeping with its Japanese heritage. Primark, which runs hundreds of repair workshops, says affordability and durability should not be opposites. Outdoor brand Finisterre reports that about a fifth of the mends it carries out are designed to be eye-catching, and the artisan store Toast says roughly a third of its customers ask for that style.</p>
+<p>Levi's, whose fans have patched its jeans for generations, is rolling out workshop programmes to teach basic skills like sewing on a button and hemming. Its head of global design innovation, Paul Dillinger, believes creative repair will win over younger customers as their skills grow. "Mending is a demonstration of humanity," he said. "It's not a mustard stain, it's a memory of a great day in the ballpark."</p>
+<h2>Fun fact</h2>
+<p>Sashiko, one of the techniques now used for visible mending, began in Japan during the Edo period, roughly 1603 to 1867. Farmers used simple running stitches to reinforce and layer worn cloth so garments would last longer and keep them warmer through cold winters — practical repair that later grew into a decorative art.</p>
+<h2>Sources</h2>
+<ul><li>BBC News: "From Levi's to Primark - the fashion chains selling mended clothes" (October 30, 2026)</li><li>AP News: "From Uniqlo to Zara, clothing brands try to win over Gen Z with a needle and thread" (August 10, 2026)</li><li>Wikipedia: "Visible mending" and "Sashiko"</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
