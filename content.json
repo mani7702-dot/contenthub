@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:22:17Z",
+  "updated": "2026-10-30T19:30:03Z",
   "boards": {
     "news": [
       {
@@ -7518,6 +7518,18 @@
       }
     ],
     "trending": [
+      {
+        "id": "what-makes-a-golden-eagle-chick-called-beaky-junior-so-important",
+        "title": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?",
+        "excerpt": "A young golden eagle named Beaky Junior has become the first chick to fledge from a managed grouse moor in southern Scotland \u2014 and his flight marks a comeback three centuries in the making.",
+        "tag": "Trending",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.html"
+      },
       {
         "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
         "title": "How Did Astronauts Give the ISS a Powerful Solar Upgrade?",
@@ -15265,6 +15277,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "what-makes-a-golden-eagle-chick-called-beaky-junior-so-important",
+      "fact": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?",
+      "category": "Trending",
+      "title": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?"
+    },
     {
       "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
       "fact": "How Did Astronauts Give the ISS a Powerful Solar Upgrade?",

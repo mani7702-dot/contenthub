@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What Makes a Golden Eagle Chick Called Beaky Junior So Important? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Trending</span>
+      <h1>What Makes a Golden Eagle Chick Called Beaky Junior So Important?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.jpg" alt="What Makes a Golden Eagle Chick Called Beaky Junior So Important?">
+    <div class="article-body">
+      <p>A young golden eagle named Beaky Junior has become the first chick to fledge from a managed grouse moor in southern Scotland — and his flight marks a comeback three centuries in the making.</p>
+      <p>Some milestones arrive with fireworks. This one arrived on wings, quietly, from a secret hillside in southern Scotland.</p>
+<p>A golden eagle chick nicknamed <strong>Beaky Junior</strong> has become the first of his kind known to fledge — that is, grow strong enough to leave the nest and fly — from a managed grouse moor in the south of Scotland. It is a small event with a very large meaning.</p>
+<h2>A Comeback Three Centuries in the Making</h2>
+<p>Golden eagles once soared over much of Scotland, but the population in the south had shrunk to just a handful of breeding pairs. That began to change in 2018, when a project began moving young eagles from the Highlands to the hills around Moffat, giving the fragile southern population a fresh start.</p>
+<p>Today more than 50 golden eagles live in the region — the highest number recorded there in roughly three hundred years. This year alone, five young eagles took their first flights, including Beaky Junior.</p>
+<h2>Why This Particular Chick Matters</h2>
+<p>Golden eagles and grouse moors have had a tense history in Scotland. A report from the Royal Society for the Protection of Birds found that nearly two-thirds of confirmed bird-of-prey persecution incidents in the country over a decade happened on land managed for gamebird shooting.</p>
+<p>That is what makes Beaky Junior's flight so striking. He hatched on a grouse moor, and the gamekeepers who work that land chose his name. Dr Cat Barlow, who leads the charity Restoring Upland Nature, called the fledging of five young birds "a hugely significant milestone," crediting landowners and keepers with helping the eagles thrive.</p>
+<h2>A Partnership Built on Trust</h2>
+<p>For conservationists, the lesson is bigger than one bird. When habitats are healthy, food is plentiful, and disturbance is low, relocated eagles can settle in, pair up, and raise families of their own. Beaky Junior's parents — his mother Beaky, moved south in 2018, and his father Skan — are proof that it works.</p>
+<p>The gamekeepers involved stayed anonymous to protect the nest's location, speaking instead through their local moorland group. Their message was simple: helping eagles flourish has become part of the day-to-day work of caring for the land.</p>
+<h2>What Comes Next</h2>
+<p>Monitoring will continue, with farmers, land managers, and local communities keeping watch. For Dr Barlow, the hope is that future generations across Scotland, England, and Wales will still know the "incredible sense of awe" of seeing a golden eagle in the wild.</p>
+<p><strong>Fun fact:</strong> A golden eagle's wingspan can reach about 2.2 metres (7 feet) — wider than most doorways — and the birds can dive at speeds approaching 240 kilometres per hour.</p>
+<p>---</p>
+<p><em>Sources:</em></p>
+<ul><li><em>BBC News — "What makes a golden eagle chick called Beaky Junior so important?" (30 October 2026)</em></li><li><em>The Scotsman — "Significant milestone as golden eagle chick fledges from grouse moor" (30 October 2026)</em></li><li><em>Moorland Association — "Gamekeepers Name Beaky Junior, the Golden Eagle Raised on Their Grouse Moor" (30 October 2026)</em></li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
