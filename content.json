@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:44:59Z",
+  "updated": "2026-10-30T09:23:24Z",
   "boards": {
     "news": [
       {
@@ -157,6 +157,18 @@
         "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+      },
+      {
+        "id": "can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities",
+        "title": "Can a Tart Cranberry Juice Help Save Your Teeth from Cavities?",
+        "excerpt": "A small, refreshing drink that many people already keep in their fridge may do more than taste tart \u2014 new research shows pure cranberry juice can slow down the tiny bacteria that cause cavities, and the effect happens in both kids and grown-ups.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities.html"
       },
       {
         "id": "how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging",
@@ -8890,6 +8902,18 @@
       "image": "assets/images/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-van-gogh-s-starry-night-capture-a-real-july-1889-sky.html"
+    },
+    {
+      "id": "can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities",
+      "title": "Can a Tart Cranberry Juice Help Save Your Teeth from Cavities?",
+      "excerpt": "A small, refreshing drink that many people already keep in their fridge may do more than taste tart \u2014 new research shows pure cranberry juice can slow down the tiny bacteria that cause cavities, and the effect happens in both kids and grown-ups.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-tart-cranberry-juice-help-save-your-teeth-from-cavities.html"
     },
     {
       "id": "how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging",
