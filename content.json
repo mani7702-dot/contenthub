@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:51:40Z",
+  "updated": "2026-10-30T19:57:10Z",
   "boards": {
     "news": [
       {
@@ -37,6 +37,18 @@
         "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+      },
+      {
+        "id": "why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup",
+        "title": "Why Do Quarks Leave Ripples in the Universe's Very First Soup?",
+        "excerpt": "In the first millionths of a second after the Big Bang, the universe was a blistering soup of quarks and gluons. Now physicists at CERN have watched a single quark drag ripples through that ancient matter \u2014 proof it really did flow like a liquid.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.html"
       },
       {
         "id": "why-are-people-deliberately-making-their-clothes-look-mended",
@@ -9190,6 +9202,18 @@
       "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+    },
+    {
+      "id": "why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup",
+      "title": "Why Do Quarks Leave Ripples in the Universe's Very First Soup?",
+      "excerpt": "In the first millionths of a second after the Big Bang, the universe was a blistering soup of quarks and gluons. Now physicists at CERN have watched a single quark drag ripples through that ancient matter \u2014 proof it really did flow like a liquid.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.html"
     },
     {
       "id": "why-are-people-deliberately-making-their-clothes-look-mended",
