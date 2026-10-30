@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:01:30Z",
+  "updated": "2026-10-30T19:09:48Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+      },
+      {
+        "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
+        "title": "Why Did Crocodiles Survive the Asteroid That Killed the Dinosaurs?",
+        "excerpt": "A new study of more than 7,000 fossils suggests crocodiles and their relatives outlasted the dinosaurs by doing something simple and clever \u2014 they kept moving toward warm places, and the tropics stayed livable when much of the planet did not.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
       },
       {
         "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
@@ -9070,6 +9082,18 @@
       "image": "assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.html"
+    },
+    {
+      "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
+      "title": "Why Did Crocodiles Survive the Asteroid That Killed the Dinosaurs?",
+      "excerpt": "A new study of more than 7,000 fossils suggests crocodiles and their relatives outlasted the dinosaurs by doing something simple and clever \u2014 they kept moving toward warm places, and the tropics stayed livable when much of the planet did not.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
     },
     {
       "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
