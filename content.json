@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-30T20:37:25Z",
+  "updated": "2026-10-30T20:45:55Z",
   "boards": {
     "news": [
+      {
+        "id": "what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise",
+        "title": "What Does Northern Ireland's New Plan to Bring Nature Back Actually Promise?",
+        "excerpt": "Northern Ireland just launched a long-term Nature Recovery Strategy to restore habitats and halt biodiversity loss \u2014 here's what it sets out to do, and why it matters far beyond one corner of the map.",
+        "tag": "nature",
+        "author": "",
+        "date": "2026-10-31T02:14:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+      },
       {
         "id": "could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built",
         "title": "Could a Nuclear Clock Keep Time Better Than Any Clock Ever Built?",
@@ -9239,6 +9251,18 @@
     }
   ],
   "news": [
+    {
+      "id": "what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise",
+      "title": "What Does Northern Ireland's New Plan to Bring Nature Back Actually Promise?",
+      "excerpt": "Northern Ireland just launched a long-term Nature Recovery Strategy to restore habitats and halt biodiversity loss \u2014 here's what it sets out to do, and why it matters far beyond one corner of the map.",
+      "tag": "nature",
+      "author": "",
+      "date": "2026-10-31T02:14:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+    },
     {
       "id": "could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built",
       "title": "Could a Nuclear Clock Keep Time Better Than Any Clock Ever Built?",
