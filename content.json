@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:49:38Z",
+  "updated": "2026-10-30T22:56:51Z",
   "boards": {
     "news": [
       {
@@ -109,6 +109,18 @@
         "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
+      },
+      {
+        "id": "how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines",
+        "title": "How Did a 245-Million-Year-Old Reptile Keep Its Stomach, Liver and Intestines?",
+        "excerpt": "A nearly complete fossil from China has preserved the soft organs of a long-necked marine reptile \u2014 including a liver that is still reddish after 245 million years. It is the oldest largely complete digestive system ever found in a reptile.",
+        "tag": "animals",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.html"
       },
       {
         "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
@@ -9526,6 +9538,18 @@
       "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
+    },
+    {
+      "id": "how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines",
+      "title": "How Did a 245-Million-Year-Old Reptile Keep Its Stomach, Liver and Intestines?",
+      "excerpt": "A nearly complete fossil from China has preserved the soft organs of a long-necked marine reptile \u2014 including a liver that is still reddish after 245 million years. It is the oldest largely complete digestive system ever found in a reptile.",
+      "tag": "animals",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.html"
     },
     {
       "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
