@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:23:52Z",
+  "updated": "2026-10-30T13:35:08Z",
   "boards": {
     "news": [
       {
@@ -6125,6 +6125,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
       },
       {
+        "id": "how-did-hubble-s-surprising-discovery-change-our-picture-of-the-early-universe",
+        "title": "How Did Hubble's Surprising Discovery Change Our Picture of the Early Universe?",
+        "excerpt": "For billions of years after the Big Bang, the universe was filled with a thick fog of neutral hydrogen that blocked all light. Astronomers thought exploding stars helped clear that fog \u2014 but NASA's Hubble Space Telescope has just revealed the opposite is true.",
+        "tag": "Space",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "3 min",
+        "image": "assets/images/hubble-reveals-a-stunning-twist-in-how-the-universe-emerged-from-darkness.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-hubble-s-surprising-discovery-change-our-picture-of-the-early-universe.html"
+      },
+      {
         "id": "how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters",
         "title": "How Did a Tiny Island Protect Over 20 Percent of Its Ocean Waters?",
         "excerpt": "",
@@ -7640,6 +7652,18 @@
       "image": "assets/images/how-did-aging-muscles-trade-strength-for-protection.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-aging-muscles-trade-strength-for-protection.html"
+    },
+    {
+      "id": "how-did-hubble-s-surprising-discovery-change-our-picture-of-the-early-universe",
+      "title": "How Did Hubble's Surprising Discovery Change Our Picture of the Early Universe?",
+      "excerpt": "For billions of years after the Big Bang, the universe was filled with a thick fog of neutral hydrogen that blocked all light. Astronomers thought exploding stars helped clear that fog \u2014 but NASA's Hubble Space Telescope has just revealed the opposite is true.",
+      "tag": "Space",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "3 min",
+      "image": "assets/images/hubble-reveals-a-stunning-twist-in-how-the-universe-emerged-from-darkness.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-hubble-s-surprising-discovery-change-our-picture-of-the-early-universe.html"
     },
     {
       "id": "how-did-a-tiny-island-protect-over-20-percent-of-its-ocean-waters",

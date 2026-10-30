@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did Hubble's Surprising Discovery Change Our Picture of the Early Universe? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Space</span>
+      <h1>How Did Hubble's Surprising Discovery Change Our Picture of the Early Universe?</h1>
+      <div class="meta"><span></span><span>2026-10-30</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/hubble-reveals-a-stunning-twist-in-how-the-universe-emerged-from-darkness.jpg" alt="How Did Hubble's Surprising Discovery Change Our Picture of the Early Universe?">
+    <div class="article-body">
+      <p>For billions of years after the Big Bang, the universe was filled with a thick fog of neutral hydrogen that blocked all light. Astronomers thought exploding stars helped clear that fog — but NASA's Hubble Space Telescope has just revealed the opposite is true.</p>
+      <h1>How Did Hubble's Surprising Discovery Change Our Picture of the Early Universe?</h1>
+<h2>The cosmic fog that hid the early universe</h2>
+<p>Imagine trying to see through a thick, gray mist so dense that no light can pass. That was the universe for the first billion years after the Big Bang. A vast fog of <strong>neutral hydrogen</strong> stretched across all of space, absorbing every last ray of ultraviolet light and leaving the cosmos in darkness.</p>
+<p>Then, slowly, that fog began to clear. Scientists call this great transformation <strong>reionization</strong> — the moment when intense radiation from the first stars and galaxies began stripping electrons off hydrogen atoms, turning the fog into transparent, charged gas and letting light travel freely for the first time.</p>
+<p>For years, astronomers believed that <strong>supernovae</strong> — the powerful explosions that happen when massive stars run out of fuel — were the main heroes of this story. They thought the fierce stellar winds from these explosions swept gas and dust away from newborn stars, opening clear highways for ultraviolet light to escape into space and do their ionizing work.</p>
+<h2>Hubble's unexpected twist</h2>
+<p>But NASA's <strong>Hubble Space Telescope</strong> has just turned that idea upside down.</p>
+<p>An international team of researchers, studying nearby starburst galaxies that act like time machines to the early universe, discovered something shocking: <strong>galaxies with the strongest stellar winds actually let the LEAST ultraviolet radiation escape</strong> — the exact opposite of what everyone expected.</p>
+<p>"Basically, how these galaxies were leaking ionizing radiation isn't what we thought," said Dr. Cody Carr of the University of Michigan, who led the study published in <em>Nature Astronomy</em>.</p>
+<p>Instead of clearing paths, the energy from supernovae stirs up gas and dust so violently that it redistributes it in ways that end up <strong>blocking</strong> more radiation — not less. It is as if a janitor mopping the hallway accidentally spills the bucket, making a bigger mess.</p>
+<h2>What really lit up the cosmos?</h2>
+<p>So if exploding stars weren't the clearers of cosmic fog, what was? The Hubble data points to something even more fascinating: <strong>radiation from young, massive stars escaping galaxies before those stars ever explode as supernovae</strong>. In other words, the universe's great illumination may have happened long before the fireworks began.</p>
+<p>The study suggests astronomers may need to rethink decades of computer simulations and focus more on what happens during the very earliest stages of star formation — when stars are still infants, not yet ready for their dramatic final acts.</p>
+<h2>Fun Fact</h2>
+<p>The universe's "cosmic fog" was so dense that the Big Bang's light itself — the glowing afterglow called the cosmic microwave background — could not travel freely until this great clearing happened. Reionization is literally the moment the universe grew transparent for the first time.</p>
+<p><strong>Time:</strong> 13:26 IST, October 30, 2026</p>
+<h2>Sources</h2>
+<p>1. ScienceDaily — "Hubble reveals a stunning twist in how the universe emerged from darkness" (October 29, 2026) — https://www.sciencedaily.com/releases/2026/10/261029072113.htm</p>
+<p>2. Wikipedia — "Reionization" (confirms the cosmic fog of neutral hydrogen, the role of first stars, and reionization as the last major phase transition of the universe) — https://en.wikipedia.org/wiki/Reionization</p>
+<p>3. University of Michigan — "Hubble Space Telescope challenges theory of how early universe emerged from darkness" — https://www.sciencedaily.com/releases/2026/10/261029072113.htm</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
