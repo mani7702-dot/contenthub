@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Was the early universe really as pristine as scientists thought? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Was the early universe really as pristine as scientists thought?</h1>
+      <div class="meta"><span></span><span>2026-10-31T02:43:00+05:30</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/was-the-early-universe-really-as-pristine-as-scientists-thought.jpg" alt="Was the early universe really as pristine as scientists thought?">
+    <div class="article-body">
+      <p>Astronomers long imagined the young cosmos as a nearly empty place made of hydrogen and helium. New James Webb Space Telescope observations show some early galaxies were already spreading carbon, oxygen, and silicon — the stuff of planets and living things — just 500 million years after the Big Bang.</p>
+      <h1>Was the early universe really as pristine as scientists thought?</h1>
+<h2>A universe made of almost nothing</h2>
+<p>Imagine the cosmos just after the Big Bang. Astronomers picture it as a vast, thin cloud of almost nothing but <strong>hydrogen</strong> and <strong>helium</strong> — the two simplest elements — with no carbon, no oxygen, no iron. Everything else had to be cooked later, inside the first stars.</p>
+<p>That picture has a problem: it may be wrong.</p>
+<h2>Looking back 13 billion years</h2>
+<p>A team led by astronomers at the University of Arizona used <strong>NASA's James Webb Space Telescope (JWST)</strong> to study three extremely distant galaxies. Their light has travelled for more than 13 billion years, so we see them as they were only about <strong>500 million years after the Big Bang</strong> — when the universe was just 3% of its present age.</p>
+<p>The researchers used the galaxies themselves as background lamps. As their light crossed the surrounding gas on its way to Earth, certain colours were absorbed, leaving fingerprint-like gaps in the spectrum. Those gaps revealed <strong>carbon, oxygen, and silicon</strong> already floating in the space around the young galaxies.</p>
+<p>Better still, the absorption lines were <em>blueshifted</em> compared with the galaxies, meaning the gas was streaming <strong>outward</strong> — carrying heavy elements away into intergalactic space.</p>
+<p>Scientists call this exchange of material <strong>baryon cycling</strong>. It shows that galaxies are not isolated islands cast adrift in the dark — they are part of a larger cosmic ecosystem, passing material back and forth.</p>
+<h2>Why the first stars stayed hidden</h2>
+<p>The discovery may solve a long-standing puzzle. Astronomers call the very first stars <strong>Population III</strong> stars — giants thought to form from perfectly pristine gas of only hydrogen and helium. But if early galaxies were already scattering heavier elements around, that pristine gas may have disappeared surprisingly fast. As first author <strong>Yongda Zhu</strong> puts it, if you start with plain vanilla ice cream but keep mixing in sprinkles, soon you can no longer find any plain vanilla at all.</p>
+<p>The study appears in the journal <em>Nature Astronomy</em>.</p>
+<h2>Fun fact</h2>
+<p>The carbon in your body and the oxygen you are breathing right now were both forged inside stars that lived and died <strong>before</strong> the Sun ever existed — then scattered across space to be recycled into planets, pets, and people.</p>
+<h2>Sources</h2>
+<ul><li>ScienceDaily — "The early universe wasn't nearly as pristine as scientists thought" https://www.sciencedaily.com/releases/2026/09/260930225443.htm</li><li>University of Arizona News — "JWST finds early galaxies were already seeding the universe with heavy elements" https://news.arizona.edu/news/jwst-finds-early-galaxies-were-already-seeding-universe-heavy-elements</li><li>Study published in <em>Nature Astronomy</em> (Zhu et al., 2026; DOI: 10.1038/s41550-026-02988-2)</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

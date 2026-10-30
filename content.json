@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:50:57Z",
+  "updated": "2026-10-30T21:14:25Z",
   "boards": {
     "news": [
       {
@@ -6257,6 +6257,18 @@
     ],
     "blog": [
       {
+        "id": "was-the-early-universe-really-as-pristine-as-scientists-thought",
+        "title": "Was the early universe really as pristine as scientists thought?",
+        "excerpt": "Astronomers long imagined the young cosmos as a nearly empty place made of hydrogen and helium. New James Webb Space Telescope observations show some early galaxies were already spreading carbon, oxygen, and silicon \u2014 the stuff of planets and living things \u2014 just 500 million years after the Big Bang.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31T02:43:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/was-the-early-universe-really-as-pristine-as-scientists-thought.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-early-universe-really-as-pristine-as-scientists-thought.html"
+      },
+      {
         "id": "how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter",
         "title": "How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter?",
         "excerpt": "A European spacecraft on its way to Jupiter just swung past Earth at 8,640 km above the Indian Ocean \u2014 borrowing our planet's gravity to speed up without burning precious fuel.",
@@ -7881,6 +7893,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "was-the-early-universe-really-as-pristine-as-scientists-thought",
+      "title": "Was the early universe really as pristine as scientists thought?",
+      "excerpt": "Astronomers long imagined the young cosmos as a nearly empty place made of hydrogen and helium. New James Webb Space Telescope observations show some early galaxies were already spreading carbon, oxygen, and silicon \u2014 the stuff of planets and living things \u2014 just 500 million years after the Big Bang.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31T02:43:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/was-the-early-universe-really-as-pristine-as-scientists-thought.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-early-universe-really-as-pristine-as-scientists-thought.html"
+    },
     {
       "id": "how-did-a-spacecraft-use-earth-as-a-slingshot-to-reach-jupiter",
       "title": "How Did a Spacecraft Use Earth as a Slingshot to Reach Jupiter?",
