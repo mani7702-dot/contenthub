@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:35:08Z",
+  "updated": "2026-10-30T13:44:42Z",
   "boards": {
     "news": [
       {
@@ -6113,6 +6113,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-.html"
       },
       {
+        "id": "what-hidden-habitable-worlds-could-be-orbiting-a-star-system-just-16-light-years-away",
+        "title": "What Hidden Habitable Worlds Could Be Orbiting a Star System Just 16 Light-Years Away?",
+        "excerpt": "Astronomers have solved a 170-year-old wobble mystery around the nearby binary star 70 Ophiuchi \u2014 and by ruling out giant planets, they've narrowed the cosmic hide-and-seek to smaller, possibly habitable rocky worlds.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-30T13:42:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/what-hidden-habitable-worlds-could-be-orbiting-a-star-system-just-16-light-years-away.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-hidden-habitable-worlds-could-be-orbiting-a-star-system-just-16-light-years-away.html"
+      },
+      {
         "id": "how-did-aging-muscles-trade-strength-for-protection",
         "title": "How Did Aging Muscles Trade Strength for Protection?",
         "excerpt": "As we grow older, our muscles shift from fast-twitch to slow-twitch fibers \u2014 and scientists now believe this is not just a sign of decline, but a clever survival strategy that trades power for protection.",
@@ -7640,6 +7652,18 @@
       "image": "assets/images/could-the-universe-accelerate-without-dark-energy.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-.html"
+    },
+    {
+      "id": "what-hidden-habitable-worlds-could-be-orbiting-a-star-system-just-16-light-years-away",
+      "title": "What Hidden Habitable Worlds Could Be Orbiting a Star System Just 16 Light-Years Away?",
+      "excerpt": "Astronomers have solved a 170-year-old wobble mystery around the nearby binary star 70 Ophiuchi \u2014 and by ruling out giant planets, they've narrowed the cosmic hide-and-seek to smaller, possibly habitable rocky worlds.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-30T13:42:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/what-hidden-habitable-worlds-could-be-orbiting-a-star-system-just-16-light-years-away.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-hidden-habitable-worlds-could-be-orbiting-a-star-system-just-16-light-years-away.html"
     },
     {
       "id": "how-did-aging-muscles-trade-strength-for-protection",
