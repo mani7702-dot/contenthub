@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:33:00Z",
+  "updated": "2026-10-30T07:44:59Z",
   "boards": {
     "news": [
       {
@@ -133,6 +133,18 @@
         "image": "assets/images/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.html"
+      },
+      {
+        "id": "what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web",
+        "title": "What Did a Balloon Telescope See in the Sun's Hidden Magnetic Web?",
+        "excerpt": "A balloon-borne solar observatory called Sunrise-III soared 35 kilometers above Earth in 2024 to peer at the Sun's quiet regions. What it found: an intricate magnetic canopy of thread-like structures woven through the solar atmosphere, revealing how our star's hidden magnetic wiring may help heat its outer layers.",
+        "tag": "Space",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.html"
       },
       {
         "id": "could-van-gogh-s-starry-night-capture-a-real-july-1889-sky",
@@ -8854,6 +8866,18 @@
       "image": "assets/images/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.html"
+    },
+    {
+      "id": "what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web",
+      "title": "What Did a Balloon Telescope See in the Sun's Hidden Magnetic Web?",
+      "excerpt": "A balloon-borne solar observatory called Sunrise-III soared 35 kilometers above Earth in 2024 to peer at the Sun's quiet regions. What it found: an intricate magnetic canopy of thread-like structures woven through the solar atmosphere, revealing how our star's hidden magnetic wiring may help heat its outer layers.",
+      "tag": "Space",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-balloon-telescope-see-in-the-sun-s-hidden-magnetic-web.html"
     },
     {
       "id": "could-van-gogh-s-starry-night-capture-a-real-july-1889-sky",
