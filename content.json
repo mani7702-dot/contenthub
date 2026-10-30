@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:56:55Z",
+  "updated": "2026-10-30T18:30:12Z",
   "boards": {
     "news": [
       {
@@ -241,6 +241,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging.html"
+      },
+      {
+        "id": "can-time-exist-without-a-clock-physicists-built-a-tiny-universe-to-find-out",
+        "title": "Can Time Exist Without a Clock? Physicists Built a Tiny Universe to Find Out",
+        "excerpt": "A physicist cooled 24,000 atoms to a whisker above absolute zero and let them swell and shrink like a miniature cosmos. The surprise: a kind of time appeared all on its own, with no clock in sight.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "3 min",
+        "image": "assets/images/can-time-exist-without-a-clock-physicists-built-a-tiny-universe-to-find-out.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-time-exist-without-a-clock-physicists-built-a-tiny-universe-to-find-out.html"
       },
       {
         "id": "how-did-a-computer-scientist-break-a-30-year-old-limit-on-finding-the-fastest-routes",
@@ -9250,6 +9262,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging.html"
+    },
+    {
+      "id": "can-time-exist-without-a-clock-physicists-built-a-tiny-universe-to-find-out",
+      "title": "Can Time Exist Without a Clock? Physicists Built a Tiny Universe to Find Out",
+      "excerpt": "A physicist cooled 24,000 atoms to a whisker above absolute zero and let them swell and shrink like a miniature cosmos. The surprise: a kind of time appeared all on its own, with no clock in sight.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "3 min",
+      "image": "assets/images/can-time-exist-without-a-clock-physicists-built-a-tiny-universe-to-find-out.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-time-exist-without-a-clock-physicists-built-a-tiny-universe-to-find-out.html"
     },
     {
       "id": "how-did-a-computer-scientist-break-a-30-year-old-limit-on-finding-the-fastest-routes",

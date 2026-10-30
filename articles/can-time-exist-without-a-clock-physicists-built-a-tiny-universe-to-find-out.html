@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can Time Exist Without a Clock? Physicists Built a Tiny Universe to Find Out — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Can Time Exist Without a Clock? Physicists Built a Tiny Universe to Find Out</h1>
+      <div class="meta"><span></span><span>2026-10-30</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-time-exist-without-a-clock-physicists-built-a-tiny-universe-to-find-out.jpg" alt="Can Time Exist Without a Clock? Physicists Built a Tiny Universe to Find Out">
+    <div class="article-body">
+      <p>A physicist cooled 24,000 atoms to a whisker above absolute zero and let them swell and shrink like a miniature cosmos. The surprise: a kind of time appeared all on its own, with no clock in sight.</p>
+      <p>We treat time as the most reliable thing in life. Seconds tick, birthdays arrive, and no one has to wind the universe each morning. But what if time isn't a built-in feature of reality at all — what if it simply <em>emerges</em> from the changes happening around us? A physicist at the University of Birmingham has now built a tiny laboratory universe to test that strange idea.</p>
+<h2>A cosmos made of 24,000 atoms</h2>
+<p>Professor Giovanni Barontini cooled about 24,000 atoms to just a few billionths of a degree above absolute zero — colder than deep space. At that chill, atoms blur into one shared quantum state and behave in ways ordinary matter never does. Two laser beams formed a thin barrier, splitting the cloud into a "bright" region and an unseen "dark" region.</p>
+<p>Trapped inside, the bright region began to swell and shrink over and over. That rhythm echoes two grand stories from cosmology: the Big Bang, when the universe expanded, and a possible "Big Crunch," when expansion could one day reverse. Barontini wasn't recreating those events — he was building a simple, controllable stand-in where he could ask a deep question.</p>
+<h2>Time from change, not clocks</h2>
+<p>Here's the puzzle. Some theories that try to merge quantum mechanics with gravity describe the universe as a single, unchanging quantum state — no external clock ticking away. So how can anything happen in order?</p>
+<p>Barontini's answer was to measure progress using the atoms themselves. As particles shuffled between the bright and dark sides, their spread — a measure called entropy — shifted. That shift became a kind of internal clock. When the spread changed, this "entropic time" moved forward. When nothing changed, the measure stood still.</p>
+<p>Most striking of all, this inner time behaved like the real thing. It ran in one direction, giving a clear arrow between past and future, and it could even speed up or slow down.</p>
+<h2>What it means</h2>
+<p>The findings, published in <em>Physical Review Research</em>, show a quantum system can keep a meaningful sense of time without any outside clock. This doesn't prove time is an illusion — it gives scientists a hands-on tool to probe one of physics' oldest questions. Follow-up experiments might even model black holes or the universe's earliest moments.</p>
+<h2>Fun fact</h2>
+<p>Colder than empty space itself — the coldest spot in the known universe is often a lab, not a corner of deep space. Some atom clouds dip to a few billionths of a degree above absolute zero, which is far frostier than the cosmic background at a balmy 2.7 degrees above absolute zero.</p>
+<h2>Sources</h2>
+<ul><li>ScienceDaily: "Physicists created a tiny universe and watched time emerge without a clock" (University of Birmingham)</li><li>Barontini, G. "Testing the problem of time with cold atoms," <em>Physical Review Research</em> (2026), DOI: 10.1103/1h9j-df4k</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
