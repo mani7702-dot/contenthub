@@ -1,20 +1,36 @@
 #!/usr/bin/env python3
-import subprocess, xml.etree.ElementTree as ET, gzip
+"""Fetch and parse the full ScienceDaily top RSS feed, bypassing the 6-item limit."""
+import xml.etree.ElementTree as ET
+import sys
 
-UA = "Mozilla/5.0 (ContentHub picker; contact andugulamani722@gmail.com)"
+feed_url = "https://www.sciencedaily.com/rss/top.xml"
 
-url = "https://www.sciencedaily.com/rss/top.xml"
-p = subprocess.run(["curl", "-s", "--max-time", "25", "-A", UA, url], capture_output=True)
-data = p.stdout
-if data[:2] == b"\x1f\x8b":
-    data = gzip.decompress(data)
-# Strip trailing comment
-idx = data.rfind(b"</rss>")
-if idx >= 0:
-    data = data[:idx+6]
-root = ET.fromstring(data)
-for it in root.iter("item"):
-    t = (it.findtext("title") or "").strip()
-    if not t or len(t) < 25:
-        continue
-    print(t)
+# Use curl via subprocess to fetch
+import subprocess
+result = subprocess.run(
+    ['curl', '-s', '--max-time', '15', feed_url],
+    capture_output=True, text=True
+)
+content = result.stdout
+
+# Strip everything after </rss>
+idx = content.rfind('</rss>')
+if idx != -1:
+    content = content[:idx + len('</rss>')]
+
+try:
+    tree = ET.fromstring(content)
+except ET.ParseError as e:
+    print(f"Parse error: {e}", file=sys.stderr)
+    # Try stripping the comment after </rss>
+    sys.exit(1)
+
+items = tree.findall('.//item')
+print(f'Total ScienceDaily top items: {len(items)}')
+for item in items:
+    title_elem = item.find('title')
+    link_elem = item.find('link')
+    title = title_elem.text if title_elem is not None else 'N/A'
+    link = link_elem.text if link_elem is not None else 'N/A'
+    print(f'- {title}')
+    print(f'  {link}')
