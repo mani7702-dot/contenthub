@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:16:03Z",
+  "updated": "2026-10-30T03:51:10Z",
   "boards": {
     "news": [
       {
@@ -61,6 +61,18 @@
         "image": "assets/images/2026-10-30-how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-lives-in-the-process.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-liv.html"
+      },
+      {
+        "id": "how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages",
+        "title": "How Did a Hidden Ocean Chain Reaction Drive Earth's Great Ice Ages?",
+        "excerpt": "New research from the University of St Andrews shows how cooling from massive northern ice sheets may have rippled through the oceans to Antarctica, stirring up a chain reaction that pulled carbon dioxide from the air and tipped the planet into ice age after ice age.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
       },
       {
         "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
@@ -8650,6 +8662,18 @@
       "image": "assets/images/2026-10-30-how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-lives-in-the-process.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-high-school-senior-prank-his-principal-on-his-birthday-and-change-both-their-liv.html"
+    },
+    {
+      "id": "how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages",
+      "title": "How Did a Hidden Ocean Chain Reaction Drive Earth's Great Ice Ages?",
+      "excerpt": "New research from the University of St Andrews shows how cooling from massive northern ice sheets may have rippled through the oceans to Antarctica, stirring up a chain reaction that pulled carbon dioxide from the air and tipped the planet into ice age after ice age.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
     },
     {
       "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
