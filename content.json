@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:51:10Z",
+  "updated": "2026-10-30T03:59:05Z",
   "boards": {
     "news": [
       {
@@ -73,6 +73,18 @@
         "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
+      },
+      {
+        "id": "how-did-two-electrons-working-together-break-physics-x-ray-energy-limit",
+        "title": "How Did Two Electrons Working Together Break Physics' X-Ray Energy Limit?",
+        "excerpt": "Scientists discovered that when two helium electrons team up during high-harmonic generation, they can produce X-rays far more energetic than a single electron ever could \u2014 breaking a decades-old physics rule.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.html"
       },
       {
         "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
@@ -8674,6 +8686,18 @@
       "image": "assets/images/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-hidden-ocean-chain-reaction-drive-earth-s-great-ice-ages.html"
+    },
+    {
+      "id": "how-did-two-electrons-working-together-break-physics-x-ray-energy-limit",
+      "title": "How Did Two Electrons Working Together Break Physics' X-Ray Energy Limit?",
+      "excerpt": "Scientists discovered that when two helium electrons team up during high-harmonic generation, they can produce X-rays far more energetic than a single electron ever could \u2014 breaking a decades-old physics rule.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-electrons-working-together-break-physics-x-ray-energy-limit.html"
     },
     {
       "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
