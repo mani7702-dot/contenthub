@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:05:54Z",
+  "updated": "2026-10-30T12:23:24Z",
   "boards": {
     "news": [
       {
@@ -6077,6 +6077,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-floating-islands-be-entire-cities.html"
       },
       {
+        "id": "what-did-astronomers-finally-learn-from-a-171-year-old-mystery-in-a-nearby-star-system",
+        "title": "What Did Astronomers Finally Learn from a 171-Year-Old Mystery in a Nearby Star System?",
+        "excerpt": "For 171 years, astronomers have puzzled over a tiny wobble in the light from a star system just 16 light-years from Earth. Now, a team led by the University of Michigan has revealed what was really causing it \u2014 and what it means for the search for alien worlds.",
+        "tag": "space",
+        "author": "",
+        "date": "2026-10-30T17:50:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/what-did-astronomers-finally-learn-from-a-171-year-old-mystery-in-a-nearby-star-system.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-astronomers-finally-learn-from-a-171-year-old-mystery-in-a-nearby-star-system.html"
+      },
+      {
         "id": "could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-",
         "title": "Could the Universe Speed Up Without Dark Energy? A Pencil, a Big Bang, and a Surprising Math Trick",
         "excerpt": "What if the universe's accelerating expansion doesn't need a mysterious invisible force at all? Mathematicians say a flaw in the standard model could explain it all with the equations Einstein first wrote down.",
@@ -7568,6 +7580,18 @@
       "image": "assets/images/can-floating-islands-be-entire-cities.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-floating-islands-be-entire-cities.html"
+    },
+    {
+      "id": "what-did-astronomers-finally-learn-from-a-171-year-old-mystery-in-a-nearby-star-system",
+      "title": "What Did Astronomers Finally Learn from a 171-Year-Old Mystery in a Nearby Star System?",
+      "excerpt": "For 171 years, astronomers have puzzled over a tiny wobble in the light from a star system just 16 light-years from Earth. Now, a team led by the University of Michigan has revealed what was really causing it \u2014 and what it means for the search for alien worlds.",
+      "tag": "space",
+      "author": "",
+      "date": "2026-10-30T17:50:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/what-did-astronomers-finally-learn-from-a-171-year-old-mystery-in-a-nearby-star-system.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-astronomers-finally-learn-from-a-171-year-old-mystery-in-a-nearby-star-system.html"
     },
     {
       "id": "could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-",
