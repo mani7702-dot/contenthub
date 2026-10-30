@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can a 75-Year-Old Math Idea Really Solve 99% of Wordle Puzzles? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Can a 75-Year-Old Math Idea Really Solve 99% of Wordle Puzzles?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.jpg" alt="Can a 75-Year-Old Math Idea Really Solve 99% of Wordle Puzzles?">
+    <div class="article-body">
+      <p>Millions of people play Wordle every morning. Now a team at Binghamton University has borrowed a 1940s idea about measuring information to build a strategy that solves 99% of puzzles — and the winning move is often a word you know can't be the answer.</p>
+      <p>Every morning, millions of people open Wordle, type a five-letter word, and wait for the little squares to turn green, yellow, or grey. Six guesses. One hidden word. Most of us play by feel. But researchers at Binghamton University, State University of New York, decided to play it with mathematics instead — and their method solved 99% of puzzles in simulations.</p>
+<h2>The Counterintuitive Trick</h2>
+<p>Here is the surprising part: the best guess is often not the word most likely to be right. It is the word that will teach you the most.</p>
+<p>The team leaned on Shannon entropy, a way of measuring uncertainty developed in the 1940s. Instead of asking "Which word is probably the answer?", they asked "Which word will shrink my list of possibilities the fastest?" Sometimes a strange-looking word with unusual letters splits the remaining options into tiny groups — even though it could never be the final answer itself.</p>
+<p>"The objective shifts to maximizing the expected reduction in uncertainty rather than the probability of being right," explained doctoral student Donald Stephens.</p>
+<h2>How Well Did It Work?</h2>
+<p>The numbers speak for themselves. Compared with a sensible everyday strategy built around common letters like A, E, and R, the information-theory approach pulled far ahead:</p>
+<ul><li>Shared-letter strategy in simulations: 90% solved</li><li>Information-theory strategy in simulations: 99% solved</li></ul>
+<p>The project wasn't meant to be serious research at all. It began as a class assignment from Assistant Professor Congyu "Peter" Wu, who challenged students to show how information theory could solve a real problem. It is now published work.</p>
+<h2>What It Means for Your Morning Game</h2>
+<p>To use the strategy yourself, you would need a small computer program: after each guess, you would type in the colours Wordle gave you, and the software would pick the next most informative word. That is a lot of effort for a coffee-break habit — but the underlying lesson is easy. When you are stuck, a bold, information-rich guess beats a safe one.</p>
+<h2>Fun Fact</h2>
+<p>The idea of "entropy" was popularised by engineer Claude Shannon in 1948 to measure how much information a message carries. Seven decades later, the same mathematics turns out to be very good at beating a word game played by millions of people a day.</p>
+<h2>Sources</h2>
+<ul><li>"Researchers find a Wordle strategy that wins 99% of the time" — ScienceDaily</li><li>"S-M-A-R-T! These researchers used math to crack Wordle" — Binghamton University</li><li>"Want to beat Wordle? Try a 1940s mathematical theory" — Popular Science</li><li>"Scientists Found a Wordle Trick That Solves 99% of Puzzles" — SciTechDaily</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

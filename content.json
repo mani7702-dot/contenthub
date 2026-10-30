@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:32:43Z",
+  "updated": "2026-10-30T22:41:27Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.html"
+      },
+      {
+        "id": "can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles",
+        "title": "Can a 75-Year-Old Math Idea Really Solve 99% of Wordle Puzzles?",
+        "excerpt": "Millions of people play Wordle every morning. Now a team at Binghamton University has borrowed a 1940s idea about measuring information to build a strategy that solves 99% of puzzles \u2014 and the winning move is often a word you know can't be the answer.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.html"
       },
       {
         "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
@@ -9478,6 +9490,18 @@
       "image": "assets/images/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.html"
+    },
+    {
+      "id": "can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles",
+      "title": "Can a 75-Year-Old Math Idea Really Solve 99% of Wordle Puzzles?",
+      "excerpt": "Millions of people play Wordle every morning. Now a team at Binghamton University has borrowed a 1940s idea about measuring information to build a strategy that solves 99% of puzzles \u2014 and the winning move is often a word you know can't be the answer.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.html"
     },
     {
       "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
