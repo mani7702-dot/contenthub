@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-30T01:35:14Z",
+  "updated": "2026-10-30T02:17:13Z",
   "boards": {
     "news": [
+      {
+        "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
+        "title": "How Did NASA's Asteroid Bennu Samples Reveal Secrets of the Solar System's Birth?",
+        "excerpt": "Tiny samples from asteroid Bennu are helping scientists piece together how our Solar System first came together 4.5 billion years ago.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30T14:23:00+00:00",
+        "read": "4 min",
+        "image": "assets/images/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.html"
+      },
       {
         "id": "how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran",
         "title": "How Did Dunwoody College Students Build a Brand-New Car for a Minneapolis Veteran?",
@@ -8519,6 +8531,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
+      "title": "How Did NASA's Asteroid Bennu Samples Reveal Secrets of the Solar System's Birth?",
+      "excerpt": "Tiny samples from asteroid Bennu are helping scientists piece together how our Solar System first came together 4.5 billion years ago.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30T14:23:00+00:00",
+      "read": "4 min",
+      "image": "assets/images/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth.html"
+    },
     {
       "id": "how-did-dunwoody-college-students-build-a-brand-new-car-for-a-minneapolis-veteran",
       "title": "How Did Dunwoody College Students Build a Brand-New Car for a Minneapolis Veteran?",
