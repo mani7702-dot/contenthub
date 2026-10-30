@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:20:01Z",
+  "updated": "2026-10-30T12:05:54Z",
   "boards": {
     "news": [
       {
@@ -6077,6 +6077,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-floating-islands-be-entire-cities.html"
       },
       {
+        "id": "could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-",
+        "title": "Could the Universe Speed Up Without Dark Energy? A Pencil, a Big Bang, and a Surprising Math Trick",
+        "excerpt": "What if the universe's accelerating expansion doesn't need a mysterious invisible force at all? Mathematicians say a flaw in the standard model could explain it all with the equations Einstein first wrote down.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-30T17:34:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/could-the-universe-accelerate-without-dark-energy.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-.html"
+      },
+      {
         "id": "how-did-aging-muscles-trade-strength-for-protection",
         "title": "How Did Aging Muscles Trade Strength for Protection?",
         "excerpt": "As we grow older, our muscles shift from fast-twitch to slow-twitch fibers \u2014 and scientists now believe this is not just a sign of decline, but a clever survival strategy that trades power for protection.",
@@ -7556,6 +7568,18 @@
       "image": "assets/images/can-floating-islands-be-entire-cities.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-floating-islands-be-entire-cities.html"
+    },
+    {
+      "id": "could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-",
+      "title": "Could the Universe Speed Up Without Dark Energy? A Pencil, a Big Bang, and a Surprising Math Trick",
+      "excerpt": "What if the universe's accelerating expansion doesn't need a mysterious invisible force at all? Mathematicians say a flaw in the standard model could explain it all with the equations Einstein first wrote down.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-30T17:34:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/could-the-universe-accelerate-without-dark-energy.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-universe-speed-up-without-dark-energy-a-pencil-a-big-bang-and-a-surprising-math-.html"
     },
     {
       "id": "how-did-aging-muscles-trade-strength-for-protection",
