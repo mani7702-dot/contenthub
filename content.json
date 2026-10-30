@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T11:12:13Z",
+  "updated": "2026-10-30T11:20:01Z",
   "boards": {
     "news": [
       {
@@ -205,6 +205,18 @@
         "image": "",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging.html"
+      },
+      {
+        "id": "how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon",
+        "title": "How Did Japan Launch a Spacecraft to Bring Home the First-Ever Samples From a Martian Moon?",
+        "excerpt": "Japan's Martian Moons eXploration (MMX) mission lifted off in October 2026 aboard an H3 rocket, beginning a five-year journey to land on the small moon Phobos, collect at least 10 grams of surface material, and return it to Earth by 2031 \u2014 a first in planetary exploration.",
+        "tag": "Space",
+        "author": "",
+        "date": "2026-10-30",
+        "read": "4 min",
+        "image": "assets/images/how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon.html"
       },
       {
         "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
@@ -9010,6 +9022,18 @@
       "image": "",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-the-bacteria-in-your-gut-reveal-how-fast-you-re-aging.html"
+    },
+    {
+      "id": "how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon",
+      "title": "How Did Japan Launch a Spacecraft to Bring Home the First-Ever Samples From a Martian Moon?",
+      "excerpt": "Japan's Martian Moons eXploration (MMX) mission lifted off in October 2026 aboard an H3 rocket, beginning a five-year journey to land on the small moon Phobos, collect at least 10 grams of surface material, and return it to Earth by 2031 \u2014 a first in planetary exploration.",
+      "tag": "Space",
+      "author": "",
+      "date": "2026-10-30",
+      "read": "4 min",
+      "image": "assets/images/how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-japan-launch-a-spacecraft-to-bring-home-the-first-ever-samples-from-a-martian-moon.html"
     },
     {
       "id": "how-did-einstein-s-equations-challenge-the-need-for-dark-energy",
