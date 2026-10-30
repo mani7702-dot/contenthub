@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:44:42Z",
+  "updated": "2026-10-30T14:02:19Z",
   "boards": {
     "news": [
       {
@@ -7398,6 +7398,18 @@
       }
     ],
     "trending": [
+      {
+        "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
+        "title": "How Did Astronauts Give the ISS a Powerful Solar Upgrade?",
+        "excerpt": "Two astronauts spent over 7 hours outside the International Space Station, installing a new solar array that will boost the station's power by up to 30%.",
+        "tag": "trending",
+        "author": "",
+        "date": "2026-10-30T19:30:00+05:30",
+        "read": "4",
+        "image": "assets/images/how-did-astronauts-give-the-iss-a-powerful-solar-upgrade.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-astronauts-give-the-iss-a-powerful-solar-upgrade.html"
+      },
       {
         "id": "how-did-a-simple-daily-pill-show-a-70-lower-dementia-risk-for-certain-people",
         "title": "How Did a Simple Daily Pill Show a 70% Lower Dementia Risk for Certain People?",
@@ -15013,6 +15025,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
+      "fact": "How Did Astronauts Give the ISS a Powerful Solar Upgrade?",
+      "category": "trending",
+      "title": "How Did Astronauts Give the ISS a Powerful Solar Upgrade?"
+    },
     {
       "id": "how-did-a-simple-daily-pill-show-a-70-lower-dementia-risk-for-certain-people",
       "fact": "How Did a Simple Daily Pill Show a 70% Lower Dementia Risk for Certain People?",
