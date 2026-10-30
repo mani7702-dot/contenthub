@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Steady Is NASA's New Planet Hunter — Steady Enough to Hit a Dime From 150 Miles Away? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">science</span>
+      <h1>How Steady Is NASA's New Planet Hunter — Steady Enough to Hit a Dime From 150 Miles Away?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.jpg" alt="How Steady Is NASA's New Planet Hunter — Steady Enough to Hit a Dime From 150 Miles Away?">
+    <div class="article-body">
+      <p>NASA's Nancy Grace Roman Space Telescope has proven it can hold its aim almost perfectly still — and its special 'star-shade' camera has just caught its first light from another galaxy.</p>
+      <p>Imagine trying to keep a laser pointer aimed at a tiny coin from 150 miles away — and holding it there for half an hour without drifting. That is roughly the feat NASA's newest space telescope, the Nancy Grace Roman Space Telescope, has just shown it can do.</p>
+<h2>A telescope that holds very, very still</h2>
+<p>Space telescopes need to stay locked onto a target for minutes or even hours while they soak up faint light. Tiny wobbles blur the picture. Roman's fine-guidance system watches a set of known "guide stars" about four times every second and gently nudges the spacecraft to cancel out any drift.</p>
+<p>During tests in September, engineers found Roman can stay steady to better than one hundred-thousandth of a degree — the equivalent of keeping that laser on the dime. For its main camera, it holds still for 30 minutes at a stretch; for its special planet camera, up to eight hours.</p>
+<h2>Opening a new "eye"</h2>
+<p>Roman also carries a <strong>coronagraph</strong>, a clever instrument designed to block the blinding glare of a star so that much fainter things around it — like planets and dusty disks — can be seen. It is a bit like cupping your hand beside your eyes to block the Sun so you can spot something dim.</p>
+<p>On 22 September, the coronagraph took its first look at space. After the team cooled its detectors for better sensitivity, it aimed at a spot in the <strong>Large Magellanic Cloud</strong>, a neighbouring galaxy, and caught a field full of stars. The test confirmed the instrument is pointing where scientists expect and can produce a focused image.</p>
+<h2>Why it matters</h2>
+<p>Nothing about finding alien worlds is easy. A planet is billions of times dimmer than its star, and even a whisper of stray starlight can drown it out. Proving that Roman can hold steady while its coronagraph works is a big step toward those future portraits.</p>
+<h2>Fun fact</h2>
+<p>Roman was named for Nancy Grace Roman, the astronomer known as the "mother of Hubble." She championed the idea of putting a big telescope in space decades before Hubble ever launched. The team expects Roman's first full-colour science images by early 2027.</p>
+<h2>Sources</h2>
+<ul><li>NASA / ScienceDaily — "NASA's Roman telescope just opened its planet-hunting eye" (https://www.sciencedaily.com/releases/2026/10/261001214057.htm)</li><li>Caltech — "NASA's Roman Space Telescope Takes First Coronagraph Instrument Observation" (https://www.caltech.edu/about/news/nasas-roman-space-telescope-takes-first-coronagraph-instrument-observation)</li></ul>
+<p><em>Published 2026-10-31 02:02 IST.</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

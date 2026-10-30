@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:29:00Z",
+  "updated": "2026-10-30T20:33:11Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.html"
+      },
+      {
+        "id": "how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away",
+        "title": "How Steady Is NASA's New Planet Hunter \u2014 Steady Enough to Hit a Dime From 150 Miles Away?",
+        "excerpt": "NASA's Nancy Grace Roman Space Telescope has proven it can hold its aim almost perfectly still \u2014 and its special 'star-shade' camera has just caught its first light from another galaxy.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.html"
       },
       {
         "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
@@ -9238,6 +9250,18 @@
       "image": "assets/images/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade.html"
+    },
+    {
+      "id": "how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away",
+      "title": "How Steady Is NASA's New Planet Hunter \u2014 Steady Enough to Hit a Dime From 150 Miles Away?",
+      "excerpt": "NASA's Nancy Grace Roman Space Telescope has proven it can hold its aim almost perfectly still \u2014 and its special 'star-shade' camera has just caught its first light from another galaxy.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-steady-is-nasa-s-new-planet-hunter-steady-enough-to-hit-a-dime-from-150-miles-away.html"
     },
     {
       "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
