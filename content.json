@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:02:54Z",
+  "updated": "2026-10-30T22:08:49Z",
   "boards": {
     "news": [
       {
@@ -6341,6 +6341,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
       },
       {
+        "id": "how-did-two-long-legged-shelter-cats-make-medical-history",
+        "title": "How Did Two Long-Legged Shelter Cats Make Medical History?",
+        "excerpt": "Two shelter brothers with unusually long legs turned out to be the first cats ever documented with a rare condition known mostly in humans \u2014 and their story is teaching veterinarians something new.",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-two-long-legged-shelter-cats-make-medical-history.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-long-legged-shelter-cats-make-medical-history.html"
+      },
+      {
         "id": "where-did-the-world-s-only-flying-mammals-first-take-off",
         "title": "Where Did the World's Only Flying Mammals First Take Off?",
         "excerpt": "Bats are the only mammals that truly fly, and for decades nobody could agree where they first appeared. Now the biggest bat study ever assembled \u2014 103 genomes and 44 fossils from 137 scientists \u2014 points to a surprising answer: Europe.",
@@ -7988,6 +8000,18 @@
       "image": "assets/images/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
+    },
+    {
+      "id": "how-did-two-long-legged-shelter-cats-make-medical-history",
+      "title": "How Did Two Long-Legged Shelter Cats Make Medical History?",
+      "excerpt": "Two shelter brothers with unusually long legs turned out to be the first cats ever documented with a rare condition known mostly in humans \u2014 and their story is teaching veterinarians something new.",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-two-long-legged-shelter-cats-make-medical-history.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-long-legged-shelter-cats-make-medical-history.html"
     },
     {
       "id": "where-did-the-world-s-only-flying-mammals-first-take-off",
