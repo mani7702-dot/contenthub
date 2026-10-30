@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:16:48Z",
+  "updated": "2026-10-30T19:22:17Z",
   "boards": {
     "news": [
       {
@@ -6161,6 +6161,18 @@
     ],
     "blog": [
       {
+        "id": "how-did-thousands-of-strangers-buy-a-whole-english-estate",
+        "title": "How Did Thousands of Strangers Buy a Whole English Estate?",
+        "excerpt": "A 9,500-acre slice of English countryside went up for sale for the first time in centuries \u2014 so 25,000 ordinary people chipped in to buy it together and hand it back to nature.",
+        "tag": "Nature",
+        "author": "",
+        "date": "2026-10-31T00:50:00+05:30",
+        "read": "4 min",
+        "image": "assets/images/how-did-thousands-of-strangers-buy-a-whole-english-estate.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-thousands-of-strangers-buy-a-whole-english-estate.html"
+      },
+      {
         "id": "how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years",
         "title": "How Did Antarctica's First Dinosaur Bone Hide in a Drawer for 40 Years?",
         "excerpt": "A small fossil collected on an icy Antarctic island in 1985 sat forgotten in a museum drawer for four decades \u2014 until a curious scientist opened it and realised it was the first dinosaur bone ever found on the continent.",
@@ -7737,6 +7749,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "how-did-thousands-of-strangers-buy-a-whole-english-estate",
+      "title": "How Did Thousands of Strangers Buy a Whole English Estate?",
+      "excerpt": "A 9,500-acre slice of English countryside went up for sale for the first time in centuries \u2014 so 25,000 ordinary people chipped in to buy it together and hand it back to nature.",
+      "tag": "Nature",
+      "author": "",
+      "date": "2026-10-31T00:50:00+05:30",
+      "read": "4 min",
+      "image": "assets/images/how-did-thousands-of-strangers-buy-a-whole-english-estate.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-thousands-of-strangers-buy-a-whole-english-estate.html"
+    },
     {
       "id": "how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years",
       "title": "How Did Antarctica's First Dinosaur Bone Hide in a Drawer for 40 Years?",
