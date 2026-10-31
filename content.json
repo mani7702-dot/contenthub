@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T07:59:06Z",
+  "updated": "2026-10-31T08:17:58Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+      },
+      {
+        "id": "could-a-100-detector-really-see-invisible-particles-falling-from-space",
+        "title": "Could a $100 Detector Really See Invisible Particles Falling from Space?",
+        "excerpt": "Tiny particles from space pass through our bodies every second, but a pocket-sized detector built from $100 in parts can catch them \u2014 and it's now used by students and scientists around the world.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31T20:09:00+05:30",
+        "read": "4",
+        "image": "assets/images/could-a-100-detector-really-see-invisible-space-particles.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-100-detector-really-see-invisible-particles-falling-from-space.html"
       },
       {
         "id": "what-do-quark-wakes-teach-us-about-the-universe-s-primordial-soup",
@@ -9754,6 +9766,18 @@
       "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+    },
+    {
+      "id": "could-a-100-detector-really-see-invisible-particles-falling-from-space",
+      "title": "Could a $100 Detector Really See Invisible Particles Falling from Space?",
+      "excerpt": "Tiny particles from space pass through our bodies every second, but a pocket-sized detector built from $100 in parts can catch them \u2014 and it's now used by students and scientists around the world.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-31T20:09:00+05:30",
+      "read": "4",
+      "image": "assets/images/could-a-100-detector-really-see-invisible-space-particles.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-100-detector-really-see-invisible-particles-falling-from-space.html"
     },
     {
       "id": "what-do-quark-wakes-teach-us-about-the-universe-s-primordial-soup",
