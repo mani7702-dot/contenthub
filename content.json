@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:55:50Z",
+  "updated": "2026-10-31T15:18:35Z",
   "boards": {
     "news": [
       {
@@ -6797,6 +6797,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-long-legged-shelter-cats-make-medical-history.html"
       },
       {
+        "id": "how-can-ordinary-knitting-become-a-shape-shifting-smart-fabric",
+        "title": "How Can Ordinary Knitting Become a Shape-Shifting Smart Fabric?",
+        "excerpt": "Engineers have turned the same machine knitting used for hats and gloves into dense fabrics that snap between two stable shapes \u2014 and can even switch on a light or count your steps.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-can-ordinary-knitting-become-a-shape-shifting-smart-fabric.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-ordinary-knitting-become-a-shape-shifting-smart-fabric.html"
+      },
+      {
         "id": "where-did-the-world-s-only-flying-mammals-first-take-off",
         "title": "Where Did the World's Only Flying Mammals First Take Off?",
         "excerpt": "Bats are the only mammals that truly fly, and for decades nobody could agree where they first appeared. Now the biggest bat study ever assembled \u2014 103 genomes and 44 fossils from 137 scientists \u2014 points to a surprising answer: Europe.",
@@ -8576,6 +8588,18 @@
       "image": "assets/images/how-did-two-long-legged-shelter-cats-make-medical-history.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-two-long-legged-shelter-cats-make-medical-history.html"
+    },
+    {
+      "id": "how-can-ordinary-knitting-become-a-shape-shifting-smart-fabric",
+      "title": "How Can Ordinary Knitting Become a Shape-Shifting Smart Fabric?",
+      "excerpt": "Engineers have turned the same machine knitting used for hats and gloves into dense fabrics that snap between two stable shapes \u2014 and can even switch on a light or count your steps.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-can-ordinary-knitting-become-a-shape-shifting-smart-fabric.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-ordinary-knitting-become-a-shape-shifting-smart-fabric.html"
     },
     {
       "id": "where-did-the-world-s-only-flying-mammals-first-take-off",
