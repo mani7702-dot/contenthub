@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T21:32:31Z",
+  "updated": "2026-10-31T21:42:46Z",
   "boards": {
     "news": [
       {
@@ -6977,6 +6977,18 @@
     ],
     "blog": [
       {
+        "id": "can-gps-free-satellites-navigate-space-using-only-their-neighbors",
+        "title": "Can GPS-Free Satellites Navigate Space Using Only Their Neighbors?",
+        "excerpt": "A NASA experiment called FALCON shows spacecraft can work out their position in orbit by treating other satellites and space junk as floating landmarks \u2014 no GPS required.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-11-01T00:33:00+05:30",
+        "read": "4",
+        "image": "assets/images/can-gps-free-satellites-navigate-space-using-only-their-neighbors.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-gps-free-satellites-navigate-space-using-only-their-neighbors.html"
+      },
+      {
         "id": "how-does-light-spin-all-by-itself-in-empty-space",
         "title": "How Does Light Spin All By Itself in Empty Space?",
         "excerpt": "A beam of light can start out completely still and then, all on its own, grow twirling patches as it travels through empty space \u2014 no lenses, mirrors or special materials required.",
@@ -8841,6 +8853,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "can-gps-free-satellites-navigate-space-using-only-their-neighbors",
+      "title": "Can GPS-Free Satellites Navigate Space Using Only Their Neighbors?",
+      "excerpt": "A NASA experiment called FALCON shows spacecraft can work out their position in orbit by treating other satellites and space junk as floating landmarks \u2014 no GPS required.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-11-01T00:33:00+05:30",
+      "read": "4",
+      "image": "assets/images/can-gps-free-satellites-navigate-space-using-only-their-neighbors.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-gps-free-satellites-navigate-space-using-only-their-neighbors.html"
+    },
     {
       "id": "how-does-light-spin-all-by-itself-in-empty-space",
       "title": "How Does Light Spin All By Itself in Empty Space?",
