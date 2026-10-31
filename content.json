@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:04:05Z",
+  "updated": "2026-10-31T18:13:41Z",
   "boards": {
     "news": [
       {
@@ -265,6 +265,18 @@
         "image": "assets/images/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.html"
+      },
+      {
+        "id": "can-concrete-that-sucks-co2-out-of-the-air-also-be-stronger",
+        "title": "Can Concrete That Sucks CO2 Out of the Air Also Be Stronger?",
+        "excerpt": "Concrete is one of the world's most-used building materials, and making it releases a lot of carbon dioxide. But what if the same mix could be redesigned so it quietly soaks up CO\u2082 while becoming stronger at the same time \u2014 giving roads and rooftops a second, greener job.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/can-concrete-that-sucks-co2-out-of-the-air-also-be-stronger.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-concrete-that-sucks-co2-out-of-the-air-also-be-stronger.html"
       },
       {
         "id": "what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative",
@@ -10426,6 +10438,18 @@
       "image": "assets/images/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.html"
+    },
+    {
+      "id": "can-concrete-that-sucks-co2-out-of-the-air-also-be-stronger",
+      "title": "Can Concrete That Sucks CO2 Out of the Air Also Be Stronger?",
+      "excerpt": "Concrete is one of the world's most-used building materials, and making it releases a lot of carbon dioxide. But what if the same mix could be redesigned so it quietly soaks up CO\u2082 while becoming stronger at the same time \u2014 giving roads and rooftops a second, greener job.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/can-concrete-that-sucks-co2-out-of-the-air-also-be-stronger.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-concrete-that-sucks-co2-out-of-the-air-also-be-stronger.html"
     },
     {
       "id": "what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative",
