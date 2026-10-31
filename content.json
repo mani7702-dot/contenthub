@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:06:01Z",
+  "updated": "2026-10-31T16:15:59Z",
   "boards": {
     "news": [
       {
@@ -469,6 +469,18 @@
         "image": "assets/images/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.html"
+      },
+      {
+        "id": "how-did-a-famous-math-tile-start-bending-light-into-pinwheels",
+        "title": "How Did a Famous Math Tile Start Bending Light Into Pinwheels?",
+        "excerpt": "A lopsided 13-sided shape solved a famous maths puzzle by never repeating. Now scientists have found it can twist laser light into tiny pinwheels.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-famous-math-tile-start-bending-light-into-pinwheels.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-famous-math-tile-start-bending-light-into-pinwheels.html"
       },
       {
         "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
@@ -10510,6 +10522,18 @@
       "image": "assets/images/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.html"
+    },
+    {
+      "id": "how-did-a-famous-math-tile-start-bending-light-into-pinwheels",
+      "title": "How Did a Famous Math Tile Start Bending Light Into Pinwheels?",
+      "excerpt": "A lopsided 13-sided shape solved a famous maths puzzle by never repeating. Now scientists have found it can twist laser light into tiny pinwheels.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-famous-math-tile-start-bending-light-into-pinwheels.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-famous-math-tile-start-bending-light-into-pinwheels.html"
     },
     {
       "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
