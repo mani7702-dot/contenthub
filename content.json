@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:36:24Z",
+  "updated": "2026-10-31T19:03:43Z",
   "boards": {
     "news": [
       {
@@ -157,6 +157,18 @@
         "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+      },
+      {
+        "id": "why-would-a-bacterium-sacrifice-itself-to-stop-a-virus",
+        "title": "Why Would a Bacterium Sacrifice Itself to Stop a Virus?",
+        "excerpt": "Bacteria have been fighting viruses for billions of years, and scientists just found a defence that works completely backwards from every other one we know \u2014 and might one day help us edit our own DNA.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/why-would-a-bacterium-sacrifice-itself-to-stop-a-virus.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-would-a-bacterium-sacrifice-itself-to-stop-a-virus.html"
       },
       {
         "id": "why-do-distant-time-crystals-suddenly-tick-in-unison",
@@ -10390,6 +10402,18 @@
       "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+    },
+    {
+      "id": "why-would-a-bacterium-sacrifice-itself-to-stop-a-virus",
+      "title": "Why Would a Bacterium Sacrifice Itself to Stop a Virus?",
+      "excerpt": "Bacteria have been fighting viruses for billions of years, and scientists just found a defence that works completely backwards from every other one we know \u2014 and might one day help us edit our own DNA.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/why-would-a-bacterium-sacrifice-itself-to-stop-a-virus.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-would-a-bacterium-sacrifice-itself-to-stop-a-virus.html"
     },
     {
       "id": "why-do-distant-time-crystals-suddenly-tick-in-unison",
