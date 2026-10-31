@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:53:00Z",
+  "updated": "2026-10-31T17:02:14Z",
   "boards": {
     "news": [
       {
@@ -385,6 +385,18 @@
         "image": "assets/images/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.html"
+      },
+      {
+        "id": "how-did-flood-crews-stumble-on-a-3-000-year-old-egyptian-tomb",
+        "title": "How Did Flood Crews Stumble on a 3,000-Year-Old Egyptian Tomb?",
+        "excerpt": "Archaeologists near Luxor were clearing debris to keep flash floods away from ancient tombs \u2014 and accidentally opened a door into a perfectly preserved, 3,000-year-old burial chapel painted with scenes of a man named Paser.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-flood-crews-stumble-on-a-3-000-year-old-egyptian-tomb.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-flood-crews-stumble-on-a-3-000-year-old-egyptian-tomb.html"
       },
       {
         "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
@@ -10486,6 +10498,18 @@
       "image": "assets/images/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.html"
+    },
+    {
+      "id": "how-did-flood-crews-stumble-on-a-3-000-year-old-egyptian-tomb",
+      "title": "How Did Flood Crews Stumble on a 3,000-Year-Old Egyptian Tomb?",
+      "excerpt": "Archaeologists near Luxor were clearing debris to keep flash floods away from ancient tombs \u2014 and accidentally opened a door into a perfectly preserved, 3,000-year-old burial chapel painted with scenes of a man named Paser.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-flood-crews-stumble-on-a-3-000-year-old-egyptian-tomb.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-flood-crews-stumble-on-a-3-000-year-old-egyptian-tomb.html"
     },
     {
       "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
