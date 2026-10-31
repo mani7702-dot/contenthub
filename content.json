@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:57:00Z",
+  "updated": "2026-10-31T16:06:01Z",
   "boards": {
     "news": [
       {
@@ -541,6 +541,18 @@
         "image": "assets/images/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.html"
+      },
+      {
+        "id": "who-were-the-children-in-these-medieval-graves-if-they-weren-t-family",
+        "title": "Who Were the Children in These Medieval Graves \u2014 If They Weren't Family?",
+        "excerpt": "Ancient DNA from 142 people in Scandinavia shows that adults and children buried side by side in the same medieval grave were usually not close relatives at all.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.html"
       },
       {
         "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",
@@ -10570,6 +10582,18 @@
       "image": "assets/images/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.html"
+    },
+    {
+      "id": "who-were-the-children-in-these-medieval-graves-if-they-weren-t-family",
+      "title": "Who Were the Children in These Medieval Graves \u2014 If They Weren't Family?",
+      "excerpt": "Ancient DNA from 142 people in Scandinavia shows that adults and children buried side by side in the same medieval grave were usually not close relatives at all.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.html"
     },
     {
       "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",
