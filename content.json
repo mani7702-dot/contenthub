@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T23:56:38Z",
+  "updated": "2026-10-31T00:03:05Z",
   "boards": {
     "news": [
       {
@@ -6461,6 +6461,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
       },
       {
+        "id": "how-can-a-single-cell-shrink-to-a-quarter-of-its-size-in-5-milliseconds",
+        "title": "How Can a Single Cell Shrink to a Quarter of Its Size in 5 Milliseconds?",
+        "excerpt": "Meet Spirostomum, a pond-dwelling cell the size of an eyelash that snaps its body to a quarter of its length faster than you can blink \u2014 and scientists finally know the secret behind its spring-loaded trick.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-can-a-single-cell-shrink-to-a-quarter-of-its-size-in-5-milliseconds.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-single-cell-shrink-to-a-quarter-of-its-size-in-5-milliseconds.html"
+      },
+      {
         "id": "how-did-two-long-legged-shelter-cats-make-medical-history",
         "title": "How Did Two Long-Legged Shelter Cats Make Medical History?",
         "excerpt": "Two shelter brothers with unusually long legs turned out to be the first cats ever documented with a rare condition known mostly in humans \u2014 and their story is teaching veterinarians something new.",
@@ -8132,6 +8144,18 @@
       "image": "assets/images/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-antarctica-s-first-dinosaur-bone-hide-in-a-drawer-for-40-years.html"
+    },
+    {
+      "id": "how-can-a-single-cell-shrink-to-a-quarter-of-its-size-in-5-milliseconds",
+      "title": "How Can a Single Cell Shrink to a Quarter of Its Size in 5 Milliseconds?",
+      "excerpt": "Meet Spirostomum, a pond-dwelling cell the size of an eyelash that snaps its body to a quarter of its length faster than you can blink \u2014 and scientists finally know the secret behind its spring-loaded trick.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-can-a-single-cell-shrink-to-a-quarter-of-its-size-in-5-milliseconds.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-single-cell-shrink-to-a-quarter-of-its-size-in-5-milliseconds.html"
     },
     {
       "id": "how-did-two-long-legged-shelter-cats-make-medical-history",
