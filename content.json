@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:23:44Z",
+  "updated": "2026-10-31T03:30:15Z",
   "boards": {
     "news": [
       {
@@ -337,6 +337,18 @@
         "image": "assets/images/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.html"
+      },
+      {
+        "id": "how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs",
+        "title": "How Did Insects Conquer Land? Meet the 324-Million-Year-Old Swimmer With 24 Legs",
+        "excerpt": "A fossil from a Texas creek bed shows early insects didn't march straight out of the sea \u2014 they spent millions of years paddling through shallow water first.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.html"
       },
       {
         "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
@@ -9946,6 +9958,18 @@
       "image": "assets/images/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.html"
+    },
+    {
+      "id": "how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs",
+      "title": "How Did Insects Conquer Land? Meet the 324-Million-Year-Old Swimmer With 24 Legs",
+      "excerpt": "A fossil from a Texas creek bed shows early insects didn't march straight out of the sea \u2014 they spent millions of years paddling through shallow water first.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.html"
     },
     {
       "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
