@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:27:37Z",
+  "updated": "2026-10-31T17:35:50Z",
   "boards": {
     "news": [
       {
@@ -493,6 +493,18 @@
         "image": "assets/images/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.html"
+      },
+      {
+        "id": "could-a-strange-crystal-in-spacetime-really-become-a-tiny-black-hole",
+        "title": "Could a Strange 'Crystal' in Spacetime Really Become a Tiny Black Hole?",
+        "excerpt": "Black holes are usually pictured as giant cosmic monsters. Now two teams of physicists have worked out the exact maths behind something far stranger \u2014 a microscopic black hole that can be born from a repeating 'crystal' pattern hidden in space and time itself.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/could-a-strange-crystal-in-spacetime-really-become-a-tiny-black-hole.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-strange-crystal-in-spacetime-really-become-a-tiny-black-hole.html"
       },
       {
         "id": "what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail",
@@ -10618,6 +10630,18 @@
       "image": "assets/images/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.html"
+    },
+    {
+      "id": "could-a-strange-crystal-in-spacetime-really-become-a-tiny-black-hole",
+      "title": "Could a Strange 'Crystal' in Spacetime Really Become a Tiny Black Hole?",
+      "excerpt": "Black holes are usually pictured as giant cosmic monsters. Now two teams of physicists have worked out the exact maths behind something far stranger \u2014 a microscopic black hole that can be born from a repeating 'crystal' pattern hidden in space and time itself.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/could-a-strange-crystal-in-spacetime-really-become-a-tiny-black-hole.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-strange-crystal-in-spacetime-really-become-a-tiny-black-hole.html"
     },
     {
       "id": "what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail",
