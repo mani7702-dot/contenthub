@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31T19:47:44Z",
+  "updated": "2026-10-31T19:57:55Z",
   "boards": {
     "news": [
+      {
+        "id": "could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow",
+        "title": "Could a Tiny 'Rainbow on a Chip' Supercharge the Internet of Tomorrow?",
+        "excerpt": "Deep inside a laboratory, a chip the size of a grain of rice turns a beam of invisible light into a perfect little rainbow. That tiny spectrum could one day carry far more of the world's data at once.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.html"
+      },
       {
         "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
         "title": "How can a laser beam curve like a spinning ping-pong ball?",
@@ -10307,6 +10319,18 @@
     }
   ],
   "news": [
+    {
+      "id": "could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow",
+      "title": "Could a Tiny 'Rainbow on a Chip' Supercharge the Internet of Tomorrow?",
+      "excerpt": "Deep inside a laboratory, a chip the size of a grain of rice turns a beam of invisible light into a perfect little rainbow. That tiny spectrum could one day carry far more of the world's data at once.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "4 min",
+      "image": "assets/images/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.html"
+    },
     {
       "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
       "title": "How can a laser beam curve like a spinning ping-pong ball?",
