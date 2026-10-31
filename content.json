@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:41:13Z",
+  "updated": "2026-10-31T23:48:32Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.html"
+      },
+      {
+        "id": "what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor",
+        "title": "What Is the 'Cheshire Cat's Grin' Hiding Inside a Superconductor?",
+        "excerpt": "When some metals get cold enough, electricity flows through them with zero resistance. Now physicists have caught a ghostly 'grin' left behind by that magic \u2014 a pattern of paired electrons that lingers even after the superpower fades.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html"
       },
       {
         "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
@@ -10450,6 +10462,18 @@
       "image": "assets/images/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.html"
+    },
+    {
+      "id": "what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor",
+      "title": "What Is the 'Cheshire Cat's Grin' Hiding Inside a Superconductor?",
+      "excerpt": "When some metals get cold enough, electricity flows through them with zero resistance. Now physicists have caught a ghostly 'grin' left behind by that magic \u2014 a pattern of paired electrons that lingers even after the superpower fades.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "4 min",
+      "image": "assets/images/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html"
     },
     {
       "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
