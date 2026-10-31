@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:36:46Z",
+  "updated": "2026-10-31T21:14:57Z",
   "boards": {
     "news": [
       {
@@ -73,6 +73,18 @@
         "image": "assets/images/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.html"
+      },
+      {
+        "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
+        "title": "Can Sunlight and Water Really Make Clean Fuel Without a Metal Catalyst?",
+        "excerpt": "A new family of porous crystals turns sunlight and water into hydrogen in minutes \u2014 and it does the job without the costly metal helpers other designs depend on.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst.html"
       },
       {
         "id": "did-magnetism-help-build-the-solar-system-4-6-billion-years-ago",
@@ -10426,6 +10438,18 @@
       "image": "assets/images/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.html"
+    },
+    {
+      "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
+      "title": "Can Sunlight and Water Really Make Clean Fuel Without a Metal Catalyst?",
+      "excerpt": "A new family of porous crystals turns sunlight and water into hydrogen in minutes \u2014 and it does the job without the costly metal helpers other designs depend on.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst.html"
     },
     {
       "id": "did-magnetism-help-build-the-solar-system-4-6-billion-years-ago",

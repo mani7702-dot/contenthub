@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can Sunlight and Water Really Make Clean Fuel Without a Metal Catalyst? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Can Sunlight and Water Really Make Clean Fuel Without a Metal Catalyst?</h1>
+      <div class="meta"><span></span><span>2026-11-01</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst.jpg" alt="Can Sunlight and Water Really Make Clean Fuel Without a Metal Catalyst?">
+    <div class="article-body">
+      <p>A new family of porous crystals turns sunlight and water into hydrogen in minutes — and it does the job without the costly metal helpers other designs depend on.</p>
+      <p>Imagine pouring water into a jar, setting it in the sun, and watching a fuel bubble up. That is roughly the promise of a new family of materials built by chemists at Oregon State University — crystals that use ordinary light to pull hydrogen out of water quickly and efficiently.</p>
+<p>Hydrogen is a wonderfully clean fuel: burn it, or run it through a fuel cell, and the only exhaust is water. The catch has always been making it. Most hydrogen today is coaxed out of natural gas, a process that releases carbon dioxide before the fuel ever reaches a tank. Splitting water instead takes energy, and doing that job with renewable power has tended to be expensive.</p>
+<h2>What the crystal does</h2>
+<p>The new material belongs to a large family called metal-organic frameworks, or MOFs. Picture a scaffold of positively charged metal ions linked by organic molecules, riddled with pores far too small to see. By swapping which metal and which linker you choose, chemists can tune the structure for all kinds of jobs.</p>
+<p>The version at the heart of this work, called BVR-19, works as a photocatalyst — a material that absorbs light, rises to a higher energy state, and uses that energy to speed up a chemical reaction. When light lands on BVR-19, a bond between two sulfur atoms briefly snaps, creating highly reactive sulfur species that help drive hydrogen out of water.</p>
+<h2>Why that matters</h2>
+<p>Most such designs lean on the metal atoms to do the heavy lifting, often with an extra, costly metal catalyst added on top. BVR-19 flips that. "The organic component does the important work," said Kyriakos Stylianou, who led the study and directs OSU's Materials Discovery Laboratory.</p>
+<p>There is a bonus, too: the material assembles itself in water at room temperature, which keeps the energy cost of making it low. The findings appear in the Journal of the American Chemical Society.</p>
+<p><strong>Fun fact:</strong> Chemists have already built nearly 100,000 different MOFs — and computer models predict that about half a million more are still waiting to be made.</p>
+<p>There is a long road between a promising crystal and an affordable fuel pump. Still, by learning exactly why some versions of the framework outperform others, the team hopes to hand other researchers a set of design rules — a blueprint for cheaper, sunlight-made hydrogen.</p>
+<p><strong>Sources</strong></p>
+<ul><li>ScienceDaily — "Scientists just found a new way to make hydrogen from water" (https://www.sciencedaily.com/releases/2026/10/261001214017.htm)</li><li>SciTechDaily — "This Crystal Uses Sunlight To Turn Water Into Clean Hydrogen" (https://scitechdaily.com/this-crystal-uses-sunlight-to-turn-water-into-clean-hydrogen/)</li><li>Journal of the American Chemical Society, DOI 10.1021/jacs.6c13238</li></ul>
+<p><em>Published 2026-11-01 at 02:44 IST.</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
