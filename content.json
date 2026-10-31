@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31T00:38:00Z",
+  "updated": "2026-10-31T00:56:42Z",
   "boards": {
     "news": [
+      {
+        "id": "was-the-american-cheetah-really-a-cheetah-after-all",
+        "title": "Was the American 'Cheetah' Really a Cheetah After All?",
+        "excerpt": "Ancient DNA shows the speedy Ice Age cat that once chased North America's pronghorn was actually a puma in disguise.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31T22:45:00+00:00",
+        "read": "4",
+        "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+      },
       {
         "id": "what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise",
         "title": "What Does Northern Ireland's New Plan to Bring Nature Back Actually Promise?",
@@ -9563,6 +9575,18 @@
     }
   ],
   "news": [
+    {
+      "id": "was-the-american-cheetah-really-a-cheetah-after-all",
+      "title": "Was the American 'Cheetah' Really a Cheetah After All?",
+      "excerpt": "Ancient DNA shows the speedy Ice Age cat that once chased North America's pronghorn was actually a puma in disguise.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31T22:45:00+00:00",
+      "read": "4",
+      "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+    },
     {
       "id": "what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise",
       "title": "What Does Northern Ireland's New Plan to Bring Nature Back Actually Promise?",
