@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:16:11Z",
+  "updated": "2026-10-31T19:34:07Z",
   "boards": {
     "news": [
       {
@@ -145,6 +145,18 @@
         "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+      },
+      {
+        "id": "how-can-one-beam-of-light-steer-another-in-74-quadrillionths-of-a-second",
+        "title": "How Can One Beam of Light Steer Another in 74 Quadrillionths of a Second?",
+        "excerpt": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface \u2014 the sort of ultrafast speed that could reboot photonic communications, computing, and sensing.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31T00:02:00+05:30",
+        "read": "5",
+        "image": "assets/images/how-can-one-beam-of-light-steer-another-in-74-quadrillionths-of-a-second.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-one-beam-of-light-steer-another-in-74-quadrillionths-of-a-second.html"
       },
       {
         "id": "why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young",
@@ -10414,6 +10426,18 @@
       "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+    },
+    {
+      "id": "how-can-one-beam-of-light-steer-another-in-74-quadrillionths-of-a-second",
+      "title": "How Can One Beam of Light Steer Another in 74 Quadrillionths of a Second?",
+      "excerpt": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface \u2014 the sort of ultrafast speed that could reboot photonic communications, computing, and sensing.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-31T00:02:00+05:30",
+      "read": "5",
+      "image": "assets/images/how-can-one-beam-of-light-steer-another-in-74-quadrillionths-of-a-second.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-one-beam-of-light-steer-another-in-74-quadrillionths-of-a-second.html"
     },
     {
       "id": "why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young",
