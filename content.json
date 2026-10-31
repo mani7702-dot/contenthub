@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T04:56:05Z",
+  "updated": "2026-10-31T05:08:50Z",
   "boards": {
     "news": [
       {
@@ -7973,6 +7973,18 @@
         "image": "assets/images/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.html"
+      },
+      {
+        "id": "did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine",
+        "title": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?",
+        "excerpt": "Long before modern antibiotics, our close cousins the Neanderthals may have been dabbing a sticky, home-made balm onto cuts and scrapes. A new study finds that birch tar \u2014 the gooey glue they crafted from bark \u2014 naturally fights the very bacteria that turn wounds septic.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine.html"
       },
       {
         "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
@@ -16170,6 +16182,12 @@
       "fact": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?",
       "category": "Trending",
       "title": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?"
+    },
+    {
+      "id": "did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine",
+      "fact": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?",
+      "category": "science",
+      "title": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?"
     },
     {
       "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
