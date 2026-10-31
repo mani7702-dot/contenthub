@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:45:30Z",
+  "updated": "2026-10-31T15:57:00Z",
   "boards": {
     "news": [
       {
@@ -277,6 +277,18 @@
         "image": "assets/images/how-did-a-summer-wildfire-in-scotlands-cairngorms-teach-us-about-forest-resilience.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-summer-wildfire-in-scotland-s-cairngorms-teach-us-about-forest-resilience.html"
+      },
+      {
+        "id": "how-did-scientists-catch-sound-making-its-first-ever-quantum-leap",
+        "title": "How Did Scientists Catch Sound Making Its First-Ever Quantum Leap?",
+        "excerpt": "A ringing bell fades away smoothly \u2014 but deep down, sound really disappears in sudden jumps. For the first time, physicists at Stanford have watched a single particle of sound vanish in real time.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-scientists-catch-sound-making-its-first-ever-quantum-leap.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-catch-sound-making-its-first-ever-quantum-leap.html"
       },
       {
         "id": "how-did-nasa-s-roman-telescope-become-sharper-than-expected",
@@ -10294,6 +10306,18 @@
       "image": "assets/images/how-did-a-summer-wildfire-in-scotlands-cairngorms-teach-us-about-forest-resilience.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-summer-wildfire-in-scotland-s-cairngorms-teach-us-about-forest-resilience.html"
+    },
+    {
+      "id": "how-did-scientists-catch-sound-making-its-first-ever-quantum-leap",
+      "title": "How Did Scientists Catch Sound Making Its First-Ever Quantum Leap?",
+      "excerpt": "A ringing bell fades away smoothly \u2014 but deep down, sound really disappears in sudden jumps. For the first time, physicists at Stanford have watched a single particle of sound vanish in real time.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-scientists-catch-sound-making-its-first-ever-quantum-leap.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-catch-sound-making-its-first-ever-quantum-leap.html"
     },
     {
       "id": "how-did-nasa-s-roman-telescope-become-sharper-than-expected",
