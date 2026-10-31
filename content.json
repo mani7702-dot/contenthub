@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:58:50Z",
+  "updated": "2026-10-31T13:11:52Z",
   "boards": {
     "news": [
       {
@@ -457,6 +457,18 @@
         "image": "assets/images/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.html"
+      },
+      {
+        "id": "what-did-a-cave-in-australia-reveal-about-25-000-years-of-ritual",
+        "title": "What Did a Cave in Australia Reveal About 25,000 Years of Ritual?",
+        "excerpt": "Deep inside a dark Australian cave, layer after layer of ancient ash tells an extraordinary story: for roughly 25,000 years, generations of people carried whole grasses underground and burned them in ceremonies of magic, healing and care.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/what-did-a-cave-in-australia-reveal-about-25-000-years-of-ritual.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-cave-in-australia-reveal-about-25-000-years-of-ritual.html"
       },
       {
         "id": "how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue",
@@ -10306,6 +10318,18 @@
       "image": "assets/images/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.html"
+    },
+    {
+      "id": "what-did-a-cave-in-australia-reveal-about-25-000-years-of-ritual",
+      "title": "What Did a Cave in Australia Reveal About 25,000 Years of Ritual?",
+      "excerpt": "Deep inside a dark Australian cave, layer after layer of ancient ash tells an extraordinary story: for roughly 25,000 years, generations of people carried whole grasses underground and burned them in ceremonies of magic, healing and care.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/what-did-a-cave-in-australia-reveal-about-25-000-years-of-ritual.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-cave-in-australia-reveal-about-25-000-years-of-ritual.html"
     },
     {
       "id": "how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue",
