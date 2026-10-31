@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:17:58Z",
+  "updated": "2026-10-31T09:29:52Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/could-a-100-detector-really-see-invisible-space-particles.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-100-detector-really-see-invisible-particles-falling-from-space.html"
+      },
+      {
+        "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
+        "title": "Why Did Crocodiles Survive the Asteroid That Killed the Dinosaurs?",
+        "excerpt": "Sixty-six million years ago an asteroid wiped out the non-avian dinosaurs, yet crocodiles and their ancient relatives lived on. New research suggests the secret was simple: they loved warm weather, and the tropics stayed warm enough to shelter them.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31T14:50:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
       },
       {
         "id": "what-do-quark-wakes-teach-us-about-the-universe-s-primordial-soup",
@@ -373,18 +385,6 @@
         "image": "assets/images/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.html"
-      },
-      {
-        "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
-        "title": "Why Did Crocodiles Survive the Asteroid That Killed the Dinosaurs?",
-        "excerpt": "A new study of more than 7,000 fossils suggests crocodiles and their relatives outlasted the dinosaurs by doing something simple and clever \u2014 they kept moving toward warm places, and the tropics stayed livable when much of the planet did not.",
-        "tag": "Science",
-        "author": "",
-        "date": "2026-10-31",
-        "read": "4 min",
-        "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
-        "video": "",
-        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
       },
       {
         "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",
@@ -9780,6 +9780,18 @@
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-100-detector-really-see-invisible-particles-falling-from-space.html"
     },
     {
+      "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
+      "title": "Why Did Crocodiles Survive the Asteroid That Killed the Dinosaurs?",
+      "excerpt": "Sixty-six million years ago an asteroid wiped out the non-avian dinosaurs, yet crocodiles and their ancient relatives lived on. New research suggests the secret was simple: they loved warm weather, and the tropics stayed warm enough to shelter them.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31T14:50:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
+    },
+    {
       "id": "what-do-quark-wakes-teach-us-about-the-universe-s-primordial-soup",
       "title": "What Do Quark Wakes Teach Us About the Universe's Primordial Soup?",
       "excerpt": ">-",
@@ -10126,18 +10138,6 @@
       "image": "assets/images/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue.html"
-    },
-    {
-      "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
-      "title": "Why Did Crocodiles Survive the Asteroid That Killed the Dinosaurs?",
-      "excerpt": "A new study of more than 7,000 fossils suggests crocodiles and their relatives outlasted the dinosaurs by doing something simple and clever \u2014 they kept moving toward warm places, and the tropics stayed livable when much of the planet did not.",
-      "tag": "Science",
-      "author": "",
-      "date": "2026-10-31",
-      "read": "4 min",
-      "image": "assets/images/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.jpg",
-      "video": "",
-      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs.html"
     },
     {
       "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",
