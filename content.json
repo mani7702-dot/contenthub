@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:25:58Z",
+  "updated": "2026-10-31T03:05:56Z",
   "boards": {
     "news": [
       {
@@ -241,6 +241,18 @@
         "image": "assets/images/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.html"
+      },
+      {
+        "id": "what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail",
+        "title": "What hidden colors did a 125-million-year-old crocodile wear on its tail?",
+        "excerpt": "A 125-million-year-old crocodile fossil from Spain has revealed its secret stripes \u2014 hidden band patterns preserved as soft tissue that only show up under ultraviolet light, making it the oldest known crocodylomorph with evidence of coloration.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.html"
       },
       {
         "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
@@ -9826,6 +9838,18 @@
       "image": "assets/images/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/did-ancient-egyptian-princesses-really-train-with-bows-and-daggers.html"
+    },
+    {
+      "id": "what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail",
+      "title": "What hidden colors did a 125-million-year-old crocodile wear on its tail?",
+      "excerpt": "A 125-million-year-old crocodile fossil from Spain has revealed its secret stripes \u2014 hidden band patterns preserved as soft tissue that only show up under ultraviolet light, making it the oldest known crocodylomorph with evidence of coloration.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-hidden-colors-did-a-125-million-year-old-crocodile-wear-on-its-tail.html"
     },
     {
       "id": "how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history",
