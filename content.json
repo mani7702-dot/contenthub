@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:11:52Z",
+  "updated": "2026-10-31T13:50:16Z",
   "boards": {
     "news": [
       {
@@ -301,6 +301,18 @@
         "image": "assets/images/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.html"
+      },
+      {
+        "id": "could-the-first-animals-be-200-million-years-older-than-their-fossils",
+        "title": "Could the First Animals Be 200 Million Years Older Than Their Fossils?",
+        "excerpt": "A new Oxford-led study suggests animal life may have begun 800 to 700 million years ago \u2014 hundreds of millions of years before the earliest known animal fossils.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/could-the-first-animals-be-200-million-years-older-than-their-fossils.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-first-animals-be-200-million-years-older-than-their-fossils.html"
       },
       {
         "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
@@ -10162,6 +10174,18 @@
       "image": "assets/images/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.html"
+    },
+    {
+      "id": "could-the-first-animals-be-200-million-years-older-than-their-fossils",
+      "title": "Could the First Animals Be 200 Million Years Older Than Their Fossils?",
+      "excerpt": "A new Oxford-led study suggests animal life may have begun 800 to 700 million years ago \u2014 hundreds of millions of years before the earliest known animal fossils.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/could-the-first-animals-be-200-million-years-older-than-their-fossils.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-first-animals-be-200-million-years-older-than-their-fossils.html"
     },
     {
       "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
