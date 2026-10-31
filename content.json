@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:38:44Z",
+  "updated": "2026-10-31T10:53:59Z",
   "boards": {
     "news": [
       {
@@ -217,6 +217,18 @@
         "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
+      },
+      {
+        "id": "how-did-nasa-s-roman-telescope-become-sharper-than-expected",
+        "title": "How Did NASA's Roman Telescope Become Sharper Than Expected?",
+        "excerpt": "NASA's Nancy Grace Roman Space Telescope launched in August and has already surprised its team \u2014 its main camera is delivering images nearly 30% sharper than anyone predicted, thanks to adjustments smaller than a human hair.",
+        "tag": "News",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-nasas-roman-telescope-became-sharper-than-expected.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-roman-telescope-become-sharper-than-expected.html"
       },
       {
         "id": "how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines",
@@ -10006,6 +10018,18 @@
       "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
+    },
+    {
+      "id": "how-did-nasa-s-roman-telescope-become-sharper-than-expected",
+      "title": "How Did NASA's Roman Telescope Become Sharper Than Expected?",
+      "excerpt": "NASA's Nancy Grace Roman Space Telescope launched in August and has already surprised its team \u2014 its main camera is delivering images nearly 30% sharper than anyone predicted, thanks to adjustments smaller than a human hair.",
+      "tag": "News",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-nasas-roman-telescope-became-sharper-than-expected.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-roman-telescope-become-sharper-than-expected.html"
     },
     {
       "id": "how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines",

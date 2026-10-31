@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Did NASA's Roman Telescope Become Sharper Than Expected? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">News</span>
+      <h1>How Did NASA's Roman Telescope Become Sharper Than Expected?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-nasas-roman-telescope-became-sharper-than-expected.jpg" alt="How Did NASA's Roman Telescope Become Sharper Than Expected?">
+    <div class="article-body">
+      <p>NASA's Nancy Grace Roman Space Telescope launched in August and has already surprised its team — its main camera is delivering images nearly 30% sharper than anyone predicted, thanks to adjustments smaller than a human hair.</p>
+      <h1>How Did NASA's Roman Telescope Become Sharper Than Expected?</h1>
+<h2>1. A Space Telescope That Beat Its Own Blueprint</h2>
+<p>When NASA's Nancy Grace Roman Space Telescope launched on August 30, 2026, engineers had high hopes — but even they didn't expect quite this good. After months of calibration and precision adjustments, the telescope's main camera is now producing images about 30% sharper than originally predicted.</p>
+<p>The secret? Tweaks so small they're almost impossible to picture. Engineers moved one of the telescope's mirrors by roughly one-sixteenth the width of a human hair. If that mirror sat atop the Empire State Building, the adjustment would be less than the thickness of a single penny placed on top.</p>
+<h2>2. Tuning the Cosmic Eye</h2>
+<p>Since the telescope's Wide Field Instrument was first switched on in September, the team has been putting it through a careful testing routine. They checked out 18 detector "tiles" — each about the size of a sticky note — tested the filter wheel, and verified the thermal control system that keeps everything at the right temperature.</p>
+<p>The result is remarkable even by space-telescope standards. Before launch, engineers had set a requirement of 90 nanometers RMS (root mean square) for optical error — that's about 1,000 times thinner than a human hair. After all the adjustments, the instrument measured just 63 nanometers. That 30% improvement means every photo Roman takes will be crisper than anyone dared hope.</p>
+<h2>3. What the Extra Sharpness Buys Us</h2>
+<p>Roman isn't just a pretty picture machine — it's designed to map dark matter and dark energy across the universe, hunt for distant exoplanets, and survey billions of cosmic objects. Sharper images translate directly into better science: fainter objects become visible, finer details emerge, and the telescope can cover more sky in less time.</p>
+<p>The wide-field camera can image an area of sky 100 times larger than the Hubble Space Telescope's main camera in a single shot. With the extra sharpness, Roman should be able to peer deeper into the cosmos than previously possible, potentially revealing galaxies that were thought to be too faint or too far to study.</p>
+<h2>Fun Fact</h2>
+<p>The Roman Space Telescope was named after Dr. Nancy Grace Roman, NASA's first Chief of Astronomy, who earned the nickname "the mother of the Hubble Space Telescope" for her decades of advocacy that helped Hubble get built. She passed away in 2021, never living to see the telescope that now carries her name take flight.</p>
+<p><strong>Published:</strong> 10:49 IST, October 31, 2026</p>
+<h2>Sources</h2>
+<ul><li>NASA Science Blog — "NASA Roman Team Checks Out Main Instrument, Sharpens Telescope's Focus" (Oct 14, 2026): https://science.nasa.gov/blogs/roman/2026/10/14/nasa-roman-team-checks-out-main-instrument-sharpens-telescopes-focus/</li><li>ScienceDaily — "NASA's Roman Space Telescope exceeds expectations by nearly 30%" (Oct 16, 2026): https://www.sciencedaily.com/releases/2026/10/261016070630.htm</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
