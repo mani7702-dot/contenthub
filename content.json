@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:24:45Z",
+  "updated": "2026-10-31T15:45:30Z",
   "boards": {
     "news": [
       {
@@ -157,6 +157,18 @@
         "image": "assets/images/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.html"
+      },
+      {
+        "id": "how-did-scotty-the-t-rex-keep-a-66-million-year-old-healing-secret-inside-a-rib",
+        "title": "How Did Scotty the T. rex Keep a 66-Million-Year-Old Healing Secret Inside a Rib?",
+        "excerpt": "The biggest Tyrannosaurus rex ever found had a cracked rib that was still healing when it died. Hidden inside that bone, scientists have now found a frozen-in-time network of blood vessels never seen before in any fossil.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-scotty-the-t-rex-keep-a-66-million-year-old-healing-secret-inside-a-rib.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scotty-the-t-rex-keep-a-66-million-year-old-healing-secret-inside-a-rib.html"
       },
       {
         "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
@@ -10162,6 +10174,18 @@
       "image": "assets/images/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages.html"
+    },
+    {
+      "id": "how-did-scotty-the-t-rex-keep-a-66-million-year-old-healing-secret-inside-a-rib",
+      "title": "How Did Scotty the T. rex Keep a 66-Million-Year-Old Healing Secret Inside a Rib?",
+      "excerpt": "The biggest Tyrannosaurus rex ever found had a cracked rib that was still healing when it died. Hidden inside that bone, scientists have now found a frozen-in-time network of blood vessels never seen before in any fossil.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-scotty-the-t-rex-keep-a-66-million-year-old-healing-secret-inside-a-rib.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scotty-the-t-rex-keep-a-66-million-year-old-healing-secret-inside-a-rib.html"
     },
     {
       "id": "how-did-a-cooler-summer-give-japan-its-best-potato-harvest-in-a-decade",
