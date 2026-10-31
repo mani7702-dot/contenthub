@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:05:56Z",
+  "updated": "2026-10-31T03:23:44Z",
   "boards": {
     "news": [
       {
@@ -181,6 +181,18 @@
         "image": "assets/images/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.html"
+      },
+      {
+        "id": "how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years",
+        "title": "How Did a 240-Million-Year-Old Prehistoric 'Pig' Stay Hidden in a Museum for 60 Years?",
+        "excerpt": "A fossil collected in Tanzania in 1963 and shelved in a London museum has finally been identified as a brand-new species \u2014 a barrel-bodied plant-eater that lived 240 million years ago and that is shaking up the timeline of the earliest dinosaurs.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.html"
       },
       {
         "id": "why-are-people-deliberately-making-their-clothes-look-mended",
@@ -9778,6 +9790,18 @@
       "image": "assets/images/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.html"
+    },
+    {
+      "id": "how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years",
+      "title": "How Did a 240-Million-Year-Old Prehistoric 'Pig' Stay Hidden in a Museum for 60 Years?",
+      "excerpt": "A fossil collected in Tanzania in 1963 and shelved in a London museum has finally been identified as a brand-new species \u2014 a barrel-bodied plant-eater that lived 240 million years ago and that is shaking up the timeline of the earliest dinosaurs.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.html"
     },
     {
       "id": "why-are-people-deliberately-making-their-clothes-look-mended",
