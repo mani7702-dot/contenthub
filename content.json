@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T21:23:10Z",
+  "updated": "2026-10-31T21:32:31Z",
   "boards": {
     "news": [
       {
@@ -6977,6 +6977,18 @@
     ],
     "blog": [
       {
+        "id": "how-does-light-spin-all-by-itself-in-empty-space",
+        "title": "How Does Light Spin All By Itself in Empty Space?",
+        "excerpt": "A beam of light can start out completely still and then, all on its own, grow twirling patches as it travels through empty space \u2014 no lenses, mirrors or special materials required.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "/assets/images/how-does-light-spin-all-by-itself-in-empty-space.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-light-spin-all-by-itself-in-empty-space.html"
+      },
+      {
         "id": "what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop",
         "title": "What Happened When a Couple Built a Bench for a Girl at Their Driveway Bus Stop?",
         "excerpt": "Every school morning, a middle schooler waited for her bus at the end of a Florida driveway \u2014 sitting on the bare ground with no sidewalk in sight. Two teachers decided that wasn't good enough, and one small wooden bench turned into a whole lot more.",
@@ -8829,6 +8841,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "how-does-light-spin-all-by-itself-in-empty-space",
+      "title": "How Does Light Spin All By Itself in Empty Space?",
+      "excerpt": "A beam of light can start out completely still and then, all on its own, grow twirling patches as it travels through empty space \u2014 no lenses, mirrors or special materials required.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "/assets/images/how-does-light-spin-all-by-itself-in-empty-space.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-light-spin-all-by-itself-in-empty-space.html"
+    },
     {
       "id": "what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop",
       "title": "What Happened When a Couple Built a Bench for a Girl at Their Driveway Bus Stop?",
