@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:55:10Z",
+  "updated": "2026-10-31T18:04:05Z",
   "boards": {
     "news": [
       {
@@ -349,6 +349,18 @@
         "image": "assets/images/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.html"
+      },
+      {
+        "id": "why-did-a-2-200-year-old-roman-ship-need-five-coats-of-paint",
+        "title": "Why Did a 2,200-Year-Old Roman Ship Need Five Coats of \"Paint\"?",
+        "excerpt": "A Roman ship that sank off Croatia about 2,200 years ago still had its waterproof coating intact\u2014and scientists just worked out the clever recipe behind it.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/why-did-a-2-200-year-old-roman-ship-need-five-coats-of-paint.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-2-200-year-old-roman-ship-need-five-coats-of-paint.html"
       },
       {
         "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
@@ -10498,6 +10510,18 @@
       "image": "assets/images/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines.html"
+    },
+    {
+      "id": "why-did-a-2-200-year-old-roman-ship-need-five-coats-of-paint",
+      "title": "Why Did a 2,200-Year-Old Roman Ship Need Five Coats of \"Paint\"?",
+      "excerpt": "A Roman ship that sank off Croatia about 2,200 years ago still had its waterproof coating intact\u2014and scientists just worked out the clever recipe behind it.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/why-did-a-2-200-year-old-roman-ship-need-five-coats-of-paint.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-2-200-year-old-roman-ship-need-five-coats-of-paint.html"
     },
     {
       "id": "how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her",
