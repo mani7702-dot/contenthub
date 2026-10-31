@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:13:41Z",
+  "updated": "2026-10-31T18:23:37Z",
   "boards": {
     "news": [
       {
@@ -6869,6 +6869,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-read-a-2-000-year-old-scroll-by-burning-a-brand-new-one.html"
       },
       {
+        "id": "how-did-400-000-year-old-teeth-link-early-humans-to-us-today",
+        "title": "How Did 400,000-Year-Old Teeth Link Early Humans to Us Today?",
+        "excerpt": "Tooth proteins pulled from 400,000-year-old Homo erectus molars are revealing quiet family ties between an early human ancestor, the Denisovans, and some of us alive today.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31T05:03:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/how-did-400-000-year-old-teeth-link-early-humans-to-us-today.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-400-000-year-old-teeth-link-early-humans-to-us-today.html"
+      },
+      {
         "id": "how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years",
         "title": "How Did One New Skull Fragment Push Homo erectus Back 200,000 Years?",
         "excerpt": "A dusty box of fossils from a South African cave sat unstudied for decades. Among them was something no one expected: the oldest adult Homo erectus skull piece ever found.",
@@ -8684,6 +8696,18 @@
       "image": "assets/images/how-did-scientists-read-a-2-000-year-old-scroll-by-burning-a-brand-new-one.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-read-a-2-000-year-old-scroll-by-burning-a-brand-new-one.html"
+    },
+    {
+      "id": "how-did-400-000-year-old-teeth-link-early-humans-to-us-today",
+      "title": "How Did 400,000-Year-Old Teeth Link Early Humans to Us Today?",
+      "excerpt": "Tooth proteins pulled from 400,000-year-old Homo erectus molars are revealing quiet family ties between an early human ancestor, the Denisovans, and some of us alive today.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31T05:03:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/how-did-400-000-year-old-teeth-link-early-humans-to-us-today.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-400-000-year-old-teeth-link-early-humans-to-us-today.html"
     },
     {
       "id": "how-did-one-new-skull-fragment-push-homo-erectus-back-200-000-years",
