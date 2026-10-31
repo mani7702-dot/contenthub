@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:12:59Z",
+  "updated": "2026-10-31T11:27:33Z",
   "boards": {
     "news": [
       {
@@ -205,6 +205,18 @@
         "image": "assets/images/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.html"
+      },
+      {
+        "id": "what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative",
+        "title": "What Did Eight Sets of Ancient Footprints Reveal About a Lost Human Relative?",
+        "excerpt": "Eight sets of footprints pressed into a Kenyan lakeshore 1.4 million years ago have stunned scientists \u2014 the tracks suggest an extinct human relative was far bigger than we thought, and traveled together in a group.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative.html"
       },
       {
         "id": "was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers",
@@ -10018,6 +10030,18 @@
       "image": "assets/images/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.html"
+    },
+    {
+      "id": "what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative",
+      "title": "What Did Eight Sets of Ancient Footprints Reveal About a Lost Human Relative?",
+      "excerpt": "Eight sets of footprints pressed into a Kenyan lakeshore 1.4 million years ago have stunned scientists \u2014 the tracks suggest an extinct human relative was far bigger than we thought, and traveled together in a group.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-eight-sets-of-ancient-footprints-reveal-about-a-lost-human-relative.html"
     },
     {
       "id": "was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers",
