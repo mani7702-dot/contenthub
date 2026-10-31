@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:51:59Z",
+  "updated": "2026-10-31T04:56:05Z",
   "boards": {
     "news": [
       {
@@ -6593,6 +6593,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
       },
       {
+        "id": "why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks",
+        "title": "Why does Mount Etna sometimes erupt in hours and other times in weeks?",
+        "excerpt": "Mount Etna can brew an eruption like a shaken soda bottle or let it fizz slowly for weeks. Scientists cracked the difference by reading minerals that grew inside the volcano's hidden plumbing system.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "/assets/images/why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks.html"
+      },
+      {
         "id": "how-did-2-000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock-for-earth-s",
         "title": "How did 2,000-year-old volcanic ash help scientists build a more precise clock for Earth's history?",
         "excerpt": "Mount Vesuvius erupted in 79 AD and buried Pompeii. That same 2,000-year-old catastrophe is now serving as a calibration point for argon-argon dating, the clock geologists use to time volcanoes, extinctions and asteroid impacts \u2014 making it up to twice as precise.",
@@ -8300,6 +8312,18 @@
       "image": "assets/images/where-did-the-worlds-only-flying-mammals-first-take-off.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
+    },
+    {
+      "id": "why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks",
+      "title": "Why does Mount Etna sometimes erupt in hours and other times in weeks?",
+      "excerpt": "Mount Etna can brew an eruption like a shaken soda bottle or let it fizz slowly for weeks. Scientists cracked the difference by reading minerals that grew inside the volcano's hidden plumbing system.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "/assets/images/why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks.html"
     },
     {
       "id": "how-did-2-000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock-for-earth-s",
