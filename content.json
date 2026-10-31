@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:23:37Z",
+  "updated": "2026-10-31T18:29:41Z",
   "boards": {
     "news": [
       {
@@ -6833,6 +6833,18 @@
     ],
     "blog": [
       {
+        "id": "what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop",
+        "title": "What Happened When a Couple Built a Bench for a Girl at Their Driveway Bus Stop?",
+        "excerpt": "Every school morning, a middle schooler waited for her bus at the end of a Florida driveway \u2014 sitting on the bare ground with no sidewalk in sight. Two teachers decided that wasn't good enough, and one small wooden bench turned into a whole lot more.",
+        "tag": "Community",
+        "author": "",
+        "date": "2026-10-31T23:58:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop.html"
+      },
+      {
         "id": "can-love-find-you-again-at-88-these-two-retirees-say-yes",
         "title": "Can Love Find You Again at 88? These Two Retirees Say Yes",
         "excerpt": "Barbara and Fred both lost their long-time partners \u2014 then met among the barbells at their retirement village gym. Now, at 88 and 89, they are proof that a second chance at happiness has no age limit.",
@@ -8661,6 +8673,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop",
+      "title": "What Happened When a Couple Built a Bench for a Girl at Their Driveway Bus Stop?",
+      "excerpt": "Every school morning, a middle schooler waited for her bus at the end of a Florida driveway \u2014 sitting on the bare ground with no sidewalk in sight. Two teachers decided that wasn't good enough, and one small wooden bench turned into a whole lot more.",
+      "tag": "Community",
+      "author": "",
+      "date": "2026-10-31T23:58:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-happened-when-a-couple-built-a-bench-for-a-girl-at-their-driveway-bus-stop.html"
+    },
     {
       "id": "can-love-find-you-again-at-88-these-two-retirees-say-yes",
       "title": "Can Love Find You Again at 88? These Two Retirees Say Yes",
