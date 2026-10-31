@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T00:07:26Z",
+  "updated": "2026-10-31T00:38:00Z",
   "boards": {
     "news": [
       {
@@ -157,6 +157,18 @@
         "image": "assets/images/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.html"
+      },
+      {
+        "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
+        "title": "Why Did the First Diplodocus Outside North America Turn Up in Spain?",
+        "excerpt": "Palaeontologists in Teruel have identified the first Diplodocus ever found outside North America \u2014 fourteen beautifully preserved tail bones that suggest dinosaurs were crossing between continents 150 million years ago.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.html"
       },
       {
         "id": "why-are-people-deliberately-making-their-clothes-look-mended",
@@ -9706,6 +9718,18 @@
       "image": "assets/images/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-quarks-leave-ripples-in-the-universe-s-very-first-soup.html"
+    },
+    {
+      "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
+      "title": "Why Did the First Diplodocus Outside North America Turn Up in Spain?",
+      "excerpt": "Palaeontologists in Teruel have identified the first Diplodocus ever found outside North America \u2014 fourteen beautifully preserved tail bones that suggest dinosaurs were crossing between continents 150 million years ago.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain.html"
     },
     {
       "id": "why-are-people-deliberately-making-their-clothes-look-mended",
