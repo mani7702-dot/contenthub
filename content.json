@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:53:59Z",
+  "updated": "2026-10-31T11:12:59Z",
   "boards": {
     "news": [
       {
@@ -217,6 +217,18 @@
         "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
+      },
+      {
+        "id": "how-did-a-summer-wildfire-in-scotland-s-cairngorms-teach-us-about-forest-resilience",
+        "title": "How Did a Summer Wildfire in Scotland's Cairngorms Teach Us About Forest Resilience?",
+        "excerpt": "After a massive July wildfire swept through Glenmore Forest Park, conservationists are watching both loss and new life unfold among the ancient Scots pines.",
+        "tag": "nature",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3",
+        "image": "assets/images/how-did-a-summer-wildfire-in-scotlands-cairngorms-teach-us-about-forest-resilience.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-summer-wildfire-in-scotland-s-cairngorms-teach-us-about-forest-resilience.html"
       },
       {
         "id": "how-did-nasa-s-roman-telescope-become-sharper-than-expected",
@@ -10018,6 +10030,18 @@
       "image": "assets/images/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers.html"
+    },
+    {
+      "id": "how-did-a-summer-wildfire-in-scotland-s-cairngorms-teach-us-about-forest-resilience",
+      "title": "How Did a Summer Wildfire in Scotland's Cairngorms Teach Us About Forest Resilience?",
+      "excerpt": "After a massive July wildfire swept through Glenmore Forest Park, conservationists are watching both loss and new life unfold among the ancient Scots pines.",
+      "tag": "nature",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3",
+      "image": "assets/images/how-did-a-summer-wildfire-in-scotlands-cairngorms-teach-us-about-forest-resilience.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-summer-wildfire-in-scotland-s-cairngorms-teach-us-about-forest-resilience.html"
     },
     {
       "id": "how-did-nasa-s-roman-telescope-become-sharper-than-expected",
