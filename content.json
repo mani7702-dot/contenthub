@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31T19:09:19Z",
+  "updated": "2026-10-31T19:16:11Z",
   "boards": {
     "news": [
+      {
+        "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
+        "title": "How can a laser beam curve like a spinning ping-pong ball?",
+        "excerpt": "A table-tennis spin makes a ball swerve in mid-air. Physicists have just found a matching twist inside a tightly focused laser \u2014 and it could matter for quantum computers.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.html"
+      },
       {
         "id": "what-is-the-quantum-energy-ladder-that-took-40-years-to-measure",
         "title": "What Is the Quantum 'Energy Ladder' That Took 40 Years to Measure?",
@@ -10259,6 +10271,18 @@
     }
   ],
   "news": [
+    {
+      "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
+      "title": "How can a laser beam curve like a spinning ping-pong ball?",
+      "excerpt": "A table-tennis spin makes a ball swerve in mid-air. Physicists have just found a matching twist inside a tightly focused laser \u2014 and it could matter for quantum computers.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.html"
+    },
     {
       "id": "what-is-the-quantum-energy-ladder-that-took-40-years-to-measure",
       "title": "What Is the Quantum 'Energy Ladder' That Took 40 Years to Measure?",
