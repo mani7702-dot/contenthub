@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:05:47Z",
+  "updated": "2026-10-31T14:10:48Z",
   "boards": {
     "news": [
       {
@@ -8165,6 +8165,18 @@
         "image": "assets/images/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.html"
+      },
+      {
+        "id": "how-does-vitamin-a-help-build-the-sharpest-part-of-the-human-eye",
+        "title": "How Does Vitamin A Help Build the Sharpest Part of the Human Eye?",
+        "excerpt": "There's a tiny patch at the very centre of your retina that handles about half of everything you see. New research shows how a molecule made from vitamin A helps build it before birth \u2014 and overturns a 30-year-old idea about how eyes take shape.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-does-vitamin-a-help-build-the-sharpest-part-of-the-human-eye.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-vitamin-a-help-build-the-sharpest-part-of-the-human-eye.html"
       },
       {
         "id": "did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine",
@@ -16578,6 +16590,12 @@
       "fact": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?",
       "category": "Trending",
       "title": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?"
+    },
+    {
+      "id": "how-does-vitamin-a-help-build-the-sharpest-part-of-the-human-eye",
+      "fact": "How Does Vitamin A Help Build the Sharpest Part of the Human Eye?",
+      "category": "science",
+      "title": "How Does Vitamin A Help Build the Sharpest Part of the Human Eye?"
     },
     {
       "id": "did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine",
