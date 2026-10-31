@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:05:17Z",
+  "updated": "2026-10-31T20:27:12Z",
   "boards": {
     "news": [
       {
@@ -49,6 +49,18 @@
         "image": "assets/images/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.html"
+      },
+      {
+        "id": "can-a-human-brain-gene-really-jump-into-a-virus",
+        "title": "Can a Human Brain Gene Really Jump Into a Virus?",
+        "excerpt": "Scientists have found a human gene that does two jobs at once \u2014 it helps our brain cells work, and it can still leap from place to place inside DNA. They even caught it hiding inside a common skin virus.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/can-a-human-brain-gene-really-jump-into-a-virus.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-human-brain-gene-really-jump-into-a-virus.html"
       },
       {
         "id": "what-is-the-quantum-energy-ladder-that-took-40-years-to-measure",
@@ -10378,6 +10390,18 @@
       "image": "assets/images/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.html"
+    },
+    {
+      "id": "can-a-human-brain-gene-really-jump-into-a-virus",
+      "title": "Can a Human Brain Gene Really Jump Into a Virus?",
+      "excerpt": "Scientists have found a human gene that does two jobs at once \u2014 it helps our brain cells work, and it can still leap from place to place inside DNA. They even caught it hiding inside a common skin virus.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/can-a-human-brain-gene-really-jump-into-a-virus.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-human-brain-gene-really-jump-into-a-virus.html"
     },
     {
       "id": "what-is-the-quantum-energy-ladder-that-took-40-years-to-measure",

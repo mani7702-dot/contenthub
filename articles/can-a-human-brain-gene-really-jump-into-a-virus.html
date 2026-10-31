@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can a Human Brain Gene Really Jump Into a Virus? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Can a Human Brain Gene Really Jump Into a Virus?</h1>
+      <div class="meta"><span></span><span>2026-11-01</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-a-human-brain-gene-really-jump-into-a-virus.jpg" alt="Can a Human Brain Gene Really Jump Into a Virus?">
+    <div class="article-body">
+      <p>Scientists have found a human gene that does two jobs at once — it helps our brain cells work, and it can still leap from place to place inside DNA. They even caught it hiding inside a common skin virus.</p>
+      <h1>Can a Human Brain Gene Really Jump Into a Virus?</h1>
+<h2>1. A gene with a double life</h2>
+<p>Most genes are stay-at-home types. They sit in one spot in your DNA and quietly do their job. But a small number of them can move — and these wandering bits of genetic code are called <strong>jumping genes</strong>, or transposons.</p>
+<p>Now, researchers at Cornell University have found something they had never seen before: a human gene called <strong>BC200</strong> that has an important everyday job <em>and</em> can still jump around the genome. Genes that came from jumping genes usually lose the ability to move once they settle into a useful role. BC200 never got the message.</p>
+<h2>2. How they spotted it</h2>
+<p>The discovery started with a surprise. A scientist was searching for human DNA inside viral genomes when he found a familiar piece of human genetic code tucked into a <strong>poxvirus</strong> — the family that includes the virus behind molluscum contagiosum, a common and usually harmless skin infection, especially in children.</p>
+<p>That genetic stowaway was BC200. It spends most of its time switched on in <strong>neurons</strong>, the cells that carry messages around our brain, where it appears to help control how those cells build proteins. Yet it still holds on to the ability to copy itself into new places — something no other known human gene does.</p>
+<p>The work was led by Cedric Feschotte at Cornell, with colleagues at Capital Normal University in Beijing, and was published in the journal <em>Science</em>.</p>
+<h2>3. Where it came from</h2>
+<p>BC200 is not brand new. It traces back roughly <strong>40 million years</strong> to a jumping gene that was co-opted by an ancestor we share with other primates. Since then it has hopped into the virus at least <strong>twice</strong> within modern human history, around 100,000 years ago — most likely from skin cells, the only cells that virus infects.</p>
+<p>The team also noticed that BC200 is switched on unusually strongly in some tumours and in the brains of people with Alzheimer's disease. That makes it a gene worth watching closely.</p>
+<h2>4. Why it matters</h2>
+<p>Jumping genes make up about <strong>half</strong> of all human DNA, but nearly all of them have gone quiet. BC200 is a rare case of a mobile element that became useful without losing its wanderlust. It is a neat reminder that our DNA is not a fixed instruction book — it is a living, shifting landscape where new tools can emerge from old, restless code.</p>
+<h2>Fun Fact</h2>
+<p>Jumping genes were first spotted in the 1940s by <strong>Barbara McClintock</strong>, who studied them in corn. Other scientists doubted her for years — but she was right, and she went on to win a Nobel Prize. Feschotte's own professorship at Cornell is named in her honour.</p>
+<h2>Sources</h2>
+<ul><li>Cornell Chronicle — "New type of human jumping gene found in a poxvirus" (news.cornell.edu)</li><li>ScienceDaily — "Scientists discover a human brain gene that can jump through DNA" (sciencedaily.com)</li><li><em>Science</em> — study on BC200, published 24 September 2026</li></ul>
+<p><em>Time: 01:56 IST</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
