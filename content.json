@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:12:11Z",
+  "updated": "2026-10-31T10:38:44Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/could-a-100-detector-really-see-invisible-space-particles.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-100-detector-really-see-invisible-particles-falling-from-space.html"
+      },
+      {
+        "id": "how-a-30m-public-appeal-saved-rothbury-estate-for-wildlife",
+        "title": "How a \u00a330m Public Appeal Saved Rothbury Estate for Wildlife",
+        "excerpt": ">-",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31T18:03:00+05:30",
+        "read": "4",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-a-30m-public-appeal-saved-rothbury-estate-for-wildlife.html"
       },
       {
         "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
@@ -9802,6 +9814,18 @@
       "image": "assets/images/could-a-100-detector-really-see-invisible-space-particles.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-100-detector-really-see-invisible-particles-falling-from-space.html"
+    },
+    {
+      "id": "how-a-30m-public-appeal-saved-rothbury-estate-for-wildlife",
+      "title": "How a \u00a330m Public Appeal Saved Rothbury Estate for Wildlife",
+      "excerpt": ">-",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31T18:03:00+05:30",
+      "read": "4",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-a-30m-public-appeal-saved-rothbury-estate-for-wildlife.html"
     },
     {
       "id": "why-did-crocodiles-survive-the-asteroid-that-killed-the-dinosaurs",
