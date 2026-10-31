@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T07:08:11Z",
+  "updated": "2026-10-31T07:18:48Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "/assets/images/what-do-quark-wakes-teach-us-about-the-universes-primordial-soup.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-do-quark-wakes-teach-us-about-the-universe-s-primordial-soup.html"
+      },
+      {
+        "id": "how-did-world-countries-agree-to-protect-30-of-earth-by-2030",
+        "title": "How Did World Countries Agree to Protect 30% of Earth by 2030?",
+        "excerpt": "At the COP17 biodiversity summit in Yerevan, Armenia, countries reached a deal to implement the 2022 Global Biodiversity Framework \u2014 but the big missing piece is money.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31T07:42:00+05:30",
+        "read": "4",
+        "image": "assets/images/how-did-world-countries-agree-to-protect-30-of-earth-by-2030.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-world-countries-agree-to-protect-30-of-earth-by-2030.html"
       },
       {
         "id": "what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise",
@@ -9742,6 +9754,18 @@
       "image": "/assets/images/what-do-quark-wakes-teach-us-about-the-universes-primordial-soup.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-do-quark-wakes-teach-us-about-the-universe-s-primordial-soup.html"
+    },
+    {
+      "id": "how-did-world-countries-agree-to-protect-30-of-earth-by-2030",
+      "title": "How Did World Countries Agree to Protect 30% of Earth by 2030?",
+      "excerpt": "At the COP17 biodiversity summit in Yerevan, Armenia, countries reached a deal to implement the 2022 Global Biodiversity Framework \u2014 but the big missing piece is money.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31T07:42:00+05:30",
+      "read": "4",
+      "image": "assets/images/how-did-world-countries-agree-to-protect-30-of-earth-by-2030.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-world-countries-agree-to-protect-30-of-earth-by-2030.html"
     },
     {
       "id": "what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise",
