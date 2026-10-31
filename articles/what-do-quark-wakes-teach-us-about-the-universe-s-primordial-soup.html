@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What Do Quark Wakes Teach Us About the Universe's Primordial Soup? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">news</span>
+      <h1>What Do Quark Wakes Teach Us About the Universe's Primordial Soup?</h1>
+      <div class="meta"><span></span><span>2026-10-31T12:32:00+05:30</span><span>5 min read</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="..//assets/images/what-do-quark-wakes-teach-us-about-the-universes-primordial-soup.jpg" alt="What Do Quark Wakes Teach Us About the Universe's Primordial Soup?">
+    <div class="article-body">
+      <p>&gt;-</p>
+      <h2>1. What Was the Universe's First Soup?</h2>
+<p>Only a few moments after the Big Bang, temperatures climbed to trillions of degrees. The hot, dense mixture was filled with quarks and gluons — elementary particles racing around at nearly the speed of light in a state of near-frictionless flow. Scientists call this quark–gluon plasma the " primordial soup," and it was, for a brief spell, the hottest liquid ever known.</p>
+<h2>2. How Did Quarks Leave Waves?</h2>
+<p>At CERN's Large Hadron Collider in Switzerland, physicists recreate quark–gluon plasma by smashing heavy lead ions together at almost the speed of light. A team led by MIT's Yen-Jie Lee searched through billions of these collisions — 13 billion, to be exact — and narrowed in on roughly 2,000 events where a quark traveled through the plasma alongside a cleanly escaping Z boson.</p>
+<p>That Z boson acted like a lighthouse: because it barely interacts with the surrounding soup, any ripples showing up on the quark's side could be attributed to the quark alone. The result? Clear evidence that a single quark drags more plasma behind it as it moves, leaving a wake much like a duck creates ripples across a pond.</p>
+<h2>3. Why Does It Matter?</h2>
+<p>By measuring how large the wakes become, how quickly they travel, and how long they take to fade, scientists can pin down the key properties of quark–gluon plasma. The observations match predictions from a model developed by MIT's Krishna Rajagopal, confirming that the primordial soup really does respond collectively like a liquid when energetic particles pass through it.</p>
+<p>"This is something that many of us have argued must be there for a good many years, and that many experiments have looked for," Rajagopal said. "We've gained the first direct evidence that the quark indeed drags more plasma with it as it travels."</p>
+<h2>Fun Fact</h2>
+<p>The quark–gluon plasma was also the universe's very first liquid — and the hottest one ever recorded, briefly hotter than the core of any star. Yet it flowed more smoothly than anything we can stir in a kitchen.</p>
+<p><strong>Sources:</strong></p>
+<ul><li>ScienceDaily: "Physicists just saw quarks make waves in the Big Bang's primordial soup"</li><li>MIT News: "Study: The infant universe's 'primordial soup' was actually soupy"</li><li>Discover Magazine: "First Direct Evidence Suggests the Universe's Primordial Soup Behaved Like a Liquid"</li><li>CMS Collaboration, via CERN/LHC research publications</li></ul>
+<p>_Published 12:32 IST, 31 October 2026._</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
