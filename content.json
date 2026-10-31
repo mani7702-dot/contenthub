@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:27:12Z",
+  "updated": "2026-10-31T20:36:46Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/did-magnetism-help-build-the-solar-system-4-6-billion-years-ago.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/did-magnetism-help-build-the-solar-system-4-6-billion-years-ago.html"
+      },
+      {
+        "id": "could-a-tiny-laser-let-computer-chips-talk-with-light-instead-of-wires",
+        "title": "Could a Tiny Laser Let Computer Chips Talk With Light Instead of Wires?",
+        "excerpt": "Inside today's computers, information still travels as electricity \u2014 which makes heat and slows things down. Engineers in Denmark have built a laser so small that thousands could sit on a single chip and swap signals for beams of light.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/could-a-tiny-laser-let-computer-chips-talk-with-light-instead-of-wires.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-laser-let-computer-chips-talk-with-light-instead-of-wires.html"
       },
       {
         "id": "was-the-american-cheetah-really-a-cheetah-after-all",
@@ -10426,6 +10438,18 @@
       "image": "assets/images/did-magnetism-help-build-the-solar-system-4-6-billion-years-ago.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/did-magnetism-help-build-the-solar-system-4-6-billion-years-ago.html"
+    },
+    {
+      "id": "could-a-tiny-laser-let-computer-chips-talk-with-light-instead-of-wires",
+      "title": "Could a Tiny Laser Let Computer Chips Talk With Light Instead of Wires?",
+      "excerpt": "Inside today's computers, information still travels as electricity \u2014 which makes heat and slows things down. Engineers in Denmark have built a laser so small that thousands could sit on a single chip and swap signals for beams of light.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/could-a-tiny-laser-let-computer-chips-talk-with-light-instead-of-wires.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-laser-let-computer-chips-talk-with-light-instead-of-wires.html"
     },
     {
       "id": "was-the-american-cheetah-really-a-cheetah-after-all",
