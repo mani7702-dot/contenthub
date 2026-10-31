@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:37:30Z",
+  "updated": "2026-10-31T14:46:58Z",
   "boards": {
     "news": [
       {
@@ -133,6 +133,18 @@
         "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+      },
+      {
+        "id": "why-do-distant-time-crystals-suddenly-tick-in-unison",
+        "title": "Why Do Distant Time Crystals Suddenly Tick in Unison?",
+        "excerpt": "In 1665, Christiaan Huygens noticed two pendulum clocks on the same wall would drift into step. Now physicists have watched the same quiet trick happen between 'time crystals' inside a semiconductor \u2014 separate rhythms, far apart, locking into one beat.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/why-do-distant-time-crystals-suddenly-tick-in-unison.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-distant-time-crystals-suddenly-tick-in-unison.html"
       },
       {
         "id": "how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages",
@@ -10078,6 +10090,18 @@
       "image": "assets/images/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-nuclear-clock-keep-time-better-than-any-clock-ever-built.html"
+    },
+    {
+      "id": "why-do-distant-time-crystals-suddenly-tick-in-unison",
+      "title": "Why Do Distant Time Crystals Suddenly Tick in Unison?",
+      "excerpt": "In 1665, Christiaan Huygens noticed two pendulum clocks on the same wall would drift into step. Now physicists have watched the same quiet trick happen between 'time crystals' inside a semiconductor \u2014 separate rhythms, far apart, locking into one beat.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/why-do-distant-time-crystals-suddenly-tick-in-unison.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-distant-time-crystals-suddenly-tick-in-unison.html"
     },
     {
       "id": "how-could-a-suitcase-sized-satellite-listen-to-the-universe-s-dark-ages",

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Do Distant Time Crystals Suddenly Tick in Unison? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why Do Distant Time Crystals Suddenly Tick in Unison?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-do-distant-time-crystals-suddenly-tick-in-unison.jpg" alt="Why Do Distant Time Crystals Suddenly Tick in Unison?">
+    <div class="article-body">
+      <p>In 1665, Christiaan Huygens noticed two pendulum clocks on the same wall would drift into step. Now physicists have watched the same quiet trick happen between 'time crystals' inside a semiconductor — separate rhythms, far apart, locking into one beat.</p>
+      <h1>Why Do Distant Time Crystals Suddenly Tick in Unison?</h1>
+<p>In 1665, the Dutch scientist Christiaan Huygens hung two pendulum clocks on the same wooden beam and noticed something odd: after a while, the swinging pendulums drifted into perfect step, as if they had agreed on a shared rhythm. More than three centuries later, physicists have watched the same quiet trick unfold at a scale Huygens could never have imagined.</p>
+<h2>What Exactly Is a Time Crystal?</h2>
+<p>Most crystals repeat their pattern in space — think of the neat rows of atoms in a diamond or a snowflake. A time crystal is stranger. Its internal behaviour repeats in <em>time</em>, ticking through a regular rhythm even though nothing outside is pushing it to keep that beat. Researchers are still exploring what these odd systems could be good for, including future technologies that store or move information in entirely new ways.</p>
+<h2>A Tiny Choir Inside a Semiconductor</h2>
+<p>The new work comes from a team at TU Dortmund University in Germany, led by Prof. Alex Greilich and reported in the journal <em>Nature Communications</em>. Their time crystals form inside a semiconductor made mostly of gallium arsenide, with small amounts of indium and silicon added.</p>
+<p>Cooled to roughly −270 °C — close to the coldest temperature possible — each of a million-strong crowd of nuclear spins interacts with a single electron. A laser first lines up the spins; a weak magnetic field sets them turning; and feedback between the electrons and the nuclei keeps the oscillation alive for hours. A second laser watches the dance unfold.</p>
+<h2>When Strangers Fall Into Step</h2>
+<p>Here is the puzzle. No two patches of the material are perfectly identical, so time crystals forming in different spots should tick at slightly different speeds. But when the team shone one wide laser beam across many regions at once, the separate oscillations locked together and settled onto a single shared frequency — a phenomenon the researchers describe as non-local synchronization. Crystals separated by up to 40 micrometres could still find the same beat, with spin-polarized electrons acting as the messenger.</p>
+<h2>Fun Fact</h2>
+<p>Because time crystals oscillate without any repeating outside nudge, some physicists jokingly call them the closest thing yet to a clock that winds itself. Huygens, a famously self-taught horologist, would probably have approved.</p>
+<p><strong>Sources:</strong></p>
+<ul><li>ScienceDaily: "Distant time crystals can somehow fall into the same rhythm"</li><li><em>Nature Communications</em>: "Non-local synchronization of continuous time crystals in a semiconductor" (Greilich et al., DOI 10.1038/s41467-026-75714-1)</li><li>Phys.org: "Distant time crystals oscillate in unison, paving the way for spin networks"</li><li>SciTechDaily: "Physicists Discover Time Crystals Can Communicate Across a Semiconductor"</li></ul>
+<p>_Published 20:14 IST, 31 October 2026._</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
