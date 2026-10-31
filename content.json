@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:30:15Z",
+  "updated": "2026-10-31T03:40:16Z",
   "boards": {
     "news": [
       {
@@ -193,6 +193,18 @@
         "image": "assets/images/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.html"
+      },
+      {
+        "id": "how-did-a-broken-364-day-calendar-solve-a-dead-sea-scrolls-mystery",
+        "title": "How Did a Broken 364-Day Calendar Solve a Dead Sea Scrolls Mystery?",
+        "excerpt": "Nearly 20 scrolls from Qumran describe a strange 364-day year. A new study explains why the community may have used it \u2014 and why it quietly fell apart.",
+        "tag": "history",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4",
+        "image": "assets/images/how-did-a-broken-364-day-calendar-solve-a-dead-sea-scrolls-mystery.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-broken-364-day-calendar-solve-a-dead-sea-scrolls-mystery.html"
       },
       {
         "id": "why-are-people-deliberately-making-their-clothes-look-mended",
@@ -9814,6 +9826,18 @@
       "image": "assets/images/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-240-million-year-old-prehistoric-pig-stay-hidden-in-a-museum-for-60-years.html"
+    },
+    {
+      "id": "how-did-a-broken-364-day-calendar-solve-a-dead-sea-scrolls-mystery",
+      "title": "How Did a Broken 364-Day Calendar Solve a Dead Sea Scrolls Mystery?",
+      "excerpt": "Nearly 20 scrolls from Qumran describe a strange 364-day year. A new study explains why the community may have used it \u2014 and why it quietly fell apart.",
+      "tag": "history",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4",
+      "image": "assets/images/how-did-a-broken-364-day-calendar-solve-a-dead-sea-scrolls-mystery.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-broken-364-day-calendar-solve-a-dead-sea-scrolls-mystery.html"
     },
     {
       "id": "why-are-people-deliberately-making-their-clothes-look-mended",
