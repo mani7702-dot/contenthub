@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T03:40:16Z",
+  "updated": "2026-10-31T03:51:59Z",
   "boards": {
     "news": [
       {
@@ -6593,6 +6593,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
       },
       {
+        "id": "how-did-2-000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock-for-earth-s",
+        "title": "How did 2,000-year-old volcanic ash help scientists build a more precise clock for Earth's history?",
+        "excerpt": "Mount Vesuvius erupted in 79 AD and buried Pompeii. That same 2,000-year-old catastrophe is now serving as a calibration point for argon-argon dating, the clock geologists use to time volcanoes, extinctions and asteroid impacts \u2014 making it up to twice as precise.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-2000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-2-000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock-for-earth-s.html"
+      },
+      {
         "id": "could-a-reusable-spaceplane-really-fly-to-space-twice-a-day-from-a-british-airport",
         "title": "Could a Reusable Spaceplane Really Fly to Space Twice a Day from a British Airport?",
         "excerpt": "Spaceport Cornwall and New Zealand firm Dawn Aerospace have signed an agreement to explore flying a reusable, runway-launched spaceplane from Newquay \u2014 a sleek rocket-powered craft that could one day reach the edge of space and be back on the ground in time to do it all again the same day.",
@@ -8288,6 +8300,18 @@
       "image": "assets/images/where-did-the-worlds-only-flying-mammals-first-take-off.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
+    },
+    {
+      "id": "how-did-2-000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock-for-earth-s",
+      "title": "How did 2,000-year-old volcanic ash help scientists build a more precise clock for Earth's history?",
+      "excerpt": "Mount Vesuvius erupted in 79 AD and buried Pompeii. That same 2,000-year-old catastrophe is now serving as a calibration point for argon-argon dating, the clock geologists use to time volcanoes, extinctions and asteroid impacts \u2014 making it up to twice as precise.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-2000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-2-000-year-old-volcanic-ash-help-scientists-build-a-more-precise-clock-for-earth-s.html"
     },
     {
       "id": "could-a-reusable-spaceplane-really-fly-to-space-twice-a-day-from-a-british-airport",
