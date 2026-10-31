@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:46:58Z",
+  "updated": "2026-10-31T14:55:50Z",
   "boards": {
     "news": [
       {
@@ -325,6 +325,18 @@
         "image": "assets/images/could-the-first-animals-be-200-million-years-older-than-their-fossils.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-first-animals-be-200-million-years-older-than-their-fossils.html"
+      },
+      {
+        "id": "how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur",
+        "title": "How Did a Road Crew in Brazil Uncover a 20-Meter Dinosaur?",
+        "excerpt": "Workers laying a rail terminal in northeastern Brazil dug up bones 8 meters down \u2014 and palaeontologists soon realized they belonged to a brand-new species of giant dinosaur, one with surprising family ties to Europe.",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.html"
       },
       {
         "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
@@ -10282,6 +10294,18 @@
       "image": "assets/images/could-the-first-animals-be-200-million-years-older-than-their-fossils.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-the-first-animals-be-200-million-years-older-than-their-fossils.html"
+    },
+    {
+      "id": "how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur",
+      "title": "How Did a Road Crew in Brazil Uncover a 20-Meter Dinosaur?",
+      "excerpt": "Workers laying a rail terminal in northeastern Brazil dug up bones 8 meters down \u2014 and palaeontologists soon realized they belonged to a brand-new species of giant dinosaur, one with surprising family ties to Europe.",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-road-crew-in-brazil-uncover-a-20-meter-dinosaur.html"
     },
     {
       "id": "why-did-the-first-diplodocus-outside-north-america-turn-up-in-spain",
