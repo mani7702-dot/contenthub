@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:56:28Z",
+  "updated": "2026-10-31T14:05:47Z",
   "boards": {
     "news": [
       {
@@ -6773,6 +6773,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
       },
       {
+        "id": "how-could-one-tiny-atom-help-explain-the-origin-of-life",
+        "title": "How Could One Tiny Atom Help Explain the Origin of Life?",
+        "excerpt": "Life's building blocks had to gather somewhere before there were any cells to hold them. New research shows a single oxygen atom makes RNA unusually good at clumping into droplets \u2014 a small quirk of chemistry with enormous consequences.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-could-one-tiny-atom-help-explain-the-origin-of-life.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-one-tiny-atom-help-explain-the-origin-of-life.html"
+      },
+      {
         "id": "why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks",
         "title": "Why does Mount Etna sometimes erupt in hours and other times in weeks?",
         "excerpt": "Mount Etna can brew an eruption like a shaken soda bottle or let it fizz slowly for weeks. Scientists cracked the difference by reading minerals that grew inside the volcano's hidden plumbing system.",
@@ -8528,6 +8540,18 @@
       "image": "assets/images/where-did-the-worlds-only-flying-mammals-first-take-off.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/where-did-the-world-s-only-flying-mammals-first-take-off.html"
+    },
+    {
+      "id": "how-could-one-tiny-atom-help-explain-the-origin-of-life",
+      "title": "How Could One Tiny Atom Help Explain the Origin of Life?",
+      "excerpt": "Life's building blocks had to gather somewhere before there were any cells to hold them. New research shows a single oxygen atom makes RNA unusually good at clumping into droplets \u2014 a small quirk of chemistry with enormous consequences.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-could-one-tiny-atom-help-explain-the-origin-of-life.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-one-tiny-atom-help-explain-the-origin-of-life.html"
     },
     {
       "id": "why-does-mount-etna-sometimes-erupt-in-hours-and-other-times-in-weeks",
