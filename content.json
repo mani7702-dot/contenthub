@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T18:29:41Z",
+  "updated": "2026-10-31T18:36:24Z",
   "boards": {
     "news": [
       {
@@ -8429,6 +8429,18 @@
         "image": "assets/images/did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine.html"
+      },
+      {
+        "id": "who-were-the-secret-potters-who-carried-their-homeland-inside-their-clay",
+        "title": "Who Were the Secret Potters Who Carried Their Homeland Inside Their Clay?",
+        "excerpt": "A 100-year-old Florida mystery is solved \u2014 migrant potters ground up their old homeland pottery and mixed it into new vessels, generation after generation.",
+        "tag": "history",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/who-were-the-secret-potters-who-carried-their-homeland-inside-their-clay.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/who-were-the-secret-potters-who-carried-their-homeland-inside-their-clay.html"
       },
       {
         "id": "can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind",
@@ -17076,6 +17088,12 @@
       "fact": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?",
       "category": "science",
       "title": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?"
+    },
+    {
+      "id": "who-were-the-secret-potters-who-carried-their-homeland-inside-their-clay",
+      "fact": "Who Were the Secret Potters Who Carried Their Homeland Inside Their Clay?",
+      "category": "history",
+      "title": "Who Were the Secret Potters Who Carried Their Homeland Inside Their Clay?"
     },
     {
       "id": "can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind",
