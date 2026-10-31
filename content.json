@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:18:35Z",
+  "updated": "2026-10-31T15:24:45Z",
   "boards": {
     "news": [
       {
@@ -8225,6 +8225,18 @@
         "image": "assets/images/how-does-vitamin-a-help-build-the-sharpest-part-of-the-human-eye.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-vitamin-a-help-build-the-sharpest-part-of-the-human-eye.html"
+      },
+      {
+        "id": "how-could-a-glacier-help-move-stonehenge-s-six-ton-altar-stone",
+        "title": "How Could a Glacier Help Move Stonehenge's Six-Ton Altar Stone?",
+        "excerpt": "The Altar Stone at Stonehenge came from Scotland, 435 miles away \u2014 and for years nobody could agree how it got there. A new study suggests an ancient ice sheet may have done the first part of the journey, leaving people to finish the job.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-could-a-glacier-help-move-stonehenge-s-six-ton-altar-stone.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-a-glacier-help-move-stonehenge-s-six-ton-altar-stone.html"
       },
       {
         "id": "did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine",
@@ -16692,6 +16704,12 @@
       "fact": "How Does Vitamin A Help Build the Sharpest Part of the Human Eye?",
       "category": "science",
       "title": "How Does Vitamin A Help Build the Sharpest Part of the Human Eye?"
+    },
+    {
+      "id": "how-could-a-glacier-help-move-stonehenge-s-six-ton-altar-stone",
+      "fact": "How Could a Glacier Help Move Stonehenge's Six-Ton Altar Stone?",
+      "category": "History",
+      "title": "How Could a Glacier Help Move Stonehenge's Six-Ton Altar Stone?"
     },
     {
       "id": "did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine",
