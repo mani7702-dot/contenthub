@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T07:18:48Z",
+  "updated": "2026-10-31T07:59:06Z",
   "boards": {
     "news": [
       {
@@ -313,6 +313,18 @@
         "image": "assets/images/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.html"
+      },
+      {
+        "id": "how-did-three-forgotten-assyrian-kings-vanish-from-history",
+        "title": "How Did Three Forgotten Assyrian Kings Vanish From History?",
+        "excerpt": "For over 2,700 years, scholars have relied on a single list to understand the rulers of ancient Assyria. Now, new research suggests three of those rulers were quietly erased \u2014 and a solar eclipse may be the clue that finally brings them back.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/three-forgotten-assyrian-kings-erased-from-history.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-three-forgotten-assyrian-kings-vanish-from-history.html"
       },
       {
         "id": "why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery",
@@ -10042,6 +10054,18 @@
       "image": "assets/images/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-6-inch-cretaceous-rabbit-rewrite-40-years-of-mammal-history.html"
+    },
+    {
+      "id": "how-did-three-forgotten-assyrian-kings-vanish-from-history",
+      "title": "How Did Three Forgotten Assyrian Kings Vanish From History?",
+      "excerpt": "For over 2,700 years, scholars have relied on a single list to understand the rulers of ancient Assyria. Now, new research suggests three of those rulers were quietly erased \u2014 and a solar eclipse may be the clue that finally brings them back.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/three-forgotten-assyrian-kings-erased-from-history.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-three-forgotten-assyrian-kings-vanish-from-history.html"
     },
     {
       "id": "why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery",
