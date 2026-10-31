@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T09:41:02Z",
+  "updated": "2026-10-31T10:12:11Z",
   "boards": {
     "news": [
       {
@@ -181,6 +181,18 @@
         "image": "assets/images/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.html"
+      },
+      {
+        "id": "how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years",
+        "title": "How Did a Dinosaur With Giant Claws Sit Hidden in a Museum Drawer for 100 Years?",
+        "excerpt": "A skull fragment picked up on England's Isle of Wight in 1924 spent nearly a century overlooked in a London museum drawer \u2014 until scientists realized it belonged to Invictibellatrix, a tiger-sized predator with claws up to 20cm long and the first known megaraptoran dinosaur in Europe.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.html"
       },
       {
         "id": "was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers",
@@ -9946,6 +9958,18 @@
       "image": "assets/images/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/can-a-75-year-old-math-idea-really-solve-99-of-wordle-puzzles.html"
+    },
+    {
+      "id": "how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years",
+      "title": "How Did a Dinosaur With Giant Claws Sit Hidden in a Museum Drawer for 100 Years?",
+      "excerpt": "A skull fragment picked up on England's Isle of Wight in 1924 spent nearly a century overlooked in a London museum drawer \u2014 until scientists realized it belonged to Invictibellatrix, a tiger-sized predator with claws up to 20cm long and the first known megaraptoran dinosaur in Europe.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-dinosaur-with-giant-claws-sit-hidden-in-a-museum-drawer-for-100-years.html"
     },
     {
       "id": "was-t-rex-warm-blooded-a-66-million-year-old-tooth-finally-answers",
