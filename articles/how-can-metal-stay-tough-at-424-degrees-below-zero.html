@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How can metal stay tough at 424 degrees below zero? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>How can metal stay tough at 424 degrees below zero?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-can-metal-stay-tough-at-424-degrees-below-zero.jpg" alt="How can metal stay tough at 424 degrees below zero?">
+    <div class="article-body">
+      <p>Most metals turn brittle in extreme cold. Two new alloys bend instead of breaking at -253°C, and scientists have figured out the trick.</p>
+      <p>Chill a metal and it usually gets stronger. Push it cold enough, though, and it also gets cranky — tiny cracks can race through it and snap it apart like a frozen chocolate bar. That brittleness has been a stubborn headache for engineers building machines for the coldest places on Earth and in space. Now, a team of researchers has found two metals that simply refuse to crack at minus 253°C (-424°F) — and they've worked out why.</p>
+<h2>The cold problem, explained</h2>
+<p>Many common metals — iron, tungsten, chromium and their cousins — share an orderly, cube-like atomic pattern called body-centered cubic. When you bend these metals at room temperature, microscopic line-shaped flaws called dislocations slide through the crystal, letting it stretch instead of shatter. But as temperatures plunge, those dislocations get harder and harder to move. With fewer ways to relieve stress, a small crack can spread and turn into a full fracture. That point is called the ductile-to-brittle transition, and it has long been treated as a basic rule of these metals.</p>
+<h2>A surprising new pathway</h2>
+<p>The new alloys, made mostly from niobium and titanium, sidestep that rule. Cooled all the way down to 20 kelvin — about -253°C — they showed no measurable shift toward brittleness. Peering through electron microscopes and firing neutrons at samples at the ISIS Neutron and Muon Source in Oxfordshire, the team saw a process called nanoscale twinning: tiny regions of the crystal rearranged into mirror-image patterns, alongside a local change in the crystal structure itself. Where those new regions met the borders between neighbouring crystals, they created fresh dislocations — giving the metal new ways to bend and soak up stress even when old pathways jammed.</p>
+<p>Researchers at the University of California, Berkeley, Lawrence Berkeley National Laboratory and the University of Oxford compare it to a road network finding side streets when the main routes freeze over. "Traditionally, the focus was on how readily existing dislocations can move through a metal, but now it appears that the ability to create new dislocations matters just as much," said lead author Dr David Cook.</p>
+<h2>Where this could help</h2>
+<p>The findings, published in the journal <em>Nature</em>, hint at tougher parts for the energy, transportation and aerospace industries — think components that must survive the deep chill of liquid fuels or the vacuum of space without becoming dangerously fragile. "For decades, the ductile-to-brittle transition has been viewed as a fundamental limitation," said corresponding author Professor Dong Liu. "What surprised us is that these alloys remain remarkably damage tolerant even at 20 kelvin."</p>
+<p><strong>Fun fact:</strong> 20 kelvin is only 20 degrees above absolute zero — colder than the surface of Pluto, and cold enough to freeze nitrogen solid.</p>
+<p>Sources:</p>
+<ul><li>ScienceDaily — "Scientists discover metals that defy the deep freeze at -424°F" (https://www.sciencedaily.com/releases/2026/10/261029072127.htm)</li><li>SciTechDaily — "Scientists Discover Metals That Refuse To Crack at an Astonishing -424°F" (https://scitechdaily.com/scientists-discover-metals-that-refuse-to-crack-at-an-astonishing-424f/)</li><li>Nature — Cook et al., "Competing mechanisms toughen bcc binary and medium-entropy alloys at 20 K", DOI 10.1038/s41586-026-11065-7 (14 October 2026)</li></ul>
+<p><em>Published at 20:04 IST, October 31, 2026.</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

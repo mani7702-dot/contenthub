@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:10:48Z",
+  "updated": "2026-10-31T14:37:30Z",
   "boards": {
     "news": [
       {
@@ -529,6 +529,18 @@
         "image": "assets/images/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.html"
+      },
+      {
+        "id": "how-can-metal-stay-tough-at-424-degrees-below-zero",
+        "title": "How can metal stay tough at 424 degrees below zero?",
+        "excerpt": "Most metals turn brittle in extreme cold. Two new alloys bend instead of breaking at -253\u00b0C, and scientists have figured out the trick.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-can-metal-stay-tough-at-424-degrees-below-zero.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-metal-stay-tough-at-424-degrees-below-zero.html"
       },
       {
         "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
@@ -10462,6 +10474,18 @@
       "image": "assets/images/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs.html"
+    },
+    {
+      "id": "how-can-metal-stay-tough-at-424-degrees-below-zero",
+      "title": "How can metal stay tough at 424 degrees below zero?",
+      "excerpt": "Most metals turn brittle in extreme cold. Two new alloys bend instead of breaking at -253\u00b0C, and scientists have figured out the trick.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-can-metal-stay-tough-at-424-degrees-below-zero.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-metal-stay-tough-at-424-degrees-below-zero.html"
     },
     {
       "id": "how-did-nasa-s-asteroid-bennu-samples-reveal-secrets-of-the-solar-system-s-birth",
