@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:35:50Z",
+  "updated": "2026-10-31T17:55:10Z",
   "boards": {
     "news": [
       {
@@ -325,6 +325,18 @@
         "image": "assets/images/how-nasas-roman-telescope-became-sharper-than-expected.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-roman-telescope-become-sharper-than-expected.html"
+      },
+      {
+        "id": "how-can-a-deep-sea-microbe-break-nitrogen-s-toughest-bond-in-near-boiling-water",
+        "title": "How Can a Deep-Sea Microbe Break Nitrogen's Toughest Bond in Near-Boiling Water?",
+        "excerpt": "A microbe from volcanic ocean vents chews through one of chemistry's strongest bonds at temperatures that would cook most proteins \u2014 and a fresh look at its enzyme may explain how all life does it.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3",
+        "image": "assets/images/how-can-a-deep-sea-microbe-break-nitrogen-s-toughest-bond-in-near-boiling-water.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-deep-sea-microbe-break-nitrogen-s-toughest-bond-in-near-boiling-water.html"
       },
       {
         "id": "how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines",
@@ -10462,6 +10474,18 @@
       "image": "assets/images/how-nasas-roman-telescope-became-sharper-than-expected.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-nasa-s-roman-telescope-become-sharper-than-expected.html"
+    },
+    {
+      "id": "how-can-a-deep-sea-microbe-break-nitrogen-s-toughest-bond-in-near-boiling-water",
+      "title": "How Can a Deep-Sea Microbe Break Nitrogen's Toughest Bond in Near-Boiling Water?",
+      "excerpt": "A microbe from volcanic ocean vents chews through one of chemistry's strongest bonds at temperatures that would cook most proteins \u2014 and a fresh look at its enzyme may explain how all life does it.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3",
+      "image": "assets/images/how-can-a-deep-sea-microbe-break-nitrogen-s-toughest-bond-in-near-boiling-water.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-deep-sea-microbe-break-nitrogen-s-toughest-bond-in-near-boiling-water.html"
     },
     {
       "id": "how-did-a-245-million-year-old-reptile-keep-its-stomach-liver-and-intestines",
