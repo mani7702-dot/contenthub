@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can We Turn Seawater Into Drinking Water Without Leaving Any Waste Behind? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Trending</span>
+      <h1>Can We Turn Seawater Into Drinking Water Without Leaving Any Waste Behind?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind.jpg" alt="Can We Turn Seawater Into Drinking Water Without Leaving Any Waste Behind?">
+    <div class="article-body">
+      <p>Engineers at the University of Rochester have built a solar-powered panel that turns ocean water into fresh water — and turns the leftover salt into something useful instead of waste.</p>
+      <p>Imagine a machine that drinks from the ocean and hands back clean water — leaving nothing harmful behind. Engineers at the University of Rochester have built something very close to that.</p>
+<h2>The Trouble With a Glass of Ocean Water</h2>
+<p>Before seawater can be drunk, the salt has to come out. Today's most common methods either force water through special membranes or boil it with heat. Both work, but both are energy-hungry — and both leave behind a super-salty leftover called <strong>brine</strong>. When that brine is pumped back into the sea, it can raise the local saltiness and lower oxygen levels, making life harder for fish and other ocean creatures.</p>
+<h2>A Panel That Drinks Sunlight</h2>
+<p>The Rochester team, led by Chunlei Guo at the Institute of Optics, took a different path. They etched ordinary black metal with ultrafast laser pulses, each flash lasting about one quadrillionth of a second. The treatment makes the metal soak up nearly all the sunlight and pull water across its surface in a very thin film. As that film evaporates, the salt is left behind.</p>
+<h2>The Coffee-Ring Trick</h2>
+<p>Salt buildup is the great enemy of solar desalination — think of the crusty scale inside an old kettle, but far worse. So the researchers carved tiny grooves that nudge salts away from the hot, sunny middle of the panel and toward its cooler edges. They borrowed a familiar piece of physics: the coffee-ring effect, that dark ring left behind when a spilled drop of coffee dries. The same nudge pushes the salts aside.</p>
+<p>They tested the panels with real seawater collected from the Pacific, Atlantic, and Indian Oceans. The surface cleaned itself, and the salt never slowed the panel down. Nearly 100 percent of the salt comes out as a solid — no liquid brine at all.</p>
+<h2>From Waste to Resource</h2>
+<p>That solid salt is not just trash to be hauled away. Some of it could become ordinary table salt, and the team showed the same panels can be tuned to pull out <strong>lithium</strong>, the metal used in batteries for phones and electric cars. Using water from Great Salt Lake, they recovered about half of the lithium in the leftover salts.</p>
+<p>The technology is still at an early, small-scale proof-of-concept stage. But Guo believes its simple design can be scaled up — offering more fresh water for a growing world while turning a waste stream into a resource.</p>
+<p><strong>Fun fact:</strong> A femtosecond — the length of each laser pulse — is to one second what one second is to about 31.7 million years.</p>
+<p>---</p>
+<p><em>Sources:</em></p>
+<ul><li><em>University of Rochester — "New method turns ocean water into drinking water, without waste" (27 May 2026)</em></li><li><em>ScienceDaily — "Scientists turn seawater into fresh water without harmful brine" (16 September 2026)</em></li><li><em>Light: Science &amp; Applications — Tang, Singh, Wei, Xu &amp; Guo (2026), DOI 10.1038/s41377-026-02315-4</em></li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:45:29Z",
+  "updated": "2026-10-31T11:58:50Z",
   "boards": {
     "news": [
       {
@@ -8129,6 +8129,18 @@
         "image": "assets/images/did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine.html"
+      },
+      {
+        "id": "can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind",
+        "title": "Can We Turn Seawater Into Drinking Water Without Leaving Any Waste Behind?",
+        "excerpt": "Engineers at the University of Rochester have built a solar-powered panel that turns ocean water into fresh water \u2014 and turns the leftover salt into something useful instead of waste.",
+        "tag": "Trending",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind.html"
       },
       {
         "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
@@ -16476,6 +16488,12 @@
       "fact": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?",
       "category": "science",
       "title": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?"
+    },
+    {
+      "id": "can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind",
+      "fact": "Can We Turn Seawater Into Drinking Water Without Leaving Any Waste Behind?",
+      "category": "Trending",
+      "title": "Can We Turn Seawater Into Drinking Water Without Leaving Any Waste Behind?"
     },
     {
       "id": "how-did-astronauts-give-the-iss-a-powerful-solar-upgrade",
