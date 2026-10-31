@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T05:08:50Z",
+  "updated": "2026-10-31T06:27:19Z",
   "boards": {
     "news": [
       {
@@ -349,6 +349,18 @@
         "image": "assets/images/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.html"
+      },
+      {
+        "id": "how-did-a-ghostly-eyeless-snail-turn-up-in-a-hidden-chinese-cave",
+        "title": "How did a ghostly eyeless snail turn up in a hidden Chinese cave?",
+        "excerpt": "Deep inside a 2,000-metre high-altitude limestone cave in Yunnan, China, scientists found only three living adults of a brand-new, completely eyeless freshwater snail \u2014 a translucent 'ghost' that survives in total darkness on diatoms and a tiny bit of lab-supplied food.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-ghostly-eyeless-snail-turn-up-in-a-chinese-cave.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-ghostly-eyeless-snail-turn-up-in-a-hidden-chinese-cave.html"
       },
       {
         "id": "how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs",
@@ -10042,6 +10054,18 @@
       "image": "assets/images/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands.html"
+    },
+    {
+      "id": "how-did-a-ghostly-eyeless-snail-turn-up-in-a-hidden-chinese-cave",
+      "title": "How did a ghostly eyeless snail turn up in a hidden Chinese cave?",
+      "excerpt": "Deep inside a 2,000-metre high-altitude limestone cave in Yunnan, China, scientists found only three living adults of a brand-new, completely eyeless freshwater snail \u2014 a translucent 'ghost' that survives in total darkness on diatoms and a tiny bit of lab-supplied food.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-ghostly-eyeless-snail-turn-up-in-a-chinese-cave.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-ghostly-eyeless-snail-turn-up-in-a-hidden-chinese-cave.html"
     },
     {
       "id": "how-did-insects-conquer-land-meet-the-324-million-year-old-swimmer-with-24-legs",
