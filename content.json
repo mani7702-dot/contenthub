@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:02:14Z",
+  "updated": "2026-10-31T17:27:37Z",
   "boards": {
     "news": [
       {
@@ -601,6 +601,18 @@
         "image": "assets/images/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.html"
+      },
+      {
+        "id": "why-is-a-day-on-earth-not-exactly-24-hours",
+        "title": "Why Is a Day on Earth Not Exactly 24 Hours?",
+        "excerpt": "We all live by the clock, but the planet underneath us keeps its own. A new study in Nature points to a slow tug-of-war thousands of kilometres beneath our feet \u2014 one that quietly stretches and shrinks our days.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "4 min",
+        "image": "assets/images/why-is-a-day-on-earth-not-exactly-24-hours.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-is-a-day-on-earth-not-exactly-24-hours.html"
       },
       {
         "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",
@@ -10714,6 +10726,18 @@
       "image": "assets/images/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/who-were-the-children-in-these-medieval-graves-if-they-weren-t-family.html"
+    },
+    {
+      "id": "why-is-a-day-on-earth-not-exactly-24-hours",
+      "title": "Why Is a Day on Earth Not Exactly 24 Hours?",
+      "excerpt": "We all live by the clock, but the planet underneath us keeps its own. A new study in Nature points to a slow tug-of-war thousands of kilometres beneath our feet \u2014 one that quietly stretches and shrinks our days.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "4 min",
+      "image": "assets/images/why-is-a-day-on-earth-not-exactly-24-hours.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-is-a-day-on-earth-not-exactly-24-hours.html"
     },
     {
       "id": "how-did-scientists-listen-to-98-million-bat-calls-across-england-s-woodlands",

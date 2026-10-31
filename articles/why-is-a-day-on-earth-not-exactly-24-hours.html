@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Is a Day on Earth Not Exactly 24 Hours? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Why Is a Day on Earth Not Exactly 24 Hours?</h1>
+      <div class="meta"><span></span><span>2026-10-31</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-is-a-day-on-earth-not-exactly-24-hours.jpg" alt="Why Is a Day on Earth Not Exactly 24 Hours?">
+    <div class="article-body">
+      <p>We all live by the clock, but the planet underneath us keeps its own. A new study in Nature points to a slow tug-of-war thousands of kilometres beneath our feet — one that quietly stretches and shrinks our days.</p>
+      <h1>Why Is a Day on Earth Not Exactly 24 Hours?</h1>
+<p>We treat a day as a fixed thing: the time it takes for the Sun to come back around, the space between one breakfast and the next. Yet the planet we stand on is not a perfect, steady spinning top. Its rotation drifts, and the length of a day can grow or shrink by a few thousandths of a second.</p>
+<p>That is far too small for us to feel. But extremely precise clocks can measure it, and for about thirty years scientists have been trying to explain why it happens.</p>
+<h2>1. A Quiet Tug-of-War Deep Inside the Planet</h2>
+<p>Earth is built in layers. At the very centre sits a solid inner core, wrapped in a churning ocean of liquid metal, and above that a rocky mantle about 3,000 kilometres thick that carries the continents on its back.</p>
+<p>Because the planet's total "spin energy" (what physicists call angular momentum) has to stay constant, these layers cannot all speed up or slow down at once. When the liquid core spins a little faster over a few decades, the mantle compensates by slowing down slightly — and that tiny slowdown nudges the length of a day.</p>
+<h2>2. Why the Hidden Layers Drift</h2>
+<p>A new study published in <em>Nature</em> by University of Alberta researchers Huifeng Zhang and Mathieu Dumberry offers a neat answer. The solid inner core is not perfectly round. As it shifts its spin, its uneven shape gravitationally tugs on heavier and lighter patches in the mantle — a "gravitational torque" that gently re-times the whole planet.</p>
+<p>Working against that pull is friction and electromagnetic drag at the boundary where core meets mantle. The day's tiny wobbles come from the balance between these two opposing forces.</p>
+<h2>3. What It Tells Us About Earth's Heart</h2>
+<p>The discovery is not just about clocks. It also hints that the inner core may slowly change shape, deforming over roughly a decade. Earth's deepest layer, long imagined as a frozen ball of iron, may be far more restless than it looks.</p>
+<p>Next time a long day seems to drag, you can blame the planet — ever so slightly.</p>
+<h2>Fun Fact</h2>
+<p>Earth's inner core is roughly as hot as the surface of the Sun — around 5,000 to 6,000 °C — yet it stays solid because of the crushing pressure above it.</p>
+<h2>Sources</h2>
+<ul><li>Zhang, H. &amp; Dumberry, M. "Gravitational torque drives multidecadal variations in length of day." <em>Nature</em> (Sept 23, 2026). DOI: 10.1038/s41586-026-10999-2</li><li>University of Alberta / Phys.org, "Earth's deep secret: Why your day isn't quite 24 hours" (Sept 2026)</li><li>ScienceDaily, "Earth's day isn't exactly 24 hours. The reason may lie deep inside the planet" (Sept 2026)</li></ul>
+<p><em>Published 22:55 IST, 31 October 2026.</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
