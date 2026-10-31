@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T23:48:32Z",
+  "updated": "2026-10-31T23:57:48Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.html"
+      },
+      {
+        "id": "why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years",
+        "title": "Why Did a Rare Beetle That Rides on Bees Come Back to Wales After 60 Years?",
+        "excerpt": "A little beetle that hitches a lift on bees to raise its young has turned up breeding in Wales for the first time in six decades \u2014 and its comeback is a hopeful sign.",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.html"
       },
       {
         "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
@@ -10534,6 +10546,18 @@
       "image": "assets/images/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.html"
+    },
+    {
+      "id": "why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years",
+      "title": "Why Did a Rare Beetle That Rides on Bees Come Back to Wales After 60 Years?",
+      "excerpt": "A little beetle that hitches a lift on bees to raise its young has turned up breeding in Wales for the first time in six decades \u2014 and its comeback is a hopeful sign.",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.html"
     },
     {
       "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
