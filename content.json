@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:30:43Z",
+  "updated": "2026-10-31T16:53:00Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+      },
+      {
+        "id": "why-are-jwst-s-mysterious-little-red-dots-secretly-growing-black-holes",
+        "title": "Why Are JWST's Mysterious 'Little Red Dots' Secretly Growing Black Holes?",
+        "excerpt": ">-",
+        "tag": "news",
+        "author": "",
+        "date": "2026-10-31T22:21:00+05:30",
+        "read": "5 min read",
+        "image": "assets/images/why-are-jwsts-mysterious-little-red-dots-secretly-growing-black-holes.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-jwst-s-mysterious-little-red-dots-secretly-growing-black-holes.html"
       },
       {
         "id": "could-living-bacteria-become-the-switches-inside-a-computer",
@@ -10102,6 +10114,18 @@
       "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+    },
+    {
+      "id": "why-are-jwst-s-mysterious-little-red-dots-secretly-growing-black-holes",
+      "title": "Why Are JWST's Mysterious 'Little Red Dots' Secretly Growing Black Holes?",
+      "excerpt": ">-",
+      "tag": "news",
+      "author": "",
+      "date": "2026-10-31T22:21:00+05:30",
+      "read": "5 min read",
+      "image": "assets/images/why-are-jwsts-mysterious-little-red-dots-secretly-growing-black-holes.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-jwst-s-mysterious-little-red-dots-secretly-growing-black-holes.html"
     },
     {
       "id": "could-living-bacteria-become-the-switches-inside-a-computer",
