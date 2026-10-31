@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T00:56:42Z",
+  "updated": "2026-10-31T01:25:58Z",
   "boards": {
     "news": [
       {
@@ -265,6 +265,18 @@
         "image": "assets/images/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.html"
+      },
+      {
+        "id": "how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna",
+        "title": "How did a tiny pond creature in England rewrite the rules of DNA?",
+        "excerpt": "A microscopic protist scooped from an Oxford university pond turned out to read DNA instructions in a way no one had ever seen \u2014 showing that one of biology's most fundamental rules is more flexible than scientists thought.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.html"
       },
       {
         "id": "how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue",
@@ -9838,6 +9850,18 @@
       "image": "assets/images/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-feather-in-dinosaur-poop-solve-a-66-million-year-old-mystery.html"
+    },
+    {
+      "id": "how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna",
+      "title": "How did a tiny pond creature in England rewrite the rules of DNA?",
+      "excerpt": "A microscopic protist scooped from an Oxford university pond turned out to read DNA instructions in a way no one had ever seen \u2014 showing that one of biology's most fundamental rules is more flexible than scientists thought.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-tiny-pond-creature-in-england-rewrite-the-rules-of-dna.html"
     },
     {
       "id": "how-did-a-450-million-year-old-sea-lily-keep-its-soft-tissue",
