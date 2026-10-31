@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Could Living Bacteria Become the Switches Inside a Computer? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Technology</span>
+      <h1>Could Living Bacteria Become the Switches Inside a Computer?</h1>
+      <div class="meta"><span></span><span>2026-10-31T21:53:00+05:30</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/could-living-bacteria-become-the-switches-inside-a-computer.jpg" alt="Could Living Bacteria Become the Switches Inside a Computer?">
+    <div class="article-body">
+      <p>Engineers at MIT have grown living circuits out of bacteria, turning colonies of microbes into switches that can pass signals along — a computer made of life itself.</p>
+      <p>What if a computer wasn't built from silicon and wire, but grown in a dish?</p>
+<p>That's the idea behind a new experiment at the Massachusetts Institute of Technology, where researchers have engineered bacteria to act like <strong>transistors</strong> — the tiny switches inside every electronic gadget that turn a signal on or off.</p>
+<h2>1. Bacteria that behave like switches</h2>
+<p>In an ordinary chip, a transistor decides whether electricity flows through a circuit. In this living version, engineered bacteria do the same job by controlling the movement of small signalling molecules, which carry information from one group of cells to the next.</p>
+<p>The team built two kinds of bacterial "transistor" and three more strains that act as relays between them. Those five strains together form a flexible kit — like a box of building blocks that can be arranged into many different circuit designs.</p>
+<p>Using them, the researchers built working logic gates and even a circuit that can add two numbers together, printed onto a gel-like growth material inside a Petri dish.</p>
+<h2>2. The puzzle they solved</h2>
+<p>Until now, living circuits mostly squeezed all their parts into a single cell — and cells run out of room. "We've built some initial computer architecture components that are commonly used, but any operation can be built with these five strains," said Hamid Doosthosseini, the study's lead author.</p>
+<p>The trick was borrowing a bacterium called <em>Pantoea agglomerans</em>, which naturally grows on plant surfaces, and splitting the work across separate colonies instead of one crowded cell.</p>
+<h2>3. Where a living circuit might help</h2>
+<p>The researchers aren't trying to replace your laptop. Their hope is subtly different: to place living circuits on plant leaves or roots, where they could sense a drought or a pest attack and help the plant respond.</p>
+<p>Biology, after all, is already brilliant at detecting tiny changes in the world around it.</p>
+<h2>Fun fact</h2>
+<p>These circuits are slow by computer standards — signals crawl along over minutes or hours. But they can repair themselves, grow, and even make copies of themselves, things no silicon chip has ever managed.</p>
+<p><em>Published at 21:53 IST on 31 October 2026.</em></p>
+<p><strong>Sources</strong></p>
+<ul><li>MIT News / ScienceDaily — "MIT turns bacteria into living transistors" (September 2026), https://www.sciencedaily.com/releases/2026/09/260901070526.htm</li><li>SciTechDaily — "MIT Engineers Create a Living Circuit Board From Bacteria", https://scitechdaily.com/mit-engineers-create-a-living-circuit-board-from-bacteria/</li><li>Hamid Doosthosseini, Haorong Chen, Christopher A. Voigt, "Living circuit boards built by printing bacterial transistors," <em>Nature Chemical Biology</em>, 2026, DOI: 10.1038/s41589-026-02300-3</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

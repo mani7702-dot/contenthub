@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:15:59Z",
+  "updated": "2026-10-31T16:24:12Z",
   "boards": {
     "news": [
       {
@@ -13,6 +13,18 @@
         "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+      },
+      {
+        "id": "could-living-bacteria-become-the-switches-inside-a-computer",
+        "title": "Could Living Bacteria Become the Switches Inside a Computer?",
+        "excerpt": "Engineers at MIT have grown living circuits out of bacteria, turning colonies of microbes into switches that can pass signals along \u2014 a computer made of life itself.",
+        "tag": "Technology",
+        "author": "",
+        "date": "2026-10-31T21:53:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/could-living-bacteria-become-the-switches-inside-a-computer.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-living-bacteria-become-the-switches-inside-a-computer.html"
       },
       {
         "id": "could-a-100-detector-really-see-invisible-particles-falling-from-space",
@@ -10066,6 +10078,18 @@
       "image": "assets/images/was-the-american-cheetah-really-a-cheetah-after-all.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/was-the-american-cheetah-really-a-cheetah-after-all.html"
+    },
+    {
+      "id": "could-living-bacteria-become-the-switches-inside-a-computer",
+      "title": "Could Living Bacteria Become the Switches Inside a Computer?",
+      "excerpt": "Engineers at MIT have grown living circuits out of bacteria, turning colonies of microbes into switches that can pass signals along \u2014 a computer made of life itself.",
+      "tag": "Technology",
+      "author": "",
+      "date": "2026-10-31T21:53:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/could-living-bacteria-become-the-switches-inside-a-computer.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-living-bacteria-become-the-switches-inside-a-computer.html"
     },
     {
       "id": "could-a-100-detector-really-see-invisible-particles-falling-from-space",
