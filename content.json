@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T09:29:52Z",
+  "updated": "2026-10-31T09:41:02Z",
   "boards": {
     "news": [
       {
@@ -73,6 +73,18 @@
         "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+      },
+      {
+        "id": "why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young",
+        "title": "Why does birdwatching give our brains a workout that keeps them young?",
+        "excerpt": "New research from Baycrest Academy in Toronto shows that experienced birdwatchers have brains that stay more organized and resilient with age. MRI scans reveal structural changes in regions responsible for attention and visual recognition \u2014 the same areas that light up when spotting an unfamiliar bird in the field.",
+        "tag": "General",
+        "author": "",
+        "date": "2026-10-31",
+        "read": "3 min",
+        "image": "assets/images/2026-10-31-why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young.html"
       },
       {
         "id": "why-did-nine-gal-pagos-sea-turtles-stay-home-instead-of-crossing-the-ocean",
@@ -9826,6 +9838,18 @@
       "image": "assets/images/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-does-northern-ireland-s-new-plan-to-bring-nature-back-actually-promise.html"
+    },
+    {
+      "id": "why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young",
+      "title": "Why does birdwatching give our brains a workout that keeps them young?",
+      "excerpt": "New research from Baycrest Academy in Toronto shows that experienced birdwatchers have brains that stay more organized and resilient with age. MRI scans reveal structural changes in regions responsible for attention and visual recognition \u2014 the same areas that light up when spotting an unfamiliar bird in the field.",
+      "tag": "General",
+      "author": "",
+      "date": "2026-10-31",
+      "read": "3 min",
+      "image": "assets/images/2026-10-31-why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-does-birdwatching-give-our-brains-a-workout-that-keeps-them-young.html"
     },
     {
       "id": "why-did-nine-gal-pagos-sea-turtles-stay-home-instead-of-crossing-the-ocean",
