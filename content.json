@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:08:18Z",
+  "updated": "2026-11-01T02:15:17Z",
   "boards": {
     "news": [
       {
@@ -7049,6 +7049,18 @@
     ],
     "blog": [
       {
+        "id": "why-do-messy-networks-sometimes-outlast-perfect-ones",
+        "title": "Why Do Messy Networks Sometimes Outlast Perfect Ones?",
+        "excerpt": "For decades scientists assumed that tidy, uniform systems are the most reliable. A new mathematical framework flips that idea on its head \u2014 a little well-placed variety can actually make a network tougher.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01T07:46:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/why-do-messy-networks-sometimes-outlast-perfect-ones.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-messy-networks-sometimes-outlast-perfect-ones.html"
+      },
+      {
         "id": "could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle",
         "title": "Could Fusion Energy Have a Secret Shortcut Around Its Biggest Hurdle?",
         "excerpt": "For 70 years, scientists have tried to climb the fusion-energy mountain head-on. A new set of calculations suggests there may be a far easier pass around the side.",
@@ -8985,6 +8997,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "why-do-messy-networks-sometimes-outlast-perfect-ones",
+      "title": "Why Do Messy Networks Sometimes Outlast Perfect Ones?",
+      "excerpt": "For decades scientists assumed that tidy, uniform systems are the most reliable. A new mathematical framework flips that idea on its head \u2014 a little well-placed variety can actually make a network tougher.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01T07:46:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/why-do-messy-networks-sometimes-outlast-perfect-ones.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-messy-networks-sometimes-outlast-perfect-ones.html"
+    },
     {
       "id": "could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle",
       "title": "Could Fusion Energy Have a Secret Shortcut Around Its Biggest Hurdle?",
