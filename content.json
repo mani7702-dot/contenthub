@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:48:38Z",
+  "updated": "2026-11-01T04:56:46Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "assets/images/how-can-a-magnet-stop-a-particle-that-never-touches-it.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-magnet-stop-a-particle-that-never-touches-it.html"
+      },
+      {
+        "id": "how-did-a-quantum-computer-solve-in-15-minutes-what-ordinary-computers-can-t",
+        "title": "How Did a Quantum Computer Solve in 15 Minutes What Ordinary Computers Can't?",
+        "excerpt": "A new kind of computer just finished a puzzle in about 15 minutes that would take the world's best ordinary computers an impossibly long time \u2014 and for the first time it could also prove its answer was right. IBM and the University of Chicago call it a milestone in 'quantum advantage.'",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-quantum-computer-solve-in-15-minutes-what-ordinary-computers-can-t.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-quantum-computer-solve-in-15-minutes-what-ordinary-computers-can-t.html"
       },
       {
         "id": "what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago",
@@ -10870,6 +10882,18 @@
       "image": "assets/images/how-can-a-magnet-stop-a-particle-that-never-touches-it.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-magnet-stop-a-particle-that-never-touches-it.html"
+    },
+    {
+      "id": "how-did-a-quantum-computer-solve-in-15-minutes-what-ordinary-computers-can-t",
+      "title": "How Did a Quantum Computer Solve in 15 Minutes What Ordinary Computers Can't?",
+      "excerpt": "A new kind of computer just finished a puzzle in about 15 minutes that would take the world's best ordinary computers an impossibly long time \u2014 and for the first time it could also prove its answer was right. IBM and the University of Chicago call it a milestone in 'quantum advantage.'",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "4 min",
+      "image": "assets/images/how-did-a-quantum-computer-solve-in-15-minutes-what-ordinary-computers-can-t.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-quantum-computer-solve-in-15-minutes-what-ordinary-computers-can-t.html"
     },
     {
       "id": "what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago",
