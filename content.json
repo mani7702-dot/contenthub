@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:21:52Z",
+  "updated": "2026-11-01T06:30:49Z",
   "boards": {
     "news": [
       {
@@ -7289,6 +7289,18 @@
         "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-quantum-computer-run-any-program-by-braiding-tiny-particles.html"
       },
       {
+        "id": "what-are-fractons-the-strange-particles-that-can-barely-move",
+        "title": "What Are Fractons \u2014 the Strange Particles That Can Barely Move?",
+        "excerpt": "Imagine a particle so shy it refuses to budge on its own. Physicists have just brought fractons \u2014 oddities that barely move \u2014 a big step closer to being seen in a real material.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/what-are-fractons-the-strange-particles-that-can-barely-move.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-are-fractons-the-strange-particles-that-can-barely-move.html"
+      },
+      {
         "id": "how-does-light-spin-all-by-itself-in-empty-space",
         "title": "How Does Light Spin All By Itself in Empty Space?",
         "excerpt": "A beam of light can start out completely still and then, all on its own, grow twirling patches as it travels through empty space \u2014 no lenses, mirrors or special materials required.",
@@ -9284,6 +9296,18 @@
       "image": "assets/images/could-a-quantum-computer-run-any-program-by-braiding-tiny-particles.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-quantum-computer-run-any-program-by-braiding-tiny-particles.html"
+    },
+    {
+      "id": "what-are-fractons-the-strange-particles-that-can-barely-move",
+      "title": "What Are Fractons \u2014 the Strange Particles That Can Barely Move?",
+      "excerpt": "Imagine a particle so shy it refuses to budge on its own. Physicists have just brought fractons \u2014 oddities that barely move \u2014 a big step closer to being seen in a real material.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "4 min",
+      "image": "assets/images/what-are-fractons-the-strange-particles-that-can-barely-move.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-are-fractons-the-strange-particles-that-can-barely-move.html"
     },
     {
       "id": "how-does-light-spin-all-by-itself-in-empty-space",
