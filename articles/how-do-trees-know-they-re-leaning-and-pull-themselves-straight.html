@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Do Trees Know They're Leaning — And Pull Themselves Straight? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>How Do Trees Know They're Leaning — And Pull Themselves Straight?</h1>
+      <div class="meta"><span></span><span>2026-11-01</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.jpg" alt="How Do Trees Know They're Leaning — And Pull Themselves Straight?">
+    <div class="article-body">
+      <p>Trees can feel when their trunks are tilted, then grow special 'muscle wood' to haul themselves upright. A clever spinning-table experiment has finally shown how they do it.</p>
+      <h2>A sense we thought only animals had</h2>
+<p>Close your eyes and touch your nose. You can do it without looking because your body constantly senses where its parts are — a power called <strong>proprioception</strong>. For a long time, scientists believed this inner sense belonged to animals alone.</p>
+<p>It turns out a tree knows where it is, too. Even with no eyes and no brain, a young tree can feel that its trunk has tipped sideways — and then grow in a way that slowly hauls it back to standing straight.</p>
+<h2>The spinning table that hid every clue</h2>
+<p>The challenge was clever: how do you test a tree's sense of its own shape when gravity and sunlight are always whispering directions to it?</p>
+<p>Researchers at <strong>INRAE</strong> and <strong>Université Clermont Auvergne</strong> in France built an unusual contraption. They set young poplar trees on a platform that rotated around its axis, inside a sphere lit evenly from every side. Spinning the platform wiped out any steady sense of "up," and the even light removed the pull of the Sun. All that was left was the tree's own awareness of its bent shape.</p>
+<p>Then they watched. Over the following weeks, stems that had been curved began to straighten — until they were almost perfectly upright.</p>
+<h2>Muscle wood: a tree's two-way tug-of-war</h2>
+<p>Trees do this with a special material called <strong>tension wood</strong>. Unlike ordinary wood, tension wood pulls as it grows, working much like a contracting muscle.</p>
+<p>Here is the surprise. Scientists used to think tension wood only formed on the <em>upper</em> side of a leaning stem, tugging it skyward. The new study shows it can also form on the <em>opposite</em> side — an opposing "muscle" pulling the other way. As the two forces work against each other, the bent trunk gradually eases back into a straight line.</p>
+<p>So a tree isn't just bracing itself. It is running a genuine feedback loop — sensing its posture, then fine-tuning where new wood appears. Researchers call it a <strong>"sensorimotor loop"</strong> operating in wood.</p>
+<h2>Why it matters</h2>
+<p>Getting this balance right is serious business for a tree. The team found that when the two stages of tension wood don't coordinate well, the trunk builds up too much internal tension — which can spoil the quality of its timber.</p>
+<p>Understanding this tug-of-war could one day help foresters grow stronger trees and sturdier crops, and even guide how plants behave on long space missions, where there is no "up" at all.</p>
+<p><strong>Fun fact:</strong> Tension wood is real "muscle wood" — you can sometimes see it at the base of trees growing on steep mountain slopes, where it has spent years hauling the trunk straight.</p>
+<h2>Sources</h2>
+<ul><li>INRAE press release: "A newly discovered role for tension wood: the 'muscle' trees use to correct their posture" — inrae.fr</li><li>ScienceDaily: "Scientists discover the hidden 'muscles' trees use to straighten themselves" — sciencedaily.com</li><li>Caulus A. et al. (2026), <em>New Phytologist</em>, DOI: 10.1111/nph.71238</li></ul>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

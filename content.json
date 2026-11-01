@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:14:51Z",
+  "updated": "2026-11-01T04:39:07Z",
   "boards": {
     "news": [
       {
@@ -217,6 +217,18 @@
         "image": "assets/images/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.html"
+      },
+      {
+        "id": "how-do-trees-know-they-re-leaning-and-pull-themselves-straight",
+        "title": "How Do Trees Know They're Leaning \u2014 And Pull Themselves Straight?",
+        "excerpt": "Trees can feel when their trunks are tilted, then grow special 'muscle wood' to haul themselves upright. A clever spinning-table experiment has finally shown how they do it.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.html"
       },
       {
         "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
@@ -10966,6 +10978,18 @@
       "image": "assets/images/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.html"
+    },
+    {
+      "id": "how-do-trees-know-they-re-leaning-and-pull-themselves-straight",
+      "title": "How Do Trees Know They're Leaning \u2014 And Pull Themselves Straight?",
+      "excerpt": "Trees can feel when their trunks are tilted, then grow special 'muscle wood' to haul themselves upright. A clever spinning-table experiment has finally shown how they do it.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "4 min",
+      "image": "assets/images/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.html"
     },
     {
       "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
