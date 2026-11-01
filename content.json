@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T05:34:55Z",
+  "updated": "2026-11-01T05:55:54Z",
   "boards": {
     "news": [
       {
@@ -145,6 +145,18 @@
         "image": "assets/images/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.html"
+      },
+      {
+        "id": "why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help",
+        "title": "Why Do Some New Skills Stick \u2014 and Could a Nerve in Your Neck Help?",
+        "excerpt": "Scientists in Japan found that gently stimulating the vagus nerve after practice helped mice remember a new skill for longer \u2014 suggesting the body may quietly help the brain lock in what we learn.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/2026-11-01-why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help.html"
       },
       {
         "id": "how-did-a-quantum-computer-make-matter-pop-into-existence",
@@ -10966,6 +10978,18 @@
       "image": "assets/images/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.html"
+    },
+    {
+      "id": "why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help",
+      "title": "Why Do Some New Skills Stick \u2014 and Could a Nerve in Your Neck Help?",
+      "excerpt": "Scientists in Japan found that gently stimulating the vagus nerve after practice helped mice remember a new skill for longer \u2014 suggesting the body may quietly help the brain lock in what we learn.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/2026-11-01-why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help.html"
     },
     {
       "id": "how-did-a-quantum-computer-make-matter-pop-into-existence",
