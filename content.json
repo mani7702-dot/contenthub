@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:35:50Z",
+  "updated": "2026-11-01T01:44:27Z",
   "boards": {
     "news": [
       {
@@ -85,6 +85,18 @@
         "image": "assets/images/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.html"
+      },
+      {
+        "id": "why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number",
+        "title": "Why Couldn't a 10-Year Experiment Pin Down Gravity's Most Famous Number?",
+        "excerpt": "Scientists spent a decade trying to measure the strength of gravity. When they finally opened a sealed envelope holding the answer, the number surprised them \u2014 and deepened one of physics' oldest mysteries.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.html"
       },
       {
         "id": "can-a-human-brain-gene-really-jump-into-a-virus",
@@ -10630,6 +10642,18 @@
       "image": "assets/images/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-tiny-80-000-year-old-points-become-the-world-s-oldest-arrowheads.html"
+    },
+    {
+      "id": "why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number",
+      "title": "Why Couldn't a 10-Year Experiment Pin Down Gravity's Most Famous Number?",
+      "excerpt": "Scientists spent a decade trying to measure the strength of gravity. When they finally opened a sealed envelope holding the answer, the number surprised them \u2014 and deepened one of physics' oldest mysteries.",
+      "tag": "science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.html"
     },
     {
       "id": "can-a-human-brain-gene-really-jump-into-a-virus",
