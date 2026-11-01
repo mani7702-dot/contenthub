@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Is CERN Taking Apart Its Giant Atom Smasher? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">science</span>
+      <h1>Why Is CERN Taking Apart Its Giant Atom Smasher?</h1>
+      <div class="meta"><span></span><span>2026-11-01</span><span>4 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-is-cern-taking-apart-its-giant-atom-smasher.jpg" alt="Why Is CERN Taking Apart Its Giant Atom Smasher?">
+    <div class="article-body">
+      <p>The world's largest particle collider is being carefully opened up for the first time in nearly twenty years. The reason? New magnets that are about 40% stronger than the ones they replace.</p>
+      <h1>Why Is CERN Taking Apart Its Giant Atom Smasher?</h1>
+<p>Stretching 27 kilometres in a ring beneath the border of France and Switzerland, the Large Hadron Collider (LHC) is the biggest machine humans have ever built. For nearly twenty years it has slammed tiny particles together at almost the speed of light. Now, engineers have begun carefully taking part of it apart — and that is very good news.</p>
+<h2>A machine getting an upgrade</h2>
+<p>Since early September, teams at CERN have been disconnecting the powerful magnets that sit on either side of the LHC's two biggest experiments, ATLAS and CMS. These magnet groups, called the "inner triplets," squeeze the particle beams into razor-thin ribbons just before they collide. The current versions were installed between 2005 and 2007, so after two decades of service they are being handed over to a new generation.</p>
+<h2>Stronger magnets, brighter beams</h2>
+<p>The replacement magnets are built with coils made of a special material called niobium-tin. They can create magnetic fields of 11.3 tesla — about 40% stronger than the ones they replace. Stronger fields mean the beams can be squeezed more tightly, so more particles meet and more collisions happen. Over the coming years the whole project, known as the High-Luminosity LHC, should deliver far more data for scientists to study.</p>
+<h2>What it takes to rebuild a giant</h2>
+<p>This is delicate, big-scale engineering. In total, 28 superconducting magnets will be removed and swapped, along with 16 cryostats and 28 cryo-assemblies — the ultra-cold housings that keep the magnets working. The very first new quadrupole magnet is expected to arrive in the tunnel around the start of 2029. "It's truly remarkable to witness such a handover from one generation of innovation to the next," said CERN's Director-General, Mark Thomson, marking the start of the work.</p>
+<p><strong>Fun fact:</strong> The LHC's ring is so large that a person walking at a steady pace would take about five hours to stroll all the way around it — assuming they were allowed down in the tunnel!</p>
+<h2>Sources</h2>
+<ul><li>CERN — "The disconnection of the LHC has begun" — https://home.cern/the-disconnection-of-the-lhc-has-begun/</li><li>ScienceDaily — "CERN has begun disconnecting the Large Hadron Collider" — https://www.sciencedaily.com/releases/2026/09/260925005430.htm</li><li>Google News cluster (Fermilab, Berkeley Lab News Center, KEK, Innovation News Network, Interesting Engineering) — corroborating reports on the High-Luminosity LHC magnet upgrade</li></ul>
+<p><em>time: 09:05 IST</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>
