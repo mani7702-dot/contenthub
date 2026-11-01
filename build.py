@@ -225,6 +225,7 @@ def render_all_articles_page(items):
 ''' + footer + '''
 <script src="assets/script.js"></script>
 ''' + theme_js + '''
+<script defer src="https://bots.tail35fa6b.ts.net/script.js" data-website-id="3b119c81-4072-4c80-8b9b-61b2dfc2219f"></script>
 </body>
 </html>'''
 
