@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:24:08Z",
+  "updated": "2026-11-01T02:48:43Z",
   "boards": {
     "news": [
       {
@@ -49,6 +49,18 @@
         "image": "assets/images/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.html"
+      },
+      {
+        "id": "how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones",
+        "title": "How Does the Glue Holding Your Cells Together Help Clean Up Dead Ones?",
+        "excerpt": "Scientists have found that E-cadherin \u2014 the protein famous for sticking our cells together \u2014 has a surprising second job: helping tidy away dead cells without leaving any gaps in the body's protective layers.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.html"
       },
       {
         "id": "how-can-a-magnet-stop-a-particle-that-never-touches-it",
@@ -10678,6 +10690,18 @@
       "image": "assets/images/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball.html"
+    },
+    {
+      "id": "how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones",
+      "title": "How Does the Glue Holding Your Cells Together Help Clean Up Dead Ones?",
+      "excerpt": "Scientists have found that E-cadherin \u2014 the protein famous for sticking our cells together \u2014 has a surprising second job: helping tidy away dead cells without leaving any gaps in the body's protective layers.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.html"
     },
     {
       "id": "how-can-a-magnet-stop-a-particle-that-never-touches-it",
