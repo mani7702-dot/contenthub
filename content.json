@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:30:49Z",
+  "updated": "2026-11-01T06:39:33Z",
   "boards": {
     "news": [
       {
@@ -8886,6 +8886,18 @@
       }
     ],
     "trending": [
+      {
+        "id": "what-are-in-between-materials-and-why-could-they-power-the-future",
+        "title": "What Are \\\"In-Between\\\" Materials, and Why Could They Power the Future?",
+        "excerpt": "When chemists heat ingredients to make a new material, they usually watch only the start and the finish. A team in the UK peeked at the messy middle \u2014 and stumbled onto a hidden material that could help make clean fuels and better batteries.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/what-are-in-between-materials-and-why-could-they-power-the-future.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-are-in-between-materials-and-why-could-they-power-the-future.html"
+      },
       {
         "id": "why-are-wasps-moving-into-homes-built-for-ants",
         "title": "Why Are Wasps Moving Into Homes Built for Ants?",
@@ -18121,6 +18133,12 @@
     }
   ],
   "facts": [
+    {
+      "id": "what-are-in-between-materials-and-why-could-they-power-the-future",
+      "fact": "What Are \\\"In-Between\\\" Materials, and Why Could They Power the Future?",
+      "category": "science",
+      "title": "What Are \\\"In-Between\\\" Materials, and Why Could They Power the Future?"
+    },
     {
       "id": "why-are-wasps-moving-into-homes-built-for-ants",
       "fact": "Why Are Wasps Moving Into Homes Built for Ants?",
