@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:00:36Z",
+  "updated": "2026-11-01T08:19:58Z",
   "boards": {
     "news": [
       {
@@ -325,6 +325,18 @@
         "image": "assets/images/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.html"
+      },
+      {
+        "id": "how-does-your-name-end-up-on-an-asteroid",
+        "title": "How Does Your Name End Up on an Asteroid?",
+        "excerpt": "Two astronomers in Northern Ireland just learned that chunks of space roughly 11 km wide now carry their names. Here's how a rock drifting in the asteroid belt becomes a lasting honour.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "2 min",
+        "image": "assets/images/how-does-your-name-end-up-on-an-asteroid.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-your-name-end-up-on-an-asteroid.html"
       },
       {
         "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
@@ -11278,6 +11290,18 @@
       "image": "assets/images/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-do-trees-know-they-re-leaning-and-pull-themselves-straight.html"
+    },
+    {
+      "id": "how-does-your-name-end-up-on-an-asteroid",
+      "title": "How Does Your Name End Up on an Asteroid?",
+      "excerpt": "Two astronomers in Northern Ireland just learned that chunks of space roughly 11 km wide now carry their names. Here's how a rock drifting in the asteroid belt becomes a lasting honour.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "2 min",
+      "image": "assets/images/how-does-your-name-end-up-on-an-asteroid.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-your-name-end-up-on-an-asteroid.html"
     },
     {
       "id": "can-sunlight-and-water-really-make-clean-fuel-without-a-metal-catalyst",
