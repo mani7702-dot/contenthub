@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01T04:56:46Z",
+  "updated": "2026-11-01T05:04:46Z",
   "boards": {
     "news": [
+      {
+        "id": "are-ocean-heatwaves-hiding-months-of-extra-warming",
+        "title": "Are Ocean Heatwaves Hiding Months of Extra Warming?",
+        "excerpt": "A new way of measuring ocean warmth suggests marine heatwaves are only the hottest part of much longer warming events \u2014 meaning the total heat that sea life experiences has been underestimated by more than 150%.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/2026-11-01-are-ocean-heatwaves-hiding-months-of-extra-warming.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/are-ocean-heatwaves-hiding-months-of-extra-warming.html"
+      },
       {
         "id": "why-might-the-human-family-tree-need-a-big-rewrite",
         "title": "Why Might the Human Family Tree Need a Big Rewrite?",
@@ -10787,6 +10799,18 @@
     }
   ],
   "news": [
+    {
+      "id": "are-ocean-heatwaves-hiding-months-of-extra-warming",
+      "title": "Are Ocean Heatwaves Hiding Months of Extra Warming?",
+      "excerpt": "A new way of measuring ocean warmth suggests marine heatwaves are only the hottest part of much longer warming events \u2014 meaning the total heat that sea life experiences has been underestimated by more than 150%.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/2026-11-01-are-ocean-heatwaves-hiding-months-of-extra-warming.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/are-ocean-heatwaves-hiding-months-of-extra-warming.html"
+    },
     {
       "id": "why-might-the-human-family-tree-need-a-big-rewrite",
       "title": "Why Might the Human Family Tree Need a Big Rewrite?",
