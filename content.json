@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:44:27Z",
+  "updated": "2026-11-01T02:02:04Z",
   "boards": {
     "news": [
       {
@@ -97,6 +97,18 @@
         "image": "assets/images/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.html"
+      },
+      {
+        "id": "can-an-active-childhood-make-moving-easier-for-the-rest-of-your-life",
+        "title": "Can an active childhood make moving easier for the rest of your life?",
+        "excerpt": "A new study with guinea fowl suggests that being active while young can teach the body to move with less effort \u2014 even decades later.",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/2026-11-01-can-an-active-childhood-make-moving-easier-for-the-rest-of-your-life.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-an-active-childhood-make-moving-easier-for-the-rest-of-your-life.html"
       },
       {
         "id": "can-a-human-brain-gene-really-jump-into-a-virus",
@@ -10654,6 +10666,18 @@
       "image": "assets/images/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.html"
+    },
+    {
+      "id": "can-an-active-childhood-make-moving-easier-for-the-rest-of-your-life",
+      "title": "Can an active childhood make moving easier for the rest of your life?",
+      "excerpt": "A new study with guinea fowl suggests that being active while young can teach the body to move with less effort \u2014 even decades later.",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/2026-11-01-can-an-active-childhood-make-moving-easier-for-the-rest-of-your-life.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-an-active-childhood-make-moving-easier-for-the-rest-of-your-life.html"
     },
     {
       "id": "can-a-human-brain-gene-really-jump-into-a-virus",
