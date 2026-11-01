@@ -144,6 +144,12 @@ def render_article_html(a):
     page = page.replace("<!--CONTENTHUB-EXCERPT-->", excerpt_p)
     page = page.replace("<!--CONTENTHUB-HEAD-->", head)
     page = page.replace("<!--CONTENTHUB-BODY-->", body)
+    desc = esc(a.get("excerpt", ""))[:300]
+    canonical = SITE_BASE + "/articles/" + a["id"] + ".html"
+    ogimg = (SITE_BASE + "/" + a["image"]) if a.get("image") else ""
+    page = page.replace("<!--CONTENTHUB-DESC-->", desc)
+    page = page.replace("<!--CONTENTHUB-CANONICAL-->", canonical)
+    page = page.replace("<!--CONTENTHUB-OGIMAGE-->", ogimg)
     return page
 
 
