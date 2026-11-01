@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:18:08Z",
+  "updated": "2026-11-01T00:25:10Z",
   "boards": {
     "news": [
       {
@@ -8597,6 +8597,18 @@
         "image": "assets/images/why-are-wasps-moving-into-homes-built-for-ants.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-wasps-moving-into-homes-built-for-ants.html"
+      },
+      {
+        "id": "how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction",
+        "title": "How Did a 147-Year-Old Physics Rule Suddenly Grow a New Direction?",
+        "excerpt": "In 1879, Edwin Hall found that a magnetic field had to push straight down through a material to nudge its electric current sideways. Now physicists have coaxed that same sideways signal to appear when the field lies flat \u2014 and one tiny sensor can feel magnetism in more than one direction.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction.html"
       },
       {
         "id": "what-makes-a-golden-eagle-chick-called-beaky-junior-so-important",
@@ -17490,6 +17502,12 @@
       "fact": "Why Are Wasps Moving Into Homes Built for Ants?",
       "category": "science",
       "title": "Why Are Wasps Moving Into Homes Built for Ants?"
+    },
+    {
+      "id": "how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction",
+      "fact": "How Did a 147-Year-Old Physics Rule Suddenly Grow a New Direction?",
+      "category": "Science",
+      "title": "How Did a 147-Year-Old Physics Rule Suddenly Grow a New Direction?"
     },
     {
       "id": "what-makes-a-golden-eagle-chick-called-beaky-junior-so-important",
