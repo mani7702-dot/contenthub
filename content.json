@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:49:34Z",
+  "updated": "2026-11-01T04:14:51Z",
   "boards": {
     "news": [
       {
@@ -8789,6 +8789,18 @@
         "image": "assets/images/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.html"
+      },
+      {
+        "id": "could-a-tiny-atomic-cannon-finally-test-einstein-s-gravity",
+        "title": "Could a Tiny 'Atomic Cannon' Finally Test Einstein's Gravity?",
+        "excerpt": "For more than a century, physicists have watched ordinary objects fall at exactly the same rate. But nobody has ever tested whether the heavier particles of nature obey the same rule. Now scientists in Switzerland have built a laser-straight beam of exotic atoms \u2014 nicknamed an 'atomic cannon' \u2014 to find out.",
+        "tag": "science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/could-a-tiny-atomic-cannon-finally-test-einstein-s-gravity.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-atomic-cannon-finally-test-einstein-s-gravity.html"
       },
       {
         "id": "how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction",
@@ -17880,6 +17892,12 @@
       "fact": "Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?",
       "category": "History",
       "title": "Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?"
+    },
+    {
+      "id": "could-a-tiny-atomic-cannon-finally-test-einstein-s-gravity",
+      "fact": "Could a Tiny 'Atomic Cannon' Finally Test Einstein's Gravity?",
+      "category": "science",
+      "title": "Could a Tiny 'Atomic Cannon' Finally Test Einstein's Gravity?"
     },
     {
       "id": "how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction",
