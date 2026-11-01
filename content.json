@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T05:55:54Z",
+  "updated": "2026-11-01T06:02:14Z",
   "boards": {
     "news": [
       {
@@ -337,6 +337,18 @@
         "image": "assets/images/how-did-a-monkey-s-foot-change-the-story-of-our-oldest-ancestors.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-monkey-s-foot-change-the-story-of-our-oldest-ancestors.html"
+      },
+      {
+        "id": "why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show",
+        "title": "Why Do Astronauts Get Constipated in Space \u2014 and What Can a Blood Test Show?",
+        "excerpt": "Blood samples from 52 astronauts hint that microgravity slows food through the gut, nudging bacteria to ferment protein instead of fiber.",
+        "tag": "Health & Space",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show.html"
       },
       {
         "id": "what-are-the-4-warning-signs-that-a-storm-is-about-to-strengthen",
@@ -11170,6 +11182,18 @@
       "image": "assets/images/how-did-a-monkey-s-foot-change-the-story-of-our-oldest-ancestors.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-a-monkey-s-foot-change-the-story-of-our-oldest-ancestors.html"
+    },
+    {
+      "id": "why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show",
+      "title": "Why Do Astronauts Get Constipated in Space \u2014 and What Can a Blood Test Show?",
+      "excerpt": "Blood samples from 52 astronauts hint that microgravity slows food through the gut, nudging bacteria to ferment protein instead of fiber.",
+      "tag": "Health & Space",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show.html"
     },
     {
       "id": "what-are-the-4-warning-signs-that-a-storm-is-about-to-strengthen",
