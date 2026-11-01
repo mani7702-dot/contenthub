@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:25:10Z",
+  "updated": "2026-11-01T00:50:06Z",
   "boards": {
     "news": [
       {
@@ -25,6 +25,18 @@
         "image": "assets/images/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html"
+      },
+      {
+        "id": "how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash",
+        "title": "How Could Nature's Tiniest Builders Unlock Treasure Buried in Coal Ash?",
+        "excerpt": "Old power plant ash, red mud and mine waste are usually seen as rubbish. Hidden inside them are rare earth elements worth billions \u2014 and scientists think sea sponges and microscopic algae may hold the key to getting them out gently.",
+        "tag": "news",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3",
+        "image": "assets/images/how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash.html"
       },
       {
         "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
@@ -10522,6 +10534,18 @@
       "image": "assets/images/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html"
+    },
+    {
+      "id": "how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash",
+      "title": "How Could Nature's Tiniest Builders Unlock Treasure Buried in Coal Ash?",
+      "excerpt": "Old power plant ash, red mud and mine waste are usually seen as rubbish. Hidden inside them are rare earth elements worth billions \u2014 and scientists think sea sponges and microscopic algae may hold the key to getting them out gently.",
+      "tag": "news",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3",
+      "image": "assets/images/how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash.html"
     },
     {
       "id": "how-can-a-laser-beam-curve-like-a-spinning-ping-pong-ball",
