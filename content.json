@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:05:57Z",
+  "updated": "2026-11-01T03:13:35Z",
   "boards": {
     "news": [
       {
@@ -61,6 +61,18 @@
         "image": "assets/images/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.html"
+      },
+      {
+        "id": "why-can-t-viking-museums-let-go-of-the-warrior-myth",
+        "title": "Why Can't Viking Museums Let Go of the Warrior Myth?",
+        "excerpt": "Scandinavia's great museums hold some of the world's finest Viking treasures. A new study of their displays finds they still lean on an old, mostly made-up picture of Vikings as tall, sword-wielding warriors.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/why-can-t-viking-museums-let-go-of-the-warrior-myth.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-can-t-viking-museums-let-go-of-the-warrior-myth.html"
       },
       {
         "id": "how-can-a-magnet-stop-a-particle-that-never-touches-it",
@@ -10726,6 +10738,18 @@
       "image": "assets/images/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-does-the-glue-holding-your-cells-together-help-clean-up-dead-ones.html"
+    },
+    {
+      "id": "why-can-t-viking-museums-let-go-of-the-warrior-myth",
+      "title": "Why Can't Viking Museums Let Go of the Warrior Myth?",
+      "excerpt": "Scandinavia's great museums hold some of the world's finest Viking treasures. A new study of their displays finds they still lean on an old, mostly made-up picture of Vikings as tall, sword-wielding warriors.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/why-can-t-viking-museums-let-go-of-the-warrior-myth.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-can-t-viking-museums-let-go-of-the-warrior-myth.html"
     },
     {
       "id": "how-can-a-magnet-stop-a-particle-that-never-touches-it",
