@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:15:17Z",
+  "updated": "2026-11-01T02:24:08Z",
   "boards": {
     "news": [
       {
@@ -8681,6 +8681,18 @@
         "image": "assets/images/why-are-wasps-moving-into-homes-built-for-ants.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/why-are-wasps-moving-into-homes-built-for-ants.html"
+      },
+      {
+        "id": "why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back",
+        "title": "Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?",
+        "excerpt": "A small clay pot, still completely whole after four centuries underground, has left archaeologists in Florida with a wonderful mystery: why would anyone bury something perfectly usable and simply walk away?",
+        "tag": "History",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "4 min",
+        "image": "assets/images/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.html"
       },
       {
         "id": "how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction",
@@ -17670,6 +17682,12 @@
       "fact": "Why Are Wasps Moving Into Homes Built for Ants?",
       "category": "science",
       "title": "Why Are Wasps Moving Into Homes Built for Ants?"
+    },
+    {
+      "id": "why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back",
+      "fact": "Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?",
+      "category": "History",
+      "title": "Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?"
     },
     {
       "id": "how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction",
