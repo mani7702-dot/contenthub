@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Can Heated Salt Turn Old Plastic Bags Into Fuel? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Science</span>
+      <h1>Can Heated Salt Turn Old Plastic Bags Into Fuel?</h1>
+      <div class="meta"><span></span><span>2026-11-01</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/can-heated-salt-turn-old-plastic-bags-into-fuel.jpg" alt="Can Heated Salt Turn Old Plastic Bags Into Fuel?">
+    <div class="article-body">
+      <p>Scientists at Oak Ridge National Laboratory have found a surprisingly simple way to break down everyday plastic using warm, melted salt — turning shopping bags into gasoline-like fuel at oven-level temperatures.</p>
+      <h2>A plastic that usually refuses to die</h2>
+<p>Look around any kitchen and you will spot it: polyethylene. It is the plastic in shopping bags, milk jugs, food wrap and white cutting boards. We use enormous amounts of it, and once it becomes waste, it is famously stubborn. Its long, tangled molecules cling together so tightly that they are hard to take apart.</p>
+<p>Scientists at the <strong>Department of Energy's Oak Ridge National Laboratory (ORNL)</strong> in Tennessee have now found an unexpectedly gentle way to unzip those molecules — and rebuild them into fuel.</p>
+<h2>Warm salt does the heavy lifting</h2>
+<p>Their trick starts with ordinary table-salt-style chemicals, but heated until they melt into a liquid. This <strong>molten salt</strong> — made with aluminium chloride — does two jobs at once. It is the bath where the reaction happens, <em>and</em> the catalyst that drives it, like a chef who is also the kitchen.</p>
+<p>The details matter. The aluminium atoms in the salt become strongly acidic, and those sites attack the long plastic chains, snapping them into much smaller molecules — the kind found in petrol and diesel. In the lab, about <strong>60 per cent</strong> of the plastic came out as gasoline-like fuel.</p>
+<p>The real surprise is the heat. The salt bath works below <strong>200 °C (392 °F)</strong> — roughly as hot as an oven baking a cake. The usual method, called pyrolysis, needs a scorching 450–500 °C. The new approach also skips expensive precious-metal catalysts, harsh solvents and added hydrogen gas.</p>
+<h2>Why the low temperature matters</h2>
+<p>Breaking plastic apart with less heat and fewer special ingredients could make the whole idea far easier to scale up. As ORNL's <strong>Sheng Dai</strong> put it, the system solves two problems: it is stable, and it needs no starter chemical to get going. "The ORNL system does not need one," he said.</p>
+<p>There is one catch the team is honest about. Their aluminium salt happily soaks up water from the air, which makes it less steady. The researchers are now looking for ways to seal and protect it so the process can work reliably outside the lab.</p>
+<p><strong>Fun fact:</strong> Oak Ridge has been exploring molten salts since the 1960s, when the same laboratory ran a nuclear reactor cooled by melted salt. Decades later, that know-how found a brand-new job — quietly dissolving old plastic.</p>
+<h2>Sources</h2>
+<ul><li>ScienceDaily — "A new process turns plastic waste into gasoline and diesel fuel" (Oak Ridge National Laboratory): https://www.sciencedaily.com/releases/2026/09/260920222405.htm</li><li>SciTechDaily — "Scientists Turn Common Plastic Waste Into Fuel Using Heated Salts": https://scitechdaily.com/scientists-turn-common-plastic-waste-into-fuel-using-heated-salts/</li><li>Study published in the <em>Journal of the American Chemical Society</em> (Qiu, Yang, Dai et al.): https://doi.org/10.1021/jacs.5c01107</li></ul>
+<p><em>Published 2026-11-01 at 10:55 IST.</em></p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

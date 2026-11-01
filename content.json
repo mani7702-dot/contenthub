@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T05:04:46Z",
+  "updated": "2026-11-01T05:26:26Z",
   "boards": {
     "news": [
       {
@@ -49,6 +49,18 @@
         "image": "assets/images/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html"
+      },
+      {
+        "id": "can-heated-salt-turn-old-plastic-bags-into-fuel",
+        "title": "Can Heated Salt Turn Old Plastic Bags Into Fuel?",
+        "excerpt": "Scientists at Oak Ridge National Laboratory have found a surprisingly simple way to break down everyday plastic using warm, melted salt \u2014 turning shopping bags into gasoline-like fuel at oven-level temperatures.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/can-heated-salt-turn-old-plastic-bags-into-fuel.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/can-heated-salt-turn-old-plastic-bags-into-fuel.html"
       },
       {
         "id": "how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash",
@@ -10846,6 +10858,18 @@
       "image": "assets/images/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html"
+    },
+    {
+      "id": "can-heated-salt-turn-old-plastic-bags-into-fuel",
+      "title": "Can Heated Salt Turn Old Plastic Bags Into Fuel?",
+      "excerpt": "Scientists at Oak Ridge National Laboratory have found a surprisingly simple way to break down everyday plastic using warm, melted salt \u2014 turning shopping bags into gasoline-like fuel at oven-level temperatures.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/can-heated-salt-turn-old-plastic-bags-into-fuel.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/can-heated-salt-turn-old-plastic-bags-into-fuel.html"
     },
     {
       "id": "how-could-nature-s-tiniest-builders-unlock-treasure-buried-in-coal-ash",
