@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01T07:05:00Z",
+  "updated": "2026-11-01T07:19:56Z",
   "boards": {
     "news": [
+      {
+        "id": "what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier",
+        "title": "What Did a Long-Lost Memoir Reveal About a War of 1812 Soldier?",
+        "excerpt": "A forgotten autobiography, found in a library 3,700 miles from home, has rewritten the story of Shadrack Byfield \u2014 a British soldier who lost his arm in battle, designed his own replacement, and refused to be forgotten.",
+        "tag": "History",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.html"
+      },
       {
         "id": "are-ocean-heatwaves-hiding-months-of-extra-warming",
         "title": "Are Ocean Heatwaves Hiding Months of Extra Warming?",
@@ -10919,6 +10931,18 @@
     }
   ],
   "news": [
+    {
+      "id": "what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier",
+      "title": "What Did a Long-Lost Memoir Reveal About a War of 1812 Soldier?",
+      "excerpt": "A forgotten autobiography, found in a library 3,700 miles from home, has rewritten the story of Shadrack Byfield \u2014 a British soldier who lost his arm in battle, designed his own replacement, and refused to be forgotten.",
+      "tag": "History",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.html"
+    },
     {
       "id": "are-ocean-heatwaves-hiding-months-of-extra-warming",
       "title": "Are Ocean Heatwaves Hiding Months of Extra Warming?",
