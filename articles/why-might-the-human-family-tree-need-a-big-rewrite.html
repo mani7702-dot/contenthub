@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Might the Human Family Tree Need a Big Rewrite? — ContentHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <nav class="nav container">
+    <a class="logo" href="../index.html"><span class="mark">◆</span><span>ContentHub</span></a>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../blog.html">Blog</a>
+      <a href="../news.html">News</a>
+      <a href="../facts.html">Facts</a>
+      <a href="../games.html">Games</a>
+    </div>
+    <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
+  </nav>
+</header>
+
+<main class="container">
+  <article id="article">
+    <header class="article-hero">
+      <span class="tag tag-blog">Origins</span>
+      <h1>Why Might the Human Family Tree Need a Big Rewrite?</h1>
+      <div class="meta"><span></span><span>2026-11-01</span><span>3 min</span></div>
+      <div class="meta" id="aViews" style="justify-content:center"></div>
+    </header>
+    <img class="article-cover" src="../assets/images/why-might-the-human-family-tree-need-a-big-rewrite.jpg" alt="Why Might the Human Family Tree Need a Big Rewrite?">
+    <div class="article-body">
+      <p>A new paper argues that the three familiar groups of our ancient relatives — Homo, Australopithecus and Paranthropus — don't match real branches of the family tree, and that it may be time to merge them.</p>
+      <p>In school textbooks, human evolution often looks like a neat ladder: ape-like ancestors, then <em>Australopithecus</em>, then our own genus <em>Homo</em>, then us. But a growing pile of fossils is making that tidy picture harder and harder to draw.</p>
+<p>Now a researcher in Australia is proposing something bold: it may be time to redraw the human family tree.</p>
+<h2>What is being proposed?</h2>
+<p>Dr Ian Towle, a researcher at Monash University, argues in a new paper that the three familiar groups of our ancient relatives should be merged. His idea is to fold <em>Australopithecus</em> and <em>Paranthropus</em> into a single, much larger <em>Homo</em> genus, covering all our close relatives from roughly the last 4 to 5 million years.</p>
+<h2>Why would scientists want to do that?</h2>
+<p>The problem is that a genus is supposed to be a "clade" — one common ancestor plus every one of its descendants. Large analyses keep finding that these three groups don't actually match real branches of the family tree.</p>
+<p>Take <em>Australopithecus</em>, the group that includes the famous "Lucy" skeleton. It was originally defined by shared looks and lifestyle rather than by shared ancestry — and it doesn't form a clean branch.</p>
+<p><em>Homo</em> has its own puzzle. Big brains and tool use were long treated as our genus's calling cards, but species such as <em>Homo naledi</em> and the tiny "hobbit", <em>Homo floresiensis</em>, mix small brains with surprisingly modern features. Today it's hard to name a single trait shared by every <em>Homo</em> species that isn't also found in the other two groups. Part of the reason is "mosaic evolution" — different body parts change at different speeds, and similar features can evolve more than once.</p>
+<p>Even <em>Paranthropus</em>, the heavy-jawed group nicknamed for its powerful chewing teeth, is debated — some researchers think it may be two separate regional lineages rather than one.</p>
+<h2>What would change?</h2>
+<p>If the proposal were adopted, one big, branching genus would replace three, giving a simpler and more accurate map of our tangled past. There would be costs: scientists would lose some familiar labels they rely on, especially for the burly <em>Paranthropus</em> and the big-brained later <em>Homo</em>.</p>
+<p>There's a wider lesson in the naming, too. Humans were only formally recognised as great apes in recent decades, yet everyday language still separates "apes" and "humans". And "monkey", it turns out, never described a real evolutionary group at all.</p>
+<h2>Fun fact</h2>
+<p>The "Lucy" skeleton is an <em>Australopithecus</em>. Under this proposal, she would be reclassified into our own genus — <em>Homo</em>.</p>
+<p><strong>Sources:</strong> [ScienceDaily — Scientists say the human family tree may need a major rewrite](https://www.sciencedaily.com/releases/2026/08/260820002413.htm) · [The Conversation — Why it might be time to rethink the human family tree](https://theconversation.com/why-it-might-be-time-to-rethink-the-human-family-tree-289819) · [Monash University — Dr Ian Towle](https://www.monash.edu/discovery-institute/news-and-events)</p>
+    </div>
+    <div class="share-row">
+      <a class="x" id="shareX" href="#" target="_blank" rel="noopener">𝕏 Post</a>
+      <a class="ws" id="shareWS" href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a class="cp" id="shareCopy" href="#">🔗 Copy link</a>
+    </div>
+    <div style="text-align:center;padding:0 0 50px">
+      <a class="btn btn-ghost" href="javascript:history.back()">← Back</a>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <div class="container">
+    <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
+    <p class="copy" style="margin-top:8px"><a href="../about.html" style="margin-right:14px">About</a><a href="../privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+  </div>
+<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="../all-articles.html">All Articles</a></p>
+</footer>
+
+<script src="../assets/script.js"></script>
+<script>
+  // View counts & share handlers for static pages
+  var pageId = window.location.pathname.split('/').pop().replace('.html', '');
+  var views = window.CH ? window.CH.incViews(pageId) : 1;
+  var vEl = document.getElementById('aViews');
+  if (vEl) vEl.innerHTML = '<span>👁️ ' + views + ' views</span>';
+
+  var currUrl = encodeURIComponent(window.location.href);
+  var shareText = encodeURIComponent(document.title);
+  var xBtn = document.getElementById('shareX');
+  if (xBtn) xBtn.href = 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + currUrl;
+  var wsBtn = document.getElementById('shareWS');
+  if (wsBtn) wsBtn.href = 'https://api.whatsapp.com/send?text=' + shareText + '%20' + currUrl;
+  var cpBtn = document.getElementById('shareCopy');
+  if (cpBtn) {
+    cpBtn.onclick = function (e) {
+      e.preventDefault();
+      navigator.clipboard.writeText(window.location.href).then(function () {
+        var tip = document.createElement('div');
+        tip.className = 'copied-tip show';
+        tip.textContent = 'Link copied to clipboard! ✨';
+        document.body.appendChild(tip);
+        setTimeout(function () { tip.classList.remove('show'); setTimeout(function () { tip.remove(); }, 300); }, 2000);
+      });
+    };
+  }
+</script>
+</body>
+</html>

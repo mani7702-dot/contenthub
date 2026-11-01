@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01T03:36:49Z",
+  "updated": "2026-11-01T03:49:34Z",
   "boards": {
     "news": [
+      {
+        "id": "why-might-the-human-family-tree-need-a-big-rewrite",
+        "title": "Why Might the Human Family Tree Need a Big Rewrite?",
+        "excerpt": "A new paper argues that the three familiar groups of our ancient relatives \u2014 Homo, Australopithecus and Paranthropus \u2014 don't match real branches of the family tree, and that it may be time to merge them.",
+        "tag": "Origins",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/why-might-the-human-family-tree-need-a-big-rewrite.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-might-the-human-family-tree-need-a-big-rewrite.html"
+      },
       {
         "id": "could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow",
         "title": "Could a Tiny 'Rainbow on a Chip' Supercharge the Internet of Tomorrow?",
@@ -10727,6 +10739,18 @@
     }
   ],
   "news": [
+    {
+      "id": "why-might-the-human-family-tree-need-a-big-rewrite",
+      "title": "Why Might the Human Family Tree Need a Big Rewrite?",
+      "excerpt": "A new paper argues that the three familiar groups of our ancient relatives \u2014 Homo, Australopithecus and Paranthropus \u2014 don't match real branches of the family tree, and that it may be time to merge them.",
+      "tag": "Origins",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/why-might-the-human-family-tree-need-a-big-rewrite.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-might-the-human-family-tree-need-a-big-rewrite.html"
+    },
     {
       "id": "could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow",
       "title": "Could a Tiny 'Rainbow on a Chip' Supercharge the Internet of Tomorrow?",
