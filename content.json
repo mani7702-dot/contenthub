@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:59:50Z",
+  "updated": "2026-11-01T01:35:50Z",
   "boards": {
     "news": [
       {
@@ -7025,6 +7025,18 @@
     ],
     "blog": [
       {
+        "id": "could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle",
+        "title": "Could Fusion Energy Have a Secret Shortcut Around Its Biggest Hurdle?",
+        "excerpt": "For 70 years, scientists have tried to climb the fusion-energy mountain head-on. A new set of calculations suggests there may be a far easier pass around the side.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01T06:37:00+05:30",
+        "read": "3 min",
+        "image": "assets/images/could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle.html"
+      },
+      {
         "id": "can-gps-free-satellites-navigate-space-using-only-their-neighbors",
         "title": "Can GPS-Free Satellites Navigate Space Using Only Their Neighbors?",
         "excerpt": "A NASA experiment called FALCON shows spacecraft can work out their position in orbit by treating other satellites and space junk as floating landmarks \u2014 no GPS required.",
@@ -8937,6 +8949,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle",
+      "title": "Could Fusion Energy Have a Secret Shortcut Around Its Biggest Hurdle?",
+      "excerpt": "For 70 years, scientists have tried to climb the fusion-energy mountain head-on. A new set of calculations suggests there may be a far easier pass around the side.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01T06:37:00+05:30",
+      "read": "3 min",
+      "image": "assets/images/could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle.html"
+    },
     {
       "id": "can-gps-free-satellites-navigate-space-using-only-their-neighbors",
       "title": "Can GPS-Free Satellites Navigate Space Using Only Their Neighbors?",
