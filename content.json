@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T07:42:33Z",
+  "updated": "2026-11-01T07:47:08Z",
   "boards": {
     "news": [
       {
@@ -169,6 +169,18 @@
         "image": "assets/images/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.html"
+      },
+      {
+        "id": "why-has-a-100-year-old-mushroom-mystery-suddenly-grown-so-complicated",
+        "title": "Why Has a 100-Year-Old Mushroom Mystery Suddenly Grown So Complicated?",
+        "excerpt": "For more than a century, growers blamed one bacterium for the unsightly bruises on white button mushrooms. A new DNA study has found the culprit is not one germ but a whole crowd of them.",
+        "tag": "Science",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/why-has-a-100-year-old-mushroom-mystery-grown-so-complicated.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-has-a-100-year-old-mushroom-mystery-suddenly-grown-so-complicated.html"
       },
       {
         "id": "why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help",
@@ -11098,6 +11110,18 @@
       "image": "assets/images/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.html"
+    },
+    {
+      "id": "why-has-a-100-year-old-mushroom-mystery-suddenly-grown-so-complicated",
+      "title": "Why Has a 100-Year-Old Mushroom Mystery Suddenly Grown So Complicated?",
+      "excerpt": "For more than a century, growers blamed one bacterium for the unsightly bruises on white button mushrooms. A new DNA study has found the culprit is not one germ but a whole crowd of them.",
+      "tag": "Science",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/why-has-a-100-year-old-mushroom-mystery-grown-so-complicated.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-has-a-100-year-old-mushroom-mystery-suddenly-grown-so-complicated.html"
     },
     {
       "id": "why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help",
