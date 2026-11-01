@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:39:33Z",
+  "updated": "2026-11-01T07:05:00Z",
   "boards": {
     "news": [
       {
@@ -145,6 +145,18 @@
         "image": "assets/images/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.jpg",
         "video": "",
         "url": "https://mani7702-dot.github.io/contenthub/articles/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.html"
+      },
+      {
+        "id": "how-did-an-endangered-damselfly-reappear-along-a-restored-english-river",
+        "title": "How Did an Endangered Damselfly Reappear Along a Restored English River?",
+        "excerpt": "A shimmering insect declared Endangered only this year has been spotted in brand-new wetlands beside the River Ash near Hertford \u2014 a hopeful sign that giving a river back its old curves can bring wildlife home.",
+        "tag": "Nature",
+        "author": "",
+        "date": "2026-11-01",
+        "read": "3 min",
+        "image": "assets/images/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.jpg",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.html"
       },
       {
         "id": "why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help",
@@ -11050,6 +11062,18 @@
       "image": "assets/images/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.jpg",
       "video": "",
       "url": "https://mani7702-dot.github.io/contenthub/articles/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.html"
+    },
+    {
+      "id": "how-did-an-endangered-damselfly-reappear-along-a-restored-english-river",
+      "title": "How Did an Endangered Damselfly Reappear Along a Restored English River?",
+      "excerpt": "A shimmering insect declared Endangered only this year has been spotted in brand-new wetlands beside the River Ash near Hertford \u2014 a hopeful sign that giving a river back its old curves can bring wildlife home.",
+      "tag": "Nature",
+      "author": "",
+      "date": "2026-11-01",
+      "read": "3 min",
+      "image": "assets/images/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.jpg",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/how-did-an-endangered-damselfly-reappear-along-a-restored-english-river.html"
     },
     {
       "id": "why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help",
