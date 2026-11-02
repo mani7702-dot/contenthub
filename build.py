@@ -31,6 +31,10 @@ ARTICLES_DIR = os.path.join(ROOT, "articles")
 TEMPLATES_DIR = os.path.join(ROOT, "templates")
 SITE_BASE = os.environ.get("SITE_BASE", "https://mani7702-dot.github.io/contenthub").rstrip("/")
 SITE_CNAME = os.environ.get("SITE_CNAME", "")
+# URL path the site is served under ("/contenthub" on GitHub Pages, "" on a
+# custom domain). robots.txt Disallow rules are matched against the *domain*
+# root, so they must carry this prefix or they silently match nothing.
+SITE_PATH = "/" + SITE_BASE.split("//", 1)[-1].split("/", 1)[1] if "/" in SITE_BASE.split("//", 1)[-1] else ""
 DEFAULT_OG = "assets/images/og-default.png"
 
 BOARD_TITLE = {"news": "News", "blog": "Blog", "trending": "Trending"}
@@ -885,9 +889,9 @@ def build():
     # 6. robots.txt + .nojekyll + CNAME
     write(os.path.join(ROOT, "robots.txt"),
           "User-agent: *\nAllow: /\n"
-          "Disallow: /content/\nDisallow: /templates/\nDisallow: /tools/\n"
-          "Disallow: /scripts/\nDisallow: /logs/\n\n"
-          "Sitemap: %s/sitemap.xml\n" % SITE_BASE)
+          + "".join("Disallow: %s/%s/\n" % (SITE_PATH, d)
+                    for d in ("content", "templates", "tools", "scripts", "logs"))
+          + "\nSitemap: %s/sitemap.xml\n" % SITE_BASE)
     write(os.path.join(ROOT, ".nojekyll"), "")
     if SITE_CNAME:
         write(os.path.join(ROOT, "CNAME"), SITE_CNAME + "\n")
