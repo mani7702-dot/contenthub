@@ -312,6 +312,17 @@ def page(title, desc, canonical, body, active="", ogimg="", ogtype="website", ex
 
 
 # ----------------------------------------------------------------- card render
+def clip(text, n=150):
+    """Trim a card excerpt at a word boundary. Listing pages repeat this text
+    once per card, so the full excerpt is pure page weight — the article page
+    still carries the complete text."""
+    text = (text or "").strip()
+    if len(text) <= n:
+        return text
+    cut = text[:n].rsplit(" ", 1)[0].rstrip(" ,;:—-")
+    return cut + "…"
+
+
 def card_html(a, board=None):
     b = board or a["board"]
     cls = BOARD_CLASS.get(b, "tag-blog")
@@ -330,35 +341,38 @@ def card_html(a, board=None):
         author = a.get("author") or "ContentHub"
         meta = ('<span class="stat">✍️ %s</span><span class="stat">%s</span>'
                 '<span class="stat">%s</span>' % (esc(author), esc(a["date"]), esc(a["read"])))
-    search = (a["title"] + " " + a["excerpt"] + " " + a["tag"]).lower()
-    return ('<article class="card" data-tag="%s" data-search="%s">%s'
+    return ('<article class="card" data-tag="%s">%s'
             '<span class="tag %s">%s</span>'
             '<h3><a href="articles/%s.html">%s</a></h3>'
             '<p class="excerpt">%s</p>'
             '<div class="meta">%s</div></article>') % (
-        esca(a["tag"]), esca(search), media, cls, esc(a["tag"]),
-        esca(a["id"]), esc(a["title"]), esc(a["excerpt"]), meta)
+        esca(a["tag"]), media, cls, esc(a["tag"]),
+        esca(a["id"]), esc(a["title"]), esc(clip(a["excerpt"])), meta)
 
 
 FILTER_JS = """<script>
 (function(){
   var grid=document.getElementById('grid');
   if(!grid)return;
-  var cards=[].slice.call(grid.querySelectorAll('.card'));
+  // The search index is built from the rendered card text at runtime, so the
+  // markup doesn't carry a duplicate copy of every title + excerpt.
+  var cards=[].slice.call(grid.querySelectorAll('.card')).map(function(el){
+    return {el:el, text:(el.textContent||'').toLowerCase()};
+  });
   var empty=document.getElementById('empty');
   var pager=document.getElementById('pager');
   var PER=6,page=1,q='',tag='';
   function matches(c){
-    var okTag=!tag||c.getAttribute('data-tag')===tag;
-    var okQ=!q||(c.getAttribute('data-search')||'').indexOf(q)>-1;
+    var okTag=!tag||c.el.getAttribute('data-tag')===tag;
+    var okQ=!q||c.text.indexOf(q)>-1;
     return okTag&&okQ;
   }
   function render(){
     var list=cards.filter(matches);
-    cards.forEach(function(c){c.style.display='none';});
+    cards.forEach(function(c){c.el.style.display='none';});
     var pages=Math.max(1,Math.ceil(list.length/PER));
     if(page>pages)page=pages;
-    list.slice((page-1)*PER,page*PER).forEach(function(c){c.style.display='';});
+    list.slice((page-1)*PER,page*PER).forEach(function(c){c.el.style.display='';});
     if(empty)empty.style.display=list.length?'none':'block';
     if(!pager)return;
     if(pages<=1){pager.innerHTML='';return;}
@@ -550,14 +564,21 @@ def render_categories(items):
              + "".join('<a href="#" data-cat="%s">%s (%d)</a>' % (esca(k), esc(k), len(groups[k]))
                        for k in keys))
 
+    # Compact link lists, not cards: a category index repeats every article
+    # once per tag, so full cards made this page ~850 KB. Plain links keep
+    # every article crawlable at a fraction of the weight.
     blocks = []
     for k in keys:
-        blocks.append('<div class="cat-block" data-cat="%s" style="margin-bottom:40px">'
-                      '<h2 style="font-size:1.4rem;margin-bottom:16px;display:flex;align-items:center;gap:10px">'
+        lis = "".join(
+            '<li><a href="articles/%s.html">%s</a>'
+            '<span class="cat-date">%s</span></li>'
+            % (esca(a["id"]), esc(a["title"]), esc(a["date"]))
+            for a in groups[k])
+        blocks.append('<div class="cat-block" data-cat="%s" style="margin-bottom:38px">'
+                      '<h2 style="font-size:1.3rem;margin-bottom:12px;display:flex;align-items:center;gap:10px">'
                       '<span class="tag tag-blog">%s</span> (%d stories)</h2>'
-                      '<div class="card-grid">%s</div></div>'
-                      % (esca(k), esc(k), len(groups[k]),
-                         "".join(card_html(a) for a in groups[k])))
+                      '<ul class="cat-list">%s</ul></div>'
+                      % (esca(k), esc(k), len(groups[k]), lis))
 
     js = """<script>
 (function(){
@@ -576,7 +597,16 @@ def render_categories(items):
 })();
 </script>"""
 
-    body = """<section class="hero" style="padding:40px 0 10px">
+    body = """<style>
+.cat-list{list-style:none;margin:0;padding:0;columns:2;column-gap:34px}
+.cat-list li{break-inside:avoid;display:flex;gap:10px;align-items:baseline;padding:7px 0;border-bottom:1px solid rgba(42,27,61,.07)}
+.cat-list a{color:inherit;text-decoration:none;font-weight:600;font-size:.95rem;line-height:1.35}
+.cat-list a:hover{color:#7C5CFF}
+.cat-date{margin-left:auto;font-size:.78rem;color:#8b7ea3;white-space:nowrap}
+@media(max-width:700px){.cat-list{columns:1}}
+</style>
+
+<section class="hero" style="padding:40px 0 10px">
   <div class="container">
     <h1>Explore by <span class="grad">Category</span></h1>
     <p>Browse all blog posts and news stories grouped automatically by topic tag.</p>
