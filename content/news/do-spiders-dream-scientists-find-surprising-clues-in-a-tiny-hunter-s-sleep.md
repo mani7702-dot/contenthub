@@ -54,3 +54,5 @@ Jumping spiders are some of the best visually gifted invertebrates on Earth. Whi
 4. Wikipedia — "REM sleep" — https://en.wikipedia.org/wiki/REM_sleep (confirms REM sleep involves rapid eye movements, muscle activity, and is associated with vivid dreaming in vertebrates)
 
 **Journal:** *Behavioral evidence for two-stage sleep in spiders*, PNAS, 2026; 123(45), DOI: 10.1073/pnas.2618030123
+
+**Sources:** [ScienceDaily](https://www.sciencedaily.com/releases/2026/10/261026225555.htm) · [Wikipedia - Portia (spider)](https://en.wikipedia.org/wiki/Portia_(spider)) · [Wikipedia - Jumping spider](https://en.wikipedia.org/wiki/Jumping_spider) · [Wikipedia - REM sleep](https://en.wikipedia.org/wiki/REM_sleep)

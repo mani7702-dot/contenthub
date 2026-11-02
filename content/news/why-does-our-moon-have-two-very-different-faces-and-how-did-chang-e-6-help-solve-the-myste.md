@@ -11,7 +11,7 @@ image_caption: "The Moon's near side, showing dark maria (smooth plains) against
 ---
 ## 1. Why does the Moon play favorites?
 
-![The Moon's near side (dark) vs far side (bright) — two faces of the same world. Credit: Wikimedia Commons](../assets/images/2026-10-26-moon-two-faces-chang-e6-moon-mystery.jpg)
+
 
 When you look up at the night sky, the Moon shows you only **one face** — the one that always turns toward Earth. But that face looks very different from the side that perpetually stares into space.
 

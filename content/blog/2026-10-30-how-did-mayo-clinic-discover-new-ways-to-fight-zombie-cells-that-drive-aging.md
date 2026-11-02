@@ -6,7 +6,6 @@ read: "4 min"
 excerpt: "Scientists at Mayo Clinic have uncovered fresh details about 'zombie' cells — aging cells that linger in the body and fuel inflammation. Seven new studies map how these cells differ, why they harm us, and how everyday compounds like the one in tomatoes might help fight back."
 tags: "science, aging, senescent cells, zombie cells, Mayo Clinic, mitochondria, inflammation, senescence, Nature"
 board: blog
-image: ""
 image_caption: ""
 ---
 

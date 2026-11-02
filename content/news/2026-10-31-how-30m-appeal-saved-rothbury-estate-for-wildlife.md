@@ -15,7 +15,6 @@ tags:
   - rothbury-estate
   - rewilding
 board: news
-image: ""
 image_caption: ""
 ---
 

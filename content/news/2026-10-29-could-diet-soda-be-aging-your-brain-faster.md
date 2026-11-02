@@ -6,7 +6,6 @@ read: "3 min"
 excerpt: "A major eight-year study of nearly 13,000 Brazilian adults found that people who drink the most artificial sweeteners — like those in diet sodas, sugar-free gum, and 'zero sugar' snacks — show a 62% faster decline in memory and thinking skills, as if their brains were aging 1.6 years ahead of schedule."
 tags: "science, health, artificial sweeteners, diet soda, brain health, cognitive decline, Neurology"
 board: news
-image: assets/images/could-diet-soda-be-aging-your-brain-faster.jpg
 image_caption: "Artificial sweeteners have become ubiquitous in diet drinks and 'sugar-free' foods. New research links high consumption to faster brain aging. Credit: ScienceDaily"
 ---
 

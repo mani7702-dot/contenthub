@@ -12,7 +12,7 @@ tags:
   - james-webb
   - supercomputers
 board: news
-image: assets/images/why-are-jwsts-mysterious-little-red-dots-secretly-growing-black-holes.jpg
+image: assets/images/why-are-jwst-s-mysterious-little-red-dots-secretly-growing-black-holes.jpg
 image_caption: "The golden primary mirror of the James Webb Space Telescope, the observatory that spotted the mysterious Little Red Dots. Photo: NASA/MSFC/David Higginbotham / Public domain / Wikimedia Commons"
 ---
 

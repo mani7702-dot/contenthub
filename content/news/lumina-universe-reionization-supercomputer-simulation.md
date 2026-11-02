@@ -57,3 +57,5 @@ The Epoch of Reionization is sometimes called the **universe's "cosmic noon"** c
 1. Universe Today — "A Huge and Powerful New Simulation Helps Explain the Universe's Reionization" (Oct 26, 2026) — https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization
 2. Wikipedia — "Epoch of Reionization" — https://en.wikipedia.org/wiki/Epoch_of_reionization
 3. Wikipedia — "Hydrogen" — https://en.wikipedia.org/wiki/Hydrogen
+
+**Sources:** [Universe Today](https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization) · [Wikipedia - Epoch of Reionization](https://en.wikipedia.org/wiki/Epoch_of_reionization) · [Wikipedia - Hydrogen](https://en.wikipedia.org/wiki/Hydrogen)

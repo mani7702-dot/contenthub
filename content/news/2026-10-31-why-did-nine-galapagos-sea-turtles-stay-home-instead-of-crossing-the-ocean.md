@@ -6,7 +6,7 @@ read: "3 min"
 excerpt: "Sea turtles are famous ocean travellers — but nine tagged green turtles around the Galápagos barely left their island neighbourhood for three whole years."
 tags: "sea turtles, Galapagos, animals, ocean, science, conservation"
 board: news
-image: assets/images/why-did-nine-galapagos-sea-turtles-stay-home-instead-of-crossing-the-ocean.jpg
+image: assets/images/why-did-nine-gal-pagos-sea-turtles-stay-home-instead-of-crossing-the-ocean.jpg
 image_caption: "A green sea turtle swimming in the Galápagos, where nine tagged turtles surprised scientists by staying close to home. Photo: MasterfulNerd / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 

@@ -7,7 +7,6 @@ excerpt: "A litter of five cheetah cubs born at the Smithsonian's conservation c
 tags: "science, animals, cheetahs, conservation, wildlife, Smithsonian"
 board: news
 slug: "how-did-five-tiny-cheetah-cubs-make-the-camera-their-playground"
-image: ""
 image_caption: ""
 ---
 

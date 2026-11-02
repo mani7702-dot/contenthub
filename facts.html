@@ -4,19 +4,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Facts — ContentHub</title>
-<meta name="description" content="Quick, surprising facts to brighten your day.">
+<meta name="description" content="Quick, surprising facts to brighten your day — a fresh one every click.">
 <link rel="canonical" href="https://mani7702-dot.github.io/contenthub/facts.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="ContentHub">
 <meta property="og:title" content="Facts — ContentHub">
-<meta property="og:description" content="Quick, surprising facts to brighten your day.">
+<meta property="og:description" content="Quick, surprising facts to brighten your day — a fresh one every click.">
 <meta property="og:url" content="https://mani7702-dot.github.io/contenthub/facts.html">
+<meta property="og:image" content="https://mani7702-dot.github.io/contenthub/assets/images/og-default.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Facts — ContentHub">
-<meta name="twitter:description" content="Quick, surprising facts to brighten your day.">
+<meta name="twitter:description" content="Quick, surprising facts to brighten your day — a fresh one every click.">
+<meta name="twitter:image" content="https://mani7702-dot.github.io/contenthub/assets/images/og-default.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
+<script defer src="https://bots.tail35fa6b.ts.net/script.js" data-website-id="3b119c81-4072-4c80-8b9b-61b2dfc2219f"></script>
 <style>
   .fact-stage{max-width:640px;margin:0 auto;padding:20px 0 50px;text-align:center}
   .fact-card{
@@ -35,7 +38,6 @@
   @keyframes flipIn{from{opacity:0;transform:translateY(26px) rotateX(45deg)}to{opacity:1;transform:translateY(0) rotateX(0)}}
   .fact-card.swap{animation:flipIn .5s ease both}
 </style>
-<script defer src="https://bots.tail35fa6b.ts.net/script.js" data-website-id="3b119c81-4072-4c80-8b9b-61b2dfc2219f"></script>
 <!--CH-AD:head--><!--/CH-AD:head-->
 </head>
 <body>
@@ -48,6 +50,7 @@
       <a href="blog.html">Blog</a>
       <a href="news.html">News</a>
       <a class="active" href="facts.html">Facts</a>
+      <a href="categories.html">Explore</a>
       <a href="games.html">Games</a>
     </div>
     <button id="themeToggle" class="theme-btn" aria-label="Toggle theme">🌙</button>
@@ -65,7 +68,7 @@
 <main class="fact-stage container">
   <div class="fact-card" id="factCard">
     <span class="num" id="factNum">FACT 01</span>
-    <p class="text" id="factText">Loading…</p>
+    <p class="text" id="factText">Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?</p>
   </div>
   <div class="fact-dots" id="dots"></div>
   <div class="fact-controls">
@@ -74,45 +77,40 @@
   </div>
 </main>
 
+<script>
+(function(){
+  var facts=[{"t": "Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?", "c": "History", "u": "articles/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.html"}, {"t": "Why Are Wasps Moving Into Homes Built for Ants?", "c": "science", "u": "articles/why-are-wasps-moving-into-homes-built-for-ants.html"}, {"t": "What Are \\\"In-Between\\\" Materials, and Why Could They Power the Future?", "c": "science", "u": "articles/what-are-in-between-materials-and-why-could-they-power-the-future.html"}, {"t": "How Did a 147-Year-Old Physics Rule Suddenly Grow a New Direction?", "c": "Science", "u": "articles/how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction.html"}, {"t": "Could a Tiny 'Atomic Cannon' Finally Test Einstein's Gravity?", "c": "science", "u": "articles/could-a-tiny-atomic-cannon-finally-test-einstein-s-gravity.html"}, {"t": "Who Were the Secret Potters Who Carried Their Homeland Inside Their Clay?", "c": "history", "u": "articles/who-were-the-secret-potters-who-carried-their-homeland-inside-their-clay.html"}, {"t": "What Makes a Golden Eagle Chick Called Beaky Junior So Important?", "c": "Trending", "u": "articles/what-makes-a-golden-eagle-chick-called-beaky-junior-so-important.html"}, {"t": "How Does Vitamin A Help Build the Sharpest Part of the Human Eye?", "c": "science", "u": "articles/how-does-vitamin-a-help-build-the-sharpest-part-of-the-human-eye.html"}, {"t": "How Could a Glacier Help Move Stonehenge's Six-Ton Altar Stone?", "c": "History", "u": "articles/how-could-a-glacier-help-move-stonehenge-s-six-ton-altar-stone.html"}, {"t": "Did Neanderthals Use Birch Bark Glue as an Ancient Medicine?", "c": "science", "u": "articles/did-neanderthals-use-birch-bark-glue-as-an-ancient-medicine.html"}, {"t": "Can We Turn Seawater Into Drinking Water Without Leaving Any Waste Behind?", "c": "Trending", "u": "articles/can-we-turn-seawater-into-drinking-water-without-leaving-any-waste-behind.html"}, {"t": "How Did Astronauts Give the ISS a Powerful Solar Upgrade?", "c": "trending", "u": "articles/how-did-astronauts-give-the-iss-a-powerful-solar-upgrade.html"}, {"t": "How Did a Simple Daily Pill Show a 70% Lower Dementia Risk for Certain People?", "c": "science", "u": "articles/how-did-a-simple-daily-pill-show-a-70-lower-dementia-risk-for-certain-people.html"}, {"t": "How Did a Seahorse Impostor Fool Scientists for 65 Years?", "c": "animals", "u": "articles/how-did-a-seahorse-impostor-fool-scientists-for-65-years.html"}, {"t": "Can a Roll of Tape Really Beat Sandbags at Keeping Floodwater Out?", "c": "Science", "u": "articles/can-a-roll-of-tape-really-beat-sandbags-at-keeping-floodwater-out.html"}, {"t": "How Did Scientists Make Electric Car Batteries Smaller and Longer-Lasting?", "c": "Science", "u": "articles/how-did-scientists-make-electric-car-batteries-smaller-and-longer-lasting.html"}, {"t": "How Did Magma Store a Hidden Oxygen Tank Deep Inside Earth — And Could It Have Filled Our Atmosphere?", "c": "science", "u": "articles/how-did-magma-store-a-hidden-oxygen-tank-deep-inside-earth-and-could-it-have-filled-our-at.html"}, {"t": "How Did an Ancient Eclipse Show Earth Spun Faster 2,700 Years Ago?", "c": "Science", "u": "articles/how-did-an-ancient-eclipse-show-earth-spun-faster-2-700-years-ago.html"}, {"t": "How did a stretch of Antarctic water get named after a BBC science reporter?", "c": "World", "u": "articles/how-did-a-stretch-of-antarctic-water-get-named-after-a-bbc-science-reporter.html"}];
+  if(!facts.length)return;
+  var i=0,card=document.getElementById('factCard'),numEl=document.getElementById('factNum'),
+      textEl=document.getElementById('factText'),dotsEl=document.getElementById('dots');
+  facts.forEach(function(_,idx){
+    var d=document.createElement('span');
+    d.className='dotx'+(idx===0?' on':'');
+    d.onclick=function(){show(idx);};
+    dotsEl.appendChild(d);
+  });
+  var dots=dotsEl.children;
+  function show(n){
+    i=(n+facts.length)%facts.length;
+    card.classList.remove('swap');void card.offsetWidth;card.classList.add('swap');
+    numEl.textContent='FACT '+String(i+1).padStart(2,'0');
+    textEl.textContent=facts[i].t;
+    for(var x=0;x<dots.length;x++)dots[x].className='dotx'+(x===i?' on':'');
+  }
+  document.getElementById('prevFact').onclick=function(){show(i-1);};
+  document.getElementById('nextFact').onclick=function(){show(i+1);};
+  show(0);
+})();
+</script>
+
 <footer>
   <div class="container">
     <p class="copy">© 2026 ContentHub · Your daily hub of ideas &amp; games.</p>
-    <p class="copy" style="margin-top:8px"><a href="about.html" style="margin-right:14px">About</a><a href="privacy.html" style="margin-right:14px">Privacy</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+    <p class="copy" style="margin-top:8px"><a href="about.html" style="margin-right:14px">About</a><a href="privacy.html" style="margin-right:14px">Privacy</a><a href="categories.html" style="margin-right:14px">Explore</a><a href="mailto:andugulamani722@gmail.com">Contact</a></p>
+    <p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="all-articles.html">All Articles</a></p>
   </div>
-<p style="color:var(--ink-soft);font-size:.85rem;margin-top:8px"><a href="all-articles.html">All Articles</a></p>
 </footer>
 
 <script src="assets/script.js"></script>
-<script>
-window.CH.loadFeed(function (data) {
-  var facts = data.facts;
-  var i = 0;
-  var card = document.getElementById('factCard');
-  var numEl = document.getElementById('factNum');
-  var textEl = document.getElementById('factText');
-  var dotsEl = document.getElementById('dots');
-
-  facts.forEach(function (_, idx) {
-    var d = document.createElement('span');
-    d.className = 'dotx' + (idx === 0 ? ' on' : '');
-    d.onclick = function () { show(idx); };
-    dotsEl.appendChild(d);
-  });
-  var dots = dotsEl.children;
-
-  function show(n) {
-    i = (n + facts.length) % facts.length;
-    card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap');
-    numEl.textContent = 'FACT ' + String(i + 1).padStart(2, '0');
-    textEl.textContent = facts[i].fact || facts[i].title;
-    for (var x = 0; x < dots.length; x++) dots[x].className = 'dotx' + (x === i ? ' on' : '');
-  }
-
-  document.getElementById('prevFact').onclick = function () { show(i - 1); };
-  document.getElementById('nextFact').onclick = function () { show(i + 1); };
-
-  show(0);
-});
-</script>
 </body>
 </html>

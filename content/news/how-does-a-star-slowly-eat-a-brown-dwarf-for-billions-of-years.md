@@ -66,3 +66,5 @@ The system ZTF J0440+2325 was identified by the Zwicky Transient Facility (ZTF) 
 1. ScienceDaily — "MIT astronomers catch a star in a feast that could last billions of years" (Oct 8, 2026)
 2. Wikipedia — Brown dwarf
 3. Wikipedia — Accretion disk
+
+**Sources:** [ScienceDaily](https://www.sciencedaily.com/releases/2026/10/261008005240.htm) · [Wikipedia - Brown dwarf](https://en.wikipedia.org/wiki/Brown_dwarf) · [Wikipedia - Accretion disk](https://en.wikipedia.org/wiki/Accretion_disk)

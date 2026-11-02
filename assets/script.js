@@ -1,10 +1,20 @@
 /**
  * ContentHub — Core Shared Engine
  * Handles theme, feed loading, views counter, global search, update toast, bottom nav.
+ *
+ * Every internal link is built from BASE, the site root derived from this
+ * script's own URL — so the same file works on /index.html and on
+ * /articles/<slug>.html without any relative-path guesswork.
  */
 
 (function () {
   'use strict';
+
+  // 0. Site root, derived from this script's own <script src>
+  var BASE = (function () {
+    var s = (document.currentScript && document.currentScript.src) || '';
+    return s ? s.replace(/assets\/script\.js.*$/, '') : '';
+  })();
 
   // 1. Theme Manager
   var themeToggle = document.getElementById('themeToggle');
@@ -40,37 +50,18 @@
     } catch (e) { return 1; }
   }
 
-  // 3. Global Feed Loader
+  // 3. Global Feed Loader (only used by the search overlay now)
   var cachedFeed = null;
   function loadFeed(cb) {
     if (cachedFeed) { cb(cachedFeed); return; }
-    fetch('content.json?v=' + Date.now())
+    fetch(BASE + 'content.json?v=' + Date.now())
       .then(function (r) { return r.json(); })
       .then(function (data) {
         cachedFeed = data;
         cb(data);
         checkUpdateToast(data);
       })
-      .catch(function () {
-        // Fallback sample data if fetch fails (e.g. local offline preview)
-        cachedFeed = {
-          updated: new Date().toISOString(),
-          blog: [
-            { id: 'b1', title: 'The Future of Storytelling in an AI World', excerpt: 'How human creativity and machine assistance are rewriting narrative.', body: 'Full article content here...', tag: 'Technology', author: 'Maya Verma', date: '2026-10-24', read: '5 min' },
-            { id: 'b2', title: 'Building a Morning Routine That Sticks', excerpt: 'Tiny habits, consistent wins — a practical guide to starting your day.', body: 'Full article content here...', tag: 'Lifestyle', author: 'Devon Cole', date: '2026-10-22', read: '4 min' },
-            { id: 'b3', title: 'Why Curiosity Beats Talent', excerpt: 'A gentle argument for staying a beginner for as long as possible.', body: 'Full article content here...', tag: 'Mindset', author: 'Aisha Khan', date: '2026-10-20', read: '6 min' }
-          ],
-          news: [
-            { id: 'n1', title: 'Global AI Summit Pledges Safety Standards', excerpt: 'Leaders agree on a shared framework for transparent AI development.', body: 'Full news text here...', tag: 'World', author: 'News Desk', date: '2026-10-26', read: '3 min' },
-            { id: 'n2', title: 'Breakthrough in Renewable Storage Technology', excerpt: 'A new battery design promises cheaper, longer-lasting clean energy.', body: 'Full news text here...', tag: 'Science', author: 'News Desk', date: '2026-10-25', read: '4 min' }
-          ],
-          facts: [
-            { id: 'f1', category: 'Nature', fact: 'Honey never spoils. Archaeologists have found pots of honey over 3,000 years old still edible.' },
-            { id: 'f2', category: 'Space', fact: 'A day on Venus is longer than its year. It takes 243 Earth days to rotate once.' }
-          ]
-        };
-        cb(cachedFeed);
-      });
+      .catch(function () { cb({ blog: [], news: [], facts: [] }); });
   }
 
   // 4. Update Toast notification when feed timestamp changes
@@ -88,7 +79,6 @@
 
   // 5. Build Global Search Modal + Bottom Navigation Site-Wide
   function initGlobalUI() {
-    // A. Add Search Button to Topbar Nav
     var nav = document.querySelector('.topbar .nav');
     if (nav && !document.getElementById('navSearchBtn')) {
       var sBtn = document.createElement('button');
@@ -102,7 +92,6 @@
       else nav.appendChild(sBtn);
     }
 
-    // B. Search Overlay Element
     if (!document.getElementById('globalSearchOverlay')) {
       var overlay = document.createElement('div');
       overlay.id = 'globalSearchOverlay';
@@ -126,19 +115,18 @@
       document.getElementById('gSearchInput').addEventListener('input', runGlobalSearch);
     }
 
-    // C. Mobile Bottom Nav
     if (!document.getElementById('bottomNav')) {
       var page = window.location.pathname.split('/').pop() || 'index.html';
       var bNav = document.createElement('nav');
       bNav.id = 'bottomNav';
       bNav.className = 'bottom-nav';
       bNav.innerHTML =
-        '<a href="index.html" class="' + (page === 'index.html' ? 'on' : '') + '"><span class="bi">🏠</span>Home</a>' +
-        '<a href="blog.html" class="' + (page === 'blog.html' ? 'on' : '') + '"><span class="bi">✍️</span>Blog</a>' +
-        '<a href="news.html" class="' + (page === 'news.html' ? 'on' : '') + '"><span class="bi">📰</span>News</a>' +
-        '<a href="facts.html" class="' + (page === 'facts.html' ? 'on' : '') + '"><span class="bi">💡</span>Facts</a>' +
-        '<a href="categories.html" class="' + (page === 'categories.html' ? 'on' : '') + '"><span class="bi">🏷️</span>Explore</a>' +
-        '<a href="games.html" class="' + (page === 'games.html' ? 'on' : '') + '"><span class="bi">🎮</span>Games</a>';
+        '<a href="' + BASE + 'index.html" class="' + (page === 'index.html' ? 'on' : '') + '"><span class="bi">🏠</span>Home</a>' +
+        '<a href="' + BASE + 'blog.html" class="' + (page === 'blog.html' ? 'on' : '') + '"><span class="bi">✍️</span>Blog</a>' +
+        '<a href="' + BASE + 'news.html" class="' + (page === 'news.html' ? 'on' : '') + '"><span class="bi">📰</span>News</a>' +
+        '<a href="' + BASE + 'facts.html" class="' + (page === 'facts.html' ? 'on' : '') + '"><span class="bi">💡</span>Facts</a>' +
+        '<a href="' + BASE + 'categories.html" class="' + (page === 'categories.html' ? 'on' : '') + '"><span class="bi">🏷️</span>Explore</a>' +
+        '<a href="' + BASE + 'games.html" class="' + (page === 'games.html' ? 'on' : '') + '"><span class="bi">🎮</span>Games</a>';
       document.body.appendChild(bNav);
     }
   }
@@ -171,19 +159,19 @@
 
     var items = [];
     (cachedFeed.blog || []).forEach(function (b) {
-      if ((b.title + b.excerpt + b.tag).toLowerCase().indexOf(q) > -1) {
-        items.push({ type: 'blog', title: b.title, tag: b.tag || 'Blog', url: 'article.html?type=blog&id=' + b.id });
+      if ((b.title + ' ' + b.excerpt + ' ' + b.tag).toLowerCase().indexOf(q) > -1) {
+        items.push({ type: 'blog', title: b.title, tag: b.tag || 'Blog', url: BASE + 'articles/' + b.id + '.html' });
       }
     });
     (cachedFeed.news || []).forEach(function (n) {
-      if ((n.title + n.excerpt + n.tag).toLowerCase().indexOf(q) > -1) {
-        items.push({ type: 'news', title: n.title, tag: n.tag || 'News', url: 'article.html?type=news&id=' + n.id });
+      if ((n.title + ' ' + n.excerpt + ' ' + n.tag).toLowerCase().indexOf(q) > -1) {
+        items.push({ type: 'news', title: n.title, tag: n.tag || 'News', url: BASE + 'articles/' + n.id + '.html' });
       }
     });
     (cachedFeed.facts || []).forEach(function (f) {
       var text = f.fact || f.title || '';
       if (text.toLowerCase().indexOf(q) > -1) {
-        items.push({ type: 'facts', title: text.substring(0, 70) + '…', tag: f.category || 'Fact', url: 'facts.html' });
+        items.push({ type: 'facts', title: text.substring(0, 70) + '…', tag: f.category || 'Fact', url: BASE + 'facts.html' });
       }
     });
 
@@ -224,14 +212,13 @@
   function save(stats) {
     try { localStorage.setItem('ch_game_stats', JSON.stringify(stats)); } catch (e) {}
   }
-  // ch_stats.best.<gameId> = best value ; ch_stats.plays.<gameId> = play count
   function record(game, value) {
     var s = load();
     s.best = s.best || {};
     s.plays = s.plays || {};
     s.plays[game] = (s.plays[game] || 0) + 1;
     var prev = s.best[game];
-    if (prev === undefined || value < prev) s.best[game] = value; // lower = better for speed/moves
+    if (prev === undefined || value < prev) s.best[game] = value;
     s.lastGame = game;
     s.lastPlay = Date.now();
     save(s);

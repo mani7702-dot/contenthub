@@ -1,3 +1,9 @@
 User-agent: *
 Allow: /
+Disallow: /content/
+Disallow: /templates/
+Disallow: /tools/
+Disallow: /scripts/
+Disallow: /logs/
+
 Sitemap: https://mani7702-dot.github.io/contenthub/sitemap.xml

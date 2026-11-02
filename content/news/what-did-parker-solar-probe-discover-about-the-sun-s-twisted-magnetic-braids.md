@@ -55,3 +55,5 @@ The study by Masatomi Iizawa et al. (Technical University of Braunschweig) was p
 1. Universe Today — "Parker Solar Probe Spots Twisted Magnetic Braids Growing in the Solar Wind" (Andy Tomaswick, Oct 26, 2026)
 2. Wikipedia — Parker Solar Probe
 3. Wikipedia — Solar wind
+
+**Sources:** [Universe Today](https://www.universetoday.com/articles/parker-solar-probe-spots-twisted-magnetic-braids-growing-in-the-solar-wind) · [Wikipedia - Parker Solar Probe](https://en.wikipedia.org/wiki/Parker_Solar_Probe) · [Wikipedia - Solar wind](https://en.wikipedia.org/wiki/Solar_wind)

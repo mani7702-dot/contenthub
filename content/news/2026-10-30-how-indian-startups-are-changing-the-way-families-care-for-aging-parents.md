@@ -11,7 +11,6 @@ tags:
   - family
   - technology
 board: news
-image: ""
 image_caption: ""
 ---
 

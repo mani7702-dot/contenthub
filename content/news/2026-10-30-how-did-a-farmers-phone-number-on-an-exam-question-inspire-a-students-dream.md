@@ -5,7 +5,6 @@ category: "history"
 read: "4 min"
 board: news
 tags: ["history", "education", "china", "strawberry farmer", "inspiration", "serendipity"]
-image: ""
 image_caption: ""
 ---
 

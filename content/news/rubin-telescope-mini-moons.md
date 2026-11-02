@@ -53,3 +53,5 @@ Mini-moons are temporary natural satellites of Earth — small asteroids gravita
 
 - Space.com: "Rubin telescope should find more of Earth's mysterious 'mini-moons'" by Andrew Jones, 26 October 2026
 - Wikipedia: "2024 PT5", "2020 CD3", "Temporary satellite", "Vera C. Rubin Observatory"
+
+**Sources:** space.com · wikipedia

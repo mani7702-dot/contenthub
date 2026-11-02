@@ -52,3 +52,5 @@ The original research was published in *Nature Communications* (DOI: 10.1038/s41
 - ScienceDaily: "New 3D thermal invisibility cloak makes objects disappear from infrared cameras" — https://www.sciencedaily.com/releases/2026/10/261025073051.htm
 - Nature Communications: "Free-form thermal cloaks in three dimensions" — https://doi.org/10.1038/s41467-026-73167-0
 - Wikipedia: Transformation optics — https://en.wikipedia.org/wiki/Transformation_optics
+
+**Sources:** [ScienceDaily](https://www.sciencedaily.com/releases/2026/10/261025073051.htm) · [Nature Communications](https://doi.org/10.1038/s41467-026-73167-0) · [Wikipedia - Transformation optics](https://en.wikipedia.org/wiki/Transformation_optics)

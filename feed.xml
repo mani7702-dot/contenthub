@@ -3,125 +3,181 @@
 <channel>
 <title>ContentHub</title>
 <link>https://mani7702-dot.github.io/contenthub/</link>
+<description>Blog posts, news, facts and games.</description>
   <item>
     <title>Why Do Dogs Eat Grass?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/why-do-dogs-eat-grass.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/why-do-dogs-eat-grass.html</guid>
+    <pubDate>2026-11-02</pubDate>
     <description>Most dogs that eat grass are not doing anything dangerous or mysterious. Grass eating is common in dogs, and in most cases it is a normal scavenging or exploratory behavior rather than a sign of...</description>
   </item>
   <item>
     <title>Why Do Messy Networks Sometimes Outlast Perfect Ones?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/why-do-messy-networks-sometimes-outlast-perfect-ones.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/why-do-messy-networks-sometimes-outlast-perfect-ones.html</guid>
+    <pubDate>2026-11-01T07:46:00+05:30</pubDate>
     <description>For decades scientists assumed that tidy, uniform systems are the most reliable. A new mathematical framework flips that idea on its head — a little well-placed variety can actually make a network tougher.</description>
   </item>
   <item>
     <title>Could Fusion Energy Have a Secret Shortcut Around Its Biggest Hurdle?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/could-fusion-energy-have-a-secret-shortcut-around-its-biggest-hurdle.html</guid>
+    <pubDate>2026-11-01T06:37:00+05:30</pubDate>
     <description>For 70 years, scientists have tried to climb the fusion-energy mountain head-on. A new set of calculations suggests there may be a far easier pass around the side.</description>
   </item>
   <item>
     <title>Can GPS-Free Satellites Navigate Space Using Only Their Neighbors?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/can-gps-free-satellites-navigate-space-using-only-their-neighbors.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/can-gps-free-satellites-navigate-space-using-only-their-neighbors.html</guid>
+    <pubDate>2026-11-01T00:33:00+05:30</pubDate>
     <description>A NASA experiment called FALCON shows spacecraft can work out their position in orbit by treating other satellites and space junk as floating landmarks — no GPS required.</description>
-  </item>
-  <item>
-    <title>What Are \"In-Between\" Materials, and Why Could They Power the Future?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/what-are-in-between-materials-and-why-could-they-power-the-future.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/what-are-in-between-materials-and-why-could-they-power-the-future.html</guid>
-    <description>When chemists heat ingredients to make a new material, they usually watch only the start and the finish. A team in the UK peeked at the messy middle — and stumbled onto a hidden material that could help make clean fuels and better batteries.</description>
-  </item>
-  <item>
-    <title>Why Are Wasps Moving Into Homes Built for Ants?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/why-are-wasps-moving-into-homes-built-for-ants.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/why-are-wasps-moving-into-homes-built-for-ants.html</guid>
-    <description>For 10 million years, tropical Macaranga trees have traded room and board to ants in exchange for bodyguard duty. Now scientists in Borneo have found predatory wasps moving in — and turning the ants' cosy chambers into larders stocked with paralysed flies.</description>
-  </item>
-  <item>
-    <title>Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.html</guid>
-    <description>A small clay pot, still completely whole after four centuries underground, has left archaeologists in Florida with a wonderful mystery: why would anyone bury something perfectly usable and simply walk away?</description>
-  </item>
-  <item>
-    <title>Could a Tiny 'Atomic Cannon' Finally Test Einstein's Gravity?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-atomic-cannon-finally-test-einstein-s-gravity.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-atomic-cannon-finally-test-einstein-s-gravity.html</guid>
-    <description>For more than a century, physicists have watched ordinary objects fall at exactly the same rate. But nobody has ever tested whether the heavier particles of nature obey the same rule. Now scientists in Switzerland have built a laser-straight beam of exotic atoms — nicknamed an 'atomic cannon' — to find out.</description>
-  </item>
-  <item>
-    <title>How Did a 147-Year-Old Physics Rule Suddenly Grow a New Direction?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/how-did-a-147-year-old-physics-rule-suddenly-grow-a-new-direction.html</guid>
-    <description>In 1879, Edwin Hall found that a magnetic field had to push straight down through a material to nudge its electric current sideways. Now physicists have coaxed that same sideways signal to appear when the field lies flat — and one tiny sensor can feel magnetism in more than one direction.</description>
-  </item>
-  <item>
-    <title>Why Did a 25-Year-Old Quantum Puzzle Finally Get Solved?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/why-did-a-25-year-old-quantum-puzzle-finally-get-solved.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/why-did-a-25-year-old-quantum-puzzle-finally-get-solved.html</guid>
-    <description>For a quarter of a century, physicists could measure one famous kind of quantum link — but not its equally important twin. A team in Japan has now cracked the other one, opening a fresh doorway to quantum teleportation.</description>
-  </item>
-  <item>
-    <title>Could a Quantum Computer Run Any Program by Braiding Tiny Particles?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/could-a-quantum-computer-run-any-program-by-braiding-tiny-particles.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/could-a-quantum-computer-run-any-program-by-braiding-tiny-particles.html</guid>
-    <description>A laptop can run almost any software you throw at it — but quantum computers have long been limited to a narrow set of tasks. Now physicists have braided and fused strange particles called anyons to unlock the full toolkit.</description>
-  </item>
-  <item>
-    <title>What Are Fractons — the Strange Particles That Can Barely Move?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/what-are-fractons-the-strange-particles-that-can-barely-move.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/what-are-fractons-the-strange-particles-that-can-barely-move.html</guid>
-    <description>Imagine a particle so shy it refuses to budge on its own. Physicists have just brought fractons — oddities that barely move — a big step closer to being seen in a real material.</description>
-  </item>
-  <item>
-    <title>How Does Light Spin All By Itself in Empty Space?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/how-does-light-spin-all-by-itself-in-empty-space.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/how-does-light-spin-all-by-itself-in-empty-space.html</guid>
-    <description>A beam of light can start out completely still and then, all on its own, grow twirling patches as it travels through empty space — no lenses, mirrors or special materials required.</description>
-  </item>
-  <item>
-    <title>How Does Nature Move Energy So Efficiently?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/how-does-nature-move-energy-so-efficiently.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/how-does-nature-move-energy-so-efficiently.html</guid>
-    <description>Every leaf that turns sunlight into food relies on one of chemistry's neatest tricks — moving a proton and an electron together in perfect step. For the first time, scientists have filmed that dance and the water around it.</description>
-  </item>
-  <item>
-    <title>Why Does Quantum Weirdness Fade Away? Scientists Just Cleared One Big Suspect</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/why-does-quantum-weirdness-fade-away-scientists-just-cleared-one-big-suspect.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/why-does-quantum-weirdness-fade-away-scientists-just-cleared-one-big-suspect.html</guid>
-    <description>Tiny particles can be in two states at once, yet everyday objects never do. A 62-day experiment buried under a mountain has ruled out one famous explanation for why the strange behaviour disappears.</description>
-  </item>
-  <item>
-    <title>What Did a Long-Lost Memoir Reveal About a War of 1812 Soldier?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.html</guid>
-    <description>A forgotten autobiography, found in a library 3,700 miles from home, has rewritten the story of Shadrack Byfield — a British soldier who lost his arm in battle, designed his own replacement, and refused to be forgotten.</description>
-  </item>
-  <item>
-    <title>Are Ocean Heatwaves Hiding Months of Extra Warming?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/are-ocean-heatwaves-hiding-months-of-extra-warming.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/are-ocean-heatwaves-hiding-months-of-extra-warming.html</guid>
-    <description>A new way of measuring ocean warmth suggests marine heatwaves are only the hottest part of much longer warming events — meaning the total heat that sea life experiences has been underestimated by more than 150%.</description>
   </item>
   <item>
     <title>Why Might the Human Family Tree Need a Big Rewrite?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/why-might-the-human-family-tree-need-a-big-rewrite.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/why-might-the-human-family-tree-need-a-big-rewrite.html</guid>
+    <pubDate>2026-11-01</pubDate>
     <description>A new paper argues that the three familiar groups of our ancient relatives — Homo, Australopithecus and Paranthropus — don't match real branches of the family tree, and that it may be time to merge them.</description>
   </item>
   <item>
-    <title>Could a Tiny 'Rainbow on a Chip' Supercharge the Internet of Tomorrow?</title>
-    <link>https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.html</link>
-    <guid>https://mani7702-dot.github.io/contenthub/articles/could-a-tiny-rainbow-on-a-chip-supercharge-the-internet-of-tomorrow.html</guid>
-    <description>Deep inside a laboratory, a chip the size of a grain of rice turns a beam of invisible light into a perfect little rainbow. That tiny spectrum could one day carry far more of the world's data at once.</description>
+    <title>Why Is CERN Taking Apart Its Giant Atom Smasher?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-is-cern-taking-apart-its-giant-atom-smasher.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-is-cern-taking-apart-its-giant-atom-smasher.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>The world's largest particle collider is being carefully opened up for the first time in nearly twenty years. The reason? New magnets that are about 40% stronger than the ones they replace.</description>
+  </item>
+  <item>
+    <title>Why Has a 100-Year-Old Mushroom Mystery Suddenly Grown So Complicated?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-has-a-100-year-old-mushroom-mystery-suddenly-grown-so-complicated.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-has-a-100-year-old-mushroom-mystery-suddenly-grown-so-complicated.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>For more than a century, growers blamed one bacterium for the unsightly bruises on white button mushrooms. A new DNA study has found the culprit is not one germ but a whole crowd of them.</description>
+  </item>
+  <item>
+    <title>Why Does Quantum Weirdness Fade Away? Scientists Just Cleared One Big Suspect</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-does-quantum-weirdness-fade-away-scientists-just-cleared-one-big-suspect.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-does-quantum-weirdness-fade-away-scientists-just-cleared-one-big-suspect.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Tiny particles can be in two states at once, yet everyday objects never do. A 62-day experiment buried under a mountain has ruled out one famous explanation for why the strange behaviour disappears.</description>
+  </item>
+  <item>
+    <title>Why Do Some New Skills Stick — and Could a Nerve in Your Neck Help?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-do-some-new-skills-stick-and-could-a-nerve-in-your-neck-help.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Scientists in Japan found that gently stimulating the vagus nerve after practice helped mice remember a new skill for longer — suggesting the body may quietly help the brain lock in what we learn.</description>
+  </item>
+  <item>
+    <title>Why Do Astronauts Get Constipated in Space — and What Can a Blood Test Show?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-do-astronauts-get-constipated-in-space-and-what-can-a-blood-test-show.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Blood samples from 52 astronauts hint that microgravity slows food through the gut, nudging bacteria to ferment protein instead of fiber.</description>
+  </item>
+  <item>
+    <title>Why Did Someone Bury a Perfect 400-Year-Old Pot and Never Come Back?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-did-someone-bury-a-perfect-400-year-old-pot-and-never-come-back.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>A small clay pot, still completely whole after four centuries underground, has left archaeologists in Florida with a wonderful mystery: why would anyone bury something perfectly usable and simply walk away?</description>
+  </item>
+  <item>
+    <title>Why Did Einstein Call It 'Spooky' — And What Did Scientists Just Catch at CERN?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-did-einstein-call-it-spooky-and-what-did-scientists-just-catch-at-cern.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-did-einstein-call-it-spooky-and-what-did-scientists-just-catch-at-cern.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Deep inside the world's biggest atom smasher, physicists have caught a famously 'spooky' quantum effect linking two fleeting particles — proving that nature's strangest rule holds even in some of the most violent...</description>
+  </item>
+  <item>
+    <title>Why Did a Rare Beetle That Rides on Bees Come Back to Wales After 60 Years?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-did-a-rare-beetle-that-rides-on-bees-come-back-to-wales-after-60-years.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>A little beetle that hitches a lift on bees to raise its young has turned up breeding in Wales for the first time in six decades — and its comeback is a hopeful sign.</description>
+  </item>
+  <item>
+    <title>Why Did a 25-Year-Old Quantum Puzzle Finally Get Solved?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-did-a-25-year-old-quantum-puzzle-finally-get-solved.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-did-a-25-year-old-quantum-puzzle-finally-get-solved.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>For a quarter of a century, physicists could measure one famous kind of quantum link — but not its equally important twin. A team in Japan has now cracked the other one, opening a fresh doorway to quantum teleportation.</description>
+  </item>
+  <item>
+    <title>Why Couldn't a 10-Year Experiment Pin Down Gravity's Most Famous Number?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-couldn-t-a-10-year-experiment-pin-down-gravity-s-most-famous-number.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Scientists spent a decade trying to measure the strength of gravity. When they finally opened a sealed envelope holding the answer, the number surprised them — and deepened one of physics' oldest mysteries.</description>
+  </item>
+  <item>
+    <title>Why Can't Viking Museums Let Go of the Warrior Myth?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-can-t-viking-museums-let-go-of-the-warrior-myth.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-can-t-viking-museums-let-go-of-the-warrior-myth.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Scandinavia's great museums hold some of the world's finest Viking treasures. A new study of their displays finds they still lean on an old, mostly made-up picture of Vikings as tall, sword-wielding warriors.</description>
+  </item>
+  <item>
+    <title>Why Are Wasps Moving Into Homes Built for Ants?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/why-are-wasps-moving-into-homes-built-for-ants.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/why-are-wasps-moving-into-homes-built-for-ants.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>For 10 million years, tropical Macaranga trees have traded room and board to ants in exchange for bodyguard duty. Now scientists in Borneo have found predatory wasps moving in — and turning the ants' cosy chambers...</description>
+  </item>
+  <item>
+    <title>What Is the Quantum 'Energy Ladder' That Took 40 Years to Measure?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/what-is-the-quantum-energy-ladder-that-took-40-years-to-measure.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>For four decades, physicists predicted that certain quantum systems should settle into energy steps at very particular spacings — like rungs on a ladder. Now a team at Caltech has finally measured those rungs...</description>
   </item>
   <item>
     <title>What Is the 'Cheshire Cat's Grin' Hiding Inside a Superconductor?</title>
     <link>https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html</link>
     <guid>https://mani7702-dot.github.io/contenthub/articles/what-is-the-cheshire-cat-s-grin-hiding-inside-a-superconductor.html</guid>
-    <description>When some metals get cold enough, electricity flows through them with zero resistance. Now physicists have caught a ghostly 'grin' left behind by that magic — a pattern of paired electrons that lingers even after the superpower fades.</description>
+    <pubDate>2026-11-01</pubDate>
+    <description>When some metals get cold enough, electricity flows through them with zero resistance. Now physicists have caught a ghostly 'grin' left behind by that magic — a pattern of paired electrons that lingers even after the...</description>
+  </item>
+  <item>
+    <title>What Did a Long-Lost Memoir Reveal About a War of 1812 Soldier?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/what-did-a-long-lost-memoir-reveal-about-a-war-of-1812-soldier.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>A forgotten autobiography, found in a library 3,700 miles from home, has rewritten the story of Shadrack Byfield — a British soldier who lost his arm in battle, designed his own replacement, and refused to be forgotten.</description>
+  </item>
+  <item>
+    <title>What Are the 4 Warning Signs That a Storm Is About to Strengthen?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/what-are-the-4-warning-signs-that-a-storm-is-about-to-strengthen.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/what-are-the-4-warning-signs-that-a-storm-is-about-to-strengthen.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>A storm can look fierce from above yet still be going nowhere. After studying nearly 30 years of Hurricane Hunter radar, scientists have found four easy-to-spot clues that a disorganized storm is about to stand up —...</description>
+  </item>
+  <item>
+    <title>What Are \"In-Between\" Materials, and Why Could They Power the Future?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/what-are-in-between-materials-and-why-could-they-power-the-future.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/what-are-in-between-materials-and-why-could-they-power-the-future.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>When chemists heat ingredients to make a new material, they usually watch only the start and the finish. A team in the UK peeked at the messy middle — and stumbled onto a hidden material that could help make clean...</description>
+  </item>
+  <item>
+    <title>What Are Fractons — the Strange Particles That Can Barely Move?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/what-are-fractons-the-strange-particles-that-can-barely-move.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/what-are-fractons-the-strange-particles-that-can-barely-move.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Imagine a particle so shy it refuses to budge on its own. Physicists have just brought fractons — oddities that barely move — a big step closer to being seen in a real material.</description>
+  </item>
+  <item>
+    <title>What Are Bethe Strings, the Quantum Knots Predicted Nearly a Century Ago?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/what-are-bethe-strings-the-quantum-knots-predicted-nearly-a-century-ago.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Back in 1931, physicist Hans Bethe imagined particles that could cling together without any chemical glue — a kind of quantum knot that only works in one dimension. Almost a hundred years later, scientists in Austria...</description>
+  </item>
+  <item>
+    <title>How Does Your Name End Up on an Asteroid?</title>
+    <link>https://mani7702-dot.github.io/contenthub/articles/how-does-your-name-end-up-on-an-asteroid.html</link>
+    <guid>https://mani7702-dot.github.io/contenthub/articles/how-does-your-name-end-up-on-an-asteroid.html</guid>
+    <pubDate>2026-11-01</pubDate>
+    <description>Two astronomers in Northern Ireland just learned that chunks of space roughly 11 km wide now carry their names. Here's how a rock drifting in the asteroid belt becomes a lasting honour.</description>
   </item>
 </channel>
 </rss>

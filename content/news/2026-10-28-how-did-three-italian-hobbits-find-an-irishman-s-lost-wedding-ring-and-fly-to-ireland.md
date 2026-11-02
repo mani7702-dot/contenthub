@@ -6,7 +6,6 @@ read: "4 min"
 excerpt: "When Irish visitor Patrick Mohr lost his wedding ring in a mountain stream in Tuscany, three local friends searched for days, found it, and flew to Ireland dressed as hobbits to hand it back in person."
 tags: [italy, ireland, hobbits, wedding-ring, kindness, friendship, lucca, tuscany]
 board: news
-image: ""
 image_caption: ""
 ---
 

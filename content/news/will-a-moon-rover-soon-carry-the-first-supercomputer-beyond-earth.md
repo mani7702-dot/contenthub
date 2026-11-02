@@ -54,3 +54,5 @@ The study builds on HPE's earlier Spaceborne Computer flights (Spaceborne Comput
 2. Universe Today — "A Brief-ish History of METI. Part I" (Oct 26, 2026)
 3. Wikipedia — Astrolab (company)
 4. Wikipedia — Hewlett Packard Enterprise
+
+**Sources:** [Space.com](https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip) · [Universe Today](https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments) · [Wikipedia - Astrolab](https://en.wikipedia.org/wiki/Astrolab_(company)) · [Wikipedia - Hewlett Packard Enterprise](https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise)

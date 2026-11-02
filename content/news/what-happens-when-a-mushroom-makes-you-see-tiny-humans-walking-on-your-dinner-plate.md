@@ -41,7 +41,7 @@ One person described seeing tiny humans leap from their spoon into their soup, w
 
 Unlike many hallucinations that people know are "make-believe," these visions feel startlingly real. However, most people stay aware that they are intoxicated and understand the visions are not real.
 
-![Lanmaoa asiatica mushroom](https://upload.wikimedia.org/wikipedia/commons/5/5e/Lanmaoa_asiatica.jpg)
+
 
 ## Why the mushroom is safe — when cooked right
 

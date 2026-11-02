@@ -54,3 +54,5 @@ The technique uses the **Advective Flux Transport** model to simulate plasma flo
 2. Wikipedia — Helioseismology
 3. Wikipedia — Sunspot
 4. Wikipedia — Coronal mass ejection
+
+**Sources:** [Universe Today](https://www.universetoday.com/articles/scientists-can-now-spot-hidden-sunspots-on-the-solar-far-side) · [Wikipedia - Helioseismology](https://en.wikipedia.org/wiki/Helioseismology) · [Wikipedia - Sunspot](https://en.wikipedia.org/wiki/Sunspot) · [Wikipedia - Coronal mass ejection](https://en.wikipedia.org/wiki/Coronal_mass_ejection)

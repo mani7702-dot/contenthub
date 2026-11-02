@@ -59,3 +59,5 @@ The August 2, 2027 total solar eclipse will have the longest land-based totality
 
 - Space.com: "The 2027 total solar eclipse will plunge these 10 ancient Egyptian temples and monuments into darkness" (October 22, 2026)
 - Wikipedia: "Solar eclipse" (background on eclipse mechanics)
+
+**Sources:** Space.com · Wikipedia

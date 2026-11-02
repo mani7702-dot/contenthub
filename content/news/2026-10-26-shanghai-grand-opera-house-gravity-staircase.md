@@ -52,3 +52,5 @@ The Shanghai Grand Opera House was designed by **Snøhetta**, the Norwegian arch
 3. Wikipedia — Shanghai
 4. Wikipedia — Opera
 5. Wikipedia — Huangpu River
+
+**Sources:** [Good News Network — “Stunning New Opera House Opens With a Gravity-Defying Grand Staircase” (Oct 26, 2026)](https://www.goodnewsnetwork.org/stunning-new-opera-house-welcomes-you-with-gravity-defying-grand-staircase-look/) · [Wikipedia — Snøhetta](https://en.wikipedia.org/wiki/Sn%C3%B8hetta) · [Wikipedia — Shanghai](https://en.wikipedia.org/wiki/Shanghai) · [Wikipedia — Opera](https://en.wikipedia.org/wiki/Opera) · [Wikipedia — Huangpu River](https://en.wikipedia.org/wiki/Huangpu_River)
