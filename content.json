@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T07:47:20Z",
+  "updated": "2026-11-02T08:11:42Z",
   "boards": {
     "news": [
       {
@@ -7289,6 +7289,18 @@
     ],
     "blog": [
       {
+        "id": "why-do-dogs-eat-grass",
+        "title": "Why Do Dogs Eat Grass?",
+        "excerpt": "Most dogs that eat grass are not doing anything dangerous or mysterious. Grass eating is common in dogs, and in most cases it is a normal scavenging or exploratory behavior rather than a sign of...",
+        "tag": "Animals",
+        "author": "",
+        "date": "2026-11-02",
+        "read": "8 min",
+        "image": "",
+        "video": "",
+        "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-dogs-eat-grass.html"
+      },
+      {
         "id": "why-do-messy-networks-sometimes-outlast-perfect-ones",
         "title": "Why Do Messy Networks Sometimes Outlast Perfect Ones?",
         "excerpt": "For decades scientists assumed that tidy, uniform systems are the most reliable. A new mathematical framework flips that idea on its head \u2014 a little well-placed variety can actually make a network tougher.",
@@ -9309,6 +9321,18 @@
     ]
   },
   "blog": [
+    {
+      "id": "why-do-dogs-eat-grass",
+      "title": "Why Do Dogs Eat Grass?",
+      "excerpt": "Most dogs that eat grass are not doing anything dangerous or mysterious. Grass eating is common in dogs, and in most cases it is a normal scavenging or exploratory behavior rather than a sign of...",
+      "tag": "Animals",
+      "author": "",
+      "date": "2026-11-02",
+      "read": "8 min",
+      "image": "",
+      "video": "",
+      "url": "https://mani7702-dot.github.io/contenthub/articles/why-do-dogs-eat-grass.html"
+    },
     {
       "id": "why-do-messy-networks-sometimes-outlast-perfect-ones",
       "title": "Why Do Messy Networks Sometimes Outlast Perfect Ones?",
