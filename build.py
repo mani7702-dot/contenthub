@@ -14,6 +14,8 @@ import os
 import re
 from datetime import datetime
 
+import monetize
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(ROOT, "content")
 ARTICLES_DIR = os.path.join(ROOT, "articles")
@@ -62,6 +64,9 @@ def inline(s):
     s = esc(s)
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
     s = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", s)
+    # Markdown links -> <a>. Affiliate domains get rel="sponsored nofollow".
+    s = re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)",
+               lambda m: monetize.link(m.group(2), m.group(1)), s)
     return s
 
 
@@ -143,14 +148,14 @@ def render_article_html(a):
     page = page.replace("<!--CONTENTHUB-TAG-->", esc(a.get("tag", "General")))
     page = page.replace("<!--CONTENTHUB-EXCERPT-->", excerpt_p)
     page = page.replace("<!--CONTENTHUB-HEAD-->", head)
-    page = page.replace("<!--CONTENTHUB-BODY-->", body)
+    page = page.replace("<!--CONTENTHUB-BODY-->", monetize.insert_mid(body))
     desc = esc(a.get("excerpt", ""))[:300]
     canonical = SITE_BASE + "/articles/" + a["id"] + ".html"
     ogimg = (SITE_BASE + "/" + a["image"]) if a.get("image") else ""
     page = page.replace("<!--CONTENTHUB-DESC-->", desc)
     page = page.replace("<!--CONTENTHUB-CANONICAL-->", canonical)
     page = page.replace("<!--CONTENTHUB-OGIMAGE-->", ogimg)
-    return page
+    return monetize.inject(page)
 
 
 
@@ -278,7 +283,13 @@ def build():
     write(os.path.join(ROOT, "feed.xml"), rss)
 
     # 4b. Static all-articles link hub (crawl path)
-    write(os.path.join(ROOT, "all-articles.html"), render_all_articles_page(items))
+    write(os.path.join(ROOT, "all-articles.html"), monetize.inject(render_all_articles_page(items)))
+    # 4c. Monetization: seed ad markers + inject live code into the static pages
+    for name in ("index.html", "blog.html", "news.html", "facts.html",
+                 "games.html", "about.html", "privacy.html", "categories.html"):
+        p = os.path.join(ROOT, name)
+        if os.path.exists(p):
+            write(p, monetize.inject(read(p)))
     # 5. CNAME for custom domain
     if SITE_CNAME:
         write(os.path.join(ROOT, "CNAME"), SITE_CNAME)
@@ -289,6 +300,7 @@ def build():
           "User-agent: *\nAllow: /\n")
 
     print("Built %d articles -> articles/, content.json, sitemap.xml, feed.xml" % len(items))
+    print("Monetization: AdSense %s" % ("ON (%s)" % monetize.ADSENSE_CLIENT if monetize.adsense_enabled() else "off (set ADSENSE_CLIENT to enable)"))
 
 
 if __name__ == "__main__":
