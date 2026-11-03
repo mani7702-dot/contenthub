@@ -414,16 +414,16 @@ def render_index(items):
     ticker_items = []
     for a in items[:14]:
         ticker_items.append("<span><b>%s</b> %s</span>" % (a["board"].upper(), esc(a["title"])))
-    ticker = "".join(ticker_items) * 2
+    ticker = "".join(ticker_items)
 
     trend_html = "".join(
         '<a class="trend-item" href="articles/%s.html"><span class="rank">%d</span>'
-        '<div style="flex:1"><h4>%s</h4><div class="trend-meta">%s</div></div>'
+        '<div style="flex:1"><h3 class="trend-title">%s</h3><div class="trend-meta">%s</div></div>'
         '<span class="fire">\U0001f525</span></a>' % (esca(a["id"]), i + 1, esc(a["title"]), esc(a["tag"]))
         for i, a in enumerate(trend))
 
     games_html = "".join(
-        '<a class="game-card" href="%s"><div class="g-ico">%s</div><h3>%s</h3><p>%s</p>'
+        '<a class="game-card" href="%s"><h3 class="g-title"><span class="g-ico" aria-hidden="true">%s</span>%s</h3><p>%s</p>'
         '<span class="btn btn-ghost">Play now</span></a>' % (u, i, esc(n), esc(d))
         for n, d, i, u in GAMES)
 
@@ -436,7 +436,6 @@ def render_index(items):
         fact_body = fact["excerpt"] or fact["title"]
 
     body = """<section class="hero">
-  <div class="blobs"><div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div></div>
   <div class="container">
     <h1>Create. Read. <span class="grad">Play.</span><br>Your daily hub of ideas &amp; games.</h1>
     <p>Blogs, breaking news, and surprising facts — plus quick, lightweight games for every mood. All in one colorful place.</p>
@@ -445,7 +444,7 @@ def render_index(items):
       <a class="btn btn-ghost" href="games.html">Play a game \U0001f3ae</a>
     </div>
   </div>
-  <div class="ticker" id="ticker" aria-hidden="true">
+  <div class="ticker" id="ticker" role="region" aria-label="Latest headlines">
     <div class="ticker-track" id="tickerTrack">%s</div>
   </div>
 </section>
@@ -494,7 +493,6 @@ def render_index(items):
         <p id="factBody">%s</p>
         <a class="btn" href="facts.html">More surprising facts</a>
       </div>
-      <div class="orb"></div><div class="orb o2"></div>
     </section>
   </div>
 
@@ -546,6 +544,7 @@ def render_listing(items, board, title, h1, h1grad, blurb, desc, placeholder, ch
 </section>
 
 <main class="container">
+  <h2 class="sr-only">All stories</h2>
   <div class="card-grid" id="grid">%s</div>
   <div class="pager" id="pager"></div>
   <p id="empty" style="display:none;text-align:center;color:var(--ink-soft);padding:40px">No stories match your search. Try another keyword.</p>
@@ -603,10 +602,10 @@ def render_categories(items):
 
     body = """<style>
 .cat-list{list-style:none;margin:0;padding:0;columns:2;column-gap:34px}
-.cat-list li{break-inside:avoid;display:flex;gap:10px;align-items:baseline;padding:7px 0;border-bottom:1px solid rgba(42,27,61,.07)}
+.cat-list li{break-inside:avoid;display:flex;gap:10px;align-items:baseline;padding:7px 0;border-bottom:1px solid var(--line)}
 .cat-list a{color:inherit;text-decoration:none;font-weight:600;font-size:.95rem;line-height:1.35}
-.cat-list a:hover{color:#7C5CFF}
-.cat-date{margin-left:auto;font-size:.78rem;color:#8b7ea3;white-space:nowrap}
+.cat-list a:hover{color:var(--violet)}
+.cat-date{margin-left:auto;font-size:.78rem;color:var(--ink-soft);white-space:nowrap}
 @media(max-width:700px){.cat-list{columns:1}}
 </style>
 
@@ -667,7 +666,6 @@ def render_facts(items):
     box-shadow:var(--card-shadow);min-height:220px;display:flex;flex-direction:column;justify-content:center;gap:16px;
     position:relative;overflow:hidden
   }
-  .fact-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;background:var(--brand-grad)}
   .fact-card .num{font-size:.85rem;font-weight:800;letter-spacing:.08em;color:var(--violet)}
   .fact-card .text{font-size:clamp(1.25rem,3vw,1.7rem);font-weight:700;line-height:1.5}
   .fact-controls{display:flex;gap:14px;justify-content:center;margin-top:26px}
@@ -675,8 +673,8 @@ def render_facts(items):
   .fact-dots{display:flex;gap:8px;justify-content:center;margin-top:18px}
   .dotx{width:9px;height:9px;border-radius:50%;background:var(--line);transition:.3s}
   .dotx.on{background:var(--violet);transform:scale(1.3)}
-  @keyframes flipIn{from{opacity:0;transform:translateY(26px) rotateX(45deg)}to{opacity:1;transform:translateY(0) rotateX(0)}}
-  .fact-card.swap{animation:flipIn .5s ease both}
+  @keyframes flipIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  .fact-card.swap{animation:flipIn .35s cubic-bezier(.2,.8,.25,1) both}
 </style>"""
 
     body = """<section class="hero" style="padding:40px 0 10px">
@@ -790,8 +788,9 @@ def render_article_html(a):
         head += ('<video class="article-cover" src="%s" controls muted loop></video>'
                  % esca(a["video"]))
 
-    meta_html = ('<span>%s</span><span>%s</span><span>%s</span>'
-                 % (esc(a.get("author") or "ContentHub"), esc(a["date"]), esc(a["read"])))
+    meta_html = ('<span>%s</span><span>%s</span><span>%s</span><span>%s</span>'
+                 % (esc(a["tag"]), esc(a.get("author") or "ContentHub"),
+                    esc(a["date"]), esc(a["read"])))
 
     desc = a.get("excerpt") or (a["title"] + " — read it on ContentHub.")
     canonical = SITE_BASE + "/articles/" + a["id"] + ".html"

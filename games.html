@@ -31,7 +31,7 @@
 
   /* ---- Memory ---- */
   .mem{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;max-width:420px;margin:0 auto 20px}
-  .mcard{aspect-ratio:1;border-radius:14px;background:linear-gradient(135deg,var(--violet),var(--coral));display:grid;place-items:center;font-size:1.8rem;cursor:pointer;transition:.35s;color:#fff}
+  .mcard{aspect-ratio:1;border-radius:14px;background:var(--violet);display:grid;place-items:center;font-size:1.8rem;cursor:pointer;transition:.35s;color:#fff}
   .mcard.flip{background:var(--bg-soft);color:var(--ink)}
   .mcard.matched{background:var(--aqua);cursor:default;animation:pop .4s}
   @keyframes pop{0%{transform:scale(1)}50%{transform:scale(1.15)}100%{transform:scale(1)}}
