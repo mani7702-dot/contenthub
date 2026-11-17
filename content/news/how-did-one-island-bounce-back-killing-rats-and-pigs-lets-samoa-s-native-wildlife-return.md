@@ -11,7 +11,7 @@ image_caption: "Photo: Wikimedia Commons"
 ---
 # How did one island bounce back? Killing rats and pigs lets Samoa's native wildlife return
 
-Nu'utele Island sits in the Pacific Ocean near Samoa. Just one year after teams removed every rat and pig from the island, something amazing happened — the forest grew back, birds started nesting again, and even a land crab that had been gone for decades returned. All because two animals were taken away.
+Nu'utele Island sits in the Pacific Ocean near Samoa. Just one year after teams removed every rat and pig from the island, something amazing happened: the forest grew back, birds started nesting again, and even a land crab that had been gone for decades returned. All because two animals were taken away.
 
 ## 1. What the rats and pigs were doing wrong
 
@@ -25,27 +25,27 @@ Together, the rats and pigs made it almost impossible for Nu'utele's native fore
 
 ## 2. The great removal
 
-Teams from the Samoan government, Island Conservation, and SPREP spent over 130 days on the island between March 2025 and May 2026. They trapped every rat and hunted down every pig — including the last few hiding in the rugged interior. Former rugby star Glen Osborne even joined the final hunt.
+Teams from the Samoan government, Island Conservation, and SPREP spent over 130 days on the island between March 2025 and May 2026. They trapped every rat and hunted down every pig, including the last few hiding in the rugged interior. Former rugby star Glen Osborne even joined the final hunt.
 
-## 3. What came back — fast
+## 3. What came back: fast
 
 Within months, the changes were clear:
 
 - **Forest floor covered in seedlings** where pigs had churned the soil bare
 - **Birds nesting again**, including the shy ground dove and Samoan starling
-- **Taro returning** — local farmers can now grow crops where they had failed for years
-- **A surprise guest** — a land crab never before recorded on the island was spotted near the shore
+- **Taro returning**: local farmers can now grow crops where they had failed for years
+- **A surprise guest**: a land crab never before recorded on the island was spotted near the shore
 
 ## Try this at home
 
-Find two small pots. Plant identical seeds in both. On one pot, gently dig around the soil each day with a stick (pretending to be a pig). On the other, leave it alone. Water both the same. Which grows better? You will see that undisturbed soil gives seedlings the best chance — just like on Nu'utele Island.
+Find two small pots. Plant identical seeds in both. On one pot, gently dig around the soil each day with a stick (pretending to be a pig). On the other, leave it alone. Water both the same. Which grows better? You will see that undisturbed soil gives seedlings the best chance, just like on Nu'utele Island.
 
 ## Fun Fact
 
-Islands make up only about 3 percent of Earth's land surface — but they are home to nearly 20 percent of all endangered species. Because island animals evolved with no land predators, removing just rats and pigs can bring back entire ecosystems faster than almost anywhere else on Earth.
+Islands make up only about 3 percent of Earth's land surface, but they are home to nearly 20 percent of all endangered species. Because island animals evolved with no land predators, removing just rats and pigs can bring back entire ecosystems faster than almost anywhere else on Earth.
 
 ## Sources
 
-- Good News Network — "Samoan Island Witnesses Explosion of Native Wildlife Following Removal of Invasive Rats and Pigs" (22 October 2026) — https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/
-- Wikipedia — "Island Conservation" (confirms the organization's island restoration work with invasive species removal globally) — https://en.wikipedia.org/wiki/Island_conservation
-- Island Conservation — project reports on Pacific island restoration — https://www.islandconservation.org/news/
+- Good News Network: "Samoan Island Witnesses Explosion of Native Wildlife Following Removal of Invasive Rats and Pigs" (22 October 2026), https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/
+- Wikipedia: "Island Conservation" (confirms the organization's island restoration work with invasive species removal globally), https://en.wikipedia.org/wiki/Island_conservation
+- Island Conservation: project reports on Pacific island restoration, https://www.islandconservation.org/news/

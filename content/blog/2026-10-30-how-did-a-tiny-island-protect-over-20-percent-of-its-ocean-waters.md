@@ -22,13 +22,13 @@ Back in late August 2024, Jersey's government made a bold announcement: they wou
 
 ## 2. The 21.7% Solution
 
-Come September 1st, 2024, the new rules were in effect. Jersey's protected waters grew from around 6.7% to a remarkable **21.7%** — meaning more than one-fifth of the island's surrounding ocean was now safe from bottom-trawling and other fishing practices that can harm delicate seabeds.
+Come September 1st, 2024, the new rules were in effect. Jersey's protected waters grew from around 6.7% to a remarkable **21.7%**, meaning more than one-fifth of the island's surrounding ocean was now safe from bottom-trawling and other fishing practices that can harm delicate seabeds.
 
-Why does this matter? Those protected zones act as underwater nurseries. Young fish, crabs, and other sea creatures find shelter among the kelp forests, rocky reefs, and sandy flats. When they grow up strong, they swim out and boost fish stocks in the waters available to fishing boats — a gift that keeps on giving.
+Why does this matter? Those protected zones act as underwater nurseries. Young fish, crabs, and other sea creatures find shelter among the kelp forests, rocky reefs, and sandy flats. When they grow up strong, they swim out and boost fish stocks in the waters available to fishing boats, a gift that keeps on giving.
 
 ## 3. Working With, Not Against, the Fishing Community
 
-Here's what makes Jersey's approach special: they didn't just draw lines on a map and leave fishing crews in the cold. Instead, they worked closely with local fishers to open up new areas where boats could still operate safely. The whole protected network would be managed through Jersey's own Marine Spatial Plan, coordinated with both French and British officials — because the water doesn't recognize political borders.
+Here's what makes Jersey's approach special: they didn't just draw lines on a map and leave fishing crews in the cold. Instead, they worked closely with local fishers to open up new areas where boats could still operate safely. The whole protected network would be managed through Jersey's own Marine Spatial Plan, coordinated with both French and British officials, because the water doesn't recognize political borders.
 
 "It's not about choosing between conservation and fishing," explained Jersey's marine resources chief, Francis Binney. "It's about ensuring Jersey continues to have both healthy seas and a successful fishing industry for decades to come."
 
@@ -36,18 +36,18 @@ Here's what makes Jersey's approach special: they didn't just draw lines on a ma
 
 Jersey sits just 14 miles (22 km) from the coast of France, part of a family of Crown Dependencies known for their careful stewardship of the sea. Their success has quietly inspired other small island communities to consider similar protections. After all, when you can't rely on a huge landmass to preserve nature, protecting the waters around you becomes even more important.
 
-**Fun fact:** Unlike most countries, Jersey isn't part of the United Kingdom or France — it's a self-governing Crown Dependency with its own parliament (the States of Jersey), its own money (the Jersey pound), and its own laws. It's a micro-nation that pun-punches above its weight when it comes to ocean conservation.
+**Fun fact:** Unlike most countries, Jersey isn't part of the United Kingdom or France: it's a self-governing Crown Dependency with its own parliament (the States of Jersey), its own money (the Jersey pound), and its own laws. It's a micro-nation that pun-punches above its weight when it comes to ocean conservation.
 
 ## Why This Matters to Everyone
 
-When Jersey decided to protect over 20% of its ocean, it joined a global tradition of island communities who understood something big nations sometimes forget: the sea belongs to all of us, and protecting patches of it helps the whole ocean recover. From spawning grounds for fish to feeding areas for seabirds, these underwater sanctuaries act as the ocean's own way of healing itself — one protected corner at a time.
+When Jersey decided to protect over 20% of its ocean, it joined a global tradition of island communities who understood something big nations sometimes forget: the sea belongs to all of us, and protecting patches of it helps the whole ocean recover. From spawning grounds for fish to feeding areas for seabirds, these underwater sanctuaries act as the ocean's own way of healing itself, one protected corner at a time.
 
-For a tiny island with a population of just 110,000 people, Jersey has shown that caring for the ocean doesn't require vast resources — just the courage to set boundaries that let nature thrive.
+For a tiny island with a population of just 110,000 people, Jersey has shown that caring for the ocean doesn't require vast resources, just the courage to set boundaries that let nature thrive.
 
-**Fun fact:** The name "Jersey" originally comes from the Old Norse word *hodsi*, meaning "little landing place" — a fitting name for an island that quietly became a giant in ocean protection.
+**Fun fact:** The name "Jersey" originally comes from the Old Norse word *hodsi*, meaning "little landing place", a fitting name for an island that quietly became a giant in ocean protection.
 
 ## Sources
 
-- Good News Network — "Isle of Jersey Expands Marine Protections to Cover 21% of Territorial Waters" (October 24, 2026) — https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/
-- Government of Jersey — Marine Resources statements by Francis Binney and Mary Le Hegerat (2024) — https://www.gov.je/
-- Channel Online — "Jersey expands marine protected areas to 21 percent of its waters" (2024) — https://www.channelonlinejersey.com/
+- Good News Network: "Isle of Jersey Expands Marine Protections to Cover 21% of Territorial Waters" (October 24, 2026), https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/
+- Government of Jersey: Marine Resources statements by Francis Binney and Mary Le Hegerat (2024), https://www.gov.je/
+- Channel Online: "Jersey expands marine protected areas to 21 percent of its waters" (2024), https://www.channelonlinejersey.com/

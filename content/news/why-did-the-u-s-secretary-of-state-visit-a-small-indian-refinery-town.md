@@ -3,23 +3,23 @@ title: "Why did the U.S. Secretary of State visit a small Indian refinery town?"
 date: 2026-10-23
 category: "World"
 read: "3 min"
-excerpt: "U.S. Secretary of State Marco Rubio made an unusual choice on his recent trip to India — he skipped the capital, Delhi, and headed straight to Jamnagar, home to the world's largest oil refinery. The reason? America's need for refined fuel ahead of upcoming elections."
+excerpt: "U.S. Secretary of State Marco Rubio made an unusual choice on his recent trip to India: he skipped the capital, Delhi, and headed straight to Jamnagar, home to the world's largest oil refinery. The reason? America's need for refined fuel ahead of upcoming elections."
 tags: "world, india, us, energy, refinery, diplomacy, oil"
 board: news
 image: assets/images/why-did-the-u-s-secretary-of-state-visit-a-small-indian-refinery-town.jpg
-image_caption: "Photo: Wikimedia Commons / CC BY-SA 4.0 — Oil refinery at Jamnagar, Gujarat."
+image_caption: "Photo: Wikimedia Commons / CC BY-SA 4.0, Oil refinery at Jamnagar, Gujarat."
 ---
 # Why did the U.S. Secretary of State visit a small Indian refinery town?
 
 ## An unusual pitstop in Gujarat
 
-Most foreign leaders who visit India head straight to the capital, Delhi. But when U.S. Secretary of State Marco Rubio arrived for his second trip to India in 2026, he skipped Delhi entirely. Instead, he made his final stop in **Jamnagar** — a port town in the western state of Gujarat that is home to the **world's largest oil refinery**.
+Most foreign leaders who visit India head straight to the capital, Delhi. But when U.S. Secretary of State Marco Rubio arrived for his second trip to India in 2026, he skipped Delhi entirely. Instead, he made his final stop in **Jamnagar**, a port town in the western state of Gujarat that is home to the **world's largest oil refinery**.
 
-The reason? It all comes down to **energy** — and the pressure the United States is feeling to keep fuel prices stable as midterm elections approach.
+The reason? It all comes down to **energy**, and the pressure the United States is feeling to keep fuel prices stable as midterm elections approach.
 
 ## The world's biggest kitchen for oil
 
-The **Jamnagar refinery** is owned by Reliance Industries, run by Mukesh Ambani, one of Asia's wealthiest businessmen. Think of it like the world's largest kitchen — but instead of cooking food, it processes **raw crude oil** into useful products like diesel, gasoline, and other fuels.
+The **Jamnagar refinery** is owned by Reliance Industries, run by Mukesh Ambani, one of Asia's wealthiest businessmen. Think of it like the world's largest kitchen, but instead of cooking food, it processes **raw crude oil** into useful products like diesel, gasoline, and other fuels.
 
 The refinery can process **1.24 million barrels of oil per day**. To put that in perspective, that is roughly the amount of oil that flows through a major pipeline every few hours. About **1.5% of the entire world's refining capacity** happens at this one site.
 
@@ -27,7 +27,7 @@ The refinery can process **1.24 million barrels of oil per day**. To put that in
 
 The Trump administration has been under pressure to keep gas prices low ahead of the November midterm elections. At the same time, rising tensions in the Middle East threaten global oil supplies. With little new refining capacity in the U.S., the administration is looking abroad for help.
 
-India, with its massive refining capabilities, is a natural partner. Rubio called India a **"refining superpower"** and suggested that Reliance could help process more oil from Venezuela — a country with large oil reserves but limited refining infrastructure of its own.
+India, with its massive refining capabilities, is a natural partner. Rubio called India a **"refining superpower"** and suggested that Reliance could help process more oil from Venezuela, a country with large oil reserves but limited refining infrastructure of its own.
 
 ## A new kind of diplomacy
 
@@ -41,12 +41,12 @@ The Jamnagar refinery visit may seem unusual, but it highlights a simple truth: 
 
 ## Fun Fact
 
-The Jamnagar refinery's pipe network is so extensive that if all the pipes were laid end to end, they would stretch across the entire width of India — from one side to the other!
+The Jamnagar refinery's pipe network is so extensive that if all the pipes were laid end to end, they would stretch across the entire width of India, from one side to the other!
 
 *Report filed at 16:37 IST from the Our World news desk.*
 
 ## Sources
 
-1. BBC News — "Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town?" (Oct 22, 2026) — https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o
-2. Wikipedia — "Jamnagar Refinery" (confirms capacity, ownership, and global ranking) — https://en.wikipedia.org/wiki/Jamnagar_Refinery
-3. Wikipedia — "Reliance Industries" (confirms Mukesh Ambani leadership) — https://en.wikipedia.org/wiki/Reliance_Industries
+1. BBC News: "Marco Rubio: Did domestic pressure make US secretary of state visit an Indian port town?" (Oct 22, 2026), https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o
+2. Wikipedia: "Jamnagar Refinery" (confirms capacity, ownership, and global ranking), https://en.wikipedia.org/wiki/Jamnagar_Refinery
+3. Wikipedia: "Reliance Industries" (confirms Mukesh Ambani leadership), https://en.wikipedia.org/wiki/Reliance_Industries

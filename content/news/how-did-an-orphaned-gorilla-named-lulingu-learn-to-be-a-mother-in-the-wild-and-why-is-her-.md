@@ -1,5 +1,5 @@
 ---
-title: "How did an orphaned gorilla named Lulingu learn to be a mother in the wild — and why is her baby a milestone for an endangered species?"
+title: "How did an orphaned gorilla named Lulingu learn to be a mother in the wild, and why is her baby a milestone for an endangered species?"
 date: 2026-10-24
 category: "news"
 read: "3 min"
@@ -9,19 +9,19 @@ board: news
 image: assets/images/how-did-an-orphaned-gorilla-named-lulingu-learn-to-be-a-mother-in-the-wild-and-why-is-her-.jpg
 image_caption: "Photo: Soumya.kuber, CC BY-SA 3.0 via Wikimedia Commons"
 ---
-# How did an orphaned gorilla named Lulingu learn to be a mother in the wild — and why is her baby a milestone for an endangered species?
+# How did an orphaned gorilla named Lulingu learn to be a mother in the wild: and why is her baby a milestone for an endangered species?
 
 ## A baby gorilla's second chance at life
 
-On a remote mountainside in Virunga National Park, Democratic Republic of the Congo, a young gorilla named **Lulingu** took her very first steps as a mother. But her story did not begin in the wild — it began in a rescue center, far from the forest she now calls home.
+On a remote mountainside in Virunga National Park, Democratic Republic of the Congo, a young gorilla named **Lulingu** took her very first steps as a mother. But her story did not begin in the wild: it began in a rescue center, far from the forest she now calls home.
 
-When Lulingu was just 18 months old, she was discovered alone, having been separated from her family and sold into the illegal wildlife trade. She was brought to **GRACE** — the world's only sanctuary for rescued eastern lowland gorillas. There, caretakers gave her around-the-clock care, feeding her, protecting her, and teaching her how to be a gorilla.
+When Lulingu was just 18 months old, she was discovered alone, having been separated from her family and sold into the illegal wildlife trade. She was brought to **GRACE**, the world's only sanctuary for rescued eastern lowland gorillas. There, caretakers gave her around-the-clock care, feeding her, protecting her, and teaching her how to be a gorilla.
 
 ## From sanctuary to wild
 
-Lulingu grew strong under the watchful eyes of her caretakers. Another gorilla named **Pinga** became her surrogate mother, welcoming her into a larger family at GRACE. But the goal was never to keep her in captivity — it was to give her back to the wild.
+Lulingu grew strong under the watchful eyes of her caretakers. Another gorilla named **Pinga** became her surrogate mother, welcoming her into a larger family at GRACE. But the goal was never to keep her in captivity: it was to give her back to the wild.
 
-In December 2024, Lulingu was one of **four female gorillas** airlifted from GRACE to Virunga National Park. They were released on **Mount Tshiaberimu**, a remote volcanic peak where a wild silverback named **Mwasa** already lived. This was not just a release — it was the final step of a more-than-5-year rewilding journey, supported by Gorilla Doctors and Re:wild.
+In December 2024, Lulingu was one of **four female gorillas** airlifted from GRACE to Virunga National Park. They were released on **Mount Tshiaberimu**, a remote volcanic peak where a wild silverback named **Mwasa** already lived. This was not just a release: it was the final step of a more-than-5-year rewilding journey, supported by Gorilla Doctors and Re:wild.
 
 For months, park rangers quietly watched. They checked on the gorillas' feeding, noted how they adapted to new foods, and watched how they navigated their new social world. Using non-invasive urine samples collected from leaves, they even detected when the females were ready to mate.
 
@@ -29,13 +29,13 @@ For months, park rangers quietly watched. They checked on the gorillas' feeding,
 
 On **May 21, 2026**, the monitoring team confirmed what they had been hoping for: Lulingu had given birth to a healthy baby gorilla. Both mother and infant were doing well.
 
-This was no ordinary birth. Lulingu had never been taught how to be a mother by her own family in the wild. She had learned everything at GRACE — and now she was applying those lessons in the forest. She was nursing, cradling, and even playing with her baby, while other young gorillas in her group showed gentle interest.
+This was no ordinary birth. Lulingu had never been taught how to be a mother by her own family in the wild. She had learned everything at GRACE, and now she was applying those lessons in the forest. She was nursing, cradling, and even playing with her baby, while other young gorillas in her group showed gentle interest.
 
 “This is a milestone for the gorillas,” said Dr. Katie Fawcett of GRACE Gorillas. The birth also serves a critical purpose: it provides a **genetic boost** to the small, isolated population on Mount Tshiaberimu, where eastern lowland gorillas are struggling to survive.
 
 ## Why this matters
 
-The eastern lowland gorilla (*Gorilla beringei graueri*) is **Critically Endangered**, with fewer than 6,000 individuals left in the wild. Each new birth — especially one from a rewilded mother — represents hope. The team continues to monitor Lulingu and her baby, and at least one other rewilded female may be expecting too.
+The eastern lowland gorilla (*Gorilla beringei graueri*) is **Critically Endangered**, with fewer than 6,000 individuals left in the wild. Each new birth, especially one from a rewilded mother, represents hope. The team continues to monitor Lulingu and her baby, and at least one other rewilded female may be expecting too.
 
 The rewilding project follows strict international guidelines for reintroducing great apes, showing that rescued orphans can not only survive but thrive and even start families in the wild.
 
@@ -45,7 +45,7 @@ Have you ever played "gorilla care center"? Pretend to be a caretaker at a wildl
 
 ## Fun Fact
 
-A baby gorilla weighs about 4 pounds at birth — that is roughly the same as a bag of sugar! They are born with their eyes closed and rely entirely on their mothers for the first few months. By age 3, young gorillas are weaned and begin to play with other juveniles, learning the social rules of their troop.
+A baby gorilla weighs about 4 pounds at birth. That is roughly the same as a bag of sugar! They are born with their eyes closed and rely entirely on their mothers for the first few months. By age 3, young gorillas are weaned and begin to play with other juveniles, learning the social rules of their troop.
 
 ## for-grown-ups
 
@@ -55,7 +55,7 @@ The eastern lowland gorilla (*Gorilla beringei graueri*), also known as Grauer's
 
 ## Sources
 
-1. Good News Network — "Orphaned, Rescued, and Rewilded, Female Gorilla Becomes a Mother in Historic Conservation Success" (October 5, 2026): https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/
-2. Virunga National Park — "Rescued as an orphan, reintroduced gorilla gives birth in the wild for the first time" (September 10, 2026): https://virunga.org/news/reintroduced-gorilla-gives-birth/
-3. Wikipedia — Eastern lowland gorilla (Gorilla beringei graueri): https://en.wikipedia.org/wiki/Eastern_lowland_gorilla
-4. Gorilla Doctors — Veterinary support for reintroduced eastern lowland gorillas in Virunga: https://gorilladoctors.org/news/
+1. Good News Network: "Orphaned, Rescued, and Rewilded, Female Gorilla Becomes a Mother in Historic Conservation Success" (October 5, 2026): https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/
+2. Virunga National Park: "Rescued as an orphan, reintroduced gorilla gives birth in the wild for the first time" (September 10, 2026): https://virunga.org/news/reintroduced-gorilla-gives-birth/
+3. Wikipedia: Eastern lowland gorilla (Gorilla beringei graueri): https://en.wikipedia.org/wiki/Eastern_lowland_gorilla
+4. Gorilla Doctors: Veterinary support for reintroduced eastern lowland gorillas in Virunga: https://gorilladoctors.org/news/

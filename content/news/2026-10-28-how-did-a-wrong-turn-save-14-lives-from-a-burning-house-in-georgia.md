@@ -14,21 +14,21 @@ image_caption:
 
 Sometimes the best adventures start when you take a wrong turn.
 
-That is exactly what happened to a man named Casey, who was driving home to Alabama with his son after visiting family. A simple GPS mistake sent him down a curvy road he had never traveled before — State Highway 114, just south of the tiny town of Lyerly, Georgia.
+That is exactly what happened to a man named Casey, who was driving home to Alabama with his son after visiting family. A simple GPS mistake sent him down a curvy road he had never traveled before: State Highway 114, just south of the tiny town of Lyerly, Georgia.
 
-From the top of a hill, he saw something alarming: thick, black smoke rising from a house below. What happened next reads like a movie, except it is real — and it saved 14 lives.
+From the top of a hill, he saw something alarming: thick, black smoke rising from a house below. What happened next reads like a movie, except it is real, and it saved 14 lives.
 
 ## A sleepy house becomes a race against time
 
-Inside that house, James and Larita Burke were asleep. They had spent the day caring for the children in their home — 11 kids in foster care plus one grandchild, ranging from toddlers to teens. Like many foster families, their home was always full of laughter, homework, and the gentle chaos of feeding a houseful.
+Inside that house, James and Larita Burke were asleep. They had spent the day caring for the children in their home: 11 kids in foster care plus one grandchild, ranging from toddlers to teens. Like many foster families, their home was always full of laughter, homework, and the gentle chaos of feeding a houseful.
 
 James had fallen asleep in his recliner after the children were tucked in. That is when he woke up to a stranger standing in his living room, urgently telling him, "Hey, you've got to get out of here. Your house is on fire."
 
-Casey had raced up to the house, pounding on doors and banging on windows until he could wake the entire family. With James and Larita helping, he guided all 14 children out — one by one, calm but quick — just as flames began licking through the roof.
+Casey had raced up to the house, pounding on doors and banging on windows until he could wake the entire family. With James and Larita helping, he guided all 14 children out (one by one, calm but quick) just as flames began licking through the roof.
 
 ## A family that has given homes to 500 children
 
-The Burkes are no strangers to opening their hearts. For the past 15 years, they have fostered more than 500 children. Some stayed for weeks, some for months. Some were reunited with their birth families, and others were adopted into forever homes — including three children who became permanent members of the Burke household.
+The Burkes are no strangers to opening their hearts. For the past 15 years, they have fostered more than 500 children. Some stayed for weeks, some for months. Some were reunited with their birth families, and others were adopted into forever homes, including three children who became permanent members of the Burke household.
 
 Their home may have burned to cinders along with both family cars, but the community rallied immediately. Neighbors, churches, and strangers donated clothes, food, furniture, and money. A local GoFundMe raised over $75,000 in just three days.
 
@@ -36,7 +36,7 @@ Their home may have burned to cinders along with both family cars, but the commu
 
 ## Fun fact
 
-Did you know that the average family home has only two minutes — or less — from the time a fire starts to when it becomes fully involved? Smoke detectors and a solid escape plan can make all the difference. The Burkes' house had working smoke alarms, and Casey's quick action was the second layer of safety that saved everyone.
+Did you know that the average family home has only two minutes (or less) from the time a fire starts to when it becomes fully involved? Smoke detectors and a solid escape plan can make all the difference. The Burkes' house had working smoke alarms, and Casey's quick action was the second layer of safety that saved everyone.
 
 **The time right now is 16:42 IST.**
 
@@ -44,5 +44,5 @@ Did you know that the average family home has only two minutes — or less — f
 
 ### Sources
 
-1. Good News Network — "Family That's Fostered 500 Children Saved from Housefire Thanks to Stranger's Wrong Turn" (October 27, 2026) — https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/
-2. KALB / WRCB via CNN Newsource — "Wrong turn leads stranger to rescue family of 14 from Georgia house fire" (October 22, 2026) — https://www.kalb.com/2026/10/22/wrong-turn-leads-stranger-rescue-family-14-house-fire/
+1. Good News Network: "Family That's Fostered 500 Children Saved from Housefire Thanks to Stranger's Wrong Turn" (October 27, 2026), https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/
+2. KALB / WRCB via CNN Newsource: "Wrong turn leads stranger to rescue family of 14 from Georgia house fire" (October 22, 2026), https://www.kalb.com/2026/10/22/wrong-turn-leads-stranger-rescue-family-14-house-fire/

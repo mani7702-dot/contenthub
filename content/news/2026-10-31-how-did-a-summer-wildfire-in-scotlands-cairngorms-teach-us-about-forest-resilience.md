@@ -7,7 +7,7 @@ excerpt: "After a massive July wildfire swept through Glenmore Forest Park, cons
 tags: [scotland, cairngorms, wildfire, scots pine, forest recovery, conservation, glenmore]
 board: news
 image: assets/images/how-did-a-summer-wildfire-in-scotlands-cairngorms-teach-us-about-forest-resilience.jpg
-image_caption: "Photo: Dave Conner / CC BY 2.0 / Wikimedia Commons — A view of Loch Garten in Abernethy Forest, part of the Cairngorms National Park where Scotland's ancient forests are slowly recovering after fire."
+image_caption: "Photo: Dave Conner / CC BY 2.0 / Wikimedia Commons. A view of Loch Garten in Abernethy Forest, part of the Cairngorms National Park where Scotland's ancient forests are slowly recovering after fire."
 ---
 
 1. The Fire That Swept Through 10 Square Miles of Ancient Forest
@@ -24,13 +24,13 @@ Most excitingly, the first young Scots pine and birch seedlings have already bee
 
 3. The Concern for Ancient Granny Pines
 
-While the young trees offer promise, conservationists are deeply concerned about the older generation. Many of the so-called "granny pines" — ancient Scots pines that have matured over centuries — may have been fatally damaged by the fire. Some of these veteran trees were more than 100 to 200 years old, and their loss would remove critical seed sources needed for the forest's long-term recovery.
+While the young trees offer promise, conservationists are deeply concerned about the older generation. Many of the so-called "granny pines" (ancient Scots pines that have matured over centuries) may have been fatally damaged by the fire. Some of these veteran trees were more than 100 to 200 years old, and their loss would remove critical seed sources needed for the forest's long-term recovery.
 
 Eelco de Jong, FLS forestry management and stewardship forester, explained that while broadleaf recovery is promising, "significant challenges" lie ahead, particularly for the Scots pine and areas where the organic soil layer was badly affected. Restoring these ancient trees could take centuries.
 
 4. Learning for the Future
 
-The wildfire has become a living laboratory. The Environmental Response Group — bringing together FLS, the RSPB, Highlands and Islands Enterprise, Cairngorms Connect, and the Cairngorms National Park Authority — is using advanced LiDAR imaging to map the landscape and study how it responds over time. The lessons learned will help improve firebreaks, peatland restoration, and wildfire planning across Scotland's forests.
+The wildfire has become a living laboratory. The Environmental Response Group (bringing together FLS, the RSPB, Highlands and Islands Enterprise, Cairngorms Connect, and the Cairngorms National Park Authority) is using advanced LiDAR imaging to map the landscape and study how it responds over time. The lessons learned will help improve firebreaks, peatland restoration, and wildfire planning across Scotland's forests.
 
 Fun fact: Scots pines (Pinus sylvestris) are the only native conifer tree in the UK, and ancient specimens can live for over 500 years. The oldest known Scots pine in the UK is estimated to be over 1,000 years old.
 

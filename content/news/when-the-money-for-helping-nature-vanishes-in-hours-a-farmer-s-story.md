@@ -1,17 +1,17 @@
 ---
-title: "When the money for helping nature vanishes in hours — a farmer's story"
+title: "When the money for helping nature vanishes in hours: a farmer's story"
 date: 2026-10-21
 category: "World"
 read: "4 min"
-excerpt: "In the UK, a government scheme pays farmers to protect wildlife and plant habitats. But when the latest round opened, thousands applied in hours — and the money ran out before one Warwickshire farmer could hit submit."
+excerpt: "In the UK, a government scheme pays farmers to protect wildlife and plant habitats. But when the latest round opened, thousands applied in hours, and the money ran out before one Warwickshire farmer could hit submit."
 tags: "world, uk, england, warwickshire, farming, wildlife, barn owl, funding, environment, sfi26"
 board: news
 image: assets/images/when-the-money-for-helping-nature-vanishes-in-hours-a-farmer-s-story.jpg
 image_caption: "Photo: Wikimedia Commons"
 ---
-# When the money for helping nature vanishes in hours — a farmer's story
+# When the money for helping nature vanishes in hours: a farmer's story
 
-Imagine spending years turning part of your farm into a wildlife haven — leaving strips of crop for hungry voles, planting hedges for nesting birds, letting wildflowers bloom along the edges. Then imagine that just as you go to apply for the government grant that pays for it, someone else clicks "submit" a few minutes before you, and the whole pot of money is gone.
+Imagine spending years turning part of your farm into a wildlife haven: leaving strips of crop for hungry voles, planting hedges for nesting birds, letting wildflowers bloom along the edges. Then imagine that just as you go to apply for the government grant that pays for it, someone else clicks "submit" a few minutes before you, and the whole pot of money is gone.
 
 That is exactly what happened to Richard Peace, a farmer near Nuneaton in Warwickshire, England.
 
@@ -21,13 +21,13 @@ Richard manages land where barn owls have become a favorite evening sight. As du
 
 His plan was simple: leave some crops unharvested near the woodland. "Obviously that will bring some of the wildlife out of the woods, like voles and mice, and I was hoping that the barn owls would then thrive even more than they are already," he said.
 
-But leaving part of the crop in the ground costs money. That is where the government's **Sustainable Farming Incentive** comes in — a scheme that pays farmers a quarter of their annual agreement value for doing things that help nature: creating wildlife strips, planting pollinator-friendly flowers, restoring hedgerows, and protecting soil.
+But leaving part of the crop in the ground costs money. That is where the government's **Sustainable Farming Incentive** comes in, a scheme that pays farmers a quarter of their annual agreement value for doing things that help nature: creating wildlife strips, planting pollinator-friendly flowers, restoring hedgerows, and protecting soil.
 
 ## 2. Thousands apply, money runs out in hours
 
-What Richard did not realise was that he was entering a race — not against other farmers in his village, but against thousands of farmers across the whole country.
+What Richard did not realise was that he was entering a race, not against other farmers in his village, but against thousands of farmers across the whole country.
 
-The scheme opened its second application window on 22 September. By the time Richard checked again at lunchtime, it was live — and he started filling in his form. He hit a few technical errors, but he pushed through, got to the end, and submitted.
+The scheme opened its second application window on 22 September. By the time Richard checked again at lunchtime, it was live, and he started filling in his form. He hit a few technical errors, but he pushed through, got to the end, and submitted.
 
 "I was minutes too late and the scheme had been subscribed. The money pot was exhausted."
 
@@ -41,16 +41,16 @@ Richard believes smaller family farms may have been at a disadvantage. While lar
 
 "The scheme opened and closed in six hours," Fisher said. "Nobody had anticipated that level of demand."
 
-It is a bit like Black Friday, but for wildlife. The money is real and the cause is good — paying farmers to be caretakers of the land. But when everyone rushes at once, the pot runs dry in the time it takes to click "submit."
+It is a bit like Black Friday, but for wildlife. The money is real and the cause is good: paying farmers to be caretakers of the land. But when everyone rushes at once, the pot runs dry in the time it takes to click "submit."
 
 The good news? The government is learning from this. Officials say future rounds will be designed with lessons from this rush. And schemes like this have already helped thousands of farms across the UK plant wildflower strips the size of 1,200 football pitches, create nest boxes for barn owls, and bring back hedgerows that had vanished for decades.
 
 ## Try this at home
 
-Draw a picture of your dream wildlife garden. Include a pond for frogs, a patch of wildflowers for bees, a bird feeder, and maybe a log pile for insects. Now ask an adult to help you plant just one of those things — even a single pot of wildflowers on a windowsill can give a bee or a butterfly a place to land.
+Draw a picture of your dream wildlife garden. Include a pond for frogs, a patch of wildflowers for bees, a bird feeder, and maybe a log pile for insects. Now ask an adult to help you plant just one of those things: even a single pot of wildflowers on a windowsill can give a bee or a butterfly a place to land.
 
-> **Fun Fact:** A single barn owl can eat up to 14 small mammals in one night. That means one nesting pair can gobble down over 6,000 rodents in a year — more than a ton of "pest" control for free! By protecting the fields where owls hunt, farmers are doing everyone a favor.
+> **Fun Fact:** A single barn owl can eat up to 14 small mammals in one night. That means one nesting pair can gobble down over 6,000 rodents in a year: more than a ton of "pest" control for free! By protecting the fields where owls hunt, farmers are doing everyone a favor.
 
 ---
 
-**Sources:** [BBC News — Nuneaton farmer lost out by minutes in race for wildlife funding](https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo) · [GOV.UK — SFI26: scheme rules and guidance](https://www.gov.uk/government/publications/sustainable-farming-incentive-2026-sfi26/sfi26-scheme-rules-and-guidance) · [Wikipedia — Sustainable Agriculture](https://en.wikipedia.org/wiki/Sustainable_agriculture)
+**Sources:** [BBC News: Nuneaton farmer lost out by minutes in race for wildlife funding](https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo) · [GOV.UK, SFI26: scheme rules and guidance](https://www.gov.uk/government/publications/sustainable-farming-incentive-2026-sfi26/sfi26-scheme-rules-and-guidance) · [Wikipedia, Sustainable Agriculture](https://en.wikipedia.org/wiki/Sustainable_agriculture)

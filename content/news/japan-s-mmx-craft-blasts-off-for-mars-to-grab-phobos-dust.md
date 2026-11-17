@@ -13,7 +13,7 @@ image_caption: "Photo: Wikimedia Commons"
 
 Last week, a rocket carrying Japan's **MMX spacecraft** roared off a launch pad in southern Japan, heading for a 6-month, 225-million-mile trip to the Red Planet and its oddest little companion: **Phobos**.
 
-Phobos is one of Mars' two moons — a tiny, lumpy "space potato" about **20 km (12 miles) wide** that orbits so close to Mars that it rises in the west and sets in the east, racing across the sky in just 4 hours. No spacecraft has ever landed on it. MMX wants to be the first.
+Phobos is one of Mars' two moons, a tiny, lumpy "space potato" about **20 km (12 miles) wide** that orbits so close to Mars that it rises in the west and sets in the east, racing across the sky in just 4 hours. No spacecraft has ever landed on it. MMX wants to be the first.
 
 ---
 
@@ -38,11 +38,11 @@ MMX will **arrive at Mars in August 2027** and study the bigger Solar System's o
 
 The planned steps:
 
-1. 2027 — MMX enters Mars orbit, then moves toward Phobos.
-2. 2029 — A tiny rover named **Idefix** (yes, like Obelix's dog) drops onto Phobos to scout a safe landing spot. It can only travel 1 mm per second.
-3. 2030 — MMX itself tries to **touch down** on Phobos and fires a robotic arm with two samplers — one drills under the surface, the other puffs gas to scoop the top dust.
-4. The grab is tiny — just **10 grams** (the weight of two paperclips) — but scientists say that is plenty for detailed chemistry work.
-5. Late 2030 / 2031 — The sample is sealed in a capsule and the capsule **splashes down** (or lands under parachute, depending on the latest plan) so labs on Earth can pore over every grain.
+1. 2027: MMX enters Mars orbit, then moves toward Phobos.
+2. 2029: A tiny rover named **Idefix** (yes, like Obelix's dog) drops onto Phobos to scout a safe landing spot. It can only travel 1 mm per second.
+3. 2030: MMX itself tries to **touch down** on Phobos and fires a robotic arm with two samplers: one drills under the surface, the other puffs gas to scoop the top dust.
+4. The grab is tiny, just **10 grams** (the weight of two paperclips), but scientists say that is plenty for detailed chemistry work.
+5. Late 2030 / 2031: The sample is sealed in a capsule and the capsule **splashes down** (or lands under parachute, depending on the latest plan) so labs on Earth can pore over every grain.
 
 PhD researchers are hoping the dust will also contain **microscopic splatters of Mars itself**, launched onto Phobos when ancient asteroid impacts threw Martian rocks into space. A grain of Phobos dust could turn out to be a tiny piece of Mars.
 
@@ -56,26 +56,26 @@ MMX is Japan's **JAXA** (Japan Aerospace Exploration Agency) leading the way, wi
 - **ESA** is providing deep-space radio gear.
 - **France's CNES** and **Germany's DLR** helped build the little rover.
 
-It is the kind of job no single country does alone: a 4-tonne spacecraft that needs eyes, arms, wheels and a ride back home — built across four space agencies.
+It is the kind of job no single country does alone: a 4-tonne spacecraft that needs eyes, arms, wheels and a ride back home, built across four space agencies.
 
 ---
 
 ## Try This at Home
 
-**Build a "moon potato."** Roll a small ball of Play-Doh or clay. Poke it with a toothpick to make craters, then roll it gently between your palms so it gets lumpy and uneven — not smooth like a marble. That lopsided lump is what Phobos really looks like. (Mars' other moon, Deimos, is even smaller — only 10 km wide.)
+**Build a "moon potato."** Roll a small ball of Play-Doh or clay. Poke it with a toothpick to make craters, then roll it gently between your palms so it gets lumpy and uneven, not smooth like a marble. That lopsided lump is what Phobos really looks like. (Mars' other moon, Deimos, is even smaller, only 10 km wide.)
 
-**Or: play gravity dodgeball.** Stand on a bed or a stability ball. Your whole body wobbles because you are off-balance — that is a bit like how Phobos feels being tugged by giant Mars sitting right next to it. A rover trying to drive there is like trying to walk on a surfboard.
+**Or: play gravity dodgeball.** Stand on a bed or a stability ball. Your whole body wobbles because you are off-balance. That is a bit like how Phobos feels being tugged by giant Mars sitting right next to it. A rover trying to drive there is like trying to walk on a surfboard.
 
 ---
 
 ## Fun Fact
 
-Phobos is so close to Mars that it races around the planet in just **7 hours and 39 minutes**. That is faster than Earth's Moon takes to spin once — and because Phobos goes around Mars faster than Mars spins, Phobos rises in the **west** and sets in the **east**. It will eventually either crash into Mars or break apart into a ring, billions of years from now.
+Phobos is so close to Mars that it races around the planet in just **7 hours and 39 minutes**. That is faster than Earth's Moon takes to spin once, and because Phobos goes around Mars faster than Mars spins, Phobos rises in the **west** and sets in the **east**. It will eventually either crash into Mars or break apart into a ring, billions of years from now.
 
 ---
 
 ## Sources
 
-- BBC News, "Spacecraft heading to Mars' moon Phobos lifts off from Japan" (Oct 20, 2026) — https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o
-- Wikipedia, "Martian Moons eXploration" — https://en.wikipedia.org/wiki/Martian_Moons_Exploration
-- NASA Science Solar System Exploration, "Mars Moons Exploration (MMX)" — https://solarsystem.nasa.gov/missions/mars-moons-exploration-mission/overview/
+- BBC News, "Spacecraft heading to Mars' moon Phobos lifts off from Japan" (Oct 20, 2026): https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o
+- Wikipedia, "Martian Moons eXploration": https://en.wikipedia.org/wiki/Martian_Moons_Exploration
+- NASA Science Solar System Exploration, "Mars Moons Exploration (MMX)": https://solarsystem.nasa.gov/missions/mars-moons-exploration-mission/overview/

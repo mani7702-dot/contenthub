@@ -8,7 +8,7 @@ tags: "why do dogs eat grass"
 board: blog
 ---
 
-Most dogs that eat grass are not doing anything dangerous or mysterious. Grass eating is common in dogs, and in most cases it is a normal scavenging or exploratory behavior rather than a sign of illness. There is no single proven reason dogs eat grass. Different dogs may do it for different reasons: the taste and texture, hunger, boredom, habit, an upset stomach, or simply because grass is available and easy to mouth. The practical answer is that occasional grass nibbling by a healthy dog is usually harmless, while frequent grass eating—especially with vomiting, diarrhea, lethargy, or weight loss—deserves a call to a veterinarian.
+Most dogs that eat grass are not doing anything dangerous or mysterious. Grass eating is common in dogs, and in most cases it is a normal scavenging or exploratory behavior rather than a sign of illness. There is no single proven reason dogs eat grass. Different dogs may do it for different reasons: the taste and texture, hunger, boredom, habit, an upset stomach, or simply because grass is available and easy to mouth. The practical answer is that occasional grass nibbling by a healthy dog is usually harmless, while frequent grass eating (especially with vomiting, diarrhea, lethargy, or weight loss) deserves a call to a veterinarian.
 
 ## Grass Eating Is Common and Usually Normal
 
@@ -36,7 +36,7 @@ The distinction matters because it affects what you should do. A healthy dog tha
 
 ## Taste, Texture, Boredom, and Appetite
 
-Grass is not nutritionally rich for dogs, but it has qualities some dogs seem to enjoy. Fresh grass is cool, moist, and textured. Chewing it can be satisfying. Some dogs appear to prefer certain types of grass—young shoots, broad blades, or grass in a particular part of the yard. Others eat grass only when it is wet or after it has been cut.
+Grass is not nutritionally rich for dogs, but it has qualities some dogs seem to enjoy. Fresh grass is cool, moist, and textured. Chewing it can be satisfying. Some dogs appear to prefer certain types of grass: young shoots, broad blades, or grass in a particular part of the yard. Others eat grass only when it is wet or after it has been cut.
 
 Behavior matters too. A dog that is bored, under-exercised, or left alone in a yard may fill time by grazing. Puppies and young dogs explore with their mouths, and grass is an easy target. Some dogs eat grass when they are hungry or when they anticipate a meal. Others may have learned that eating grass gets a reaction from an owner, even if that reaction is simply being told to stop.
 

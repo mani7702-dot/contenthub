@@ -3,7 +3,7 @@ title: "Why Might the Human Family Tree Need a Big Rewrite?"
 date: 2026-11-01
 category: "Origins"
 read: "3 min"
-excerpt: "A new paper argues that the three familiar groups of our ancient relatives — Homo, Australopithecus and Paranthropus — don't match real branches of the family tree, and that it may be time to merge them."
+excerpt: "A new paper argues that the three familiar groups of our ancient relatives (Homo, Australopithecus and Paranthropus) don't match real branches of the family tree, and that it may be time to merge them."
 tags: "human evolution, fossils, ancestry, science, taxonomy"
 board: news
 image: "assets/images/why-might-the-human-family-tree-need-a-big-rewrite.jpg"
@@ -19,13 +19,13 @@ Dr Ian Towle, a researcher at Monash University, argues in a new paper that the 
 
 ## Why would scientists want to do that?
 
-The problem is that a genus is supposed to be a "clade" — one common ancestor plus every one of its descendants. Large analyses keep finding that these three groups don't actually match real branches of the family tree.
+The problem is that a genus is supposed to be a "clade": one common ancestor plus every one of its descendants. Large analyses keep finding that these three groups don't actually match real branches of the family tree.
 
-Take *Australopithecus*, the group that includes the famous "Lucy" skeleton. It was originally defined by shared looks and lifestyle rather than by shared ancestry — and it doesn't form a clean branch.
+Take *Australopithecus*, the group that includes the famous "Lucy" skeleton. It was originally defined by shared looks and lifestyle rather than by shared ancestry, and it doesn't form a clean branch.
 
-*Homo* has its own puzzle. Big brains and tool use were long treated as our genus's calling cards, but species such as *Homo naledi* and the tiny "hobbit", *Homo floresiensis*, mix small brains with surprisingly modern features. Today it's hard to name a single trait shared by every *Homo* species that isn't also found in the other two groups. Part of the reason is "mosaic evolution" — different body parts change at different speeds, and similar features can evolve more than once.
+*Homo* has its own puzzle. Big brains and tool use were long treated as our genus's calling cards, but species such as *Homo naledi* and the tiny "hobbit", *Homo floresiensis*, mix small brains with surprisingly modern features. Today it's hard to name a single trait shared by every *Homo* species that isn't also found in the other two groups. Part of the reason is "mosaic evolution": different body parts change at different speeds, and similar features can evolve more than once.
 
-Even *Paranthropus*, the heavy-jawed group nicknamed for its powerful chewing teeth, is debated — some researchers think it may be two separate regional lineages rather than one.
+Even *Paranthropus*, the heavy-jawed group nicknamed for its powerful chewing teeth, is debated: some researchers think it may be two separate regional lineages rather than one.
 
 ## What would change?
 
@@ -35,6 +35,6 @@ There's a wider lesson in the naming, too. Humans were only formally recognised 
 
 ## Fun fact
 
-The "Lucy" skeleton is an *Australopithecus*. Under this proposal, she would be reclassified into our own genus — *Homo*.
+The "Lucy" skeleton is an *Australopithecus*. Under this proposal, she would be reclassified into our own genus, *Homo*.
 
-**Sources:** [ScienceDaily — Scientists say the human family tree may need a major rewrite](https://www.sciencedaily.com/releases/2026/08/260820002413.htm) · [The Conversation — Why it might be time to rethink the human family tree](https://theconversation.com/why-it-might-be-time-to-rethink-the-human-family-tree-289819) · [Monash University — Dr Ian Towle](https://www.monash.edu/discovery-institute/news-and-events)
+**Sources:** [ScienceDaily: Scientists say the human family tree may need a major rewrite](https://www.sciencedaily.com/releases/2026/08/260820002413.htm) · [The Conversation, Why it might be time to rethink the human family tree](https://theconversation.com/why-it-might-be-time-to-rethink-the-human-family-tree-289819) · [Monash University, Dr Ian Towle](https://www.monash.edu/discovery-institute/news-and-events)

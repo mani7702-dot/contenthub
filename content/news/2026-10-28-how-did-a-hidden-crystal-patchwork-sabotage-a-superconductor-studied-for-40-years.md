@@ -14,7 +14,7 @@ image_caption: "A 3D schematic of a crystal lattice, showing the periodic arrang
 
 ## 1. The 40-Year-Old Picture Everyone Trusted
 
-For more than four decades, scientists have built their understanding of copper-based superconductors — the cuprates — on a single shared idea: these crystals are essentially uniform from the inside out. Each tiny crystal was treated like a perfectly repeating brick wall, with atoms lined up in identical rows all the way through.
+For more than four decades, scientists have built their understanding of copper-based superconductors (the cuprates) on a single shared idea: these crystals are essentially uniform from the inside out. Each tiny crystal was treated like a perfectly repeating brick wall, with atoms lined up in identical rows all the way through.
 
 That tidy mental model has guided countless experiments and computer models. But a team at the University of Warwick suspected the truth might be messier than the textbooks said.
 
@@ -26,7 +26,7 @@ The result was a shock. When they stitched together thousands of measurements, t
 
 ## 3. A Quilted Crystal With Stretchy Seams
 
-What the team expected to be narrow, tidy borders between slightly different regions turned out to be enormous — hundreds of times wider than anyone had realized. These boundary zones were not thin dividing lines; they were sprawling transition regions almost like separate structures of their own. Where one patch leaned one way, another leaned a different way, and the seam between them stretched out like elastic.
+What the team expected to be narrow, tidy borders between slightly different regions turned out to be enormous, hundreds of times wider than anyone had realized. These boundary zones were not thin dividing lines; they were sprawling transition regions almost like separate structures of their own. Where one patch leaned one way, another leaned a different way, and the seam between them stretched out like elastic.
 
 Those broad, tangled seams may be exactly what has been holding superconductors back. Electricity flows freely in some patches but stumbles at the boundaries, and that interference could explain why some materials in this family conduct so much better than others that look almost identical on paper.
 
@@ -34,11 +34,11 @@ Those broad, tangled seams may be exactly what has been holding superconductors 
 
 The discovery, now published in *Physical Review Letters*, means some of the bulk measurements taken over the past 40 years may need a second look. Future theories will have to account for this hidden complexity instead of assuming every crystal is a perfect, featureless block. The Warwick team also suspects that similar patchwork patterns could be hiding inside many other cuprate superconductors, quietly shaping how they behave.
 
-If engineers can learn to control those boundaries — or smooth them out — they may unlock the next leap toward loss-free power grids, powerful medical scanners, and quantum computers that finally reach their full potential.
+If engineers can learn to control those boundaries (or smooth them out), they may unlock the next leap toward loss-free power grids, powerful medical scanners, and quantum computers that finally reach their full potential.
 
 **Fun fact:** The word "superconductor" was coined in 1911 by the scientist who discovered that mercury loses all electrical resistance when cooled. Over 110 years later, researchers are still finding surprises in materials that refuse to let go of an electron.
 
-*10:25, 28 October 2026 — Written from the ContentHub newsroom. Current time 09:56 IST.*
+*10:25, 28 October 2026: Written from the ContentHub newsroom. Current time 09:56 IST.*
 
 ## Sources
 

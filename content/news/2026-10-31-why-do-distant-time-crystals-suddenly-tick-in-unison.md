@@ -3,7 +3,7 @@ title: "Why Do Distant Time Crystals Suddenly Tick in Unison?"
 date: 2026-10-31
 category: "Science"
 read: "4 min"
-excerpt: "In 1665, Christiaan Huygens noticed two pendulum clocks on the same wall would drift into step. Now physicists have watched the same quiet trick happen between 'time crystals' inside a semiconductor — separate rhythms, far apart, locking into one beat."
+excerpt: "In 1665, Christiaan Huygens noticed two pendulum clocks on the same wall would drift into step. Now physicists have watched the same quiet trick happen between 'time crystals' inside a semiconductor: separate rhythms, far apart, locking into one beat."
 tags: "science, physics, time crystals, quantum, semiconductors"
 board: news
 image: assets/images/why-do-distant-time-crystals-suddenly-tick-in-unison.jpg
@@ -16,17 +16,17 @@ In 1665, the Dutch scientist Christiaan Huygens hung two pendulum clocks on the 
 
 ## What Exactly Is a Time Crystal?
 
-Most crystals repeat their pattern in space — think of the neat rows of atoms in a diamond or a snowflake. A time crystal is stranger. Its internal behaviour repeats in *time*, ticking through a regular rhythm even though nothing outside is pushing it to keep that beat. Researchers are still exploring what these odd systems could be good for, including future technologies that store or move information in entirely new ways.
+Most crystals repeat their pattern in space: think of the neat rows of atoms in a diamond or a snowflake. A time crystal is stranger. Its internal behaviour repeats in *time*, ticking through a regular rhythm even though nothing outside is pushing it to keep that beat. Researchers are still exploring what these odd systems could be good for, including future technologies that store or move information in entirely new ways.
 
 ## A Tiny Choir Inside a Semiconductor
 
 The new work comes from a team at TU Dortmund University in Germany, led by Prof. Alex Greilich and reported in the journal *Nature Communications*. Their time crystals form inside a semiconductor made mostly of gallium arsenide, with small amounts of indium and silicon added.
 
-Cooled to roughly −270 °C — close to the coldest temperature possible — each of a million-strong crowd of nuclear spins interacts with a single electron. A laser first lines up the spins; a weak magnetic field sets them turning; and feedback between the electrons and the nuclei keeps the oscillation alive for hours. A second laser watches the dance unfold.
+Cooled to roughly −270 °C, close to the coldest temperature possible, each of a million-strong crowd of nuclear spins interacts with a single electron. A laser first lines up the spins; a weak magnetic field sets them turning; and feedback between the electrons and the nuclei keeps the oscillation alive for hours. A second laser watches the dance unfold.
 
 ## When Strangers Fall Into Step
 
-Here is the puzzle. No two patches of the material are perfectly identical, so time crystals forming in different spots should tick at slightly different speeds. But when the team shone one wide laser beam across many regions at once, the separate oscillations locked together and settled onto a single shared frequency — a phenomenon the researchers describe as non-local synchronization. Crystals separated by up to 40 micrometres could still find the same beat, with spin-polarized electrons acting as the messenger.
+Here is the puzzle. No two patches of the material are perfectly identical, so time crystals forming in different spots should tick at slightly different speeds. But when the team shone one wide laser beam across many regions at once, the separate oscillations locked together and settled onto a single shared frequency, a phenomenon the researchers describe as non-local synchronization. Crystals separated by up to 40 micrometres could still find the same beat, with spin-polarized electrons acting as the messenger.
 
 ## Fun Fact
 

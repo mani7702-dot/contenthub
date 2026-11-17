@@ -19,9 +19,9 @@ image_caption: "Panoramic view of icebergs and ice-covered mountains in the Anta
 
 ## A channel with a story
 
-Tucked away in the frozen reaches of West Antarctica, between Rothschild Island and the much larger Alexander Island, lies a narrow passage of water. This channel — where melting ice and shifting glaciers keep the coastline in constant motion — has just been given a new name: the **Amos Channel**.
+Tucked away in the frozen reaches of West Antarctica, between Rothschild Island and the much larger Alexander Island, lies a narrow passage of water. This channel (where melting ice and shifting glaciers keep the coastline in constant motion) has just been given a new name: the **Amos Channel**.
 
-And it is not named for a mountaineer, explorer, or research station, but for **Jonathan Amos**, the veteran BBC science correspondent who spent nearly four decades bringing the wonders of science — especially Antarctic research — into homes around the world.
+And it is not named for a mountaineer, explorer, or research station, but for **Jonathan Amos**, the veteran BBC science correspondent who spent nearly four decades bringing the wonders of science, especially Antarctic research, into homes around the world.
 
 ## Why name it after a journalist?
 
@@ -39,19 +39,19 @@ He reported directly from research stations, interviewed scientists in the field
 
 ## A channel born of ice
 
-The Amos Channel itself is a relatively new feature. It formed when a massive chunk of ice that once connected Rothschild and Alexander Islands disintegrated, opening a waterway where ice had long held the two landmasses together. This is a visible sign of how the Antarctic Peninsula — one of the fastest-warming regions on Earth — is changing before our eyes.
+The Amos Channel itself is a relatively new feature. It formed when a massive chunk of ice that once connected Rothschild and Alexander Islands disintegrated, opening a waterway where ice had long held the two landmasses together. This is a visible sign of how the Antarctic Peninsula, one of the fastest-warming regions on Earth, is changing before our eyes.
 
-"It's absolutely incredible — what an extraordinary accolade," Amos said when he heard of the honor. "I'm so touched that there's a little bit of Antarctica named after me. I've written about it so often, but always from my desk — this is quite the incentive to go and visit."
+"It's absolutely incredible: what an extraordinary accolade," Amos said when he heard of the honor. "I'm so touched that there's a little bit of Antarctica named after me. I've written about it so often, but always from my desk. This is quite the incentive to go and visit."
 
 ## Fun Fact
 
-The Antarctic Peninsula, where the Amos Channel is located, has warmed by about **3°C (5.4°F)** over the past 50 years — five times faster than the global average. Each summer, more icebergs calve from its glaciers, slowly reshaping the coastline and creating new channels like the one now bearing Jonathan Amos's name.
+The Antarctic Peninsula, where the Amos Channel is located, has warmed by about **3°C (5.4°F)** over the past 50 years, five times faster than the global average. Each summer, more icebergs calve from its glaciers, slowly reshaping the coastline and creating new channels like the one now bearing Jonathan Amos's name.
 
 ## For grown-ups
 
-The Amos Channel is situated at approximately 69°S, 70°W on the western Antarctic Peninsula. The UK Antarctic Place Names Committee (UKAPC), established in 1948, is the authority responsible for naming geographical features in the British Antarctic Territory. The SCAR (Scientific Committee on Antarctic Research) Composite Gazetteer of Antarctica maintains a global database of all officially recognized Antarctic place names. The Antarctic Treaty System, signed in 1959 and entered into force in 1961, designates Antarctica as a natural reserve devoted to peace and science, prohibiting military activity, mineral mining, and nuclear testing. Jonathan Amos joined the BBC in 1986, helped launch the BBC News website in 1997, and served as a science correspondent covering space, climate, and polar science until his departure in 2024. The channel formed naturally through the disintegration of glacial ice connecting Rothschild Island and Alexander Island — a process consistent with ongoing ice-shelf retreat documented across the Antarctic Peninsula since the 1990s.
+The Amos Channel is situated at approximately 69°S, 70°W on the western Antarctic Peninsula. The UK Antarctic Place Names Committee (UKAPC), established in 1948, is the authority responsible for naming geographical features in the British Antarctic Territory. The SCAR (Scientific Committee on Antarctic Research) Composite Gazetteer of Antarctica maintains a global database of all officially recognized Antarctic place names. The Antarctic Treaty System, signed in 1959 and entered into force in 1961, designates Antarctica as a natural reserve devoted to peace and science, prohibiting military activity, mineral mining, and nuclear testing. Jonathan Amos joined the BBC in 1986, helped launch the BBC News website in 1997, and served as a science correspondent covering space, climate, and polar science until his departure in 2024. The channel formed naturally through the disintegration of glacial ice connecting Rothschild Island and Alexander Island, a process consistent with ongoing ice-shelf retreat documented across the Antarctic Peninsula since the 1990s.
 
 ## Sources
 
-1. BBC News — "Part of Antarctica named after former BBC science correspondent Jonathan Amos" (Oct 26, 2026) — https://www.bbc.co.uk/news/articles/ckvg7w919x09o
-2. Wikipedia — Antarctic Treaty System — https://en.wikipedia.org/wiki/Antarctic_Treaty_System
+1. BBC News: "Part of Antarctica named after former BBC science correspondent Jonathan Amos" (Oct 26, 2026), https://www.bbc.co.uk/news/articles/ckvg7w919x09o
+2. Wikipedia: Antarctic Treaty System, https://en.wikipedia.org/wiki/Antarctic_Treaty_System

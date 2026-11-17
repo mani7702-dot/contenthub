@@ -3,7 +3,7 @@ title: "Could a Tiny Laser Let Computer Chips Talk With Light Instead of Wires?"
 date: 2026-11-01
 category: "Science"
 read: "3 min"
-excerpt: "Inside today's computers, information still travels as electricity — which makes heat and slows things down. Engineers in Denmark have built a laser so small that thousands could sit on a single chip and swap signals for beams of light."
+excerpt: "Inside today's computers, information still travels as electricity, which makes heat and slows things down. Engineers in Denmark have built a laser so small that thousands could sit on a single chip and swap signals for beams of light."
 tags: "science, technology, lasers, computers, photonics, energy, Denmark"
 board: news
 image: assets/images/could-a-tiny-laser-let-computer-chips-talk-with-light-instead-of-wires.jpg
@@ -14,7 +14,7 @@ image_caption: "An optical interface chip. Engineers are working to bring light-
 
 Right now, the internet already races along as pulses of light inside fibre-optic cables. But open up the computer on your desk and the picture changes: inside the chip, information still moves as electricity through tiny metal wires. That works, but it wastes energy as heat and puts a ceiling on how fast data can travel.
 
-Researchers at the Technical University of Denmark (DTU) have built a **nanolaser** — an extremely small laser that could one day let chips carry information with photons, the particles that make up light, instead of electrons.
+Researchers at the Technical University of Denmark (DTU) have built a **nanolaser**: an extremely small laser that could one day let chips carry information with photons, the particles that make up light, instead of electrons.
 
 ## 2. Small enough to fit thousands
 
@@ -30,12 +30,12 @@ There is a catch: today the nanolaser is powered by shining a light on it, and t
 
 ## Fun fact
 
-Much of the internet *already* travels as light — the change would just bring that same trick indoors, onto the chip itself. Think of it as upgrading the wiring inside a house to the fibre-optic speed of the street outside.
+Much of the internet *already* travels as light. The change would just bring that same trick indoors, onto the chip itself. Think of it as upgrading the wiring inside a house to the fibre-optic speed of the street outside.
 
 ## Sources
 
-- ScienceDaily — "Tiny nanolaser could cut computer energy use in half" (Technical University of Denmark)
-- SciTechDaily — "Scientists Create Tiny 'Nanolaser' That Could Revolutionize Future Computers"
+- ScienceDaily: "Tiny nanolaser could cut computer energy use in half" (Technical University of Denmark)
+- SciTechDaily: "Scientists Create Tiny 'Nanolaser' That Could Revolutionize Future Computers"
 - Xiong, M. et al., "A nanolaser with extreme dielectric confinement", *Science Advances*, DOI: 10.1126/sciadv.adx3865
 
 *Published 02:05 IST, 1 November 2026.*

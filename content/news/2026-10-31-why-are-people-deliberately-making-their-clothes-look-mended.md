@@ -13,13 +13,13 @@ image_caption: "Photo: Unknown author / CC BY 4.0 / Wikimedia Commons"
 
 For most of history, a hole in a jumper was a problem to be solved quietly. You matched the thread, hid the stitches, and hoped nobody noticed.
 
-Not anymore. A trend called "visible mending" flips that idea on its head. Instead of disguising a repair, people are celebrating it — stitching flowers over a rip, covering a stain with a felt fox, or weaving bold white thread across a knee in a pattern meant to be seen.
+Not anymore. A trend called "visible mending" flips that idea on its head. Instead of disguising a repair, people are celebrating it: stitching flowers over a rip, covering a stain with a felt fox, or weaving bold white thread across a knee in a pattern meant to be seen.
 
 ## A patch that says "I fixed this"
 
 Alice Brown, a 27-year-old forest ranger from Lincolnshire in England, buys second-hand jumpers even when they already have holes. "I see it as a challenge," she told the BBC. She needle-felts tiny animals and insects onto her clothes to cover moth holes and marks.
 
-At workshops in Brighton, teacher Jayne Eagle shows students how to hide a patch behind a tear so a cat-face design peeks through the gap. She borrows techniques from traditional Japanese mending — *sashiko* and *boro* — where simple running stitches in contrasting thread turn a repair into decoration. Eagle calls mending an "act of rebellion" against the throwaway habits of fast fashion.
+At workshops in Brighton, teacher Jayne Eagle shows students how to hide a patch behind a tear so a cat-face design peeks through the gap. She borrows techniques from traditional Japanese mending, *sashiko* and *boro*, where simple running stitches in contrasting thread turn a repair into decoration. Eagle calls mending an "act of rebellion" against the throwaway habits of fast fashion.
 
 ## Why now?
 
@@ -35,7 +35,7 @@ Levi's, whose fans have patched its jeans for generations, is rolling out worksh
 
 ## Fun fact
 
-Sashiko, one of the techniques now used for visible mending, began in Japan during the Edo period, roughly 1603 to 1867. Farmers used simple running stitches to reinforce and layer worn cloth so garments would last longer and keep them warmer through cold winters — practical repair that later grew into a decorative art.
+Sashiko, one of the techniques now used for visible mending, began in Japan during the Edo period, roughly 1603 to 1867. Farmers used simple running stitches to reinforce and layer worn cloth so garments would last longer and keep them warmer through cold winters, practical repair that later grew into a decorative art.
 
 ## Sources
 - BBC News: "From Levi's to Primark - the fashion chains selling mended clothes" (October 30, 2026)

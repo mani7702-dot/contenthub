@@ -12,11 +12,11 @@ image_caption: "A young adult Tyrannosaurus rex skull on display at the Museum o
 
 # How Did Scotty the T. rex Keep a 66-Million-Year-Old Healing Secret Inside a Rib?
 
-Some fossils are famous for their size. Scotty, a *Tyrannosaurus rex* unearthed in Saskatchewan, Canada, is the largest of its kind ever discovered. But one of Scotty's ordinary-looking ribs has turned out to be far more valuable than its skeleton's record-breaking bulk — it holds a snapshot of a dinosaur healing from an injury, captured 66 million years ago.
+Some fossils are famous for their size. Scotty, a *Tyrannosaurus rex* unearthed in Saskatchewan, Canada, is the largest of its kind ever discovered. But one of Scotty's ordinary-looking ribs has turned out to be far more valuable than its skeleton's record-breaking bulk: it holds a snapshot of a dinosaur healing from an injury, captured 66 million years ago.
 
 ## A broken bone that kept its story
 
-After the rib cracked, iron-rich blood flooded into the wounded area, and the body began weaving a delicate network of new blood vessels to repair the damage. Scotty never finished healing — the animal died before the break closed over. That unfinished repair is exactly why the fossil is so special.
+After the rib cracked, iron-rich blood flooded into the wounded area, and the body began weaving a delicate network of new blood vessels to repair the damage. Scotty never finished healing: the animal died before the break closed over. That unfinished repair is exactly why the fossil is so special.
 
 Normally, soft tissues like blood vessels rot away long before a bone can fossilize. Scotty's remains happened to settle in a salty marsh, where the chemical conditions slowed decay just enough to lock the fragile vessels in place. "It's like winning the lottery," said Mauricio Barbi, a physics professor at the University of Regina. "Scotty's rib contains a vast network of mineralized blood vessels that has never before been observed in a fossil."
 
@@ -28,11 +28,11 @@ The project began back in 2020, when a Regina undergraduate named Jerit Mitchell
 
 ## Why it matters
 
-Researchers say the technique could unlock secrets hiding in museum drawers all over the world — bones that were collected long ago and never examined with modern tools. They also plan to compare how different species healed their injuries, which could shed light on dinosaur health and behaviour.
+Researchers say the technique could unlock secrets hiding in museum drawers all over the world: bones that were collected long ago and never examined with modern tools. They also plan to compare how different species healed their injuries, which could shed light on dinosaur health and behaviour.
 
 ## Fun fact
 
-Neutrons are usually used to study batteries and advanced materials — but as one scientist on the team put it, they are just as clever at answering questions about ancient life.
+Neutrons are usually used to study batteries and advanced materials, but as one scientist on the team put it, they are just as clever at answering questions about ancient life.
 
 **Sources**
 - Oak Ridge National Laboratory / ScienceDaily: "A broken rib from the world's largest T. rex hid a 66-million-year-old secret"

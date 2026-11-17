@@ -18,11 +18,11 @@ time: 14:18
 
 Walk down any beach and you will find seashells, pebbles, and seaweed. But invisible to the naked eye, there is something else hiding among the sand and water: **microplastics**. These are tiny plastic fragments no bigger than a grain of rice, and unlike seashells, they never truly disappear. Every jacket you own, every plastic bottle, every tire on the road slowly sheds these particles, and they end up washing down drains, into rivers, and eventually, into the ocean.
 
-Scientists have found microplastics everywhere they look — from the deepest ocean trenches to the highest mountaintops, and even inside our own bodies. That is why a pair of clever inventors decided to look at nature for a solution.
+Scientists have found microplastics everywhere they look: from the deepest ocean trenches to the highest mountaintops, and even inside our own bodies. That is why a pair of clever inventors decided to look at nature for a solution.
 
 ## Copying Nature's Own Water Filter
 
-Nathaniel Banks and Yidian Liu, two Princeton University graduates who founded a company called PolyGone Systems, noticed something special about the plants that grow in wetlands. Certain plants are **ultrahydrophobic** — which means water beads right off their surfaces, like raindrops on a lotus leaf. But while water slides away, tiny plastic particles stick to the surface instead.
+Nathaniel Banks and Yidian Liu, two Princeton University graduates who founded a company called PolyGone Systems, noticed something special about the plants that grow in wetlands. Certain plants are **ultrahydrophobic**, which means water beads right off their surfaces, like raindrops on a lotus leaf. But while water slides away, tiny plastic particles stick to the surface instead.
 
 The inventors wondered: what if we could copy that trick?
 
@@ -38,10 +38,10 @@ What is even better? The technology also works at home. The team is developing s
 
 ## Fun Fact
 
-The word "microplastic" covers any plastic fragment smaller than 5 millimeters — that is less than a quarter of an inch! If you imagine a plastic bottle cut into a thousand tiny pieces, each one no longer than a grain of rice, that is how many microplastics are floating in just one liter of ocean water.
+The word "microplastic" covers any plastic fragment smaller than 5 millimeters. That is less than a quarter of an inch! If you imagine a plastic bottle cut into a thousand tiny pieces, each one no longer than a grain of rice, that is how many microplastics are floating in just one liter of ocean water.
 
 **Time:** 14:18 IST
 **Sources:**
-1. Good News Network — "Nature-Inspired Tech Prevents Microplastics Entering Atlantic Ocean Through Wastewater" (Oct 28, 2026) — [goodnewsnetwork.org](https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/)
-2. WHYY — "Atlantic County removes microplastics from wastewater" (Oct 28, 2026) — [whyy.org](https://whyy.org/articles/microplastics-treatment-technology-atlantic-city-new-jersey-princeton-alumni/)
-3. PolyGone Systems — Company website and mission statement — [polygonesystems.com](https://www.polygonesystems.com/about-us)
+1. Good News Network: "Nature-Inspired Tech Prevents Microplastics Entering Atlantic Ocean Through Wastewater" (Oct 28, 2026), [goodnewsnetwork.org](https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/)
+2. WHYY: "Atlantic County removes microplastics from wastewater" (Oct 28, 2026), [whyy.org](https://whyy.org/articles/microplastics-treatment-technology-atlantic-city-new-jersey-princeton-alumni/)
+3. PolyGone Systems: Company website and mission statement, [polygonesystems.com](https://www.polygonesystems.com/about-us)

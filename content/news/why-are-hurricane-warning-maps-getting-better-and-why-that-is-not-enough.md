@@ -1,5 +1,5 @@
 ---
-title: "Why are hurricane warning maps getting better — and why that is not enough?"
+title: "Why are hurricane warning maps getting better, and why that is not enough?"
 date: 2026-10-20
 category: "Science"
 read: "3 min"
@@ -9,19 +9,19 @@ board: news
 image: assets/images/why-are-hurricane-warning-maps-getting-better-and-why-that-is-not-enough.png
 image_caption: "Photo: Wikimedia Commons"
 ---
-# Why are hurricane warning maps getting better — and why that is not enough?
+# Why are hurricane warning maps getting better: and why that is not enough?
 
 ## The cone that almost everyone recognizes
 
 If you have ever seen a hurricane forecast on the news, you have probably seen a **big white cone** pointing toward the coast. The cone shows where the center of the storm is expected to travel over the next few days. But here is the thing: **the cone does NOT show how big the storm is.**
 
-It shows **uncertainty** — the track the storm is most likely to follow, with the cone widest farther into the future because forecasts get less certain with time.
+It shows **uncertainty**: the track the storm is most likely to follow, with the cone widest farther into the future because forecasts get less certain with time.
 
 ## The hidden problem
 
 The cone has been around for years, and it only really talks about **coastal areas**. But hurricanes are not just a beach problem. When a storm hits land, it can bring **flooding, tornadoes, and strong winds** many miles inland.
 
-So in 2024, the National Hurricane Center (NHC) released a new map. The new map **still has the cone**, but it now also shows **watches and warnings for inland areas** — places that used to be left off.
+So in 2024, the National Hurricane Center (NHC) released a new map. The new map **still has the cone**, but it now also shows **watches and warnings for inland areas**, places that used to be left off.
 
 ## Does a better map mean safer people?
 
@@ -38,13 +38,13 @@ Then they asked: who understood better which areas were at risk?
 
 The new graphic helped people *see*, but it did not help them *act*.
 
-> **Fun Fact:** The "cone of uncertainty" was invented in the 1980s by a National Weather Service meteorologist named Ed Rappaport — and it was never meant to look like a tornado!
+> **Fun Fact:** The "cone of uncertainty" was invented in the 1980s by a National Weather Service meteorologist named Ed Rappaport, and it was never meant to look like a tornado!
 
 ## Why is the cone so confusing?
 
 The study found something that has bothered weather scientists for a long time. **People think a wider cone means a bigger storm.**
 
-That is not what the cone means at all. The cone's width represents the **confidence level** of the forecast — like a margin of error. A storm can be small but have a wide cone if the forecast is uncertain. A storm can be huge but have a narrow cone if the forecasters are very sure of the track.
+That is not what the cone means at all. The cone's width represents the **confidence level** of the forecast, like a margin of error. A storm can be small but have a wide cone if the forecast is uncertain. A storm can be huge but have a narrow cone if the forecasters are very sure of the track.
 
 Even with the improved graphics, this misunderstanding **stuck around**. Which shows that clearer pictures alone do not fix how people think.
 
@@ -54,7 +54,7 @@ The researchers have a simple message, and it is a good one to remember:
 
 > "One graphic can only tell you part of the story. Don't rely on the cone alone. Pair it with clear, local information about what impacts to expect and what actions to take."
 
-The NHC's job is to predict where storms go — and they are very good at that. But understanding a storm means more than reading one picture. It means checking your **local weather office**, knowing your **evacuation zone**, and making a **family plan**.
+The NHC's job is to predict where storms go, and they are very good at that. But understanding a storm means more than reading one picture. It means checking your **local weather office**, knowing your **evacuation zone**, and making a **family plan**.
 
 Because the smartest map in the world does not replace being ready.
 
@@ -64,7 +64,7 @@ Next time there is a storm in the news, look at the forecast cone. Then ask:
 - Is the cone wide (meaning the track is uncertain) or narrow (meaning forecasters are confident)?
 - Are the watches and warnings covering places *inland*, not just the coast?
 
-You do not need to be a meteorologist — you just need to know that one picture is never the whole story.
+You do not need to be a meteorologist. You just need to know that one picture is never the whole story.
 
 **Sources:**
 - ScienceDaily (Florida State University): https://www.sciencedaily.com/releases/2026/10/261019093443.htm

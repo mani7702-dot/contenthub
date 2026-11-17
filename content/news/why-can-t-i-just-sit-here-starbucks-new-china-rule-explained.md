@@ -12,14 +12,14 @@ image_caption: "Photo: Wikimedia Commons"
 # Why can't I just sit here? Starbucks' new China rule explained
 
 ## A coffee shop without a rule
-Walk into a Starbucks in China today, and you will notice something new: **"Please order to sit"** signs are everywhere. If you want to pull up a chair, you have to buy something first — even just a small drink or snack.
+Walk into a Starbucks in China today, and you will notice something new: **"Please order to sit"** signs are everywhere. If you want to pull up a chair, you have to buy something first, even just a small drink or snack.
 
-This is a big change for a place that used to feel open to everyone. Starbucks first opened in China in 1999, and it quickly became a favorite spot to hang out, study, or chat with friends. But lately, some Starbucks stores have been getting overcrowded — not by people ordering coffee, but by people just taking up seats.
+This is a big change for a place that used to feel open to everyone. Starbucks first opened in China in 1999, and it quickly became a favorite spot to hang out, study, or chat with friends. But lately, some Starbucks stores have been getting overcrowded, not by people ordering coffee, but by people just taking up seats.
 
 ## Why did Starbucks change the rules?
-Starbucks China says the new rule helps them serve their paying customers better. When too many people sit without ordering, tables fill up fast and the staff can get overwhelmed — especially during busy morning hours.
+Starbucks China says the new rule helps them serve their paying customers better. When too many people sit without ordering, tables fill up fast and the staff can get overwhelmed, especially during busy morning hours.
 
-But there is another reason: **competition**. A Chinese coffee chain called **Luckin Coffee** has been growing fast. It sells drinks for less money and lets you order quickly on an app, then pick up your drink and go — no need for a seat at all.
+But there is another reason: **competition**. A Chinese coffee chain called **Luckin Coffee** has been growing fast. It sells drinks for less money and lets you order quickly on an app, then pick up your drink and go: no need for a seat at all.
 
 In fact, Luckin Coffee became China's biggest coffee chain back in 2023, even though Starbucks had been there first! Starbucks is fighting back by making its stores more welcoming for people who actually buy something.
 
@@ -31,7 +31,7 @@ Starbucks has already made similar changes elsewhere:
 So China's new rule fits a pattern: Starbucks wants to prioritize people who pay, while still being a friendly place to visit.
 
 ## What does this mean for you?
-If you are visiting a Starbucks in China, you can still sit and enjoy your drink — but you just need to order something first. The change took effect across all 8,000 Starbucks stores in mainland China on October 22, 2026.
+If you are visiting a Starbucks in China, you can still sit and enjoy your drink, but you just need to order something first. The change took effect across all 8,000 Starbucks stores in mainland China on October 22, 2026.
 
 It is a reminder that businesses sometimes have to change their rules to stay popular. And who knows? Maybe one day your local Starbucks will have a "purchase to sit" sign too!
 
@@ -39,7 +39,7 @@ It is a reminder that businesses sometimes have to change their rules to stay po
 Set up a pretend coffee shop with your family using toy cups and a small table. Give your customers play money and let them order drinks. Then, try two rules: one day, anyone can sit without ordering (see what happens when chairs fill up with no-pay guests!), and another day, require an order to sit. Which rule made the experience better for actual customers? This is the same question Starbucks had to answer!
 
 ## Fun Fact
-China is Starbucks' **second-largest market** in the whole world — only the United States has more Starbucks stores. The first Starbucks in China opened in **Beijing's Wangfujing shopping district in 1999**, and at the time, customers were amazed to see coffee served with **bread and jam on the side** — a uniquely Chinese breakfast combo that you still find in many Starbucks stores there today!
+China is Starbucks' **second-largest market** in the whole world. Only the United States has more Starbucks stores. The first Starbucks in China opened in **Beijing's Wangfujing shopping district in 1999**, and at the time, customers were amazed to see coffee served with **bread and jam on the side**, a uniquely Chinese breakfast combo that you still find in many Starbucks stores there today!
 
 ## Sources
 - BBC News. "No order, no seat: Starbucks China rolls out new store policy." 22 Oct 2026. https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo

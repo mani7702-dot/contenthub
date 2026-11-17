@@ -3,7 +3,7 @@ title: "5 bright ways India celebrates Dussehra and the victory of good over evi
 date: 2026-10-20
 category: "World"
 read: "3 min"
-excerpt: "Every October, India lights up for Dussehra — giant effigies of the 10-headed king Ravana are set alight, Ramlila actors dance through the streets, and communities celebrate the triumph of good over evil."
+excerpt: "Every October, India lights up for Dussehra: giant effigies of the 10-headed king Ravana are set alight, Ramlila actors dance through the streets, and communities celebrate the triumph of good over evil."
 tags: "dussehra, vijayadashami, india, festivals, ravana-effigy, ramlila, navratri, world-culture"
 board: news
 image: assets/images/5-bright-ways-india-celebrates-dussehra-and-the-victory-of-good-over-evil.jpg
@@ -15,11 +15,11 @@ image_caption: "Photo: Wikimedia Commons"
 
 Across India, the air fills with the smell of burning straw and wood. Why? Because on Dussehra evening, huge effigies of the **10-headed king Ravana** are set alight on open grounds.
 
-The burning stands for Lord Rama's victory over Ravana — a story about good beating evil. Fireworks crackle overhead while people cheer. In northern towns, the effigies can be as tall as a three-storey building!
+The burning stands for Lord Rama's victory over Ravana, a story about good beating evil. Fireworks crackle overhead while people cheer. In northern towns, the effigies can be as tall as a three-storey building!
 
 ## 2. Streets come alive with Ramlila
 
-For weeks before Dussehra, entire communities perform **Ramlila** — a colourful outdoor play that tells the story of the Ramayana, the ancient Hindu epic.
+For weeks before Dussehra, entire communities perform **Ramlila**, a colourful outdoor play that tells the story of the Ramayana, the ancient Hindu epic.
 
 Actors wear shiny costumes and painted faces, playing gods and demons. The drama builds and builds, ending on Dussehra day with the final battle and the burning of Ravana. Even kids join in, dancing in the street.
 
@@ -27,7 +27,7 @@ Actors wear shiny costumes and painted faces, playing gods and demons. The drama
 
 Walk through any Indian market a few days before Dussehra and you'll see **bright orange marigolds** everywhere.
 
-Marigolds are special — they're offered in prayers to the gods and goddesses. Women and children string them into garlands, while sellers pile baskets high with the sunny flowers. The smell is sweet and festive, like autumn in full colour.
+Marigolds are special: they're offered in prayers to the gods and goddesses. Women and children string them into garlands, while sellers pile baskets high with the sunny flowers. The smell is sweet and festive, like autumn in full colour.
 
 ## 4. Eastern India honours Goddess Durga
 
@@ -37,20 +37,20 @@ Goddess Durga is worshipped as the mighty fighter who defeated the buffalo demon
 
 ## 5. Western India dances in the streets
 
-In the west — Gujarat and parts of Maharashtra — Dussehra means **dancing**.
+In the west (Gujarat and parts of Maharashtra) Dussehra means **dancing**.
 
-Communities form circles and dance the **Garba** and **Dandiya** — graceful moves with decorated sticks and swirling skirts. The dances go on all night, welcoming the goddess and thanking her for the harvest season. It looks like a rainbow threw a party.
+Communities form circles and dance the **Garba** and **Dandiya**, graceful moves with decorated sticks and swirling skirts. The dances go on all night, welcoming the goddess and thanking her for the harvest season. It looks like a rainbow threw a party.
 
 ## Try this at home
 
-Ask an adult to help you fold a small paper Ravana with 10 heads, then safely pretend to "defeat" it by taping on a superhero sticker. Or draw your own victory over a problem — what "good" would win in your story?
+Ask an adult to help you fold a small paper Ravana with 10 heads, then safely pretend to "defeat" it by taping on a superhero sticker. Or draw your own victory over a problem: what "good" would win in your story?
 
 ## Fun Fact
 
-The date of Dussehra changes every year! That's because it follows the **lunar calendar** — the 10th day of the bright fortnight in the month of Ashvin — so it lands somewhere in September or October on our regular calendars.
+The date of Dussehra changes every year! That's because it follows the **lunar calendar** (the 10th day of the bright fortnight in the month of Ashvin), so it lands somewhere in September or October on our regular calendars.
 
 ## Sources
 
-- BBC News, "In pictures: Dussehra celebrated across India as a symbol of good over evil", 20 October 2026 — https://www.bbc.co.uk/news/articles/c98rzynj6e1yo
-- Wikipedia, "Vijayadashami" — https://en.wikipedia.org/wiki/Dussehra
+- BBC News, "In pictures: Dussehra celebrated across India as a symbol of good over evil", 20 October 2026: https://www.bbc.co.uk/news/articles/c98rzynj6e1yo
+- Wikipedia, "Vijayadashami": https://en.wikipedia.org/wiki/Dussehra
 - Cross-checked and confirmed matching facts (date 20 Oct 2026, Ravana effigy burning, Ramlila, Durga/Mahishasura, marigolds, Garba/Dandiya, lunar-calendar dating).

@@ -18,13 +18,13 @@ time: 07:54 IST
 
 When you spot a shooting star on a quiet night, you're watching a tiny piece of
 another world race through our sky. It may look like a simple streak of light,
-but scientists now know that every meteor goes through seven distinct acts —
+but scientists now know that every meteor goes through seven distinct acts.
 and what happens is far more dramatic than a clean "burn up."
 
 A team led by meteor astronomer Peter Jenniskens of the SETI Institute studied
 video recordings and photographs of 75 real meteorite falls. Instead of simply
 evaporating, space rocks melt, fragment, and sometimes survive the trip to the
-ground — all in a carefully choreographed dance high above our heads.
+ground, all in a carefully choreographed dance high above our heads.
 
 ## Act I and II: The first glow
 
@@ -35,7 +35,7 @@ that they begin to glow. This is the familiar streak we call a meteor or
 "shooting star."
 
 As the meteor plunges into thicker air, its brightness intensifies. Some meteors
-even pulse with changing light, revealing how fast they spin — some complete a
+even pulse with changing light, revealing how fast they spin: some complete a
 full rotation in just half a second!
 
 ## Act III: The birth of a fireball
@@ -52,11 +52,11 @@ single rock can lose up to 40 percent of its original mass just from melting
 alone.
 
 But then comes the shattering. As air pressure builds on the front of the
-descending rock, it starts to crack and break apart — and surprisingly early.
+descending rock, it starts to crack and break apart, and surprisingly early.
 Pieces separate and produce bursts of light that dance across the sky. The more
 extensively a rock fragments, the faster it slows down. Large, intact pieces
 create a low-pressure wake behind them, which pulls smaller fragments along in a
-narrow strip — which is why many meteorites land clustered together.
+narrow strip, which is why many meteorites land clustered together.
 
 ## Act VI: The final flare
 
@@ -69,21 +69,21 @@ these final bursts appear red rather than the greenish hues seen earlier.
 The biggest pieces that survive still lose a little more mass as they tumble
 toward Earth. Once they cool, they're coated in a thin, dark layer called a
 fusion crust. Wind can push them off course, but eventually they land as
-meteorites — real pieces of space that you can sometimes hold in your hand.
+meteorites, real pieces of space that you can sometimes hold in your hand.
 
 ## Fun Fact
 
 The 20-meter-wide asteroid that exploded over Chelyabinsk, Russia in 2013
 produced a brilliant flash that was seen by hundreds of thousands of people and
 sent a shockwave around the globe. But that asteroid went through the exact same
-seven stages described here — just on a much grander scale!
+seven stages described here, just on a much grander scale!
 
 ### Sources
 
-1. ScienceDaily — "Meteors don't just burn up. What really happens is far more
-   violent" (October 28, 2026) —
+1. ScienceDaily: "Meteors don't just burn up. What really happens is far more
+violent" (October 28, 2026).
    https://www.sciencedaily.com/releases/2026/10/261027063710.htm
-2. Wikipedia — "Meteor" —
+2. Wikipedia: "Meteor".
    https://en.wikipedia.org/wiki/Meteor
-3. SETI Institute / NASA Ames Research Center — Study published in
+3. SETI Institute / NASA Ames Research Center: Study published in
    Meteoritics & Planetary Science (DOI: 10.1111/maps.70203)

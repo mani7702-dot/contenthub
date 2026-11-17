@@ -11,17 +11,17 @@ image_caption: "Photo: Wikimedia Commons"
 ---
 Every movie and book has a hero and a villain, right? But have you ever wondered: where did the world's most famous detective get his ideas?
 
-The answer is hiding in plain sight — in a real man who could do something that sounds like magic.
+The answer is hiding in plain sight: in a real man who could do something that sounds like magic.
 
 ## The doctor who read people like books
 
 In 1878, a thin man with gray whiskers rode in a carriage through Edinburgh's cobbled streets, heading to the Royal Infirmary. His name was Joseph Bell, and he was no ordinary surgeon. Bell had a strange talent: he could look at a person and tell you where they had been, what they did for work, and even injuries they had hidden.
 
-How? He read the clues on their body like a story. A scrape on a shoe, a certain way of holding your arm, the smell of a campfire — Bell noticed things that everyone else missed.
+How? He read the clues on their body like a story. A scrape on a shoe, a certain way of holding your arm, the smell of a campfire. Bell noticed things that everyone else missed.
 
 One winter day, Bell was shown a patient in the hospital's lecture theater. He studied the man's walk and said, "He is a soldier!" But the man shook his head. He had never been in the army. He was just a shoemaker.
 
-"Something was up," Bell later recalled. So he ordered the man's coat stripped off. There, on the man's chest, was a tattooed letter "D" — fresh and red. A deserter, Bell realized. The man's lie had been printed on his skin.
+"Something was up," Bell later recalled. So he ordered the man's coat stripped off. There, on the man's chest, was a tattooed letter "D", fresh and red. A deserter, Bell realized. The man's lie had been printed on his skin.
 
 ## The student who became a writer
 
@@ -29,7 +29,7 @@ A young medical student named Arthur Conan Doyle sat in the front row every day,
 
 Doyle wrote home about it. He said Bell taught him that doctors and detectives need the same skills: a sharp eye, a careful mind, and the habit of asking "but why?" about everything.
 
-In 1887, Doyle published his first Sherlock Holmes story. Dr. Watson was there — but so was something else. Holmes could deduce a person's profession from their hat, their coat, even the shape of their nose. Where had Doyle seen that before?
+In 1887, Doyle published his first Sherlock Holmes story. Dr. Watson was there, but so was something else. Holmes could deduce a person's profession from their hat, their coat, even the shape of their nose. Where had Doyle seen that before?
 
 ## Why Sherlock feels real
 
@@ -43,14 +43,14 @@ But Bell's greatest mystery of all? He created the template for the greatest det
 
 ## Try this at home
 
-Ask an adult to take you to a museum or a train station. Watch people for a few minutes. Can you guess where they are from by their shoes? Their coat? An accent in how they speak? Try to spot three small details about someone without talking to them. Share what you noticed with a grown-up — but remember, guessing is just for fun, not for judging anyone.
+Ask an adult to take you to a museum or a train station. Watch people for a few minutes. Can you guess where they are from by their shoes? Their coat? An accent in how they speak? Try to spot three small details about someone without talking to them. Share what you noticed with a grown-up, but remember, guessing is just for fun, not for judging anyone.
 
 ## Fun Fact
 
-Sherlock Holmes is officially the most-portrayed literary character in movie and TV history — more than 250 times! The role that made him famous was played by over 40 different actors, including Basil Rathbone and Benedict Cumberbatch. But the very first actor to play Holmes on the London stage was… none other than the nephew of Joseph Bell's friend, who brought the character to life in 1899.
+Sherlock Holmes is officially the most-portrayed literary character in movie and TV history, more than 250 times! The role that made him famous was played by over 40 different actors, including Basil Rathbone and Benedict Cumberbatch. But the very first actor to play Holmes on the London stage was… none other than the nephew of Joseph Bell's friend, who brought the character to life in 1899.
 
 ## Sources
 
-- Smithsonian Magazine, "Arthur Conan Doyle Based Sherlock Holmes on a Real-Life Scottish Surgeon" (Oct 20, 2026) — https://www.smithsonianmag.com/history/arthur-conan-doyle-based-sherlock-holmes-on-a-real-life-scottish-surgeon-who-used-deduction-to-diagnose-patients-and-investigate-crimes-180989623/
-- Wikipedia, "Arthur Conan Doyle" — confirms Holmes was "partially modelled on Doyle's former university teacher Joseph Bell" and includes Doyle's 1892 letter quote
+- Smithsonian Magazine, "Arthur Conan Doyle Based Sherlock Holmes on a Real-Life Scottish Surgeon" (Oct 20, 2026): https://www.smithsonianmag.com/history/arthur-conan-doyle-based-sherlock-holmes-on-a-real-life-scottish-surgeon-who-used-deduction-to-diagnose-patients-and-investigate-crimes-180989623/
+- Wikipedia, "Arthur Conan Doyle", confirms Holmes was "partially modelled on Doyle's former university teacher Joseph Bell" and includes Doyle's 1892 letter quote
 - Excerpted from *Sleuth-Hound: The Case of the Real Sherlock Holmes* by Lindsey Fitzharris (Farrar, Straus and Giroux)

@@ -13,23 +13,23 @@ image_caption: "Photo: Bill Nicholls / CC BY-SA 2.0 / Wikimedia Commons"
 
 # Why Did Crocodiles Survive the Asteroid That Killed the Dinosaurs?
 
-Sixty-six million years ago, a city-sized asteroid slammed into what is now Mexico's Yucatan Peninsula. The impact threw dust and ash into the sky, blocked sunlight, and chilled the planet — and it was enough to end the age of dinosaurs. Yet crocodiles and their ancient relatives survived. What gave them such staying power?
+Sixty-six million years ago, a city-sized asteroid slammed into what is now Mexico's Yucatan Peninsula. The impact threw dust and ash into the sky, blocked sunlight, and chilled the planet, and it was enough to end the age of dinosaurs. Yet crocodiles and their ancient relatives survived. What gave them such staying power?
 
 ## 1. A love of warm weather, written in stone
 
 Scientists led by UCL (University College London) combed through more than 7,000 fossils and climate records from 400 living and extinct species. By stitching together evolutionary family trees with ancient maps of geography and climate across 245 million years, they found one striking pattern: crocodile relatives have been warm-weather followers for eons.
 
-During the hot early Eocene, about 50 million years ago, global temperatures ran roughly 10 °C higher than today. Crocodile ancestors ranged all the way to the poles — across North America, Europe, and even Antarctica. As the planet cooled over millions of years, they steadily pulled back toward the tropics, always chasing warmth.
+During the hot early Eocene, about 50 million years ago, global temperatures ran roughly 10 °C higher than today. Crocodile ancestors ranged all the way to the poles, across North America, Europe, and even Antarctica. As the planet cooled over millions of years, they steadily pulled back toward the tropics, always chasing warmth.
 
 ## 2. The asteroid hit, but the tropics held on
 
-When the asteroid struck 66 million years ago, its biggest immediate effect was darkening the skies. Climate models show that moderate sunlight reductions of 5–10 % barely dented the suitability of tropical zones. Those regions near the equator stayed warm enough for crocodile relatives to persist — a critical refuge while conditions elsewhere grew harsh.
+When the asteroid struck 66 million years ago, its biggest immediate effect was darkening the skies. Climate models show that moderate sunlight reductions of 5–10 % barely dented the suitability of tropical zones. Those regions near the equator stayed warm enough for crocodile relatives to persist, a critical refuge while conditions elsewhere grew harsh.
 
-A more extreme scenario — 15 % less sunlight — would have made even the tropics uninhabitable, but researchers now consider that level of darkness unlikely. Other factors like rising carbon dioxide did not meaningfully shrink the available climate space for these animals.
+A more extreme scenario (15 % less sunlight) would have made even the tropics uninhabitable, but researchers now consider that level of darkness unlikely. Other factors like rising carbon dioxide did not meaningfully shrink the available climate space for these animals.
 
 ## 3. More than just a warm snout
 
-Temperature preference was probably only part of the story. Crocodile relatives also brought a useful survival toolkit: relatively small body sizes, partly aquatic lives, flexible diets, and modest energy needs. As ectothermic animals, they can survive on far less food than warm-blooded creatures of similar size — a decisive advantage when meals grow scarce.
+Temperature preference was probably only part of the story. Crocodile relatives also brought a useful survival toolkit: relatively small body sizes, partly aquatic lives, flexible diets, and modest energy needs. As ectothermic animals, they can survive on far less food than warm-blooded creatures of similar size, a decisive advantage when meals grow scarce.
 
 Together, these factors meant that where many dinosaurs vanished, crocodile kin endured and eventually radiated outward again.
 
@@ -41,7 +41,7 @@ The same study has a message for the modern world. For millions of years, moving
 
 ## Fun fact
 
-The broader crocodile lineage — called pseudosuchians — was once far stranger than any living croc. It included heavily armored plant-eaters, hunters that stalked land on two legs, and giants like *Sarcosuchus*, a 12-meter "super croc" that could dwarf a T. rex.
+The broader crocodile lineage (called pseudosuchians) was once far stranger than any living croc. It included heavily armored plant-eaters, hunters that stalked land on two legs, and giants like *Sarcosuchus*, a 12-meter "super croc" that could dwarf a T. rex.
 
 ---
 

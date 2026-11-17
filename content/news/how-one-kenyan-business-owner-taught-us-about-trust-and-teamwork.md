@@ -11,33 +11,33 @@ image_caption: "Business Bay Square Mall in Nairobi, Kenya. Photo: Business Bay 
 ---
 # How One Kenyan Business Owner Taught Us About Trust and Teamwork
 
-## 1 — What happened when the owner went on holiday?
+## 1: What happened when the owner went on holiday?
 
-That Girl Boina is a popular food creator from Kenya. In September 2024, she opened a little beauty studio called Waxaholic Studio in downtown Nairobi. It was just two rooms—a reception desk and a treatment space—but it was her dream.
+That Girl Boina is a popular food creator from Kenya. In September 2024, she opened a little beauty studio called Waxaholic Studio in downtown Nairobi. It was just two rooms (a reception desk and a treatment space), but it was her dream.
 
-She hired a receptionist and two specialists, and after watching the business make money for a few months, she felt confident enough to take her first holiday of the year—a two-week trip to Europe.
+She hired a receptionist and two specialists, and after watching the business make money for a few months, she felt confident enough to take her first holiday of the year, a two-week trip to Europe.
 
 While she was away, relaxing and enjoying new places, a customer sent her a message on Instagram. The customer wrote: "I liked everything at your studio, but I was asked to send money to a different number. It wasn't the number on the wall."
 
 That one message changed everything.
 
-## 2 — What did Boina discover about running a business?
+## 2: What did Boina discover about running a business?
 
 When Boina looked more closely, she realized that her business's money had been quietly disappearing for months. Revenue had been dropping since early 2025, but she had thought it was just a slow season.
 
-The problem was bigger than her small studio. A recent survey by PwC—one of the world's biggest consulting firms—found that 63 out of every 100 businesses in East Africa had experienced theft or fraud, compared to only 46 out of 100 worldwide. That means businesses in this region face this challenge more often than most other places.
+The problem was bigger than her small studio. A recent survey by PwC (one of the world's biggest consulting firms) found that 63 out of every 100 businesses in East Africa had experienced theft or fraud, compared to only 46 out of 100 worldwide. That means businesses in this region face this challenge more often than most other places.
 
-Even the biggest stores have struggled. Nakumatt, once Kenya's largest supermarket chain, closed its doors in 2019—partly because of missing stock worth over $100 million. Tuskys, another giant with more than 6,000 employees, was losing over 100 million Kenyan shillings every single month because of employee theft before it too had to shut down.
+Even the biggest stores have struggled. Nakumatt, once Kenya's largest supermarket chain, closed its doors in 2019, partly because of missing stock worth over $100 million. Tuskys, another giant with more than 6,000 employees, was losing over 100 million Kenyan shillings every single month because of employee theft before it too had to shut down.
 
-## 3 — What did Boina choose to do?
+## 3: What did Boina choose to do?
 
-Rather than try to fix things by herself, Boina made a brave choice: she decided to close Waxaholic Studio in October 2025. "I trusted them," she said. "It's two rooms and a reception—how do you mess that up?"
+Rather than try to fix things by herself, Boina made a brave choice: she decided to close Waxaholic Studio in October 2025. "I trusted them," she said. "It's two rooms and a reception. How do you mess that up?"
 
 Instead of staying quiet about what happened, she shared her story on TikTok and X (which used to be called Twitter), hoping other business owners could learn from her experience. Her video got nearly one million views, and hundreds of other Kenyan entrepreneurs wrote back to say they had faced the same problem.
 
 ## Try this at home
 
-Next time you run a lemonade stand or start a small project with friends, try this rule: **check, then trust**. Write down who is responsible for each job, take turns being the "money checker," and always count what you earn together at the end of the day. That way, everyone knows the money is safe—and everyone learns how teamwork works.
+Next time you run a lemonade stand or start a small project with friends, try this rule: **check, then trust**. Write down who is responsible for each job, take turns being the "money checker," and always count what you earn together at the end of the day. That way, everyone knows the money is safe, and everyone learns how teamwork works.
 
 ## Fun Fact
 
@@ -45,6 +45,6 @@ Kenya is known as the "Silicon Savannah" because it has become one of Africa's b
 
 ## Sources
 
-1. BBC News — "How employee theft is hurting small businesses in Africa"
-2. Wikipedia — Nakumatt (Kenyan supermarket chain that closed in 2019)
-3. Wikipedia — Tuskys (Kenyan supermarket chain with over 6,000 employees)
+1. BBC News: "How employee theft is hurting small businesses in Africa"
+2. Wikipedia: Nakumatt (Kenyan supermarket chain that closed in 2019)
+3. Wikipedia: Tuskys (Kenyan supermarket chain with over 6,000 employees)

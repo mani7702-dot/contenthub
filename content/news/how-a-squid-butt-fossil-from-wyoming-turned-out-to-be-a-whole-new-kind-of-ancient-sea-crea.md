@@ -13,27 +13,27 @@ image_caption: "Photo: Wikimedia Commons"
 
 ## A fossil that stuck out like a sore thumb
 
-Imagine you are looking through thousands of identical fossils, when suddenly one jumps out at you — like finding a big red marble in a jar of green ones. That is exactly what happened to Bill Wahl, a paleontologist in Wyoming, when he picked up a belemnite fossil that looked nothing like the others.
+Imagine you are looking through thousands of identical fossils, when suddenly one jumps out at you, like finding a big red marble in a jar of green ones. That is exactly what happened to Bill Wahl, a paleontologist in Wyoming, when he picked up a belemnite fossil that looked nothing like the others.
 
-Belemnites are ancient cousins of today's squid and cuttlefish. They swam the seas 160 million years ago, during the time of the dinosaurs. Most of their fossils are simple — a small, bullet-shaped chunk that paleontologists call a "rostrum" (that is the hard, internal part, kind of like a squid's pen). People who find lots of them in Wyoming have a funny nickname: "squid butts."
+Belemnites are ancient cousins of today's squid and cuttlefish. They swam the seas 160 million years ago, during the time of the dinosaurs. Most of their fossils are simple: a small, bullet-shaped chunk that paleontologists call a "rostrum" (that is the hard, internal part, kind of like a squid's pen). People who find lots of them in Wyoming have a funny nickname: "squid butts."
 
-But this one fossil was different. It was short and fat — more like a stubby cigar — and that made Wahl suspect he had found something special.
+But this one fossil was different. It was short and fat, more like a stubby cigar, and that made Wahl suspect he had found something special.
 
 ## The fattest "squid butt" ever found
 
-After measuring the fossil carefully, Wahl and his team realized they really were looking at something new. The fossil's rostrum is about 10 centimeters (4 inches) long, but it is a whopping 6 centimeters (2.4 inches) wide. That makes it the **thickest belemnite fossil ever discovered** — scientists estimate the whole living animal (arms and all) would have been about 60 centimeters, or two feet, long.
+After measuring the fossil carefully, Wahl and his team realized they really were looking at something new. The fossil's rostrum is about 10 centimeters (4 inches) long, but it is a whopping 6 centimeters (2.4 inches) wide. That makes it the **thickest belemnite fossil ever discovered**: scientists estimate the whole living animal (arms and all) would have been about 60 centimeters, or two feet, long.
 
 To understand how unusual that shape is, think of a typical belemnite rostrum: it is long and skinny, like a pencil. This one is short and chunky, like a fat magic marker.
 
-The team used **CT scanning** (the same kind doctors use, but for fossils) to look inside the rock without breaking it. The 3D scans showed details no one had ever seen before — and they confirmed this was a creature nobody knew existed.
+The team used **CT scanning** (the same kind doctors use, but for fossils) to look inside the rock without breaking it. The 3D scans showed details no one had ever seen before, and they confirmed this was a creature nobody knew existed.
 
 ## A creature from a "lost" family
 
-Here is where it gets exciting: the CT scans revealed that this belemnite belonged to a family of sea creatures that scientists thought had gone extinct millions of years earlier. Finding a member of a "lost" family alive and well in the fossil record is like finding a passenger pigeon in modern times — it shouldn't be there, but there it is!
+Here is where it gets exciting: the CT scans revealed that this belemnite belonged to a family of sea creatures that scientists thought had gone extinct millions of years earlier. Finding a member of a "lost" family alive and well in the fossil record is like finding a passenger pigeon in modern times: it shouldn't be there, but there it is!
 
 "This one is unlike anything I have ever seen!" said Jessica Lippincott, a Wyoming paleontologist on the team. "After years of finding the same kind of belemnite fossils, this creature proves we are still discovering new species all the time."
 
-The creature has been given the scientific name **Wyoteuthis linsterorum** — "Wyoteuthis" means "a squid from Wyoming," and the long species name honors Cliff Linster, the fossil collector who found the second specimen nearly 30 years after the first was discovered.
+The creature has been given the scientific name **Wyoteuthis linsterorum**: "Wyoteuthis" means "a squid from Wyoming," and the long species name honors Cliff Linster, the fossil collector who found the second specimen nearly 30 years after the first was discovered.
 
 ## Why we keep finding new things
 

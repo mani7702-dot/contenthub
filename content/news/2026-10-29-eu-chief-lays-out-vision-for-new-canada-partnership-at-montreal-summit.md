@@ -16,7 +16,7 @@ On October 29 and 30, 2026, world leaders gathered in Montreal for a historic tw
 
 ## 1. A New Kind of Friendship Across the Atlantic
 
-Von der Leyen described the proposed relationship as one that "comes close to membership than anything we have done before." This would not be full EU membership — instead, Canada would become an "associate" partner, open only to a few of Europe's closest friends outside the continent. The partnership would focus on aligning policies, working together on research and innovation, and building shared resilience in uncertain times.
+Von der Leyen described the proposed relationship as one that "comes close to membership than anything we have done before." This would not be full EU membership. Instead, Canada would become an "associate" partner, open only to a few of Europe's closest friends outside the continent. The partnership would focus on aligning policies, working together on research and innovation, and building shared resilience in uncertain times.
 
 Canada's Prime Minister Mark Carney, who launched the initiative with a speech to the European Parliament in Strasbourg last month, welcomed the deepening ties. At a business forum on the sidelines of the summit, the two leaders joined forces with industry leaders from both sides of the Atlantic to explore new collaboration opportunities.
 
@@ -30,7 +30,7 @@ According to the official statement from the Canadian Prime Minister's office, t
 - **Student and youth exchanges**, making it easier for young people to study and work across the Atlantic.
 - **Research partnerships** in cutting-edge fields like artificial intelligence and quantum computing.
 
-Importantly, Canadian officials confirmed that under this proposal, Canada would not pay the same membership fees as regular EU members. Instead, the focus is on mutual benefit — what Canada and Europe can achieve together.
+Importantly, Canadian officials confirmed that under this proposal, Canada would not pay the same membership fees as regular EU members. Instead, the focus is on mutual benefit: what Canada and Europe can achieve together.
 
 ## 3. Challenges and Concerns
 
@@ -38,7 +38,7 @@ The vision is not without its challenges. Some EU member states, including Germa
 
 Additionally, the timing of the summit coincides with political transitions in both North America and Europe. Analysts note that both sides are eager to finalize agreements before upcoming elections that could shift priorities on either side of the Atlantic.
 
-**Fun fact:** The Canada-EU Comprehensive Economic and Trade Agreement (CETA) was signed back in 2016, but this new partnership could go far beyond trade — potentially creating the closest economic and diplomatic relationship between the EU and any non-European country.
+**Fun fact:** The Canada-EU Comprehensive Economic and Trade Agreement (CETA) was signed back in 2016, but this new partnership could go far beyond trade, potentially creating the closest economic and diplomatic relationship between the EU and any non-European country.
 
 **A closer look:** As Prime Minister Carney put it, "What matters is the difference it will make to the lives of Canadians." From energy to education, from defense to digital innovation, this summit is writing the next chapter of a transatlantic friendship that is adapting to our changing world.
 
@@ -46,6 +46,6 @@ Additionally, the timing of the summit coincides with political transitions in b
 
 ## Sources
 
-1. BBC News — "EU chief lays out vision for new Canada partnership at Montreal summit" ([link](https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo))
-2. Prime Minister of Canada — Official press release on the Canada-EU Summit in Montreal ([link](https://www.pm.gc.ca/en/news/news-releases/2026/10/25/prime-minister-carney-host-canada-european-union-summit-montreal))
-3. Brussels Morning — "Mark Carney & Ursula von der Leyen EU Summit Montreal 2026" ([link](https://brusselsmorning.com/mark-carney-and-ursula-von-der-leyen-summit-in-montreal-2026/106188/))
+1. BBC News: "EU chief lays out vision for new Canada partnership at Montreal summit" ([link](https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo))
+2. Prime Minister of Canada: Official press release on the Canada-EU Summit in Montreal ([link](https://www.pm.gc.ca/en/news/news-releases/2026/10/25/prime-minister-carney-host-canada-european-union-summit-montreal))
+3. Brussels Morning: "Mark Carney & Ursula von der Leyen EU Summit Montreal 2026" ([link](https://brusselsmorning.com/mark-carney-and-ursula-von-der-leyen-summit-in-montreal-2026/106188/))

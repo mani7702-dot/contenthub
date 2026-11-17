@@ -3,7 +3,7 @@ title: "A telescope named after 'the mother of Hubble"
 date: 2026-10-15
 category: "Space"
 read: "3 min"
-excerpt: "NASA's newest space telescope made TIME's list of the best inventions of 2026 — and it carries the name of a woman who fought to be in astronomy at all."
+excerpt: "NASA's newest space telescope made TIME's list of the best inventions of 2026, and it carries the name of a woman who fought to be in astronomy at all."
 tags: "space, telescopes, science"
 board: news
 image: assets/images/a-telescope-named-after-the-mother-of-hubble.jpg
@@ -21,10 +21,10 @@ Naming the new telescope after her means her name now flies above the one she he
 
 ## What it will do
 
-The Roman telescope is designed to take enormous, detailed pictures of huge stretches of the sky — wider views than Hubble manages. Scientists plan to use it to study dark energy, the mysterious force that seems to be pushing the universe apart, and to look for planets far from home.
+The Roman telescope is designed to take enormous, detailed pictures of huge stretches of the sky, wider views than Hubble manages. Scientists plan to use it to study dark energy, the mysterious force that seems to be pushing the universe apart, and to look for planets far from home.
 
 ## The engineering check
 
 This month NASA also reported that the telescope's team finished a long stretch of tests to fine-tune the observatory's vision and get its main instrument ready for regular work. Space telescopes cannot be serviced easily once they are up there, so getting everything right before launch is the whole game.
 
-**Source:** [NASA — TIME Best Inventions of 2026](https://science.nasa.gov/blogs/honors/2026/10/15/time-best-inventions-of-2026/)
+**Source:** [NASA: TIME Best Inventions of 2026](https://science.nasa.gov/blogs/honors/2026/10/15/time-best-inventions-of-2026/)

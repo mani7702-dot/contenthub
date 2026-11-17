@@ -11,7 +11,7 @@ image_caption: "Photo: Wikimedia Commons"
 ---
 # How did sitcoms launch the biggest music careers of the century?
 
-You might think acting and singing are totally different jobs. But for more than 60 years, TV sitcoms have been secret launchpads for some of today's biggest pop stars. Here are 10 stars who started on a television set — and ended up topping the Billboard charts.
+You might think acting and singing are totally different jobs. But for more than 60 years, TV sitcoms have been secret launchpads for some of today's biggest pop stars. Here are 10 stars who started on a television set, and ended up topping the Billboard charts.
 
 ## 1. Zendaya: From Shake It Up to "Replay"
 
@@ -19,11 +19,11 @@ Before Zendaya won Emmys for *Euphoria* and starred in Marvel blockbusters, she 
 
 ## 2. Sabrina Carpenter: Girl Meets World to "Espresso"
 
-Sabrina Carpenter played Maya Hart, the wise-cracking best friend, on *Girl Meets World* (2014-2017) — a spin-off of *Boy Meets World*. While the show aired, she released EPs and albums on Disney Records. But her real breakthrough came later: her 2024 album *Short n' Sweet* debuted at number one on the Billboard 200, and "Espresso" became a global smash. The sitcom gave her a start, but she spent years growing into her own sound.
+Sabrina Carpenter played Maya Hart, the wise-cracking best friend, on *Girl Meets World* (2014-2017), a spin-off of *Boy Meets World*. While the show aired, she released EPs and albums on Disney Records. But her real breakthrough came later: her 2024 album *Short n' Sweet* debuted at number one on the Billboard 200, and "Espresso" became a global smash. The sitcom gave her a start, but she spent years growing into her own sound.
 
 ## 3. Miley Cyrus: Hannah Montana's real identity
 
-Miley Cyrus lived a double life on *Hannah Montana* (2006-2011) — playing a normal teenager who was secretly a famous pop star. The show was so popular that the fictional Hannah Montana released real albums and toured in concert. Miley's first solo album without the mask, *Breakout*, came in 2008. She later evolved through pop, rock, and country, with hits like "Party in the U.S.A." and "Flowers."
+Miley Cyrus lived a double life on *Hannah Montana* (2006-2011), playing a normal teenager who was secretly a famous pop star. The show was so popular that the fictional Hannah Montana released real albums and toured in concert. Miley's first solo album without the mask, *Breakout*, came in 2008. She later evolved through pop, rock, and country, with hits like "Party in the U.S.A." and "Flowers."
 
 ## 4. Ariana Grande: Victorious to number one
 
@@ -39,7 +39,7 @@ Television gives performers something record labels can't buy: an audience that 
 
 ## Fun Fact
 
-The Monkees (1966-1970) were created by TV producers who wanted a Beatles-style band — but the show and the music were planned together from the start. Their TV songs became real hits, and the band eventually fought for creative control over their own music.
+The Monkees (1966-1970) were created by TV producers who wanted a Beatles-style band, but the show and the music were planned together from the start. Their TV songs became real hits, and the band eventually fought for creative control over their own music.
 
 ## Try this at home
 

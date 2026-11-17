@@ -3,7 +3,7 @@ title: "How Are Canada and the EU Planning an Ever-Closer Partnership at Their M
 date: 2026-10-29T23:06:00+05:30
 category: world
 read: 4 min
-excerpt: "At a summit in Montreal, European Commission President Ursula von der Leyen and Canadian Prime Minister Mark Carney laid out a bold vision for an 'associate membership' partnership — the EU's closest relationship with any country outside Europe."
+excerpt: "At a summit in Montreal, European Commission President Ursula von der Leyen and Canadian Prime Minister Mark Carney laid out a bold vision for an 'associate membership' partnership, the EU's closest relationship with any country outside Europe."
 tags:
   - canada-eu-relations
   - montreal-summit
@@ -18,7 +18,7 @@ image_caption: "A Wikimedia Commons photo showing the Canadian and European Unio
 
 On Thursday and Friday this week, world leaders gathered in Montreal for a two-day Canada-EU summit. At the center of the talks were European Commission President Ursula von der Leyen and Canadian Prime Minister Mark Carney, who both said they want to bring their countries' relationship to the **"highest level possible."**
 
-The big idea on the table? A special kind of partnership that stops just short of full membership — what von der Leyen called "associate membership." It's a status that has **never been offered before** to any country outside Europe.
+The big idea on the table? A special kind of partnership that stops just short of full membership: what von der Leyen called "associate membership." It's a status that has **never been offered before** to any country outside Europe.
 
 ## 2. What Would "Associate Membership" Mean?
 
@@ -33,7 +33,7 @@ The idea is open "only to our closest partners outside of Europe who are ready t
 
 ## 3. Not Everyone Agrees on the Name
 
-Here's where it gets interesting: not all EU countries are happy with the term "associate member." Germany, in particular, has pushed back. German Chancellor Friedrich Merz preferred the phrase "Alliance for the Future" instead — without mentioning the associate membership status at all.
+Here's where it gets interesting: not all EU countries are happy with the term "associate member." Germany, in particular, has pushed back. German Chancellor Friedrich Merz preferred the phrase "Alliance for the Future" instead, without mentioning the associate membership status at all.
 
 The disagreement is over **naming**. Some EU diplomats worry that giving Canada a special status might set a precedent for other countries hoping to join. After behind-the-scenes negotiations, EU countries settled on softer language, including "even closer association, short of full membership."
 
@@ -53,7 +53,7 @@ The summit is expected to produce new agreements on:
 
 ## Fun Fact
 
-The last time Canada and the EU updated their major trade deal (CETA, signed in 2017), it took **seven years** of negotiations. The new partnership talks are moving much faster — partly because both sides already know each other well and share many values.
+The last time Canada and the EU updated their major trade deal (CETA, signed in 2017), it took **seven years** of negotiations. The new partnership talks are moving much faster, partly because both sides already know each other well and share many values.
 
 A new digital trade deal is expected to be finalized in Montreal, making it easier for businesses and families to move goods, services, and ideas across the Atlantic.
 

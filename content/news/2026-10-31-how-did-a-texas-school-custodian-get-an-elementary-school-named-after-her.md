@@ -4,7 +4,7 @@ date: 2026-10-31
 time: "00:05 IST"
 category: "News"
 read: 3 min
-excerpt: "For 39 years, Marilyn Hampton kept a Texas school district running — and quietly did far more than clean. When a brand-new elementary school needed a name, the community chose hers."
+excerpt: "For 39 years, Marilyn Hampton kept a Texas school district running, and quietly did far more than clean. When a brand-new elementary school needed a name, the community chose hers."
 tags: [heroes, community, education, kindness, texas]
 board: news
 image: assets/images/how-did-a-texas-school-custodian-get-an-elementary-school-named-after-her.jpg
@@ -13,7 +13,7 @@ image_caption: "Photo: Larry D. Moore / CC BY 4.0 / Wikimedia Commons"
 
 Some honors arrive in shiny packages. Others arrive when someone hands you a red carpet and asks you to unroll it.
 
-That is exactly what happened to Marilyn Hampton, a custodian who spent 39 years working for the Aubrey Independent School District in Texas. At an October school board meeting, she was invited to speak about a routine matter. Instead, the superintendent, Dr. Shannon Saylor, asked her to roll out a carpet — and stitched into the fabric were the words "Marilyn Hampton Elementary School."
+That is exactly what happened to Marilyn Hampton, a custodian who spent 39 years working for the Aubrey Independent School District in Texas. At an October school board meeting, she was invited to speak about a routine matter. Instead, the superintendent, Dr. Shannon Saylor, asked her to roll out a carpet, and stitched into the fabric were the words "Marilyn Hampton Elementary School."
 
 ## A surprise she never saw coming
 

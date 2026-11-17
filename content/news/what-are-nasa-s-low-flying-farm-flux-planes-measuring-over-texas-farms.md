@@ -3,11 +3,11 @@ title: "What are NASA's low-flying 'farm-flux' planes measuring over Texas farms
 date: 2026-10-21
 category: "Space"
 read: "3 min"
-excerpt: "NASA is flying a small passenger jet low over farms near Amarillo, Texas, to sniff out invisible gases — methane, ammonia, and ozone — rising from crops and livestock. The FarmFlux mission helps scientists figure out how agriculture and weather affect each other."
+excerpt: "NASA is flying a small passenger jet low over farms near Amarillo, Texas, to sniff out invisible gases (methane, ammonia, and ozone) rising from crops and livestock. The FarmFlux mission helps scientists figure out how agriculture and weather affect each other."
 tags: "space, nasa, earth, agriculture, atmosphere, flying"
 board: news
 image: assets/images/what-are-nasa-s-low-flying-farm-flux-planes-measuring-over-texas-farms.jpg
-image_caption: "Photo: Wikimedia Commons — Agricultural aircraft"
+image_caption: "Photo: Wikimedia Commons, Agricultural aircraft"
 ---
 ## Why fly a plane just above the crops?
 
@@ -19,11 +19,11 @@ The plane is called the **FarmFlux** mission, and it is studying something easy 
 
 Farm fields and animal farms are the United States' biggest sources of three invisible gases that scientists care about:
 
-1. **Methane (CH4)** — mostly from livestock and rotting plant matter. It traps a lot of heat, even though there is less of it than carbon dioxide.
-2. **Ammonia (NH3)** — released when fertilizer and manure break down. It floats into the air and can turn into tiny particles that affect clouds and air quality.
-3. **Ozone-forming gases** — chemical reactions in the air create ground-level ozone, a component of smog.
+1. **Methane (CH4)**: mostly from livestock and rotting plant matter. It traps a lot of heat, even though there is less of it than carbon dioxide.
+2. **Ammonia (NH3)**: released when fertilizer and manure break down. It floats into the air and can turn into tiny particles that affect clouds and air quality.
+3. **Ozone-forming gases**: chemical reactions in the air create ground-level ozone, a component of smog.
 
-The FarmFlux plane has more than a dozen special sensors bolted inside, each tuned to catch a different gas. Flying low — much lower than a commercial airliner — lets the sensors get close to the source, the way you can smell a flower better when you lean in instead of standing across the room.
+The FarmFlux plane has more than a dozen special sensors bolted inside, each tuned to catch a different gas. Flying low (much lower than a commercial airliner) lets the sensors get close to the source, the way you can smell a flower better when you lean in instead of standing across the room.
 
 ## How the data helps weather and climate forecasts
 
@@ -33,15 +33,15 @@ By stitching together thousands of low altitude snapshots, FarmFlux gives scient
 
 ## A second set of flights is coming next spring
 
-From March to July 2027, NASA plans a second campaign with a much bigger aircraft — the **P-3 Orion**, a four-engine turboprop that has flown hurricane research for decades. This time the grid shifts north, over California's Central Valley and the American Midwest, where most of the country's fruits, nuts, and grains grow. If the Amarillo flights answer "what comes off a Texas cattle feedlot," the 2027 flights will answer "what rides the wind out of California's Central Valley."
+From March to July 2027, NASA plans a second campaign with a much bigger aircraft, the **P-3 Orion**, a four-engine turboprop that has flown hurricane research for decades. This time the grid shifts north, over California's Central Valley and the American Midwest, where most of the country's fruits, nuts, and grains grow. If the Amarillo flights answer "what comes off a Texas cattle feedlot," the 2027 flights will answer "what rides the wind out of California's Central Valley."
 
 ## Try this at home
 
-Stand at one end of a room holding a squeeze bottle of water and a small fan. Spray a fine mist toward the fan and watch how the mist bends and spreads. That is a rough model of what the FarmFlux sensors see: invisible gases rising and then being steered by moving air — except over miles of farm fields instead of across your kitchen.
+Stand at one end of a room holding a squeeze bottle of water and a small fan. Spray a fine mist toward the fan and watch how the mist bends and spreads. That is a rough model of what the FarmFlux sensors see: invisible gases rising and then being steered by moving air, except over miles of farm fields instead of across your kitchen.
 
 ## Fun fact
 
-The name "FarmFlux" is a mashup of "farm" and "flux" — as in the rate at which gases move between the land and the air. Scientists call it the "air-to-land flux," and it is one of the least-known numbers in climate science, despite agriculture being the single largest U.S. source of methane and ammonia.
+The name "FarmFlux" is a mashup of "farm" and "flux": as in the rate at which gases move between the land and the air. Scientists call it the "air-to-land flux," and it is one of the least-known numbers in climate science, despite agriculture being the single largest U.S. source of methane and ammonia.
 
 ## Sources
 
