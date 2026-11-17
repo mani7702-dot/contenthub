@@ -297,6 +297,8 @@ def footer_html(full=False):
       <div>
         <h4>About</h4>
         <a href="about.html">About</a>
+        <a href="https://mani7702-dot.github.io/our-world/">Our World</a>
+        <a href="https://www.youtube.com/@tinythinkersam">Tiny Thinkers (YouTube)</a>
         <a href="privacy.html">Privacy</a>
         <a href="all-articles.html">All Articles</a>
       </div>
