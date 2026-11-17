@@ -807,6 +807,24 @@ def render_article_html(a):
     page_html = page_html.replace("<!--CONTENTHUB-CANONICAL-->", esca(canonical))
     page_html = page_html.replace("<!--CONTENTHUB-OGIMAGE-->", esca(ogimg))
     page_html = page_html.replace('<meta name="robots" content="noindex,follow">\n', "")
+
+    # Article JSON-LD (structured data) — injected before </head>.
+    jsonld_article = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": a["title"],
+        "description": desc,
+        "datePublished": a["date"],
+        "dateModified": a["date"],
+        "articleSection": a.get("tag") or "News",
+        "author": {"@type": "Organization", "name": "ContentHub"},
+        "publisher": {"@type": "Organization", "name": "ContentHub", "url": SITE_BASE},
+        "mainEntityOfPage": {"@type": "WebPage", "@id": canonical},
+        "image": ogimg,
+    }
+    ld = ('<script type="application/ld+json">%s</script>\n'
+          % json.dumps(jsonld_article, ensure_ascii=False))
+    page_html = page_html.replace("</head>", ld + "</head>", 1)
     return monetize.inject(page_html)
 
 
